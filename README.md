@@ -2,7 +2,16 @@
 
 A curated list of awesome open source Flutter apps.
 
+All the projects added in this project are featured in [fluttergems.dev](fluttergems.dev)
+
+![Screenshot 2024-04-27 at 2 23 09 PM](https://github.com/fluttergems/awesome-open-source-flutter-apps/assets/1382619/bbc92601-cf6b-427b-bfad-fc4209568e5f)
+
+
 ## How to add a new project?
+
+We are currently working on making the list more informative and streamlining the process. 
+
+Meanwhile, the process of adding a new project is as follows 👇
 
 **Step 1** - Go to [`projects.txt`](https://github.com/fluttergems/awesome-open-source-flutter-apps/blob/master/projects.txt)
 
