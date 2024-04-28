@@ -198,3 +198,4 @@ https://github.com/ente-io/ente
 https://github.com/Afroz-Shaikh/Gauges_Showcase
 https://github.com/YumNumm/EQMonitor
 https://github.com/HemantKArya/BloomeeTunes
+https://github.com/jmshrv/finamp
