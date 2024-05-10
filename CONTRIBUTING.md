@@ -19,3 +19,5 @@ In case you are new to the open source ecosystem, we would be more than happy to
 ## Bug fixes/ Improvements
 
 You can also send across a PR fixing bugs, typos, correct App name, etc.
+
+### Do not raise issues or send PRs for changing issue template, adding header-footer, badges or any buttons. 
