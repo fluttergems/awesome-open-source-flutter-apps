@@ -15,3 +15,7 @@ You can contribute to this project by adding real world open source Flutter apps
 ### I have not contributed to any open source project before. Will I get any guidance?
 
 In case you are new to the open source ecosystem, we would be more than happy to guide you through the entire process. Just join our [Discord server](https://bit.ly/heyfoss) and drop a message in relevant channel.
+
+## Bug fixes/ Improvements
+
+You can also send across a PR fixing bugs, typos, correct App name, etc.
