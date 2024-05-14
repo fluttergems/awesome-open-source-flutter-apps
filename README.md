@@ -48,6 +48,8 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | log_book                   | [Link](https://github.com/DonnC/log_book)                           | An internship log book desktop app |
 | pomodoro-session           | [Link](https://github.com/jashdubal/pomodoro-session)               | Helps users track work sessions using the Pomodoro Technique |
 | pmdr                       | [Link](https://github.com/aricodeine/pmdr)                          | A Pomodoro App |
+| InnerQuest                 | [Link](https://github.com/Kushalrock/innerquest)                   | InnerQuest is an app designed to help you embark on a journey of self-discovery, personal growth, and increased productivity. This Flutter-based application offers a unique blend of features that are tailored to your individual personality type. |
+
 
 ### Finance
 
