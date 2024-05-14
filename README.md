@@ -92,6 +92,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | pstube           | [Link](https://github.com/prateekmedia/pstube)             | Watch and download videos without ads |
 | Blink Comparison | [Link](https://github.com/proninyaroslav/blink-comparison) | Simplifies comparing photos of tamper-evident seals and patterns using your eyes |
 | ente             | [Link](https://github.com/ente-io/ente)                    | Fully open source, End to End Encrypted alternative to Google Photos and Apple Photos |
+| Flutter-photo-manager | [Link](https://github.com/fluttercandies/flutter_photo_manager)    | A Flutter plugin that provides assets abstraction management APIs without UI integration, you can get assets (image/video/audio) on Android, iOS, macOS and OpenHarmony. |
 
 ### Games & Fun
 
