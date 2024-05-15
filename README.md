@@ -135,7 +135,7 @@ No projects.
 |:-----------|:------|:-------------|
 | Boobook         | [Link](https://github.com/julienlebren/Boobook)     | Your library management assistant at school!      |
 | FlutterEbookApp | [Link](https://github.com/JideGuru/FlutterEbookApp) | A simple Flutter app to Read and Download eBooks. |
-| Explr | [Link](https://github.com/Project-Easter/Flutter-UI) | This app aims at providing a platform for users where they can know what their friends are reading and exchange books with them, along with knowing which book is the talk of the town. |
+| Explr | [Link](https://github.com/Project-Easter/Flutter-UI) | Explr provides a platform for users to know what their friends are reading and exchange books with them, along with knowing which book is the talk of the town. |
 
 ### Anime & Manga
 
