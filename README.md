@@ -67,7 +67,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | HADWIN                   | [Link](https://github.com/brownboycodes/HADWIN)                  | a prototype of a fund transfer platform |
 | Paisa                    | [Link](https://github.com/RetroMusicPlayer/Paisa)                | Expense manager for Android with Material Design |
 | c-breez                  | [Link](https://github.com/breez/c-breez)                         | c-Breez is a migration of Breez mobile app to the Greenlight infrastructure. |
-| Sossoldi                  | [Link](https://github.com/RIP-Comm/sossoldi)                         | Sossoldi is a free and open source wealth management / personal finance / Net Worth tracking app |
+| Sossoldi | [Link](https://github.com/RIP-Comm/sossoldi) | Sossoldi is a free and open source wealth management / personal finance / Net Worth tracking app |
 
 ### Lifestyle
 
