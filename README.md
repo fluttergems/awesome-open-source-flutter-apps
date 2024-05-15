@@ -67,7 +67,9 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | HADWIN                   | [Link](https://github.com/brownboycodes/HADWIN)                  | a prototype of a fund transfer platform |
 | Paisa                    | [Link](https://github.com/RetroMusicPlayer/Paisa)                | Expense manager for Android with Material Design |
 | c-breez                  | [Link](https://github.com/breez/c-breez)                         | c-Breez is a migration of Breez mobile app to the Greenlight infrastructure. |
+| Natrium | [Link](https://github.com/appditto/natrium_wallet_flutter) | A Nano cryptocurrency wallet app to manage your Nano funds |
 | Sossoldi | [Link](https://github.com/RIP-Comm/sossoldi) | Sossoldi is a free and open source wealth management / personal finance / Net Worth tracking app |
+
 
 ### Lifestyle
 
@@ -76,6 +78,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | voiceliner | [Link](https://github.com/maxkrieger/voiceliner) | Braindump better. |
 | medito-app | [Link](https://github.com/meditohq/medito-app)   | The Medito app is a 100% free meditation app. The app is available on Android and iOS. |
 | InnerQuest | [Link](https://github.com/Kushalrock/innerquest) | InnerQuest is an app designed to help you embark on a journey of self-discovery, personal growth, and increased productivity. |
+| Reflectly | [Link](https://github.com/sagarshende23/Reflectly-Flutter-App) | A journaling app |
 
 ### Business
 
@@ -160,7 +163,7 @@ No projects.
 |:-----------|:------|:-------------|
 | Flutter-Steps-Tracker      | [Link](https://github.com/TarekAlabd/Flutter-Steps-Tracker)      | It's an open source project for the steps tracking (Pedometer) built with Flutter. |
 | Just Another Workout Timer | [Link](https://github.com/blockbasti/just_another_workout_timer) | A simple timer for your workouts, built with Flutter! |
-
+| Watermaniac | [Link](https://github.com/artur-ios-dev/watermaniac) | A hydration tracking app that helps you track the amount of water you drink |
 ### Medical
 
 | Project    | Repo  | Description  |
@@ -244,7 +247,7 @@ No projects.
 | tv-randshow              | [Link](https://github.com/deandreamatias/tv-randshow) | App to choose a random TV show episode  |
 | pilipala                 | [Link](https://github.com/guozhigq/pilipala) | PiliPala is a third-party BiliBili client developed using Flutter. |
 | namida                   | [Link](https://github.com/namidaco/namida) | A Beautiful and Feature-rich Music & Video Player with Youtube Support |
-
+| Inkino | [Link](https://github.com/dreambuilder00/inKino-Flutter) | Inkino is a movie discovery app that allows users to explore movies playing in theaters, check showtimes, and read reviews |
 ### News & Feed
 
 | Project    | Repo  | Description  |
