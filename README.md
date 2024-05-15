@@ -68,6 +68,8 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Paisa                    | [Link](https://github.com/RetroMusicPlayer/Paisa)                | Expense manager for Android with Material Design |
 | c-breez                  | [Link](https://github.com/breez/c-breez)                         | c-Breez is a migration of Breez mobile app to the Greenlight infrastructure. |
 | Natrium | [Link](https://github.com/appditto/natrium_wallet_flutter) | A Nano cryptocurrency wallet app to manage your Nano funds |
+| Sossoldi | [Link](https://github.com/RIP-Comm/sossoldi) | Sossoldi is a free and open source wealth management / personal finance / Net Worth tracking app |
+
 
 ### Lifestyle
 
@@ -137,6 +139,7 @@ No projects.
 |:-----------|:------|:-------------|
 | Boobook         | [Link](https://github.com/julienlebren/Boobook)     | Your library management assistant at school!      |
 | FlutterEbookApp | [Link](https://github.com/JideGuru/FlutterEbookApp) | A simple Flutter app to Read and Download eBooks. |
+| Explr | [Link](https://github.com/Project-Easter/Flutter-UI) | Explr provides a platform for users to know what their friends are reading and exchange books with them, along with knowing which book is the talk of the town. |
 
 ### Anime & Manga
 
