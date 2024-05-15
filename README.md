@@ -159,7 +159,7 @@ No projects.
 |:-----------|:------|:-------------|
 | Flutter-Steps-Tracker      | [Link](https://github.com/TarekAlabd/Flutter-Steps-Tracker)      | It's an open source project for the steps tracking (Pedometer) built with Flutter. |
 | Just Another Workout Timer | [Link](https://github.com/blockbasti/just_another_workout_timer) | A simple timer for your workouts, built with Flutter! |
-| Reflectly                  | [Link](https://github.com/topics/reflectly])                     | Reflectly is a journaling app designed to help users foster a positive mindset and improve their mental well-being through daily reflections |
+| Reflectly                  | [Link](https://github.com/sagarshende23/Reflectly-Flutter-App)   | Reflectly is a journaling app designed to help users foster a positive mindset and improve their mental well-being through daily reflections |
 | Watermaniac                | [Link](https://github.com/artur-ios-dev/watermaniac)             | Watermaniac is a hydration tracking app that helps users stay hydrated throughout the day by providing reminders and tracking water intake |
 ### Medical
 
