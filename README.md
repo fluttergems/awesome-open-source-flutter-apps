@@ -196,7 +196,7 @@ No projects.
 | StudentAI             | [Link](https://github.com/Avadhkumar-geek/StudentAI)  | StudentAI is an prompt-less AI chatbot app that uses OpenAI API to help students learn more effectively. StudentAI can answer questions, provide explanations, and even generate creative content. |
 | diccon_evo            | [Link](https://github.com/tranhuudang/diccon_evo)  | Immersive chat-based vietnamese - english dictionary |
 | TubeCards             | [Link](https://github.com/friebetill/TubeCards)   | TubeCards - Cross-platform Spaced Repetition App written in Flutter |
-| Toughest              | [Link](https://github.com/MDSADABWASIM/Toughest)  | The app serves you for your interview preparation and brain exercises, it has questions and answers divided into various different categories to ease your preparation. |
+| Toughest | [Link](https://github.com/MDSADABWASIM/Toughest) | An app for interview preparation |
 
 ### Graphics & Design
 
