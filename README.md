@@ -140,6 +140,7 @@ No projects.
 | Boobook         | [Link](https://github.com/julienlebren/Boobook)     | Your library management assistant at school!      |
 | FlutterEbookApp | [Link](https://github.com/JideGuru/FlutterEbookApp) | A simple Flutter app to Read and Download eBooks. |
 | Explr | [Link](https://github.com/Project-Easter/Flutter-UI) | Explr provides a platform for users to know what their friends are reading and exchange books with them, along with knowing which book is the talk of the town. |
+| Libro | [Link](https://github.com/infiniteoverflow/Libro) |An App Built using flutter using which we can share books with people around us |
 
 ### Anime & Manga
 
@@ -386,5 +387,8 @@ No projects.
 | Rocket-Launcher-App                            | [Link](https://github.com/LiquidGalaxyLAB/Rocket-Launcher-App)  | Rocket Launch Visualizer |
 | AgroRobotSwarm-dashboard                       | [Link](https://github.com/LiquidGalaxyLAB/AgroRobotSwarm-dashboard)  | Have a better control of the lands and show the collected information of the robots   |
 | Gauges_Showcase                                | [Link](https://github.com/Afroz-Shaikh/Gauges_Showcase)  | Showcase app that demonstrates the power and flexibility of the geekyants_flutter_gauges   |
+| OpSo                                | [Link](https://github.com/andoriyaprashant/OpSo)  | OpSo is a Flutter app that provides comprehensive information about various open-source programs, including Google Summer of Code, Summer of Bitcoin, Linux Foundation, and more.   |
+
+
 
 
