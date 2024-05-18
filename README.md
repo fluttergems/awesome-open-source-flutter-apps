@@ -308,7 +308,7 @@ No projects.
 | Project    | Repo  | Description  |
 |:-----------|:------|:-------------|
 | nomdebebe | [Link](https://github.com/hamaluik/nomdebebe) | A simple, private tool to help pick a baby name. |
-| Learn | [Link](https://github.com/VaibhavCodeClub/learn) | A simple learning app built using Flutter for kids. This app is designed to provide an engaging learning experience for children, covering a wide range of topics including A-Z Alphabets with examples and pronunciation , animals and their pronunciation along with their voices.|
+| Learn | [Link](https://github.com/VaibhavCodeClub/learn) | A simple learning app for kids. |
 
 ### Wearables
 
