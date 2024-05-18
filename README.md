@@ -308,6 +308,7 @@ No projects.
 | Project    | Repo  | Description  |
 |:-----------|:------|:-------------|
 | nomdebebe | [Link](https://github.com/hamaluik/nomdebebe) | A simple, private tool to help pick a baby name. |
+| Learn | [Link](https://github.com/VaibhavCodeClub/learn) | A simple learning app for kids. |
 
 ### Wearables
 
