@@ -69,7 +69,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | c-breez                  | [Link](https://github.com/breez/c-breez)                         | c-Breez is a migration of Breez mobile app to the Greenlight infrastructure. |
 | Natrium | [Link](https://github.com/appditto/natrium_wallet_flutter) | A Nano cryptocurrency wallet app to manage your Nano funds |
 | Sossoldi | [Link](https://github.com/RIP-Comm/sossoldi) | Sossoldi is a free and open source wealth management / personal finance / Net Worth tracking app |
-| Platypus Crypto | [Link](https://github.com/Blakexx/CryptoTracker) | Platypus Crypto is an ad-free cross-platform robust solution for tracking cryptocurrency assets |
+| Platypus Crypto | [Link](https://github.com/Blakexx/CryptoTracker) | An ad-free cross-platform robust solution for tracking cryptocurrency assets |
 
 
 
