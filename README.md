@@ -199,7 +199,7 @@ No projects.
 | diccon_evo            | [Link](https://github.com/tranhuudang/diccon_evo)  | Immersive chat-based vietnamese - english dictionary |
 | TubeCards             | [Link](https://github.com/friebetill/TubeCards)   | TubeCards - Cross-platform Spaced Repetition App written in Flutter |
 | Toughest | [Link](https://github.com/MDSADABWASIM/Toughest) | An app for interview preparation |
-
+| Orientation application | [Link](https://github.com/matthewtory/trinity-orientation-2018) | An app created for Trinity College at University of Toronto. The app is acts as a companion for all first year students during orientation week |
 ### Graphics & Design
 
 No projects.
