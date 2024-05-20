@@ -239,6 +239,8 @@ No projects.
 | AuthPass Password Manager | [Link](https://github.com/authpass/authpass) | AuthPass - Password Manager based on Flutter for all platforms. Keepass 2.x (kdbx 3.x) compatible. |
 | nfsee                     | [Link](https://github.com/nfcim/nfsee) | Read your Transit/Bank/ID cards on Android/iOS phone with NFSee App |
 | Water Me                  | [Link](https://github.com/abertschi/water-me) | A simple, open and privacy friendly plant watering reminder for Android. |
+| You                       | [Link](https://github.com/MDSADABWASIM/You) | This is a simple app that makes it easy to access your personal data. You can download your data that Google, Facebook, Instagram, Twitter collects |
+
 
 ### Entertainment
 
