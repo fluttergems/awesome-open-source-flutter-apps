@@ -134,6 +134,7 @@ No projects.
 | coffee_coupon_full_system_demo | [Link](https://github.com/cybercying/coffee_coupon_full_system_demo) | Flutter/Dart template (front-end + backend database) to demonstrate a coupon management system, which is suitable for a coffeehouse chain (or any restaurant chain) to build customer loyalty. |
 | keiko_food_reviews             | [Link](https://github.com/JediPixels/keiko_food_reviews) | Keiko Food Reviews App |
 | KitchenOwl                     | [Link](https://github.com/TomBursch/kitchenowl) | KitchenOwl is a self-hosted grocery list and recipe manager. Easily add items to your shopping list before you go shopping. You can also create recipes and add items based on what you want to cook.  |
+| Flutter-Delivery-App | [Link](https://github.com/Frave07/Flutter-Delivery-App) | A  food delivery app. |
 
 ### Books
 
@@ -303,7 +304,6 @@ No projects.
 | openflutterecommerceapp | [Link](https://github.com/4seer/openflutterecommerceapp)           | Open Flutter E-commerce App |
 | flutterzon_bloc         | [Link](https://github.com/tejasbadone/flutterzon_bloc)             | Flutterzon is a full-stack e-commerce application that tries to mirror the functionality and user experience of the Amazon mobile app. |
 | flutter-woocommerce-app | [Link](https://github.com/woosignal/flutter-woocommerce-app)       | WooCommerce App template that uses Flutter. Integrated to work with WooCommerce stores, connect and create an IOS and Android app from Flutter for IOS and Android |
-| Flutter-Delivery-App    | [Link](https://github.com/Frave07/Flutter-Delivery-App)            | A delivery app made using flutter |
 
 ### AR & VR
 
