@@ -260,7 +260,7 @@ No projects.
 | spacex-go          | [Link](https://github.com/jesusrp98/spacex-go)           | Simple yet powerful, open-source SpaceX launch tracker.     |
 | fluent-reader-lite | [Link](https://github.com/yang991178/fluent-reader-lite) | Simplistic mobile RSS client built with Flutter             |
 | RSSAid             | [Link](https://github.com/LeetaoGoooo/RSSAid)            | RSSAid is a complementary app for RSSHub built with Flutter |
-| FlutterNewsApp     | [Link](https://github.com/theindianappguy/FlutterNewsApp)| A Flutter news app which utilizes NewsApi Org               |
+| FlutterNewsApp | [Link](https://github.com/theindianappguy/FlutterNewsApp)| A Flutter news app which utilizes NewsApi Org. |
 
 ### Chat & Messaging
 
