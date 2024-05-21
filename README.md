@@ -167,6 +167,8 @@ No projects.
 | Flutter-Steps-Tracker      | [Link](https://github.com/TarekAlabd/Flutter-Steps-Tracker)      | It's an open source project for the steps tracking (Pedometer) built with Flutter. |
 | Just Another Workout Timer | [Link](https://github.com/blockbasti/just_another_workout_timer) | A simple timer for your workouts, built with Flutter! |
 | Watermaniac | [Link](https://github.com/artur-ios-dev/watermaniac) | A hydration tracking app that helps you track the amount of water you drink |
+| FlutterBMI | [Link](https://github.com/jaysavsani07/FlutterBMI) | A BMI calculator app |
+
 ### Medical
 
 | Project    | Repo  | Description  |
