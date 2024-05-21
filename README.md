@@ -301,6 +301,7 @@ No projects.
 | openflutterecommerceapp | [Link](https://github.com/4seer/openflutterecommerceapp)           | Open Flutter E-commerce App |
 | flutterzon_bloc         | [Link](https://github.com/tejasbadone/flutterzon_bloc)             | Flutterzon is a full-stack e-commerce application that tries to mirror the functionality and user experience of the Amazon mobile app. |
 | flutter-woocommerce-app | [Link](https://github.com/woosignal/flutter-woocommerce-app)       | WooCommerce App template that uses Flutter. Integrated to work with WooCommerce stores, connect and create an IOS and Android app from Flutter for IOS and Android |
+| Grocery-App             | [Link](https://github.com/Widle-Studio/Grocery-App)                | Flutter Grocery Shopping App (Mobile App, Web App)  |
 
 ### AR & VR
 
