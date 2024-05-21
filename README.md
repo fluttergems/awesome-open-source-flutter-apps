@@ -272,6 +272,7 @@ No projects.
 | snack_chat           | [Link](https://github.com/Kennygunderman/snack_chat)       | Spicy chatting app  |
 | zulip-flutter        | [Link](https://github.com/zulip/zulip-flutter)             | Future Zulip client using Flutter  |
 | OpenPeerChat-flutter | [Link](https://github.com/AOSSIE-Org/OpenPeerChat-flutter) | Sending/relaying messages to nearby devices until the destination is reached, instead of relying on a central server. |
+| flutter-chat-demo | [Link](https://github.com/duytq94/flutter-chat-demo) | A chat app made with Flutter and Firebase that supports login with google, and chat functionalities. |
 
 ### Social Networking
 
