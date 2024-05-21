@@ -257,6 +257,7 @@ No projects.
 | pilipala                 | [Link](https://github.com/guozhigq/pilipala) | PiliPala is a third-party BiliBili client developed using Flutter. |
 | namida                   | [Link](https://github.com/namidaco/namida) | A Beautiful and Feature-rich Music & Video Player with Youtube Support |
 | Inkino | [Link](https://github.com/dreambuilder00/inKino-Flutter) | Inkino is a movie discovery app that allows users to explore movies playing in theaters, check showtimes, and read reviews |
+
 ### News & Feed
 
 | Project    | Repo  | Description  |
@@ -264,6 +265,7 @@ No projects.
 | spacex-go          | [Link](https://github.com/jesusrp98/spacex-go)           | Simple yet powerful, open-source SpaceX launch tracker.     |
 | fluent-reader-lite | [Link](https://github.com/yang991178/fluent-reader-lite) | Simplistic mobile RSS client built with Flutter             |
 | RSSAid             | [Link](https://github.com/LeetaoGoooo/RSSAid)            | RSSAid is a complementary app for RSSHub built with Flutter |
+| FlutterNewsApp | [Link](https://github.com/theindianappguy/FlutterNewsApp)| A Flutter news app which utilizes NewsApi Org. |
 
 ### Chat & Messaging
 
