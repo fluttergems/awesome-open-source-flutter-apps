@@ -322,6 +322,7 @@ No projects.
 |:-----------|:------|:-------------|
 | nomdebebe | [Link](https://github.com/hamaluik/nomdebebe) | A simple, private tool to help pick a baby name. |
 | Learn | [Link](https://github.com/VaibhavCodeClub/learn) | A simple learning app for kids. |
+| clock_game | [Link](https://github.com/recepbasturk/clock_game) | Clock Game is a children's game created with Flutter. |
 
 ### Wearables
 
