@@ -322,6 +322,7 @@ No projects.
 |:-----------|:------|:-------------|
 | nomdebebe | [Link](https://github.com/hamaluik/nomdebebe) | A simple, private tool to help pick a baby name. |
 | Learn | [Link](https://github.com/VaibhavCodeClub/learn) | A simple learning app for kids. |
+| kiddytunes | [Link](https://github.com/Unique-chiemerie/kiddytunes) | An app for kids to play, sing along and save children songs |
 
 ### Wearables
 
