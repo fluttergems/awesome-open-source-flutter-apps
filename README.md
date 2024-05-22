@@ -135,6 +135,7 @@ No projects.
 | coffee_coupon_full_system_demo | [Link](https://github.com/cybercying/coffee_coupon_full_system_demo) | Flutter/Dart template (front-end + backend database) to demonstrate a coupon management system, which is suitable for a coffeehouse chain (or any restaurant chain) to build customer loyalty. |
 | keiko_food_reviews             | [Link](https://github.com/JediPixels/keiko_food_reviews) | Keiko Food Reviews App |
 | KitchenOwl                     | [Link](https://github.com/TomBursch/kitchenowl) | KitchenOwl is a self-hosted grocery list and recipe manager. Easily add items to your shopping list before you go shopping. You can also create recipes and add items based on what you want to cook.  |
+| Flutter-Delivery-App | [Link](https://github.com/Frave07/Flutter-Delivery-App) | A  food delivery app. |
 
 ### Books
 
@@ -168,6 +169,8 @@ No projects.
 | Flutter-Steps-Tracker      | [Link](https://github.com/TarekAlabd/Flutter-Steps-Tracker)      | It's an open source project for the steps tracking (Pedometer) built with Flutter. |
 | Just Another Workout Timer | [Link](https://github.com/blockbasti/just_another_workout_timer) | A simple timer for your workouts, built with Flutter! |
 | Watermaniac | [Link](https://github.com/artur-ios-dev/watermaniac) | A hydration tracking app that helps you track the amount of water you drink |
+| FlutterBMI | [Link](https://github.com/jaysavsani07/FlutterBMI) | A BMI calculator app |
+
 ### Medical
 
 | Project    | Repo  | Description  |
@@ -241,6 +244,8 @@ No projects.
 | AuthPass Password Manager | [Link](https://github.com/authpass/authpass) | AuthPass - Password Manager based on Flutter for all platforms. Keepass 2.x (kdbx 3.x) compatible. |
 | nfsee                     | [Link](https://github.com/nfcim/nfsee) | Read your Transit/Bank/ID cards on Android/iOS phone with NFSee App |
 | Water Me                  | [Link](https://github.com/abertschi/water-me) | A simple, open and privacy friendly plant watering reminder for Android. |
+| You | [Link](https://github.com/MDSADABWASIM/You) | The app to check what internet knows about you. |
+
 
 ### Entertainment
 
@@ -254,6 +259,7 @@ No projects.
 | pilipala                 | [Link](https://github.com/guozhigq/pilipala) | PiliPala is a third-party BiliBili client developed using Flutter. |
 | namida                   | [Link](https://github.com/namidaco/namida) | A Beautiful and Feature-rich Music & Video Player with Youtube Support |
 | Inkino | [Link](https://github.com/dreambuilder00/inKino-Flutter) | Inkino is a movie discovery app that allows users to explore movies playing in theaters, check showtimes, and read reviews |
+
 ### News & Feed
 
 | Project    | Repo  | Description  |
@@ -261,6 +267,7 @@ No projects.
 | spacex-go          | [Link](https://github.com/jesusrp98/spacex-go)           | Simple yet powerful, open-source SpaceX launch tracker.     |
 | fluent-reader-lite | [Link](https://github.com/yang991178/fluent-reader-lite) | Simplistic mobile RSS client built with Flutter             |
 | RSSAid             | [Link](https://github.com/LeetaoGoooo/RSSAid)            | RSSAid is a complementary app for RSSHub built with Flutter |
+| FlutterNewsApp | [Link](https://github.com/theindianappguy/FlutterNewsApp)| A Flutter news app which utilizes NewsApi Org. |
 
 ### Chat & Messaging
 
@@ -271,6 +278,7 @@ No projects.
 | snack_chat           | [Link](https://github.com/Kennygunderman/snack_chat)       | Spicy chatting app  |
 | zulip-flutter        | [Link](https://github.com/zulip/zulip-flutter)             | Future Zulip client using Flutter  |
 | OpenPeerChat-flutter | [Link](https://github.com/AOSSIE-Org/OpenPeerChat-flutter) | Sending/relaying messages to nearby devices until the destination is reached, instead of relying on a central server. |
+| flutter-chat-demo | [Link](https://github.com/duytq94/flutter-chat-demo) | A chat app made with Flutter and Firebase that supports login with google, and chat functionalities. |
 
 ### Social Networking
 
@@ -302,6 +310,8 @@ No projects.
 | openflutterecommerceapp | [Link](https://github.com/4seer/openflutterecommerceapp)           | Open Flutter E-commerce App |
 | flutterzon_bloc         | [Link](https://github.com/tejasbadone/flutterzon_bloc)             | Flutterzon is a full-stack e-commerce application that tries to mirror the functionality and user experience of the Amazon mobile app. |
 | flutter-woocommerce-app | [Link](https://github.com/woosignal/flutter-woocommerce-app)       | WooCommerce App template that uses Flutter. Integrated to work with WooCommerce stores, connect and create an IOS and Android app from Flutter for IOS and Android |
+| Grocery-App | [Link](https://github.com/Widle-Studio/Grocery-App) | Grocery Shopping App (Mobile & Web) |
+| Flutter-Complete-e-commerce  | [Link](https://github.com/afgprogrammer/Flutter-Complete-e-commerce)  |  An E-commerce app. |
 
 ### AR & VR
 
