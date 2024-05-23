@@ -120,7 +120,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | turi                   | [Link](https://github.com/renancaraujo/turi)  | A Fragment shader based game using Flame and Flutter  |
 | super_dash             | [Link](https://github.com/flutter/super_dash)| A multiplatform demo game built using Flutter and Flame  |
 | get_games              | [Link](https://github.com/mzsdev1/get_games)  | Mobile app showing free and discounted PC games |
-| doddle                 | [Link](https://github.com/NaserElziadna/doddle) | Amazing magical doodle game provide a creative doodle world for you!  |
+| doddle                 | [Link](https://github.com/NaserElziadna/doddle) | Amazing magical doodle game provide a creative doodle world for you! |
 
 ### Sports
 
@@ -291,6 +291,13 @@ No projects.
 | talawa         | [Link](https://github.com/PalisadoesFoundation/talawa) | Community Organization Management Software. |
 | Resonate       | [Link](https://github.com/AOSSIE-Org/Resonate)         | Clubhouse, but Open Source. A social voice platform. |
 
+### Network, Bluetooth & Sharing
+
+| Project    | Repo  | Description  |
+|:-----------|:------|:-------------|
+|bluetooth_car | [Link](https://github.com/caibimiaokong/bluetooth_car) | A Bluetooth car control app |
+
+
 ### Weather
 
 | Project    | Repo  | Description  |
@@ -322,7 +329,8 @@ No projects.
 |:-----------|:------|:-------------|
 | nomdebebe | [Link](https://github.com/hamaluik/nomdebebe) | A simple, private tool to help pick a baby name. |
 | Learn | [Link](https://github.com/VaibhavCodeClub/learn) | A simple learning app for kids. |
-| kiddytunes | [Link](https://github.com/Unique-chiemerie/kiddytunes) | An app for kids to play, sing along and save children songs |
+| kiddytunes | [Link](https://github.com/Unique-chiemerie/kiddytunes) | An app for kids to play, sing along and save children songs. |
+| clock_game | [Link](https://github.com/recepbasturk/clock_game) | Clock Game is a children's game created with Flutter. |
 
 ### Wearables
 
