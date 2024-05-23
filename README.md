@@ -124,7 +124,9 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 
 ### Sports
 
-No projects.
+| Project    | Repo  | Description  |
+|:-----------|:------|:-------------|
+| Spod | [Link](https://github.com/mikirinkode/sports_venue_booking_app) | Spod allows user to book a sport venue from anywhere anytime using a mobile. |
 
 ### Food & Drink
 
