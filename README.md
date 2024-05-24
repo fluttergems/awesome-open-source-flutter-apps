@@ -225,6 +225,7 @@ No projects.
 | Meloplay            | [Link](https://github.com/ShokhrukhbekYuldoshev/Meloplay) | Meloplay is a local music player app that plays music from your device built with Flutter. |
 | BloomeeTunes        | [Link](https://github.com/HemantKArya/BloomeeTunes)  | A music app designed to bring you ad-free tunes from various sources.  |
 | finamp              | [Link](https://github.com/jmshrv/finamp)   | A Jellyfin music client for mobile  |
+| Flutter Music Player | [Link](https://github.com/iampawan/Flutter-Music-Player) | Music player with audio plugin to play local music files. |
 
 ### Utilities
 
