@@ -80,6 +80,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | medito-app | [Link](https://github.com/meditohq/medito-app)   | The Medito app is a 100% free meditation app. The app is available on Android and iOS. |
 | InnerQuest | [Link](https://github.com/Kushalrock/innerquest) | InnerQuest is an app designed to help you embark on a journey of self-discovery, personal growth, and increased productivity. |
 | Reflectly | [Link](https://github.com/sagarshende23/Reflectly-Flutter-App) | A journaling app |
+| EcoMateSG | [Link](https://github.com/jicsontoh/EcoMateSG) | EcoMateSG is a user-friendly mobile app. |
 
 ### Business
 
