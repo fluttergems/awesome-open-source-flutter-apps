@@ -80,6 +80,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | medito-app | [Link](https://github.com/meditohq/medito-app)   | The Medito app is a 100% free meditation app. The app is available on Android and iOS. |
 | InnerQuest | [Link](https://github.com/Kushalrock/innerquest) | InnerQuest is an app designed to help you embark on a journey of self-discovery, personal growth, and increased productivity. |
 | Reflectly | [Link](https://github.com/sagarshende23/Reflectly-Flutter-App) | A journaling app |
+| EcoMateSG | [Link](https://github.com/jicsontoh/EcoMateSG) | EcoMateSG helps users make environmentally conscious choices and adopt a sustainable lifestyle. |
 
 ### Business
 
@@ -205,6 +206,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | TubeCards             | [Link](https://github.com/friebetill/TubeCards)   | TubeCards - Cross-platform Spaced Repetition App written in Flutter |
 | Toughest | [Link](https://github.com/MDSADABWASIM/Toughest) | An app for interview preparation |
 | Orientation | [Link](https://github.com/matthewtory/trinity-orientation-2018) | An app for orientation week at Trinity College, University of Toronto. |
+| Mathematics | [Link](https://github.com/j-j-gajjar/mathematics/) | Mathematics Flutter offers a collection of mathematical functions and supports generation of MCQs, QnA PDFs & quizzes. |
 
 ### Graphics & Design
 
