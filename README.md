@@ -70,8 +70,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Natrium | [Link](https://github.com/appditto/natrium_wallet_flutter) | A Nano cryptocurrency wallet app to manage your Nano funds |
 | Sossoldi | [Link](https://github.com/RIP-Comm/sossoldi) | Sossoldi is a free and open source wealth management / personal finance / Net Worth tracking app |
 | Platypus Crypto | [Link](https://github.com/Blakexx/CryptoTracker) | An ad-free cross-platform robust solution for tracking cryptocurrency assets |
-
-
+| Budgeto | [Link](https://github.com/tejasbadone/budgeto) | A money management app that allows users to split their income into customizable categories |
 
 ### Lifestyle
 
