@@ -123,6 +123,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | super_dash             | [Link](https://github.com/flutter/super_dash)| A multiplatform demo game built using Flutter and Flame  |
 | get_games              | [Link](https://github.com/mzsdev1/get_games)  | Mobile app showing free and discounted PC games |
 | doddle                 | [Link](https://github.com/NaserElziadna/doddle) | Amazing magical doodle game provide a creative doodle world for you! |
+| Arcade Plaza | [Link](https://github.com/aryamangodara/Arcade-Plaza) | App that let's you play free more than 55 games for free. |
 
 ### Sports
 
@@ -130,6 +131,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 |:-----------|:------|:-------------|
 | Spod | [Link](https://github.com/mikirinkode/sports_venue_booking_app) | Spod allows user to book a sport venue from anywhere anytime using a mobile. |
 | Shooting Sports Analyst | [Link](https://github.com/jslater89/shooting-sports-analyst) | Desktop application for viewing, analyzing, and predicting practical shooting match results. |
+| ace | [Link](https://github.com/egedemirci/ace) | A full stack sports social media app. |
 
 ### Food & Drink
 
@@ -174,6 +176,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Just Another Workout Timer | [Link](https://github.com/blockbasti/just_another_workout_timer) | A simple timer for your workouts, built with Flutter! |
 | Watermaniac | [Link](https://github.com/artur-ios-dev/watermaniac) | A hydration tracking app that helps you track the amount of water you drink |
 | FlutterBMI | [Link](https://github.com/jaysavsani07/FlutterBMI) | A BMI calculator app |
+| OpenHIIT | [Link](https://github.com/a-mabe/OpenHIIT) | A cross platform HIIT and Tabata interval timer mobile application. |
 
 ### Medical
 
