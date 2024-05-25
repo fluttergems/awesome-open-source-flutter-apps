@@ -129,6 +129,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Project    | Repo  | Description  |
 |:-----------|:------|:-------------|
 | Spod | [Link](https://github.com/mikirinkode/sports_venue_booking_app) | Spod allows user to book a sport venue from anywhere anytime using a mobile. |
+| shooting-sports-analyst | [Link](https://github.com/jslater89/shooting-sports-analyst) | Shooting Sports Analyst is a Flutter desktop/web application for viewing, analyzing, and predicting practical shooting match results. |
 
 ### Food & Drink
 
