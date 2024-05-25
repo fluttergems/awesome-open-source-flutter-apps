@@ -89,6 +89,8 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | microsoft_teams_clone | [Link](https://github.com/Karanjot-singh/microsoft_teams_clone) | Microsoft Teams Clone is a Video conference application with a rich integrated chat experience, to connect with friends, family & colleagues. |
 | katswiri              | [Link](https://github.com/doreanbyte/katswiri)  | A crawler to find job listings and aggregate them from multiple sources  |
 | webtrit_phone         | [Link](https://github.com/WebTrit/webtrit_phone)  | WebTrit Phone application  |
+| Invoice Ninja         | [Link](https://github.com/invoiceninja/invoiceninja) | It is one of the web-based applications developed with the help of Flutter and also offers a centralised system for managing products, clients, payments and invoices |
+
 
 ### Photo & Video
 
