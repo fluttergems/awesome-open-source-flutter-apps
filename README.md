@@ -83,7 +83,6 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Reflectly | [Link](https://github.com/sagarshende23/Reflectly-Flutter-App) | A journaling app |
 | EcoMateSG | [Link](https://github.com/jicsontoh/EcoMateSG) | EcoMateSG helps users make environmentally conscious choices and adopt a sustainable lifestyle. |
 | Meditation | [Link](https://github.com/Re4ch-Jay/Meditation_App) | An app to make you calm, relieved, relaxed and focused. |
-| OpenHIIT  | [Link](https://github.com/a-mabe/OpenHIIT)     | OpenHIIT is an open-source workout interval timer mobile application developed using Flutter. |
 
 ### Business
 
@@ -174,6 +173,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Just Another Workout Timer | [Link](https://github.com/blockbasti/just_another_workout_timer) | A simple timer for your workouts, built with Flutter! |
 | Watermaniac | [Link](https://github.com/artur-ios-dev/watermaniac) | A hydration tracking app that helps you track the amount of water you drink |
 | FlutterBMI | [Link](https://github.com/jaysavsani07/FlutterBMI) | A BMI calculator app |
+| OpenHIIT | [Link](https://github.com/a-mabe/OpenHIIT) | A cross platform HIIT and Tabata interval timer mobile application. |
 
 ### Medical
 
