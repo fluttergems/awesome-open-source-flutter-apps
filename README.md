@@ -124,6 +124,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | get_games              | [Link](https://github.com/mzsdev1/get_games)  | Mobile app showing free and discounted PC games |
 | doddle                 | [Link](https://github.com/NaserElziadna/doddle) | Amazing magical doodle game provide a creative doodle world for you! |
 | Arcade Plaza | [Link](https://github.com/aryamangodara/Arcade-Plaza) | App that let's you play free more than 55 games for free. |
+| sudoku-flutter | [Link](https://github.com/einsitang/sudoku-flutter) | A open source Sudoku game application |
 
 ### Sports
 
