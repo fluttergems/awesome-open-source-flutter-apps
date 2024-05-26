@@ -271,6 +271,7 @@ No projects.
 | pilipala                 | [Link](https://github.com/guozhigq/pilipala) | PiliPala is a third-party BiliBili client developed using Flutter. |
 | namida                   | [Link](https://github.com/namidaco/namida) | A Beautiful and Feature-rich Music & Video Player with Youtube Support |
 | Inkino | [Link](https://github.com/dreambuilder00/inKino-Flutter) | Inkino is a movie discovery app that allows users to explore movies playing in theaters, check showtimes, and read reviews |
+| FlixQuest | [Link](https://github.com/BeamlakAschalew/flixquest) | App that lets users stream movies and TV shows for free. |
 
 ### News & Feed
 
