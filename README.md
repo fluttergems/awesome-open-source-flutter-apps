@@ -235,6 +235,7 @@ No projects.
 | BloomeeTunes        | [Link](https://github.com/HemantKArya/BloomeeTunes)  | A music app designed to bring you ad-free tunes from various sources.  |
 | finamp              | [Link](https://github.com/jmshrv/finamp)   | A Jellyfin music client for mobile  |
 | Flutter Music Player | [Link](https://github.com/iampawan/Flutter-Music-Player) | Music player with audio plugin to play local music files. |
+| WavyBeats | [Link](https://github.com/AssassinAguilar/WavyBeats) | A music player. |
 
 ### Utilities
 
@@ -272,6 +273,7 @@ No projects.
 | pilipala                 | [Link](https://github.com/guozhigq/pilipala) | PiliPala is a third-party BiliBili client developed using Flutter. |
 | namida                   | [Link](https://github.com/namidaco/namida) | A Beautiful and Feature-rich Music & Video Player with Youtube Support |
 | Inkino | [Link](https://github.com/dreambuilder00/inKino-Flutter) | Inkino is a movie discovery app that allows users to explore movies playing in theaters, check showtimes, and read reviews |
+| FlixQuest | [Link](https://github.com/BeamlakAschalew/flixquest) | App that lets users stream movies and TV shows for free. |
 
 ### News & Feed
 
