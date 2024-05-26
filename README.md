@@ -48,7 +48,6 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | log_book                   | [Link](https://github.com/DonnC/log_book)                           | An internship log book desktop app |
 | pomodoro-session           | [Link](https://github.com/jashdubal/pomodoro-session)               | Helps users track work sessions using the Pomodoro Technique |
 | pmdr                       | [Link](https://github.com/aricodeine/pmdr)                          | A Pomodoro App |
-| Openreads                  | [Link](https://github.com/mateusz-bak/openreads)                    | A cross-platform app used for tracking books|
 
 ### Finance
 
@@ -153,6 +152,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | FlutterEbookApp | [Link](https://github.com/JideGuru/FlutterEbookApp) | A simple Flutter app to Read and Download eBooks. |
 | Explr | [Link](https://github.com/Project-Easter/Flutter-UI) | Explr provides a platform for users to know what their friends are reading and exchange books with them, along with knowing which book is the talk of the town. |
 | Libro | [Link](https://github.com/infiniteoverflow/Libro) | An app to share books with people around us |
+| Openreads | [Link](https://github.com/mateusz-bak/openreads) | An app to keep track of your books. |
 
 ### Anime & Manga
 
