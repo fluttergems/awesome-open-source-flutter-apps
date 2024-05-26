@@ -123,6 +123,8 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | super_dash             | [Link](https://github.com/flutter/super_dash)| A multiplatform demo game built using Flutter and Flame  |
 | get_games              | [Link](https://github.com/mzsdev1/get_games)  | Mobile app showing free and discounted PC games |
 | doddle                 | [Link](https://github.com/NaserElziadna/doddle) | Amazing magical doodle game provide a creative doodle world for you!  |
+| Math Metrix app | [Link](https://github.com/jaysavsani07/math-metrix) | It is a type of educational game developed using the Flutter framework |
+
 
 ### Sports
 
