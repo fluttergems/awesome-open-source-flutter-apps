@@ -312,7 +312,7 @@ No projects.
 | Project    | Repo  | Description  |
 |:-----------|:------|:-------------|
 |bluetooth_car | [Link](https://github.com/caibimiaokong/bluetooth_car) | A Bluetooth car control app |
-|localsend     | [Link](https://github.com/localsend/localsend) | LocalSend is an open-source app for secure, local network file sharing without internet|
+|localsend | [Link](https://github.com/localsend/localsend) | An app to securely share files and messages with nearby devices without requiring an internet connection. |
 
 ### Weather
 
