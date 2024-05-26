@@ -170,6 +170,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Aniflix-Flutter    | [Link](https://github.com/sumittiware/Aniflix-Flutter) | Netflix of Anime made with Flutter and Jikan API |
 | PicaComic          | [Link](https://github.com/wgh136/PicaComic) | A comic app built with Flutter, supporting multiple comic sources. |
 | JHenTai            | [Link](https://github.com/jiangtian616/JHenTai)    | A cross-platform app made for e-hentai & exhentai by Flutter   |
+| AnimSearch | [Link](https://github.com/ArizArmeidi/AnimSearch)  | An App for searching Anime and Manga created using Flutter and Jikan API. |
 
 ### Health & Fitness
 
