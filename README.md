@@ -274,7 +274,7 @@ No projects.
 | namida                   | [Link](https://github.com/namidaco/namida) | A Beautiful and Feature-rich Music & Video Player with Youtube Support |
 | Inkino | [Link](https://github.com/dreambuilder00/inKino-Flutter) | Inkino is a movie discovery app that allows users to explore movies playing in theaters, check showtimes, and read reviews |
 | FlixQuest | [Link](https://github.com/BeamlakAschalew/flixquest) | App that lets users stream movies and TV shows for free. |
-| Watch | [Link](https://github.com/diptanshumahish/watch) | An open source movies / web series reccomendation app |
+| Watch | [Link](https://github.com/diptanshumahish/watch) | A movies/web series recommendation app. |
 
 ### News & Feed
 
