@@ -339,7 +339,9 @@ No projects.
 
 ### AR & VR
 
-No projects.
+| Project    | Repo  | Description  |
+|:-----------|:------|:-------------|
+| TeachAR | [Link](https://github.com/iambrijeshtoo/TeachAR) | Mobile based augmented reality application to improve learning for students |
 
 ### Kids
 
