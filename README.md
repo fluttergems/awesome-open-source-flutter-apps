@@ -285,7 +285,7 @@ No projects.
 | fluent-reader-lite | [Link](https://github.com/yang991178/fluent-reader-lite) | Simplistic mobile RSS client built with Flutter             |
 | RSSAid             | [Link](https://github.com/LeetaoGoooo/RSSAid)            | RSSAid is a complementary app for RSSHub built with Flutter |
 | FlutterNewsApp | [Link](https://github.com/theindianappguy/FlutterNewsApp)| A Flutter news app which utilizes NewsApi Org. |
-| FLUTTER_NewsApp    | [Link](https://github.com/j-j-gajjar/FLUTTER_NewsApp)    | Live News App Using Rest API with Searching Functionality   |
+| FLUTTER_NewsApp | [Link](https://github.com/j-j-gajjar/FLUTTER_NewsApp) | Live news app with search functionality |
 
 ### Chat & Messaging
 
