@@ -340,7 +340,7 @@ No projects.
 
 | Project    | Repo  | Description  |
 |:-----------|:------|:-------------|
-| TeachAR    | [Link](https://github.com/iambrijeshtoo/TeachAR)   | It basically offers a platform of AR to help students understand a difficult topic |
+| TeachAR | [Link](https://github.com/iambrijeshtoo/TeachAR) | Mobile based augmented reality application to improve learning for students |
 
 ### Kids
 
