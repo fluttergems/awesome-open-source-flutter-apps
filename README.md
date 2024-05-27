@@ -217,7 +217,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Toughest | [Link](https://github.com/MDSADABWASIM/Toughest) | An app for interview preparation |
 | Orientation | [Link](https://github.com/matthewtory/trinity-orientation-2018) | An app for orientation week at Trinity College, University of Toronto. |
 | Mathematics | [Link](https://github.com/j-j-gajjar/mathematics/) | Mathematics Flutter offers a collection of mathematical functions and supports generation of MCQs, QnA PDFs & quizzes. |
-| eqTrainer | [Link](https://github.com/potatosalad775/eqTrainer) | Open-source Critical Listening Skill Training App. |
+| eqTrainer | [Link](https://github.com/potatosalad775/eqTrainer) | Critical Listening Skill Training App |
 
 ### Graphics & Design
 
