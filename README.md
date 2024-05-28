@@ -183,6 +183,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Watermaniac | [Link](https://github.com/artur-ios-dev/watermaniac) | A hydration tracking app that helps you track the amount of water you drink |
 | FlutterBMI | [Link](https://github.com/jaysavsani07/FlutterBMI) | A BMI calculator app |
 | OpenHIIT | [Link](https://github.com/a-mabe/OpenHIIT) | A cross platform HIIT and Tabata interval timer mobile application. |
+| LifeSync | [Link](https://github.com/Utku-Mese/LifeSync) | App that allows users to track important factors such as nutrition, sports and water consumption. |
 
 ### Medical
 
