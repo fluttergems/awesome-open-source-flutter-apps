@@ -135,6 +135,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Shooting Sports Analyst | [Link](https://github.com/jslater89/shooting-sports-analyst) | Desktop application for viewing, analyzing, and predicting practical shooting match results. |
 | ace | [Link](https://github.com/egedemirci/ace) | A full stack sports social media app. |
 | Sports Team Manager | [Link](https://github.com/visheshsanghvi112/SportsTeamManagementFlutter) | A sports team management system |
+| Shoot Report | [Link](https://github.com/Alienuser/shoot-report-flutter) | App for shooting sports |
 
 ### Food & Drink
 
