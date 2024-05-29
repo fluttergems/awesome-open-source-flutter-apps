@@ -144,6 +144,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | keiko_food_reviews             | [Link](https://github.com/JediPixels/keiko_food_reviews) | Keiko Food Reviews App |
 | KitchenOwl                     | [Link](https://github.com/TomBursch/kitchenowl) | KitchenOwl is a self-hosted grocery list and recipe manager. Easily add items to your shopping list before you go shopping. You can also create recipes and add items based on what you want to cook.  |
 | Flutter-Delivery-App | [Link](https://github.com/Frave07/Flutter-Delivery-App) | A  food delivery app. |
+| Open Food Facts | [Link](https://github.com/openfoodfacts) | It is one of the open-source mobile apps designed to assist users in making healthier and informed food choices. |
 
 ### Books
 
@@ -180,7 +181,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Watermaniac | [Link](https://github.com/artur-ios-dev/watermaniac) | A hydration tracking app that helps you track the amount of water you drink |
 | FlutterBMI | [Link](https://github.com/jaysavsani07/FlutterBMI) | A BMI calculator app |
 | OpenHIIT | [Link](https://github.com/a-mabe/OpenHIIT) | A cross platform HIIT and Tabata interval timer mobile application. |
-| Open Food Facts | [Link](https://github.com/openfoodfacts) | It is one of the open-source mobile apps designed to assist users in making healthier and informed food choices |
+
 ### Medical
 
 | Project    | Repo  | Description  |
