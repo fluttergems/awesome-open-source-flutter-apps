@@ -83,7 +83,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Reflectly | [Link](https://github.com/sagarshende23/Reflectly-Flutter-App) | A journaling app |
 | EcoMateSG | [Link](https://github.com/jicsontoh/EcoMateSG) | EcoMateSG helps users make environmentally conscious choices and adopt a sustainable lifestyle. |
 | Meditation | [Link](https://github.com/Re4ch-Jay/Meditation_App) | An app to make you calm, relieved, relaxed and focused. |
-| Habo | [Link](https://github.com/xpavle00/Habo) |  Helps you create and maintain healthy habits for a better life. |
+| Habo | [Link](https://github.com/xpavle00/Habo) |  A habit tracker app that helps you create and maintain healthy habits for a better life. |
 
 ### Business
 
