@@ -373,6 +373,7 @@ No projects.
 |:-----------|:------|:-------------|
 | devfolio  | [Link](https://github.com/mhmzdev/devfolio)    | Live multi-platform portfolio designed using Flutter 3.0.  |
 | nimbus    | [Link](https://github.com/david-legend/nimbus) | Nimbus is a beautiful portfolio design built using flutter |
+| Flutter Portfolio | [Link](https://github.com/Hamad-Anwar/Flutter-Responsive-Portfolio-WebApp) | A responsive portfolio website built using Flutter. |
 
 ### App Store & Manager
 
