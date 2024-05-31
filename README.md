@@ -156,6 +156,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Explr | [Link](https://github.com/Project-Easter/Flutter-UI) | Explr provides a platform for users to know what their friends are reading and exchange books with them, along with knowing which book is the talk of the town. |
 | Libro | [Link](https://github.com/infiniteoverflow/Libro) | An app to share books with people around us |
 | Openreads | [Link](https://github.com/mateusz-bak/openreads) | An app to keep track of your books. |
+| Ebook-App | [Link](https://github.com/md-durjoy/Ebook-App)   | Flutter eBook reader app! Browse genres, bookmark favorites, and customize your reading experience. |
 
 ### Anime & Manga
 
