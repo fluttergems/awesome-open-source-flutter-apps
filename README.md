@@ -84,7 +84,6 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | EcoMateSG | [Link](https://github.com/jicsontoh/EcoMateSG) | EcoMateSG helps users make environmentally conscious choices and adopt a sustainable lifestyle. |
 | Meditation | [Link](https://github.com/Re4ch-Jay/Meditation_App) | An app to make you calm, relieved, relaxed and focused. |
 | Habo | [Link](https://github.com/xpavle00/Habo) |  A habit tracker app that helps you create and maintain healthy habits for a better life. |
-| OpenNutriTracker | [Link](https://github.com/simonoppowa/OpenNutriTracker) |  free and open source calorie tracker |
 
 ### Business
 
@@ -186,6 +185,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | FlutterBMI | [Link](https://github.com/jaysavsani07/FlutterBMI) | A BMI calculator app |
 | OpenHIIT | [Link](https://github.com/a-mabe/OpenHIIT) | A cross platform HIIT and Tabata interval timer mobile application. |
 | LifeSync | [Link](https://github.com/Utku-Mese/LifeSync) | App that allows users to track important factors such as nutrition, sports and water consumption. |
+| OpenNutriTracker | [Link](https://github.com/simonoppowa/OpenNutriTracker) | A calorie tracker to simplify nutritional tracking and management. |
 
 ### Medical
 
