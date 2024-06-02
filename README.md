@@ -258,6 +258,7 @@ No projects.
 | nfsee                     | [Link](https://github.com/nfcim/nfsee) | Read your Transit/Bank/ID cards on Android/iOS phone with NFSee App |
 | Water Me                  | [Link](https://github.com/abertschi/water-me) | A simple, open and privacy friendly plant watering reminder for Android. |
 | You | [Link](https://github.com/MDSADABWASIM/You) | The app to check what internet knows about you. |
+| Timecop | [Link](https://github.com/travisjeffery/timecop) | It is a time-tracking application available for open-source software for both Android and MacOS platforms |
 
 
 ### Entertainment
