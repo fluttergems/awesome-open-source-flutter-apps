@@ -186,6 +186,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | FlutterBMI | [Link](https://github.com/jaysavsani07/FlutterBMI) | A BMI calculator app |
 | OpenHIIT | [Link](https://github.com/a-mabe/OpenHIIT) | A cross platform HIIT and Tabata interval timer mobile application. |
 | LifeSync | [Link](https://github.com/Utku-Mese/LifeSync) | App that allows users to track important factors such as nutrition, sports and water consumption. |
+| OpenNutriTracker | [Link](https://github.com/simonoppowa/OpenNutriTracker) | A calorie tracker to simplify nutritional tracking and management. |
 
 ### Medical
 
