@@ -194,6 +194,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Health_and_Doctor_Appointment | [Link](https://github.com/dc-exe/Health_and_Doctor_Appointment) | Health and Doctor Appointment App made with Flutter. With this you can book an online appointment to a doctor in advance. |
 | Swaasthy                      | [Link](https://github.com/ishandeveloper/Swaasthy)  | Swaasthy is an app made to uplift user's health. It contains everything from medicine reminder functionality to make an SOS call to nearby ambulances to getting an appointment with a virtual doc. |
 | Awashyaak                     | [Link](https://github.com/TaRun1369/Awashyaak) | Open Source Project for Speedy Health Care delivery |
+| MedRem | [Link](https://github.com/Almasx/MedRem) | Medicine reminder app |
 
 ### Travel & Navigation
 
