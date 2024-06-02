@@ -146,7 +146,8 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | coffee_coupon_full_system_demo | [Link](https://github.com/cybercying/coffee_coupon_full_system_demo) | Flutter/Dart template (front-end + backend database) to demonstrate a coupon management system, which is suitable for a coffeehouse chain (or any restaurant chain) to build customer loyalty. |
 | keiko_food_reviews             | [Link](https://github.com/JediPixels/keiko_food_reviews) | Keiko Food Reviews App |
 | KitchenOwl                     | [Link](https://github.com/TomBursch/kitchenowl) | KitchenOwl is a self-hosted grocery list and recipe manager. Easily add items to your shopping list before you go shopping. You can also create recipes and add items based on what you want to cook.  |
-| Flutter-Delivery-App | [Link](https://github.com/Frave07/Flutter-Delivery-App) | A  food delivery app. |
+| Flutter-Delivery-App | [Link](https://github.com/Frave07/Flutter-Delivery-App) | A food delivery app. |
+| Open Food Facts | [Link](https://github.com/openfoodfacts/smooth-app) | App to scan, discover & compare over 3 million food products. |
 
 ### Books
 
