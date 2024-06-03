@@ -285,6 +285,7 @@ No projects.
 | Watch | [Link](https://github.com/diptanshumahish/watch) | A movies/web series recommendation app. |
 | Inkino | [Link](https://github.com/roughike/inKino) | App for browsing movies and showtimes for Finnkino cinemas |
 
+
 ### News & Feed
 
 | Project    | Repo  | Description  |
@@ -305,6 +306,7 @@ No projects.
 | zulip-flutter        | [Link](https://github.com/zulip/zulip-flutter)             | Future Zulip client using Flutter  |
 | OpenPeerChat-flutter | [Link](https://github.com/AOSSIE-Org/OpenPeerChat-flutter) | Sending/relaying messages to nearby devices until the destination is reached, instead of relying on a central server. |
 | flutter-chat-demo | [Link](https://github.com/duytq94/flutter-chat-demo) | A chat app made with Flutter and Firebase that supports login with google, and chat functionalities. |
+| Fwitter | [Link](https://github.com/TheAlphamerc/flutter_twitter_clone?tab=readme-ov-file) | App is messeging and posting social app twitter clone using flutter |
 
 ### Social Networking
 
