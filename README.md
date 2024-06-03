@@ -318,6 +318,7 @@ No projects.
 | ZGram          | [Link](https://github.com/KOSSHOH/ZGram)               | Flutter Social Mobile App Design for ZGram. |
 | talawa         | [Link](https://github.com/PalisadoesFoundation/talawa) | Community Organization Management Software. |
 | Resonate       | [Link](https://github.com/AOSSIE-Org/Resonate)         | Clubhouse, but Open Source. A social voice platform. |
+| Fwitter | [Link](https://github.com/TheAlphamerc/flutter_twitter_clone) | Fully functional Twitter clone built using Flutter, Firebase realtime database and storage |
 
 ### Network, Bluetooth & Sharing
 
