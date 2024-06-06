@@ -405,6 +405,7 @@ No projects.
 | Sirat-E-Mustaqeem | [Link](https://github.com/muhammadtalhasultan/Sirat-E-Mustaqeem) | Islamic App with Complete Quran, Prayer time Api, Hadith, & Qibla Direction. |
 | noor              | [Link](https://github.com/pr-Mais/noor)                          | Noor is a mobile app designed to help in providing a comfortable reading experience for Muslims, by referencing the book "Hisnul Muslim", and some other references. |
 | elisha            | [Link](https://github.com/31Carlton7/elisha)                     | An Offline Bible & Church App for iOS & Android.  |
+| Prayer | [Link](https://github.com/theagapefoundation/prayer) | A Christian prayer app. |
 
 ### Boilerplate
 
