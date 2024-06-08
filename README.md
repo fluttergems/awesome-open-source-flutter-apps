@@ -447,6 +447,7 @@ No projects.
 | AgroRobotSwarm-dashboard                       | [Link](https://github.com/LiquidGalaxyLAB/AgroRobotSwarm-dashboard)  | Have a better control of the lands and show the collected information of the robots   |
 | Gauges_Showcase                                | [Link](https://github.com/Afroz-Shaikh/Gauges_Showcase)  | Showcase app that demonstrates the power and flexibility of the geekyants_flutter_gauges   |
 | OpSo | [Link](https://github.com/andoriyaprashant/OpSo) | OpSo provides information about various open-source programs like GSoC, Summer of Bitcoin, etc. |
+| Venom | [Link](https://github.com/navirobayo/venom) | App to keep track of the fuel consumption and expenses of your vehicles. |
 
 
 
