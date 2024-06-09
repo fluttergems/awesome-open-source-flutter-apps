@@ -376,6 +376,7 @@ No projects.
 |:-----------|:------|:-------------|
 | Flutter-Responsive-Admin-Panel-or-Dashboard | [Link](https://github.com/abuanwar072/Flutter-Responsive-Admin-Panel-or-Dashboard) | Responsive Admin Panel or Dashboard using Flutter |
 | smart-admin-dashboard                       | [Link](https://github.com/deniscolak/smart-admin-dashboard)   | Flutter Smart Admin Panel & Dashboard |
+| FlareLine | [Link](https://github.com/FlutterFlareLine/FlareLine) | An admin dashboard template |
 
 ### Portfolio
 
