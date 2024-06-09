@@ -138,6 +138,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | ace | [Link](https://github.com/egedemirci/ace) | A full stack sports social media app. |
 | Sports Team Manager | [Link](https://github.com/visheshsanghvi112/SportsTeamManagementFlutter) | A sports team management system |
 | Shoot Report | [Link](https://github.com/Alienuser/shoot-report-flutter) | App for shooting sports |
+| FitConnect | [Link](https://github.com/fitconnect-app/fitconnect-flutter-app) | App that facilitates meaningful connections among individuals through shared sports activities |
 
 ### Food & Drink
 
