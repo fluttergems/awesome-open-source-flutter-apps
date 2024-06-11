@@ -451,7 +451,7 @@ No projects.
 | Gauges_Showcase                                | [Link](https://github.com/Afroz-Shaikh/Gauges_Showcase)  | Showcase app that demonstrates the power and flexibility of the geekyants_flutter_gauges   |
 | OpSo | [Link](https://github.com/andoriyaprashant/OpSo) | OpSo provides information about various open-source programs like GSoC, Summer of Bitcoin, etc. |
 | Venom | [Link](https://github.com/navirobayo/venom) | App to keep track of the fuel consumption and expenses of your vehicles. |
-| Criminal Catcher | [Link](https://github.com/siddharth424/crime-detection) | Simplifies filing a FIR/complaint by eliminating the need to go to a police station |
+| Criminal Catcher | [Link](https://github.com/siddharth424/crime-detection) | Online filing of FIR/complaint with GPS location, photos, and videos. |
 
 
 
