@@ -338,7 +338,7 @@ No projects.
 | weather_app    | [Link](https://github.com/rrafush/weather_app)        | Fetch weather data from cities around the globe! |
 | FlutterWeather | [Link](https://github.com/ArizArmeidi/FlutterWeather) | Weather app created using Flutter and Dart |
 | EQMonitor      | [Link](https://github.com/YumNumm/EQMonitor)          | An earthquake monitoring Application |
-| pluvia_weather_flutter | [Link](https://github.com/SpicyChair/pluvia_weather_flutter) | A weather app with beautiful animations |
+| Pluvia Weather | [Link](https://github.com/SpicyChair/pluvia_weather_flutter) | A weather app with beautiful animations |
 
 ### Shopping & E-commerce
 
