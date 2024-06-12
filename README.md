@@ -422,6 +422,7 @@ No projects.
 | flutter_boolean_template | [Link](https://github.com/getBoolean/flutter_boolean_template)  | Provides the boilerplate needed to create a large app and provides utilities to separate code generation into separate packages.  |
 | flutter_deer             | [Link](https://github.com/simplezhli/flutter_deer)              | This project is an exercise in learning Flutter for personal growth and development.|
 | festapp                  | [Link](https://github.com/vkh-cr/festapp)                       | Festapp - mobile app for festivals, conferences or events. |
+| Quiz App | [Link](https://github.com/muhammad-fiaz/QuizApp-Flutter) | A simple Quiz Application UI template |
 
 ### Others
 
