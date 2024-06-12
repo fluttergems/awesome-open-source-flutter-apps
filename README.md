@@ -229,7 +229,6 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Orientation | [Link](https://github.com/matthewtory/trinity-orientation-2018) | An app for orientation week at Trinity College, University of Toronto. |
 | Mathematics | [Link](https://github.com/j-j-gajjar/mathematics/) | Mathematics Flutter offers a collection of mathematical functions and supports generation of MCQs, QnA PDFs & quizzes. |
 | eqTrainer | [Link](https://github.com/potatosalad775/eqTrainer) | Critical Listening Skill Training App |
-| QuizApp-Flutter | [Link](https://github.com/muhammad-fiaz/QuizApp-Flutter) | A simple Quiz Application UI template |
 
 ### Graphics & Design
 
@@ -422,6 +421,7 @@ No projects.
 | flutter_boolean_template | [Link](https://github.com/getBoolean/flutter_boolean_template)  | Provides the boilerplate needed to create a large app and provides utilities to separate code generation into separate packages.  |
 | flutter_deer             | [Link](https://github.com/simplezhli/flutter_deer)              | This project is an exercise in learning Flutter for personal growth and development.|
 | festapp                  | [Link](https://github.com/vkh-cr/festapp)                       | Festapp - mobile app for festivals, conferences or events. |
+| Quiz App | [Link](https://github.com/muhammad-fiaz/QuizApp-Flutter) | A simple Quiz Application UI template |
 
 ### Others
 
