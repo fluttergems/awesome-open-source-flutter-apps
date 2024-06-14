@@ -93,6 +93,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | microsoft_teams_clone | [Link](https://github.com/Karanjot-singh/microsoft_teams_clone) | Microsoft Teams Clone is a Video conference application with a rich integrated chat experience, to connect with friends, family & colleagues. |
 | katswiri              | [Link](https://github.com/doreanbyte/katswiri)  | A crawler to find job listings and aggregate them from multiple sources  |
 | webtrit_phone         | [Link](https://github.com/WebTrit/webtrit_phone)  | WebTrit Phone application  |
+| business_light | [Link](https://github.com/ABDULKARIMALBAIK/business_light) | App providing order management, product cataloguing, payments for small business owners |
 
 ### Photo & Video
 
