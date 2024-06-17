@@ -414,7 +414,6 @@ No projects.
 | eQuran | [Link](https://github.com/ya27hw/equran_app) | An app for reading the Holy Quran. |
 | Auragita | [Link](https://github.com/tushal13/Auragita) | Bhagavad Gita learning app |
 
-
 ### Boilerplate
 
 | Project    | Repo  | Description  |
