@@ -212,7 +212,6 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | spaced-travel-app   | [Link](https://github.com/nonybrighto/spaced-travel-app)   | Spaced is an animated travel application UI that enables users to find locations and schedule trips. |
 | trip-brain-app      | [Link](https://github.com/Pr0nE/trip-brain-app) | Travel app built with Flutter, Go, and gRPC for personalized travel suggestions, rich insights, and offline access. |
 | beacon              | [Link](https://github.com/CCExtractor/beacon) | Flutter application to share location with a group. |
-| Flight search      | [Link](https://github.com/MarcinusX/flutter_ui_challenge_flight_search) | Flight search app. |
 
 ### Education
 
@@ -425,6 +424,7 @@ No projects.
 | flutter_deer             | [Link](https://github.com/simplezhli/flutter_deer)              | This project is an exercise in learning Flutter for personal growth and development.|
 | festapp                  | [Link](https://github.com/vkh-cr/festapp)                       | Festapp - mobile app for festivals, conferences or events. |
 | Quiz App | [Link](https://github.com/muhammad-fiaz/QuizApp-Flutter) | A simple Quiz Application UI template |
+| Flight search | [Link](https://github.com/MarcinusX/flutter_ui_challenge_flight_search) | Flight search UI template |
 
 ### Others
 
