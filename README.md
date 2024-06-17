@@ -412,7 +412,7 @@ No projects.
 | elisha            | [Link](https://github.com/31Carlton7/elisha)                     | An Offline Bible & Church App for iOS & Android.  |
 | Prayer | [Link](https://github.com/theagapefoundation/prayer) | A Christian prayer app. |
 | eQuran | [Link](https://github.com/ya27hw/equran_app) | An app for reading the Holy Quran. |
-| Auragita | [Link](https://github.com/tushal13/Auragita)   | Auragita is a comprehensive learning app for the Bhagavad Gita, providing users with access to all chapters and verses in both English and Hindi translations. |
+| Auragita | [Link](https://github.com/tushal13/Auragita) | Bhagavad Gita learning app |
 
 
 ### Boilerplate
