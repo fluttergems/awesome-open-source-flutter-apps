@@ -299,7 +299,7 @@ No projects.
 | RSSAid             | [Link](https://github.com/LeetaoGoooo/RSSAid)            | RSSAid is a complementary app for RSSHub built with Flutter |
 | FlutterNewsApp | [Link](https://github.com/theindianappguy/FlutterNewsApp)| A Flutter news app which utilizes NewsApi Org. |
 | News App Flutter | [Link](https://github.com/j-j-gajjar/FLUTTER_NewsApp) | Live news app with search functionality |
-| Flews                | [Link](https://github.com/jbarr21/flews)   | A news client written in Flutter that displays top stories from Hacker News, Reddit's r/AndroidDev, Imgur's most viral, and GitHub top Java repos.  |
+| Flews | [Link](https://github.com/jbarr21/flews) | A news client displaying top stories from Hacker News, Reddit's r/AndroidDev, Imgur's most viral, and GitHub top Java repos |
 
 ### Chat & Messaging
 
