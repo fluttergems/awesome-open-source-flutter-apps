@@ -325,6 +325,7 @@ No projects.
 | talawa         | [Link](https://github.com/PalisadoesFoundation/talawa) | Community Organization Management Software. |
 | Resonate       | [Link](https://github.com/AOSSIE-Org/Resonate)         | Clubhouse, but Open Source. A social voice platform. |
 | Fwitter | [Link](https://github.com/TheAlphamerc/flutter_twitter_clone) | Fully functional Twitter clone built using Flutter, Firebase realtime database and storage |
+| Fluttergram | [Link](https://github.com/mdanics/fluttergram) | An Instagram clone written in Flutter using Firebase/Firestore |
 
 ### Network, Bluetooth & Sharing
 
