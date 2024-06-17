@@ -202,6 +202,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Awashyaak                     | [Link](https://github.com/TaRun1369/Awashyaak) | Open Source Project for Speedy Health Care delivery |
 | MedRem | [Link](https://github.com/Almasx/MedRem) | Medicine reminder app |
 | StudyU | [Link](https://github.com/hpi-studyu/studyu) | An application to digitally specify, publish, and conduct medical trials. |
+| DigiDiagnose | [Link](https://github.com/prashant07ag/HealthTestBookingApp) | An application that simplifies diagnostic test booking and lab appointments. |
 
 ### Travel & Navigation
 
