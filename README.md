@@ -426,6 +426,7 @@ No projects.
 | flutter_deer             | [Link](https://github.com/simplezhli/flutter_deer)              | This project is an exercise in learning Flutter for personal growth and development.|
 | festapp                  | [Link](https://github.com/vkh-cr/festapp)                       | Festapp - mobile app for festivals, conferences or events. |
 | Quiz App | [Link](https://github.com/muhammad-fiaz/QuizApp-Flutter) | A simple Quiz Application UI template |
+| Flight search | [Link](https://github.com/MarcinusX/flutter_ui_challenge_flight_search) | Flight search UI template |
 
 ### Others
 
