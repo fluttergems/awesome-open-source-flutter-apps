@@ -430,7 +430,7 @@ No projects.
 | festapp                  | [Link](https://github.com/vkh-cr/festapp)                       | Festapp - mobile app for festivals, conferences or events. |
 | Quiz App | [Link](https://github.com/muhammad-fiaz/QuizApp-Flutter) | A simple Quiz Application UI template |
 | Flight search | [Link](https://github.com/MarcinusX/flutter_ui_challenge_flight_search) | Flight search UI template |
-| Boilerplate_project | [Link](https://github.com/zubairehman/flutter_boilerplate_project) | A boilerplate project created using MobX and Provider. |
+| Boilerplate | [Link](https://github.com/zubairehman/flutter_boilerplate_project) | A boilerplate project created using MobX and Provider. |
 
 ### Others
 
