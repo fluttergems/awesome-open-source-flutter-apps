@@ -202,6 +202,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Awashyaak                     | [Link](https://github.com/TaRun1369/Awashyaak) | Open Source Project for Speedy Health Care delivery |
 | MedRem | [Link](https://github.com/Almasx/MedRem) | Medicine reminder app |
 | StudyU | [Link](https://github.com/hpi-studyu/studyu) | An application to digitally specify, publish, and conduct medical trials. |
+| DigiDiagnose | [Link](https://github.com/prashant07ag/HealthTestBookingApp) | An application that simplifies diagnostic test booking and lab appointments. |
 
 ### Travel & Navigation
 
@@ -429,6 +430,7 @@ No projects.
 | festapp                  | [Link](https://github.com/vkh-cr/festapp)                       | Festapp - mobile app for festivals, conferences or events. |
 | Quiz App | [Link](https://github.com/muhammad-fiaz/QuizApp-Flutter) | A simple Quiz Application UI template |
 | Flight search | [Link](https://github.com/MarcinusX/flutter_ui_challenge_flight_search) | Flight search UI template |
+| Boilerplate | [Link](https://github.com/zubairehman/flutter_boilerplate_project) | A boilerplate project created using MobX and Provider. |
 
 ### Others
 
