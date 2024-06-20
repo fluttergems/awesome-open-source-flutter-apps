@@ -129,6 +129,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Arcade Plaza | [Link](https://github.com/aryamangodara/Arcade-Plaza) | App that let's you play free more than 55 games for free. |
 | Sudoku | [Link](https://github.com/einsitang/sudoku-flutter) | An open source Sudoku game. |
 | Math Matrix | [Link](https://github.com/jaysavsani07/math-metrix) | Math puzzle game. |
+| Flutter Tetris | [Link](https://github.com/boyan01/flutter-tetris) | A Tetris game. |
 
 ### Sports
 
