@@ -131,6 +131,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Math Matrix | [Link](https://github.com/jaysavsani07/math-metrix) | Math puzzle game. |
 | Hangman | [Link](https://github.com/tavasolireza/Hangman-Game-Flutter) | Hangman game. |
 | Flutter Tetris | [Link](https://github.com/boyan01/flutter-tetris) | A Tetris game. |
+| dino_run               | [Link](https://github.com/ufrshubham/dino_run)                       | A simple Dino Run game built with Flutter.                        |
 
 ### Sports
 
