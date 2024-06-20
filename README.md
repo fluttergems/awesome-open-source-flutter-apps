@@ -466,6 +466,7 @@ No projects.
 | Venom | [Link](https://github.com/navirobayo/venom) | App to keep track of the fuel consumption and expenses of your vehicles. |
 | Criminal Catcher | [Link](https://github.com/siddharth424/crime-detection) | Online filing of FIR/complaint with GPS location, photos, and videos. |
 | EncryptX | [Link](https://github.com/musfique113/EncryptX) | Application that provides a convenient way to encrypt plain text. |
+| Browser App | [Link](https://github.com/pichillilorenzo/flutter_browser_app) | Full-Featured Mobile Browser App. |
 
 
 
