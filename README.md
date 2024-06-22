@@ -156,6 +156,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | KitchenOwl                     | [Link](https://github.com/TomBursch/kitchenowl) | KitchenOwl is a self-hosted grocery list and recipe manager. Easily add items to your shopping list before you go shopping. You can also create recipes and add items based on what you want to cook.  |
 | Flutter-Delivery-App | [Link](https://github.com/Frave07/Flutter-Delivery-App) | A food delivery app. |
 | Open Food Facts | [Link](https://github.com/openfoodfacts/smooth-app) | App to scan, discover & compare over 3 million food products. |
+| Food Delivery App UI | [Link](https://github.com/Tarikul711/flutter-food-delivery-app-ui) | Food ordering & delivery application UI. |
 
 ### Books
 
