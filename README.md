@@ -131,6 +131,8 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Math Matrix | [Link](https://github.com/jaysavsani07/math-metrix) | Math puzzle game. |
 | Hangman | [Link](https://github.com/tavasolireza/Hangman-Game-Flutter) | Hangman game. |
 | Flutter Tetris | [Link](https://github.com/boyan01/flutter-tetris) | A Tetris game. |
+| Club Penguin | [Link](https://github.com/Shadow60539/club_penguin_game) | A multiplayer game involving penguins and anonymous chat in a virtual 2D world. |
+| Dino Run | [Link](https://github.com/ufrshubham/dino_run) | A 2D infinite side scroller mobile game made using Flame engine. |
 | BananaMon | [Link](https://github.com/hotstu/flutter_BananaMon) | A bombman-like game. |
 
 ### Sports
