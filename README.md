@@ -85,7 +85,6 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | EcoMateSG | [Link](https://github.com/jicsontoh/EcoMateSG) | EcoMateSG helps users make environmentally conscious choices and adopt a sustainable lifestyle. |
 | Meditation | [Link](https://github.com/Re4ch-Jay/Meditation_App) | An app to make you calm, relieved, relaxed and focused. |
 | Habo | [Link](https://github.com/xpavle00/Habo) |  A habit tracker app that helps you create and maintain healthy habits for a better life. |
-| Food Delivery App | [Link](https://github.com/Tarikul711/flutter-food-delivery-app-ui) | A small attempt to make an Food delivery app user interface in Flutter for Android and iOS. |
 
 ### Business
 
@@ -155,6 +154,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | KitchenOwl                     | [Link](https://github.com/TomBursch/kitchenowl) | KitchenOwl is a self-hosted grocery list and recipe manager. Easily add items to your shopping list before you go shopping. You can also create recipes and add items based on what you want to cook.  |
 | Flutter-Delivery-App | [Link](https://github.com/Frave07/Flutter-Delivery-App) | A food delivery app. |
 | Open Food Facts | [Link](https://github.com/openfoodfacts/smooth-app) | App to scan, discover & compare over 3 million food products. |
+| Food Delivery App UI | [Link](https://github.com/Tarikul711/flutter-food-delivery-app-ui) | Food ordering & delivery application UI. |
 
 ### Books
 
