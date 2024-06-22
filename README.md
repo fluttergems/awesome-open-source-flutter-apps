@@ -295,7 +295,7 @@ No projects.
 | FlixQuest | [Link](https://github.com/BeamlakAschalew/flixquest) | App that lets users stream movies and TV shows for free. |
 | Watch | [Link](https://github.com/diptanshumahish/watch) | A movies/web series recommendation app. |
 | Inkino | [Link](https://github.com/roughike/inKino) | App for browsing movies and showtimes for Finnkino cinemas |
-| Fluttery Filmy             | [Link](https://github.com/ibhavikmakwana/Fluttery-Filmy) | 🎥 Movie app which is developed using flutter and powered by tmdb.  |
+| Fluttery Filmy | [Link](https://github.com/ibhavikmakwana/Fluttery-Filmy) | 🎥 Movie app powered by tmdb |
 
 ### News & Feed
 
