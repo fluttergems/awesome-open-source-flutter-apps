@@ -218,6 +218,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | spaced-travel-app   | [Link](https://github.com/nonybrighto/spaced-travel-app)   | Spaced is an animated travel application UI that enables users to find locations and schedule trips. |
 | trip-brain-app      | [Link](https://github.com/Pr0nE/trip-brain-app) | Travel app built with Flutter, Go, and gRPC for personalized travel suggestions, rich insights, and offline access. |
 | beacon              | [Link](https://github.com/CCExtractor/beacon) | Flutter application to share location with a group. |
+| ShareACab   | [Link](https://github.com/devclub-iitd/ShareACab)   | An app for sharing cab with college students. |
 
 ### Education
 
