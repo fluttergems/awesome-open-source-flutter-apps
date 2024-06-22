@@ -131,7 +131,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Math Matrix | [Link](https://github.com/jaysavsani07/math-metrix) | Math puzzle game. |
 | Hangman | [Link](https://github.com/tavasolireza/Hangman-Game-Flutter) | Hangman game. |
 | Flutter Tetris | [Link](https://github.com/boyan01/flutter-tetris) | A Tetris game. |
-| flutter_BananaMon      | [Link](https://github.com/hotstu/flutter_BananaMon?tab=readme-ov-file) | A Pokémon-inspired game built with Flutter.                       |
+| BananaMon | [Link](https://github.com/hotstu/flutter_BananaMon) | A bombman-like game. |
 
 ### Sports
 
