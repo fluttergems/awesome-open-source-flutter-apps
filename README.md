@@ -134,6 +134,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Club Penguin | [Link](https://github.com/Shadow60539/club_penguin_game) | A multiplayer game involving penguins and anonymous chat in a virtual 2D world. |
 | Dino Run | [Link](https://github.com/ufrshubham/dino_run) | A 2D infinite side scroller mobile game made using Flame engine. |
 | BananaMon | [Link](https://github.com/hotstu/flutter_BananaMon) | A bombman-like game. |
+| Plant Vs Zombie | [Link](https://github.com/X-SLAYER/plants-vs-zombie-game-flutter) | Simple plants vs zombies game in flutter |
 
 ### Sports
 
