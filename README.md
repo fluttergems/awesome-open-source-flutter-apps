@@ -48,7 +48,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | log_book                   | [Link](https://github.com/DonnC/log_book)                           | An internship log book desktop app |
 | pomodoro-session           | [Link](https://github.com/jashdubal/pomodoro-session)               | Helps users track work sessions using the Pomodoro Technique |
 | pmdr                       | [Link](https://github.com/aricodeine/pmdr)                          | A Pomodoro App |
-| Time Cop | [Link](https://github.com/hamaluik/timecop) | A time tracking app that respects your privacy and gets the job done without getting too fancy. |
+| Time Cop | [Link](https://github.com/hamaluik/timecop) | A privacy first time tracking app. |
 
 ### Finance
 
