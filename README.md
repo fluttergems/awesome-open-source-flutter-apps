@@ -135,6 +135,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Dino Run | [Link](https://github.com/ufrshubham/dino_run) | A 2D infinite side scroller mobile game made using Flame engine. |
 | BananaMon | [Link](https://github.com/hotstu/flutter_BananaMon) | A bombman-like game. |
 | Fruit Ninja | [Link](https://github.com/flutter-clutter/flutter-fruit-ninja-clone) | A clone of the Fruit Ninja game. |
+| Dinosaur Game | [Link](https://github.com/HeveshL/flutter-dinosaur) | A simple chrome dinosaur game. |
 
 ### Sports
 
