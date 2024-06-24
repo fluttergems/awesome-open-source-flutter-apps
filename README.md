@@ -104,7 +104,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | pstube           | [Link](https://github.com/prateekmedia/pstube)             | Watch and download videos without ads |
 | Blink Comparison | [Link](https://github.com/proninyaroslav/blink-comparison) | Simplifies comparing photos of tamper-evident seals and patterns using your eyes |
 | ente             | [Link](https://github.com/ente-io/ente)                    | Fully open source, End to End Encrypted alternative to Google Photos and Apple Photos |
-| Image Editor   | [Link](https://github.com/codenameakshay/image-editor)              | open-source image-editing app for Android/iOS.  |
+| Image Editor | [Link](https://github.com/codenameakshay/image-editor) | Open source image editing app for Android/iOS. |
 
 ### Games & Fun
 
