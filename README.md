@@ -138,6 +138,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Fruit Ninja | [Link](https://github.com/flutter-clutter/flutter-fruit-ninja-clone) | A clone of the Fruit Ninja game. |
 | Dinosaur Game | [Link](https://github.com/HeveshL/flutter-dinosaur) | A simple chrome dinosaur game. |
 | Tic Tac Toe | [Link](https://github.com/Raj2503/Tic-Tac-Toe-Flutter) | Tic tac toe game. |
+| Flutter Crush | [Link](https://github.com/boeledi/flutter_crush) | Match 3 game like Candy Crush. |
 
 ### Sports
 
