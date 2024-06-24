@@ -139,7 +139,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Dinosaur Game | [Link](https://github.com/HeveshL/flutter-dinosaur) | A simple chrome dinosaur game. |
 | Tic Tac Toe | [Link](https://github.com/Raj2503/Tic-Tac-Toe-Flutter) | Tic tac toe game. |
 | Flutter Crush | [Link](https://github.com/boeledi/flutter_crush) | Match 3 game like Candy Crush. |
-| 2048 Game | [Link](https://github.com/shubhexists/2048) |2048 implemented in Flutter |
+| 2048 | [Link](https://github.com/shubhexists/2048) |2048 game. |
 
 ### Sports
 
