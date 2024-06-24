@@ -48,6 +48,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | log_book                   | [Link](https://github.com/DonnC/log_book)                           | An internship log book desktop app |
 | pomodoro-session           | [Link](https://github.com/jashdubal/pomodoro-session)               | Helps users track work sessions using the Pomodoro Technique |
 | pmdr                       | [Link](https://github.com/aricodeine/pmdr)                          | A Pomodoro App |
+| Time Cop | [Link](https://github.com/hamaluik/timecop) | A privacy first time tracking app. |
 
 ### Finance
 
@@ -200,6 +201,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | LifeSync | [Link](https://github.com/Utku-Mese/LifeSync) | App that allows users to track important factors such as nutrition, sports and water consumption. |
 | OpenNutriTracker | [Link](https://github.com/simonoppowa/OpenNutriTracker) | A calorie tracker to simplify nutritional tracking and management. |
 | Track My Indoor Workout | [Link](https://github.com/TrackMyIndoorWorkout/TrackMyIndoorWorkout) | An app for recording stationary workouts of smart fitness machines via BLE protocol. |
+| QuitSmoke | [Link](https://github.com/trizin/Quit-Smoke-App) | An app to help you quit smoking. |
 
 ### Medical
 
