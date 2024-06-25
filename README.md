@@ -49,6 +49,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | pomodoro-session           | [Link](https://github.com/jashdubal/pomodoro-session)               | Helps users track work sessions using the Pomodoro Technique |
 | pmdr                       | [Link](https://github.com/aricodeine/pmdr)                          | A Pomodoro App |
 | Time Cop | [Link](https://github.com/hamaluik/timecop) | A privacy first time tracking app. |
+| Virlow Flutter Recorder | [Link](https://github.com/virlow-voice/virlow-flutter-recorder) | An app that transcribes recorded audio and includes a text editor for editing/adding notes. |
 
 ### Finance
 
