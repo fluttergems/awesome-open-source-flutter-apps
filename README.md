@@ -154,6 +154,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Sports Team Manager | [Link](https://github.com/visheshsanghvi112/SportsTeamManagementFlutter) | A sports team management system |
 | Shoot Report | [Link](https://github.com/Alienuser/shoot-report-flutter) | App for shooting sports |
 | FitConnect | [Link](https://github.com/fitconnect-app/fitconnect-flutter-app) | App that facilitates meaningful connections among individuals through shared sports activities |
+| Flutter League | [Link](https://github.com/csuka1219/Flutter_League) | A companion app for League of Legends players to search summoners, view stats and match history, and check ongoing games. |
 
 ### Food & Drink
 
