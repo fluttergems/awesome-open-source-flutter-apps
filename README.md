@@ -49,6 +49,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | pomodoro-session           | [Link](https://github.com/jashdubal/pomodoro-session)               | Helps users track work sessions using the Pomodoro Technique |
 | pmdr                       | [Link](https://github.com/aricodeine/pmdr)                          | A Pomodoro App |
 | Time Cop | [Link](https://github.com/hamaluik/timecop) | A privacy first time tracking app. |
+| Virlow Flutter Recorder | [Link](https://github.com/virlow-voice/virlow-flutter-recorder) | An app that transcribes recorded audio and includes a text editor for editing/adding notes. |
 
 ### Finance
 
@@ -104,6 +105,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | pstube           | [Link](https://github.com/prateekmedia/pstube)             | Watch and download videos without ads |
 | Blink Comparison | [Link](https://github.com/proninyaroslav/blink-comparison) | Simplifies comparing photos of tamper-evident seals and patterns using your eyes |
 | ente             | [Link](https://github.com/ente-io/ente)                    | Fully open source, End to End Encrypted alternative to Google Photos and Apple Photos |
+| Image Editor | [Link](https://github.com/codenameakshay/image-editor) | Open source image editing app for Android/iOS. |
 
 ### Games & Fun
 
@@ -139,7 +141,8 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Dinosaur Game | [Link](https://github.com/HeveshL/flutter-dinosaur) | A simple chrome dinosaur game. |
 | Tic Tac Toe | [Link](https://github.com/Raj2503/Tic-Tac-Toe-Flutter) | Tic tac toe game. |
 | Flutter Crush | [Link](https://github.com/boeledi/flutter_crush) | Match 3 game like Candy Crush. |
-| Flutter League | [Link](https://github.com/csuka1219/Flutter_League) | A companion app for League of Legends players to search summoners, view stats and match history, and check ongoing games. |
+| 2048 | [Link](https://github.com/shubhexists/2048) |2048 game. |
+| Kunai Game | [Link](https://github.com/hzeyuan/flutter-flame-kunaiGame) | A simple Kunai game. |
 
 ### Sports
 
@@ -151,6 +154,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Sports Team Manager | [Link](https://github.com/visheshsanghvi112/SportsTeamManagementFlutter) | A sports team management system |
 | Shoot Report | [Link](https://github.com/Alienuser/shoot-report-flutter) | App for shooting sports |
 | FitConnect | [Link](https://github.com/fitconnect-app/fitconnect-flutter-app) | App that facilitates meaningful connections among individuals through shared sports activities |
+| Flutter League | [Link](https://github.com/csuka1219/Flutter_League) | A companion app for League of Legends players to search summoners, view stats and match history, and check ongoing games. |
 
 ### Food & Drink
 
