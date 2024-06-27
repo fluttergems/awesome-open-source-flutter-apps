@@ -29,7 +29,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | aidea     | [Link](https://github.com/mylxsw/aidea)                        | AIdea supports GPT and domestic LLMs Tongyi Qianwen, Wenxinyiyan, etc., and supports Stable Diffusion Wenshengtu, Tushengtu, SDXL1.0, super-resolution, and picture coloring. |
 | maid      | [Link](https://github.com/Mobile-Artificial-Intelligence/maid) | Maid is a cross-platform Flutter app for interfacing with GGUF / llama.cpp models locally, and with Ollama and OpenAI models remotely. |
 | ai_buddy  | [Link](https://github.com/yatendra2001/ai_buddy)               | Your personal free-to-use AI assistant, built with gemini & flutter. |
-| Chatgpt_flutter  | [Link](https://github.com/SnowStar0423/ChatGPT-Flutter-App)               | This is a simple version of ChatGPT in Flutter |
+| Simple ChatGPT | [Link](https://github.com/SnowStar0423/ChatGPT-Flutter-App) | ChatGPT like app in Flutter. |
 
 ### Productivity
 
