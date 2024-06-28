@@ -271,6 +271,7 @@ No projects.
 | finamp              | [Link](https://github.com/jmshrv/finamp)   | A Jellyfin music client for mobile  |
 | Flutter Music Player | [Link](https://github.com/iampawan/Flutter-Music-Player) | Music player with audio plugin to play local music files. |
 | WavyBeats | [Link](https://github.com/AssassinAguilar/WavyBeats) | A music player. |
+|Storify | [Link](https://github.com/gyeongmin-lee/Storify) | Flutter application that integrates with Spotify API |
 
 ### Utilities
 
