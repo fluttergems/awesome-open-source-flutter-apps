@@ -30,7 +30,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | maid      | [Link](https://github.com/Mobile-Artificial-Intelligence/maid) | Maid is a cross-platform Flutter app for interfacing with GGUF / llama.cpp models locally, and with Ollama and OpenAI models remotely. |
 | ai_buddy  | [Link](https://github.com/yatendra2001/ai_buddy)               | Your personal free-to-use AI assistant, built with gemini & flutter. |
 | Simple ChatGPT | [Link](https://github.com/SnowStar0423/ChatGPT-Flutter-App) | ChatGPT like app in Flutter. |
-| AI-Assistant | [Link](https://github.com/SheershBhatnagar/AI-Assistant---Flutter) | The "AI Assistant" project in Flutter harnesses the capabilities of ChatGPT and DALL-E API, creating a mobile app that offers users an interactive digital assistant |
+| AI Assistant Flutter | [Link](https://github.com/SheershBhatnagar/AI-Assistant---Flutter) | A mobile app that offers users an interactive digital assistant using ChatGPT and DALL-E API. |
 
 ### Productivity
 
