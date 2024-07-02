@@ -146,6 +146,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | 2048 | [Link](https://github.com/shubhexists/2048) |2048 game. |
 | Kunai Game | [Link](https://github.com/hzeyuan/flutter-flame-kunaiGame) | A simple Kunai game. |
 | Tetris | [Link](https://github.com/priyanshudutta04/Tetris) | A Tetris game. |
+| Minesweeper Game | [Link](https://github.com/recepsenoglu/minesweeper) | A Minesweeper game. |
 | Basketball Game | [Link](https://github.com/enoch-aik/basketball_game) | A Basketball game developed using Flame. |
 
 ### Sports
