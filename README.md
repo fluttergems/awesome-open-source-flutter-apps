@@ -148,7 +148,6 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Ludo Game | [Link](https://github.com/topics/ludo-game) | A flutter ludo game. |
 | Tetris | [Link](https://github.com/priyanshudutta04/Tetris) | A Tetris game. |
 
-
 ### Sports
 
 | Project    | Repo  | Description  |
