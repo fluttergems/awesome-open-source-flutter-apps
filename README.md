@@ -147,8 +147,6 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Kunai Game | [Link](https://github.com/hzeyuan/flutter-flame-kunaiGame) | A simple Kunai game. |
 | Suduko Game | [Link](https://github.com/einsitang/sudoku-flutter) | A sudoku flutter Game |
 | Tetris | [Link](https://github.com/priyanshudutta04/Tetris) | A Tetris game. |
-
-
 ### Sports
 
 | Project    | Repo  | Description  |
