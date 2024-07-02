@@ -30,6 +30,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | maid      | [Link](https://github.com/Mobile-Artificial-Intelligence/maid) | Maid is a cross-platform Flutter app for interfacing with GGUF / llama.cpp models locally, and with Ollama and OpenAI models remotely. |
 | ai_buddy  | [Link](https://github.com/yatendra2001/ai_buddy)               | Your personal free-to-use AI assistant, built with gemini & flutter. |
 | Simple ChatGPT | [Link](https://github.com/SnowStar0423/ChatGPT-Flutter-App) | ChatGPT like app in Flutter. |
+| AI Assistant Flutter | [Link](https://github.com/SheershBhatnagar/AI-Assistant---Flutter) | A mobile app that offers users an interactive digital assistant using ChatGPT and DALL-E API. |
 
 ### Productivity
 
@@ -145,6 +146,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | 2048 | [Link](https://github.com/shubhexists/2048) |2048 game. |
 | Kunai Game | [Link](https://github.com/hzeyuan/flutter-flame-kunaiGame) | A simple Kunai game. |
 | Suduko Game | [Link](https://github.com/einsitang/sudoku-flutter) | A sudoku flutter Game |
+| Tetris | [Link](https://github.com/priyanshudutta04/Tetris) | A Tetris game. |
 
 
 ### Sports
