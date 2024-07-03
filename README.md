@@ -148,6 +148,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Tetris | [Link](https://github.com/priyanshudutta04/Tetris) | A Tetris game. |
 | Minesweeper Game | [Link](https://github.com/recepsenoglu/minesweeper) | A Minesweeper game. |
 | Basketball Game | [Link](https://github.com/enoch-aik/basketball_game) | A Basketball game developed using Flame. |
+| Pacman | [Link](https://github.com/Raj2503/Pacman-Flutter) | Vintage Pacman Game. |
 
 ### Sports
 
