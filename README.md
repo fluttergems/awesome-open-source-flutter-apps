@@ -150,6 +150,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Basketball Game | [Link](https://github.com/enoch-aik/basketball_game) | A Basketball game developed using Flame. |
 | Pacman | [Link](https://github.com/Raj2503/Pacman-Flutter) | Vintage Pacman Game. |
 | Flappy Bird | [Link](https://github.com/moha-b/Flappy-Bird) | A game based on flutter animation. |
+| Quokka | [Link](https://github.com/LinwoodDev/Quokka) | Play games with/without internet. |
 
 ### Sports
 
