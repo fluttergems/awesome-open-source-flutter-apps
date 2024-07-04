@@ -150,7 +150,6 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Basketball Game | [Link](https://github.com/enoch-aik/basketball_game) | A Basketball game developed using Flame. |
 | Pacman | [Link](https://github.com/Raj2503/Pacman-Flutter) | Vintage Pacman Game. |
 | Flappy Bird | [Link](https://github.com/moha-b/Flappy-Bird) | A game based on flutter animation. |
-| Code-Quizzy | [Link](https://github.com/iamnijat/code-quizzy) | Coding quizzes will make your learning very enjoyable. |
 
 ### Sports
 
@@ -260,6 +259,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Orientation | [Link](https://github.com/matthewtory/trinity-orientation-2018) | An app for orientation week at Trinity College, University of Toronto. |
 | Mathematics | [Link](https://github.com/j-j-gajjar/mathematics/) | Mathematics Flutter offers a collection of mathematical functions and supports generation of MCQs, QnA PDFs & quizzes. |
 | eqTrainer | [Link](https://github.com/potatosalad775/eqTrainer) | Critical Listening Skill Training App |
+| CodeQuizzy | [Link](https://github.com/iamnijat/code-quizzy) | App to learn programming concepts using game-like challenges. |
 
 ### Graphics & Design
 
