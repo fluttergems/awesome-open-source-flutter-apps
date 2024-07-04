@@ -150,7 +150,6 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Minesweeper Game | [Link](https://github.com/recepsenoglu/minesweeper) | A Minesweeper game. |
 | Basketball Game | [Link](https://github.com/enoch-aik/basketball_game) | A Basketball game developed using Flame. |
 
-
 ### Sports
 
 | Project    | Repo  | Description  |
