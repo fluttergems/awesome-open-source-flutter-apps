@@ -152,6 +152,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Flappy-Bird | [Link](https://github.com/moha-b/Flappy-Bird) | All you have to do is touch the screen to make the bird leap as long as you avoid the barriers, you'll be OK. Depending on how long you play for, the score will be calculated. On the screen, your top score will always be displayed.|
 | Code-Quizzy | [Link](https://github.com/iamnijat/code-quizzy) | Coding quizzes will make your learning very enjoyable. |
 
+
 ### Sports
 
 | Project    | Repo  | Description  |
