@@ -152,6 +152,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Flappy Bird | [Link](https://github.com/moha-b/Flappy-Bird) | A game based on flutter animation. |
 | Quokka | [Link](https://github.com/LinwoodDev/Quokka) | Play games with/without internet. |
 | Tapit | [Link](https://github.com/webrror/tapit-flutter) | A casual finger battle game. |
+| Cocola James Game | [Link](https://github.com/aratheunseen/flutter-cocola-james-game) | A cocola james game. |
 
 ### Sports
 
