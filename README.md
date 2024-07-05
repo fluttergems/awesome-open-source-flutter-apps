@@ -376,6 +376,7 @@ No projects.
 | FlutterWeather | [Link](https://github.com/ArizArmeidi/FlutterWeather) | Weather app created using Flutter and Dart |
 | EQMonitor      | [Link](https://github.com/YumNumm/EQMonitor)          | An earthquake monitoring Application |
 | Pluvia Weather | [Link](https://github.com/SpicyChair/pluvia_weather_flutter) | A weather app with beautiful animations |
+| Flutter-Weather-App | [Link](https://github.com/Anika-2048/Flutter-Weather-App) | A basic flutter based Weather Application which displays real time weather data fetched from weatherapi.com |
 
 ### Shopping & E-commerce
 
