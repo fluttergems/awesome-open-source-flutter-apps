@@ -389,7 +389,7 @@ No projects.
 | flutter-woocommerce-app | [Link](https://github.com/woosignal/flutter-woocommerce-app)       | WooCommerce App template that uses Flutter. Integrated to work with WooCommerce stores, connect and create an IOS and Android app from Flutter for IOS and Android |
 | Grocery-App | [Link](https://github.com/Widle-Studio/Grocery-App) | Grocery Shopping App (Mobile & Web) |
 | Flutter-Complete-e-commerce  | [Link](https://github.com/afgprogrammer/Flutter-Complete-e-commerce)  |  An E-commerce app. |
-| Flutter Games  | [Link](https://github.com/rayliverified/FlutterGames)  |  A Flutter app for purchasing and renting games. |
+| Flutter Games | [Link](https://github.com/rayliverified/FlutterGames) | A Flutter app for purchasing and renting games. |
 
 ### AR & VR
 
