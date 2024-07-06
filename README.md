@@ -324,7 +324,6 @@ No projects.
 | Inkino | [Link](https://github.com/roughike/inKino) | App for browsing movies and showtimes for Finnkino cinemas |
 | Fluttery Filmy | [Link](https://github.com/ibhavikmakwana/Fluttery-Filmy) | 🎥 Movie app powered by tmdb |
 
-
 ### News & Feed
 
 | Project    | Repo  | Description  |
@@ -499,5 +498,3 @@ No projects.
 | Browser App | [Link](https://github.com/pichillilorenzo/flutter_browser_app) | Full-Featured Mobile Browser App. |
 | Blink Comparison | [Link](https://github.com/proninyaroslav/blink-comparison) | Simplifies comparing photos of tamper-evident seals and patterns using your eyes. |
 | Marvel App | [Link](https://github.com/Ansh-Rathod/Flutter-Bloc-Marvel-App) | Marvel information app with marvel API and firebase. |
-
-
