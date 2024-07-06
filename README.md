@@ -153,6 +153,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Quokka | [Link](https://github.com/LinwoodDev/Quokka) | Play games with/without internet. |
 | Tapit | [Link](https://github.com/webrror/tapit-flutter) | A casual finger battle game. |
 | Supermario game | [Link](https://github.com/DaQinShgy/flutter_game) | A Supermario game based on flutter flame engine. |
+| Doddle | [Link](https://github.com/NaserElziadna/doddle) | Doodle drawing game. |
 
 ### Sports
 
@@ -377,6 +378,7 @@ No projects.
 | FlutterWeather | [Link](https://github.com/ArizArmeidi/FlutterWeather) | Weather app created using Flutter and Dart |
 | EQMonitor      | [Link](https://github.com/YumNumm/EQMonitor)          | An earthquake monitoring Application |
 | Pluvia Weather | [Link](https://github.com/SpicyChair/pluvia_weather_flutter) | A weather app with beautiful animations |
+| Flutter Weather App | [Link](https://github.com/Anika-2048/Flutter-Weather-App) | A weather application displaying real time weather data using weatherapi. |
 
 ### Shopping & E-commerce
 
