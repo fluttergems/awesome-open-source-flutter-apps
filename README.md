@@ -323,6 +323,7 @@ No projects.
 | Watch | [Link](https://github.com/diptanshumahish/watch) | A movies/web series recommendation app. |
 | Inkino | [Link](https://github.com/roughike/inKino) | App for browsing movies and showtimes for Finnkino cinemas |
 | Fluttery Filmy | [Link](https://github.com/ibhavikmakwana/Fluttery-Filmy) | 🎥 Movie app powered by tmdb |
+| Marvel App | [Link](https://github.com/Ansh-Rathod/Flutter-Bloc-Marvel-App) | App providing information about marvel characters & movies built using Marvel Comics API and firebase. |
 
 ### News & Feed
 
@@ -497,4 +498,3 @@ No projects.
 | EncryptX | [Link](https://github.com/musfique113/EncryptX) | Application that provides a convenient way to encrypt plain text. |
 | Browser App | [Link](https://github.com/pichillilorenzo/flutter_browser_app) | Full-Featured Mobile Browser App. |
 | Blink Comparison | [Link](https://github.com/proninyaroslav/blink-comparison) | Simplifies comparing photos of tamper-evident seals and patterns using your eyes. |
-| Marvel App | [Link](https://github.com/Ansh-Rathod/Flutter-Bloc-Marvel-App) | Marvel information app with marvel API and firebase. |
