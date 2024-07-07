@@ -361,6 +361,7 @@ No projects.
 | Resonate       | [Link](https://github.com/AOSSIE-Org/Resonate)         | Clubhouse, but Open Source. A social voice platform. |
 | Fwitter | [Link](https://github.com/TheAlphamerc/flutter_twitter_clone) | Fully functional Twitter clone built using Flutter, Firebase realtime database and storage |
 | Fluttergram | [Link](https://github.com/mdanics/fluttergram) | An Instagram clone written in Flutter using Firebase/Firestore |
+| Fedi | [Link](https://github.com/Big-Fig/Fediverse.app) | Open source client for Pleroma and Mastodon social networks. |
 
 ### Network, Bluetooth & Sharing
 
