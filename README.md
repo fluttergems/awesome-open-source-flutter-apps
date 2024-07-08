@@ -98,6 +98,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | katswiri              | [Link](https://github.com/doreanbyte/katswiri)  | A crawler to find job listings and aggregate them from multiple sources  |
 | webtrit_phone         | [Link](https://github.com/WebTrit/webtrit_phone)  | WebTrit Phone application  |
 | business_light | [Link](https://github.com/ABDULKARIMALBAIK/business_light) | App providing order management, product cataloguing, payments for small business owners |
+| AppFlowy | [Link](https://github.com/AppFlowy-IO/AppFlowy) | AI collaborative workspace & an open source alternative to Notion. |
 
 ### Photo & Video
 
@@ -152,7 +153,9 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Flappy Bird | [Link](https://github.com/moha-b/Flappy-Bird) | A game based on flutter animation. |
 | Quokka | [Link](https://github.com/LinwoodDev/Quokka) | Play games with/without internet. |
 | Tapit | [Link](https://github.com/webrror/tapit-flutter) | A casual finger battle game. |
+| Minesweeper | [Link](https://github.com/recepsenoglu/minesweeper) | A Minesweeper game. |
 | Doddle | [Link](https://github.com/NaserElziadna/doddle) | Doodle drawing game. |
+| Quards | [Link](https://github.com/jeffsieu/quards) | Solitaire in Flutter. |
 
 ### Sports
 
@@ -324,6 +327,7 @@ No projects.
 | Watch | [Link](https://github.com/diptanshumahish/watch) | A movies/web series recommendation app. |
 | Inkino | [Link](https://github.com/roughike/inKino) | App for browsing movies and showtimes for Finnkino cinemas |
 | Fluttery Filmy | [Link](https://github.com/ibhavikmakwana/Fluttery-Filmy) | 🎥 Movie app powered by tmdb |
+| Marvel App | [Link](https://github.com/Ansh-Rathod/Flutter-Bloc-Marvel-App) | App providing information about marvel characters & movies built using Marvel Comics API and firebase. |
 
 ### News & Feed
 
@@ -361,6 +365,7 @@ No projects.
 | Resonate       | [Link](https://github.com/AOSSIE-Org/Resonate)         | Clubhouse, but Open Source. A social voice platform. |
 | Fwitter | [Link](https://github.com/TheAlphamerc/flutter_twitter_clone) | Fully functional Twitter clone built using Flutter, Firebase realtime database and storage |
 | Fluttergram | [Link](https://github.com/mdanics/fluttergram) | An Instagram clone written in Flutter using Firebase/Firestore |
+| Fedi | [Link](https://github.com/Big-Fig/Fediverse.app) | Open source client for Pleroma and Mastodon social networks. |
 
 ### Network, Bluetooth & Sharing
 
@@ -391,6 +396,7 @@ No projects.
 | flutter-woocommerce-app | [Link](https://github.com/woosignal/flutter-woocommerce-app)       | WooCommerce App template that uses Flutter. Integrated to work with WooCommerce stores, connect and create an IOS and Android app from Flutter for IOS and Android |
 | Grocery-App | [Link](https://github.com/Widle-Studio/Grocery-App) | Grocery Shopping App (Mobile & Web) |
 | Flutter-Complete-e-commerce  | [Link](https://github.com/afgprogrammer/Flutter-Complete-e-commerce)  |  An E-commerce app. |
+| Flutter Games | [Link](https://github.com/rayliverified/FlutterGames) | A Flutter app for purchasing and renting games. |
 
 ### AR & VR
 
@@ -499,5 +505,4 @@ No projects.
 | EncryptX | [Link](https://github.com/musfique113/EncryptX) | Application that provides a convenient way to encrypt plain text. |
 | Browser App | [Link](https://github.com/pichillilorenzo/flutter_browser_app) | Full-Featured Mobile Browser App. |
 | Blink Comparison | [Link](https://github.com/proninyaroslav/blink-comparison) | Simplifies comparing photos of tamper-evident seals and patterns using your eyes. |
-| Type| [Link](https://github.com/jeffsieu/type) | A typing test. |
-
+| Type | [Link](https://github.com/jeffsieu/type) | A typing test. |
