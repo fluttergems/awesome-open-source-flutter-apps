@@ -152,7 +152,6 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Flappy Bird | [Link](https://github.com/moha-b/Flappy-Bird) | A game based on flutter animation. |
 | Quokka | [Link](https://github.com/LinwoodDev/Quokka) | Play games with/without internet. |
 | Tapit | [Link](https://github.com/webrror/tapit-flutter) | A casual finger battle game. |
-| Type| [Link](https://github.com/jeffsieu/type) | A Type flutter game. |
 | Doddle | [Link](https://github.com/NaserElziadna/doddle) | Doodle drawing game. |
 
 ### Sports
@@ -500,4 +499,5 @@ No projects.
 | EncryptX | [Link](https://github.com/musfique113/EncryptX) | Application that provides a convenient way to encrypt plain text. |
 | Browser App | [Link](https://github.com/pichillilorenzo/flutter_browser_app) | Full-Featured Mobile Browser App. |
 | Blink Comparison | [Link](https://github.com/proninyaroslav/blink-comparison) | Simplifies comparing photos of tamper-evident seals and patterns using your eyes. |
+| Type| [Link](https://github.com/jeffsieu/type) | A typing test. |
 
