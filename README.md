@@ -155,6 +155,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Tapit | [Link](https://github.com/webrror/tapit-flutter) | A casual finger battle game. |
 | Minesweeper | [Link](https://github.com/recepsenoglu/minesweeper) | A Minesweeper game. |
 | Doddle | [Link](https://github.com/NaserElziadna/doddle) | Doodle drawing game. |
+| Quards | [Link](https://github.com/jeffsieu/quards) | Solitaire in Flutter. |
 
 ### Sports
 
