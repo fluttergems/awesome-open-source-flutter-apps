@@ -155,7 +155,6 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Quokka | [Link](https://github.com/LinwoodDev/Quokka) | Play games with/without internet. |
 | Tapit | [Link](https://github.com/webrror/tapit-flutter) | A casual finger battle game. |
 | WordlyPlus | [Link](https://github.com/Carapacik/WordlyPlus) | WordlyPlus game. |
-| Doddle | [Link](https://github.com/NaserElziadna/doddle) | Doodle drawing game. |
 | Quards | [Link](https://github.com/jeffsieu/quards) | Solitaire in Flutter. |
 
 ### Sports
