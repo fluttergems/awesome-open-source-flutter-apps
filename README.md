@@ -52,6 +52,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | pmdr                       | [Link](https://github.com/aricodeine/pmdr)                          | A Pomodoro App |
 | Time Cop | [Link](https://github.com/hamaluik/timecop) | A privacy first time tracking app. |
 | Virlow Flutter Recorder | [Link](https://github.com/virlow-voice/virlow-flutter-recorder) | An app that transcribes recorded audio and includes a text editor for editing/adding notes. |
+| Taskez | [Link](https://github.com/Davies-K/Taskez) | A productivity mobile application UI kit built with Flutter |
 
 ### Finance
 
@@ -152,7 +153,6 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Flappy Bird | [Link](https://github.com/moha-b/Flappy-Bird) | A game based on flutter animation. |
 | Quokka | [Link](https://github.com/LinwoodDev/Quokka) | Play games with/without internet. |
 | Tapit | [Link](https://github.com/webrror/tapit-flutter) | A casual finger battle game. |
-| Taskez | [Link](https://github.com/Davies-K/Taskez) | Taskez game. |
 | Doddle | [Link](https://github.com/NaserElziadna/doddle) | Doodle drawing game. |
 
 ### Sports
