@@ -456,6 +456,7 @@ No projects.
 | Prayer | [Link](https://github.com/theagapefoundation/prayer) | A Christian prayer app. |
 | eQuran | [Link](https://github.com/ya27hw/equran_app) | An app for reading the Holy Quran. |
 | Auragita | [Link](https://github.com/tushal13/Auragita) | Bhagavad Gita learning app |
+| Bhagavad Gita | [Link](https://github.com/kvmangukiya/bhagavad_gita) | App to study and explore the teachings of Bhagvat Geeta |
 
 ### Boilerplate
 
