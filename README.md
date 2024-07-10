@@ -52,7 +52,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | pmdr                       | [Link](https://github.com/aricodeine/pmdr)                          | A Pomodoro App |
 | Time Cop | [Link](https://github.com/hamaluik/timecop) | A privacy first time tracking app. |
 | Virlow Flutter Recorder | [Link](https://github.com/virlow-voice/virlow-flutter-recorder) | An app that transcribes recorded audio and includes a text editor for editing/adding notes. |
-| Taskez | [Link](https://github.com/Davies-K/Taskez) | A productivity mobile application UI kit built with Flutter |
+| Taskez | [Link](https://github.com/Davies-K/Taskez) | A productivity mobile application UI kit. |
 
 ### Finance
 
