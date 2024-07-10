@@ -79,6 +79,8 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | mmas-money-tracker | [Link](https://github.com/floranguyen0/mmas-money-tracker) | An optimized application for daily expense tracking and personal finance management |
 | Seeds Light Wallet | [Link](https://github.com/JoinSEEDS/seeds_light_wallet) | A payment platform and financial ecosystem to empower humanity and heal our planet |
 
+ eRx | [Link](https://github.com/HeveshL/eRx) | "eRx" aims to provide a technological solution that aims to solve the fundamental problems mentioned above by standardizing the transaction of prescriptions between different entities. |
+
 ### Lifestyle
 
 | Project    | Repo  | Description  |
