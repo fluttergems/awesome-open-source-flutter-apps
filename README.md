@@ -154,7 +154,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Flappy Bird | [Link](https://github.com/moha-b/Flappy-Bird) | A game based on flutter animation. |
 | Quokka | [Link](https://github.com/LinwoodDev/Quokka) | Play games with/without internet. |
 | Tapit | [Link](https://github.com/webrror/tapit-flutter) | A casual finger battle game. |
-| WordlyPlus | [Link](https://github.com/Carapacik/WordlyPlus) | WordlyPlus game. |
+| WordlyPlus | [Link](https://github.com/Carapacik/WordlyPlus) | Guess the WORD in six tries. |
 | Quards | [Link](https://github.com/jeffsieu/quards) | Solitaire in Flutter. |
 
 ### Sports
