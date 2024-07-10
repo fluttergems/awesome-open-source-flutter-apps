@@ -52,6 +52,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | pmdr                       | [Link](https://github.com/aricodeine/pmdr)                          | A Pomodoro App |
 | Time Cop | [Link](https://github.com/hamaluik/timecop) | A privacy first time tracking app. |
 | Virlow Flutter Recorder | [Link](https://github.com/virlow-voice/virlow-flutter-recorder) | An app that transcribes recorded audio and includes a text editor for editing/adding notes. |
+| Taskez | [Link](https://github.com/Davies-K/Taskez) | A productivity mobile application UI kit. |
 
 ### Finance
 
@@ -154,8 +155,10 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Flappy Bird | [Link](https://github.com/moha-b/Flappy-Bird) | A game based on flutter animation. |
 | Quokka | [Link](https://github.com/LinwoodDev/Quokka) | Play games with/without internet. |
 | Tapit | [Link](https://github.com/webrror/tapit-flutter) | A casual finger battle game. |
-| WordlyPlus | [Link](https://github.com/Carapacik/WordlyPlus) | Guess the WORD in six tries. |
+| Supermario game | [Link](https://github.com/DaQinShgy/flutter_game) | A Supermario game built using Flame. |
 | Quards | [Link](https://github.com/jeffsieu/quards) | Solitaire in Flutter. |
+| Darkness Dungeon | [Link](https://github.com/RafaelBarbosatec/darkness_dungeon) | A role playing game. |
+| WordlyPlus | [Link](https://github.com/Carapacik/WordlyPlus) | Guess the WORD in six tries. |
 
 ### Sports
 
@@ -373,6 +376,7 @@ No projects.
 |:-----------|:------|:-------------|
 |bluetooth_car | [Link](https://github.com/caibimiaokong/bluetooth_car) | A Bluetooth car control app |
 |localsend | [Link](https://github.com/localsend/localsend) | An app to securely share files and messages with nearby devices without requiring an internet connection. |
+| AirDash | [Link](https://github.com/simonbengtsson/airdash) | Transfer photos and files to any device. |
 
 ### Weather
 
