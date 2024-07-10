@@ -52,6 +52,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | pmdr                       | [Link](https://github.com/aricodeine/pmdr)                          | A Pomodoro App |
 | Time Cop | [Link](https://github.com/hamaluik/timecop) | A privacy first time tracking app. |
 | Virlow Flutter Recorder | [Link](https://github.com/virlow-voice/virlow-flutter-recorder) | An app that transcribes recorded audio and includes a text editor for editing/adding notes. |
+| Taskez | [Link](https://github.com/Davies-K/Taskez) | A productivity mobile application UI kit. |
 
 ### Finance
 
@@ -89,6 +90,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | EcoMateSG | [Link](https://github.com/jicsontoh/EcoMateSG) | EcoMateSG helps users make environmentally conscious choices and adopt a sustainable lifestyle. |
 | Meditation | [Link](https://github.com/Re4ch-Jay/Meditation_App) | An app to make you calm, relieved, relaxed and focused. |
 | Habo | [Link](https://github.com/xpavle00/Habo) |  A habit tracker app that helps you create and maintain healthy habits for a better life. |
+| One Second Diary | [Link](https://github.com/KyleKun/one_second_diary) | Minimalist video diary app. |
 
 ### Business
 
@@ -153,7 +155,8 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Flappy Bird | [Link](https://github.com/moha-b/Flappy-Bird) | A game based on flutter animation. |
 | Quokka | [Link](https://github.com/LinwoodDev/Quokka) | Play games with/without internet. |
 | Tapit | [Link](https://github.com/webrror/tapit-flutter) | A casual finger battle game. |
-| Doddle | [Link](https://github.com/NaserElziadna/doddle) | Doodle drawing game. |
+| Supermario game | [Link](https://github.com/DaQinShgy/flutter_game) | A Supermario game built using Flame. |
+| Quards | [Link](https://github.com/jeffsieu/quards) | Solitaire in Flutter. |
 | Darkness Dungeon | [Link](https://github.com/RafaelBarbosatec/darkness_dungeon) | A role playing game. |
 
 ### Sports
@@ -372,6 +375,7 @@ No projects.
 |:-----------|:------|:-------------|
 |bluetooth_car | [Link](https://github.com/caibimiaokong/bluetooth_car) | A Bluetooth car control app |
 |localsend | [Link](https://github.com/localsend/localsend) | An app to securely share files and messages with nearby devices without requiring an internet connection. |
+| AirDash | [Link](https://github.com/simonbengtsson/airdash) | Transfer photos and files to any device. |
 
 ### Weather
 
@@ -456,6 +460,7 @@ No projects.
 | Prayer | [Link](https://github.com/theagapefoundation/prayer) | A Christian prayer app. |
 | eQuran | [Link](https://github.com/ya27hw/equran_app) | An app for reading the Holy Quran. |
 | Auragita | [Link](https://github.com/tushal13/Auragita) | Bhagavad Gita learning app |
+| Bhagavad Gita | [Link](https://github.com/kvmangukiya/bhagavad_gita) | App to study and explore the teachings of Bhagvat Geeta |
 
 ### Boilerplate
 
@@ -504,3 +509,4 @@ No projects.
 | EncryptX | [Link](https://github.com/musfique113/EncryptX) | Application that provides a convenient way to encrypt plain text. |
 | Browser App | [Link](https://github.com/pichillilorenzo/flutter_browser_app) | Full-Featured Mobile Browser App. |
 | Blink Comparison | [Link](https://github.com/proninyaroslav/blink-comparison) | Simplifies comparing photos of tamper-evident seals and patterns using your eyes. |
+| Type | [Link](https://github.com/jeffsieu/type) | A typing test. |
