@@ -154,8 +154,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Flappy Bird | [Link](https://github.com/moha-b/Flappy-Bird) | A game based on flutter animation. |
 | Quokka | [Link](https://github.com/LinwoodDev/Quokka) | Play games with/without internet. |
 | Tapit | [Link](https://github.com/webrror/tapit-flutter) | A casual finger battle game. |
-| Supermario game | [Link](https://github.com/DaQinShgy/flutter_game) | A Supermario game based on flutter flame engine. |
-| Doddle | [Link](https://github.com/NaserElziadna/doddle) | Doodle drawing game. |
+| Supermario game | [Link](https://github.com/DaQinShgy/flutter_game) | A Supermario game built using Flame. |
 | Quards | [Link](https://github.com/jeffsieu/quards) | Solitaire in Flutter. |
 
 ### Sports
