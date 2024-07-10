@@ -154,7 +154,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Quokka | [Link](https://github.com/LinwoodDev/Quokka) | Play games with/without internet. |
 | Tapit | [Link](https://github.com/webrror/tapit-flutter) | A casual finger battle game. |
 | Doddle | [Link](https://github.com/NaserElziadna/doddle) | Doodle drawing game. |
-| Darkness Dungeon | [Link](https://github.com/RafaelBarbosatec/darkness_dungeon) | Role Playing Game. |
+| Darkness Dungeon | [Link](https://github.com/RafaelBarbosatec/darkness_dungeon) | A role playing game. |
 
 ### Sports
 
