@@ -154,8 +154,6 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Flappy Bird | [Link](https://github.com/moha-b/Flappy-Bird) | A game based on flutter animation. |
 | Quokka | [Link](https://github.com/LinwoodDev/Quokka) | Play games with/without internet. |
 | Tapit | [Link](https://github.com/webrror/tapit-flutter) | A casual finger battle game. |
-| Cocola James Game | [Link](https://github.com/aratheunseen/flutter-cocola-james-game) | An educative game built with flutter |
-| Doddle | [Link](https://github.com/NaserElziadna/doddle) | Doodle drawing game. |
 | Quards | [Link](https://github.com/jeffsieu/quards) | Solitaire in Flutter. |
 
 ### Sports
@@ -267,6 +265,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Mathematics | [Link](https://github.com/j-j-gajjar/mathematics/) | Mathematics Flutter offers a collection of mathematical functions and supports generation of MCQs, QnA PDFs & quizzes. |
 | eqTrainer | [Link](https://github.com/potatosalad775/eqTrainer) | Critical Listening Skill Training App |
 | CodeQuizzy | [Link](https://github.com/iamnijat/code-quizzy) | App to learn programming concepts using game-like challenges. |
+| Cocola James | [Link](https://github.com/aratheunseen/flutter-cocola-james-game) | An educational game that gives a brief overview of James Webb Space Telescope. |
 
 ### Graphics & Design
 
