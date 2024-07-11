@@ -378,6 +378,7 @@ No projects.
 |bluetooth_car | [Link](https://github.com/caibimiaokong/bluetooth_car) | A Bluetooth car control app |
 |localsend | [Link](https://github.com/localsend/localsend) | An app to securely share files and messages with nearby devices without requiring an internet connection. |
 | AirDash | [Link](https://github.com/simonbengtsson/airdash) | Transfer photos and files to any device. |
+| NetworkArch | [Link](https://github.com/ivirtex/networkarch-flutter) | Network diagnostic app. |
 
 ### Weather
 
