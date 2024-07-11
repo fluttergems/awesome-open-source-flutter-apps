@@ -269,6 +269,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Mathematics | [Link](https://github.com/j-j-gajjar/mathematics/) | Mathematics Flutter offers a collection of mathematical functions and supports generation of MCQs, QnA PDFs & quizzes. |
 | eqTrainer | [Link](https://github.com/potatosalad775/eqTrainer) | Critical Listening Skill Training App |
 | CodeQuizzy | [Link](https://github.com/iamnijat/code-quizzy) | App to learn programming concepts using game-like challenges. |
+| Cocola James | [Link](https://github.com/aratheunseen/flutter-cocola-james-game) | An educational game that gives a brief overview of James Webb Space Telescope. |
 
 ### Graphics & Design
 
