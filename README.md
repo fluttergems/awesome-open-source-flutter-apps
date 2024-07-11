@@ -101,6 +101,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | webtrit_phone         | [Link](https://github.com/WebTrit/webtrit_phone)  | WebTrit Phone application  |
 | business_light | [Link](https://github.com/ABDULKARIMALBAIK/business_light) | App providing order management, product cataloguing, payments for small business owners |
 | AppFlowy | [Link](https://github.com/AppFlowy-IO/AppFlowy) | AI collaborative workspace & an open source alternative to Notion. |
+| Talawa | [Link](https://github.com/PalisadoesFoundation/talawa) | Community Organization Management Platform. |
 
 ### Photo & Video
 
