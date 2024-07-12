@@ -406,6 +406,7 @@ No projects.
 | Flutter-Complete-e-commerce  | [Link](https://github.com/afgprogrammer/Flutter-Complete-e-commerce)  |  An E-commerce app. |
 | Flutter Games | [Link](https://github.com/rayliverified/FlutterGames) | A Flutter app for purchasing and renting games. |
 | LaCoro | [Link](https://github.com/LaCoro/ConsumerFlutterApp) | A quick commerce app. |
+| FindSeat | [Link](https://github.com/KhoaSuperman/findseat) | A Flutter app for booking movie tickets. |
 
 ### AR & VR
 
