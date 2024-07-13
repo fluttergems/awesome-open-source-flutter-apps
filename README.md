@@ -407,6 +407,7 @@ No projects.
 | Flutter-Complete-e-commerce  | [Link](https://github.com/afgprogrammer/Flutter-Complete-e-commerce)  |  An E-commerce app. |
 | Flutter Games | [Link](https://github.com/rayliverified/FlutterGames) | A Flutter app for purchasing and renting games. |
 | LaCoro | [Link](https://github.com/LaCoro/ConsumerFlutterApp) | A quick commerce app. |
+| Shop App | [Link](https://github.com/tie-tan/shopapp) | An online shop for food, groceries, and medicine. The user can order, add to the cart and checkout. |
 
 ### AR & VR
 
