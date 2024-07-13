@@ -31,6 +31,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | ai_buddy  | [Link](https://github.com/yatendra2001/ai_buddy)               | Your personal free-to-use AI assistant, built with gemini & flutter. |
 | Simple ChatGPT | [Link](https://github.com/SnowStar0423/ChatGPT-Flutter-App) | ChatGPT like app in Flutter. |
 | AI Assistant Flutter | [Link](https://github.com/SheershBhatnagar/AI-Assistant---Flutter) | A mobile app that offers users an interactive digital assistant using ChatGPT and DALL-E API. |
+| AI Assistant App | [Link](https://github.com/HarshAndroid/Ai-Assistant-In-Flutter-Using-ChatGpt) | AI Chatbot, Image Generator & Language Translator App. |
 
 ### Productivity
 
@@ -238,6 +239,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | StudyU | [Link](https://github.com/hpi-studyu/studyu) | An application to digitally specify, publish, and conduct medical trials. |
 | DigiDiagnose | [Link](https://github.com/prashant07ag/HealthTestBookingApp) | An application that simplifies diagnostic test booking and lab appointments. |
 | Safe Bump | [Link](https://github.com/Safe-Bump/Safe-Bump-App) | An application to provide pregnant women and new mothers with tools and resources to manage their maternal health. |
+| eRx | [Link](https://github.com/HeveshL/eRx) | E-prescription app developed with Flutter and Firebase. |
 
 ### Travel & Navigation
 
@@ -269,6 +271,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Mathematics | [Link](https://github.com/j-j-gajjar/mathematics/) | Mathematics Flutter offers a collection of mathematical functions and supports generation of MCQs, QnA PDFs & quizzes. |
 | eqTrainer | [Link](https://github.com/potatosalad775/eqTrainer) | Critical Listening Skill Training App |
 | CodeQuizzy | [Link](https://github.com/iamnijat/code-quizzy) | App to learn programming concepts using game-like challenges. |
+| Cocola James | [Link](https://github.com/aratheunseen/flutter-cocola-james-game) | An educational game that gives a brief overview of James Webb Space Telescope. |
 | Anti-Cheat Exam App | [Link](https://github.com/prathamesh-mutkure/anti-cheat-exam-app) | App to stop cheating in online exams with AI and ML. |
 
 ### Graphics & Design
@@ -332,6 +335,7 @@ No projects.
 | Inkino | [Link](https://github.com/roughike/inKino) | App for browsing movies and showtimes for Finnkino cinemas |
 | Fluttery Filmy | [Link](https://github.com/ibhavikmakwana/Fluttery-Filmy) | 🎥 Movie app powered by tmdb |
 | Marvel App | [Link](https://github.com/Ansh-Rathod/Flutter-Bloc-Marvel-App) | App providing information about marvel characters & movies built using Marvel Comics API and firebase. |
+| FindSeat | [Link](https://github.com/KhoaSuperman/findseat) | A Flutter app for booking movie tickets. |
 
 ### News & Feed
 
@@ -378,6 +382,7 @@ No projects.
 |bluetooth_car | [Link](https://github.com/caibimiaokong/bluetooth_car) | A Bluetooth car control app |
 |localsend | [Link](https://github.com/localsend/localsend) | An app to securely share files and messages with nearby devices without requiring an internet connection. |
 | AirDash | [Link](https://github.com/simonbengtsson/airdash) | Transfer photos and files to any device. |
+| NetworkArch | [Link](https://github.com/ivirtex/networkarch-flutter) | Network diagnostic app. |
 
 ### Weather
 
@@ -402,6 +407,7 @@ No projects.
 | Grocery-App | [Link](https://github.com/Widle-Studio/Grocery-App) | Grocery Shopping App (Mobile & Web) |
 | Flutter-Complete-e-commerce  | [Link](https://github.com/afgprogrammer/Flutter-Complete-e-commerce)  |  An E-commerce app. |
 | Flutter Games | [Link](https://github.com/rayliverified/FlutterGames) | A Flutter app for purchasing and renting games. |
+| LaCoro | [Link](https://github.com/LaCoro/ConsumerFlutterApp) | A quick commerce app. |
 
 ### AR & VR
 
