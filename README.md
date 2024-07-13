@@ -314,7 +314,6 @@ No projects.
 | You | [Link](https://github.com/MDSADABWASIM/You) | The app to check what internet knows about you. |
 | Plant Disease Detector | [Link](https://github.com/root458/Plant-Disease-Detector) | App that detects a plant's disease given a photo of an affected part of the plant. |
 
-
 ### Entertainment
 
 | Project    | Repo  | Description  |
