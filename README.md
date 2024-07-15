@@ -361,6 +361,7 @@ No projects.
 | OpenPeerChat-flutter | [Link](https://github.com/AOSSIE-Org/OpenPeerChat-flutter) | Sending/relaying messages to nearby devices until the destination is reached, instead of relying on a central server. |
 | flutter-chat-demo | [Link](https://github.com/duytq94/flutter-chat-demo) | A chat app made with Flutter and Firebase that supports login with google, and chat functionalities. |
 | Flutter social chat | [Link](https://github.com/alperefesahin/flutter_social_chat) | A social chat app built using Stream, bloc & Firebase |
+| Whatsapp Clone | [Link](https://github.com/YerikAH/whatsapp-clone) | A clone of the popular messaging app WhatsApp. |
 
 ### Social Networking
 
