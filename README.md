@@ -521,3 +521,4 @@ No projects.
 | Browser App | [Link](https://github.com/pichillilorenzo/flutter_browser_app) | Full-Featured Mobile Browser App. |
 | Blink Comparison | [Link](https://github.com/proninyaroslav/blink-comparison) | Simplifies comparing photos of tamper-evident seals and patterns using your eyes. |
 | Type | [Link](https://github.com/jeffsieu/type) | A typing test. |
+| Flutter Anki Clone| [Link](https://github.com/wklausing/FAnki) | Application designed to help users learn using flashcards, which they can create, manage, and organize into different decks. |
