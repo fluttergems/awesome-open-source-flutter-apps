@@ -411,6 +411,7 @@ No projects.
 | Flutter Games | [Link](https://github.com/rayliverified/FlutterGames) | A Flutter app for purchasing and renting games. |
 | LaCoro | [Link](https://github.com/LaCoro/ConsumerFlutterApp) | A quick commerce app. |
 | Shop App | [Link](https://github.com/tie-tan/shopapp) | An online shop for food, groceries, and medicine. |
+| E-commerce App UI | [Link](https://github.com/abuanwar072/E-commerce-App-UI-Flutter) | Nice and clean Online Shop app UI by using Flutter. |
 
 ### AR & VR
 
