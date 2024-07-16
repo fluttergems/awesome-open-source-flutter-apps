@@ -243,6 +243,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | DigiDiagnose | [Link](https://github.com/prashant07ag/HealthTestBookingApp) | An application that simplifies diagnostic test booking and lab appointments. |
 | Safe Bump | [Link](https://github.com/Safe-Bump/Safe-Bump-App) | An application to provide pregnant women and new mothers with tools and resources to manage their maternal health. |
 | eRx | [Link](https://github.com/HeveshL/eRx) | E-prescription app developed with Flutter and Firebase. |
+| Doctor Appointment Application | [Link](https://github.com/Hamad-Anwar/Doctor-Appointment-Application-UI) | This app empowers users to effortlessly select doctors based on categories, engage in smooth messaging, and access detailed profiles |
 
 ### Travel & Navigation
 
