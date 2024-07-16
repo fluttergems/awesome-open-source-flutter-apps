@@ -215,6 +215,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | PicaComic          | [Link](https://github.com/wgh136/PicaComic) | A comic app built with Flutter, supporting multiple comic sources. |
 | JHenTai            | [Link](https://github.com/jiangtian616/JHenTai)    | A cross-platform app made for e-hentai & exhentai by Flutter   |
 | AnimSearch | [Link](https://github.com/ArizArmeidi/AnimSearch)  | An App for searching Anime and Manga created using Flutter and Jikan API. |
+| CrunchyAnime | [Link](https://github.com/BrunoMazzocchi/crunchyanime)  | An app that allows users to search and browse anime titles, view details, and save their favorite anime to a personalized list. |
 
 ### Health & Fitness
 
