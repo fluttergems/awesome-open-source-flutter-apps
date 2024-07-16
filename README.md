@@ -275,6 +275,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | CodeQuizzy | [Link](https://github.com/iamnijat/code-quizzy) | App to learn programming concepts using game-like challenges. |
 | Cocola James | [Link](https://github.com/aratheunseen/flutter-cocola-james-game) | An educational game that gives a brief overview of James Webb Space Telescope. |
 | Anti-Cheat Exam App | [Link](https://github.com/prathamesh-mutkure/anti-cheat-exam-app) | App to stop cheating in online exams with AI and ML. |
+| FAnki | [Link](https://github.com/wklausing/FAnki) | App designed to help users learn using flashcards. |
 
 ### Graphics & Design
 
@@ -521,4 +522,3 @@ No projects.
 | Browser App | [Link](https://github.com/pichillilorenzo/flutter_browser_app) | Full-Featured Mobile Browser App. |
 | Blink Comparison | [Link](https://github.com/proninyaroslav/blink-comparison) | Simplifies comparing photos of tamper-evident seals and patterns using your eyes. |
 | Type | [Link](https://github.com/jeffsieu/type) | A typing test. |
-| Flutter Anki Clone| [Link](https://github.com/wklausing/FAnki) | Application designed to help users learn using flashcards, which they can create, manage, and organize into different decks. |
