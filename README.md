@@ -80,6 +80,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Budgeto | [Link](https://github.com/tejasbadone/budgeto) | A money management app that allows users to split their income into customizable categories |
 | mmas-money-tracker | [Link](https://github.com/floranguyen0/mmas-money-tracker) | An optimized application for daily expense tracking and personal finance management |
 | Seeds Light Wallet | [Link](https://github.com/JoinSEEDS/seeds_light_wallet) | A payment platform and financial ecosystem to empower humanity and heal our planet |
+| eTaka | [Link](https://github.com/ssoad/etaka) | A Financial Mobile Application based on P2P Banking Concept |
 
 ### Lifestyle
 
