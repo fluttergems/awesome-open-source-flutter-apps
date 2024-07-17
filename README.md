@@ -282,7 +282,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 ### Graphics & Design
 | Project    | Repo  | Description  |
 |:-----------|:------|:-------------|
-| Flutter Graph View  | [Link](https://github.com/graph-cn/flutter_graph_view)  | An open source project which can display beautiful graph data structure, such as force-directed.   |
+| Flutter Graph View  | [Link](https://github.com/graph-cn/flutter_graph_view)  | An open source project which can display beautiful graph data structure, such as force-directed.  |
 
 
 
