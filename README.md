@@ -365,6 +365,7 @@ No projects.
 | flutter-chat-demo | [Link](https://github.com/duytq94/flutter-chat-demo) | A chat app made with Flutter and Firebase that supports login with google, and chat functionalities. |
 | Flutter social chat | [Link](https://github.com/alperefesahin/flutter_social_chat) | A social chat app built using Stream, bloc & Firebase |
 | Whatsapp Clone | [Link](https://github.com/YerikAH/whatsapp-clone) | A UI clone of WhatsApp. |
+| RSA Encryption Flutter | [Link](https://github.com/vellt/RSA-Encryption-Flutter) | Make sensitive conversations safe. Give your conversation partner your public key to encrypt the message for you, which only you can decrypt. |
 
 ### Social Networking
 
