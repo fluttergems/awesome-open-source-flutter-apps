@@ -341,7 +341,7 @@ No projects.
 | Fluttery Filmy | [Link](https://github.com/ibhavikmakwana/Fluttery-Filmy) | 🎥 Movie app powered by tmdb |
 | Marvel App | [Link](https://github.com/Ansh-Rathod/Flutter-Bloc-Marvel-App) | App providing information about marvel characters & movies built using Marvel Comics API and firebase. |
 | FindSeat | [Link](https://github.com/KhoaSuperman/findseat) | A Flutter app for booking movie tickets. |
-| Flutter_getx_the_moviedb | [Link](https://github.com/hazarbelge/flutter_getx_the_moviedb) | The Movie DB App with GetX State, Route & Dependency Managements |
+| Movie DB | [Link](https://github.com/hazarbelge/flutter_getx_the_moviedb) | The Movie DB App with GetX State Management. |
 
 
 ### News & Feed
