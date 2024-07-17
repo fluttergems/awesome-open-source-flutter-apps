@@ -82,6 +82,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Seeds Light Wallet | [Link](https://github.com/JoinSEEDS/seeds_light_wallet) | A payment platform and financial ecosystem to empower humanity and heal our planet |
 | eTaka | [Link](https://github.com/ssoad/etaka) | A Financial Mobile Application based on P2P Banking Concept |
 | Invoice Pdf | [Link](https://github.com/sabikrahat/invoice_pdf_generate) | App to generate invoices in PDF format |
+| Bill Splitter | [Link](https://github.com/Rahul-Sharma-Github/Bill_Splitter_App) | Simple way to split a bill amongst friends |
 
 ### Lifestyle
 
@@ -526,3 +527,4 @@ No projects.
 | Browser App | [Link](https://github.com/pichillilorenzo/flutter_browser_app) | Full-Featured Mobile Browser App. |
 | Blink Comparison | [Link](https://github.com/proninyaroslav/blink-comparison) | Simplifies comparing photos of tamper-evident seals and patterns using your eyes. |
 | Type | [Link](https://github.com/jeffsieu/type) | A typing test. |
+
