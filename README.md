@@ -280,8 +280,11 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | FAnki | [Link](https://github.com/wklausing/FAnki) | App designed to help users learn using flashcards. |
 
 ### Graphics & Design
+| Project    | Repo  | Description  |
+|:-----------|:------|:-------------|
+| Flutter Graph View  | [Link](https://github.com/graph-cn/flutter_graph_view)  | An open source project which can display beautiful graph data structure, such as force-directed.   |
 
-No projects.
+
 
 ### Music
 
