@@ -300,6 +300,7 @@ No projects.
 | Flutter Music Player | [Link](https://github.com/iampawan/Flutter-Music-Player) | Music player with audio plugin to play local music files. |
 | WavyBeats | [Link](https://github.com/AssassinAguilar/WavyBeats) | A music player. |
 | Storify | [Link](https://github.com/gyeongmin-lee/Storify) | Flutter app to add captions to songs in your Spotify playlists. |
+| Marina.Moda | [Link](https://github.com/sorydima/Marina.Moda-) |  A decentralized music streaming service powered by artificial intelligence made by flutter. |
 
 ### Utilities
 
