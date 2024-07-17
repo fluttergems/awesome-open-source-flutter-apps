@@ -283,7 +283,9 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 
 ### Graphics & Design
 
-No projects.
+| Project    | Repo  | Description  |
+|:-----------|:------|:-------------|
+| Quill | [Link](https://github.com/singerdmx/flutter-quill)  | Quill is a rich text editor built for the modern Android, iOS, web and desktop platforms.|
 
 ### Music
 
