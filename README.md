@@ -55,6 +55,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Time Cop | [Link](https://github.com/hamaluik/timecop) | A privacy first time tracking app. |
 | Virlow Flutter Recorder | [Link](https://github.com/virlow-voice/virlow-flutter-recorder) | An app that transcribes recorded audio and includes a text editor for editing/adding notes. |
 | Taskez | [Link](https://github.com/Davies-K/Taskez) | A productivity mobile application UI kit. |
+| Todoey | [Link](https://github.com/Coffee-Expert/Todoey) | A simple To-do app. |
 | NetworkArch   | [Link](https://github.com/ivirtexnetworkarch-flutter)  | NetworkArch is an Flutter app, that allows to diagnose Internet connections, discover details about Wi-Fi & Cellular networks and use many network-oriented tools |
 
 ### Finance
@@ -217,6 +218,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | PicaComic          | [Link](https://github.com/wgh136/PicaComic) | A comic app built with Flutter, supporting multiple comic sources. |
 | JHenTai            | [Link](https://github.com/jiangtian616/JHenTai)    | A cross-platform app made for e-hentai & exhentai by Flutter   |
 | AnimSearch | [Link](https://github.com/ArizArmeidi/AnimSearch)  | An App for searching Anime and Manga created using Flutter and Jikan API. |
+| CrunchyAnime | [Link](https://github.com/BrunoMazzocchi/crunchyanime)  | An app that allows users to search and browse anime titles, view details, and save their favorite anime to a personalized list. |
 
 ### Health & Fitness
 
