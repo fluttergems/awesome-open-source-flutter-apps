@@ -55,6 +55,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Time Cop | [Link](https://github.com/hamaluik/timecop) | A privacy first time tracking app. |
 | Virlow Flutter Recorder | [Link](https://github.com/virlow-voice/virlow-flutter-recorder) | An app that transcribes recorded audio and includes a text editor for editing/adding notes. |
 | Taskez | [Link](https://github.com/Davies-K/Taskez) | A productivity mobile application UI kit. |
+| NetworkArch   | [Link](https://github.com/ivirtexnetworkarch-flutter)  | NetworkArch is an Flutter app, that allows to diagnose Internet connections, discover details about Wi-Fi & Cellular networks and use many network-oriented tools |
 
 ### Finance
 
