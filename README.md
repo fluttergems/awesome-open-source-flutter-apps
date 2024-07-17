@@ -55,7 +55,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Time Cop | [Link](https://github.com/hamaluik/timecop) | A privacy first time tracking app. |
 | Virlow Flutter Recorder | [Link](https://github.com/virlow-voice/virlow-flutter-recorder) | An app that transcribes recorded audio and includes a text editor for editing/adding notes. |
 | Taskez | [Link](https://github.com/Davies-K/Taskez) | A productivity mobile application UI kit. |
-| Invoice Pdf Generator | [Link](https://github.com/sabikrahat/invoice_pdf_generate) | It generates simple invoice in pdf form. |
+| Todoey | [Link](https://github.com/Coffee-Expert/Todoey) | A simple To-do app. |
 
 ### Finance
 
@@ -81,6 +81,8 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Budgeto | [Link](https://github.com/tejasbadone/budgeto) | A money management app that allows users to split their income into customizable categories |
 | mmas-money-tracker | [Link](https://github.com/floranguyen0/mmas-money-tracker) | An optimized application for daily expense tracking and personal finance management |
 | Seeds Light Wallet | [Link](https://github.com/JoinSEEDS/seeds_light_wallet) | A payment platform and financial ecosystem to empower humanity and heal our planet |
+| eTaka | [Link](https://github.com/ssoad/etaka) | A Financial Mobile Application based on P2P Banking Concept |
+| Invoice Pdf | [Link](https://github.com/sabikrahat/invoice_pdf_generate) | App to generate invoices in PDF format |
 
 ### Lifestyle
 
@@ -215,6 +217,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | PicaComic          | [Link](https://github.com/wgh136/PicaComic) | A comic app built with Flutter, supporting multiple comic sources. |
 | JHenTai            | [Link](https://github.com/jiangtian616/JHenTai)    | A cross-platform app made for e-hentai & exhentai by Flutter   |
 | AnimSearch | [Link](https://github.com/ArizArmeidi/AnimSearch)  | An App for searching Anime and Manga created using Flutter and Jikan API. |
+| CrunchyAnime | [Link](https://github.com/BrunoMazzocchi/crunchyanime)  | An app that allows users to search and browse anime titles, view details, and save their favorite anime to a personalized list. |
 
 ### Health & Fitness
 
@@ -277,6 +280,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | CodeQuizzy | [Link](https://github.com/iamnijat/code-quizzy) | App to learn programming concepts using game-like challenges. |
 | Cocola James | [Link](https://github.com/aratheunseen/flutter-cocola-james-game) | An educational game that gives a brief overview of James Webb Space Telescope. |
 | Anti-Cheat Exam App | [Link](https://github.com/prathamesh-mutkure/anti-cheat-exam-app) | App to stop cheating in online exams with AI and ML. |
+| FAnki | [Link](https://github.com/wklausing/FAnki) | App designed to help users learn using flashcards. |
 
 ### Graphics & Design
 
@@ -363,6 +367,7 @@ No projects.
 | OpenPeerChat-flutter | [Link](https://github.com/AOSSIE-Org/OpenPeerChat-flutter) | Sending/relaying messages to nearby devices until the destination is reached, instead of relying on a central server. |
 | flutter-chat-demo | [Link](https://github.com/duytq94/flutter-chat-demo) | A chat app made with Flutter and Firebase that supports login with google, and chat functionalities. |
 | Flutter social chat | [Link](https://github.com/alperefesahin/flutter_social_chat) | A social chat app built using Stream, bloc & Firebase |
+| Whatsapp Clone | [Link](https://github.com/YerikAH/whatsapp-clone) | A UI clone of WhatsApp. |
 
 ### Social Networking
 
@@ -413,6 +418,7 @@ No projects.
 | Flutter Games | [Link](https://github.com/rayliverified/FlutterGames) | A Flutter app for purchasing and renting games. |
 | LaCoro | [Link](https://github.com/LaCoro/ConsumerFlutterApp) | A quick commerce app. |
 | Shop App | [Link](https://github.com/tie-tan/shopapp) | An online shop for food, groceries, and medicine. |
+| E-commerce App UI | [Link](https://github.com/abuanwar072/E-commerce-App-UI-Flutter) | Nice and clean Online Shop app UI by using Flutter. |
 
 ### AR & VR
 
