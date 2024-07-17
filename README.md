@@ -300,6 +300,7 @@ No projects.
 | Flutter Music Player | [Link](https://github.com/iampawan/Flutter-Music-Player) | Music player with audio plugin to play local music files. |
 | WavyBeats | [Link](https://github.com/AssassinAguilar/WavyBeats) | A music player. |
 | Storify | [Link](https://github.com/gyeongmin-lee/Storify) | Flutter app to add captions to songs in your Spotify playlists. |
+| Pocket Music Player | [Link](https://github.com/joec05/pocket-music-player) | Music player app made with Flutter. |
 
 ### Utilities
 
