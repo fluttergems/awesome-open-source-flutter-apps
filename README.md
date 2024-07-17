@@ -322,6 +322,7 @@ No projects.
 | Water Me                  | [Link](https://github.com/abertschi/water-me) | A simple, open and privacy friendly plant watering reminder for Android. |
 | You | [Link](https://github.com/MDSADABWASIM/You) | The app to check what internet knows about you. |
 | Plant Disease Detector | [Link](https://github.com/root458/Plant-Disease-Detector) | App that detects a plant's disease given a photo of an affected part of the plant. |
+| Time Tracking app | [Link](https://github.com/bizz84/starter_architecture_flutter_firebase) | Time Tracking app with Flutter & Firebase. |
 
 ### Entertainment
 
