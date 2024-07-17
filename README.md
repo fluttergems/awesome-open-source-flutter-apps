@@ -278,6 +278,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Cocola James | [Link](https://github.com/aratheunseen/flutter-cocola-james-game) | An educational game that gives a brief overview of James Webb Space Telescope. |
 | Anti-Cheat Exam App | [Link](https://github.com/prathamesh-mutkure/anti-cheat-exam-app) | App to stop cheating in online exams with AI and ML. |
 | FAnki | [Link](https://github.com/wklausing/FAnki) | App designed to help users learn using flashcards. |
+| Mathematics flutter | [Link](https://github.com/j-j-gajjar/mathematics/) | Mathematics Flutter is a collection of mathematical functions and tools that can be used in a variety of applications. |
 
 ### Graphics & Design
 
