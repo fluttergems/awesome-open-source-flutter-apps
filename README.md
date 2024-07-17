@@ -365,7 +365,6 @@ No projects.
 | flutter-chat-demo | [Link](https://github.com/duytq94/flutter-chat-demo) | A chat app made with Flutter and Firebase that supports login with google, and chat functionalities. |
 | Flutter social chat | [Link](https://github.com/alperefesahin/flutter_social_chat) | A social chat app built using Stream, bloc & Firebase |
 | Whatsapp Clone | [Link](https://github.com/YerikAH/whatsapp-clone) | A UI clone of WhatsApp. |
-| RSA Encryption Flutter | [Link](https://github.com/vellt/RSA-Encryption-Flutter) | Make sensitive conversations safe. Give your conversation partner your public key to encrypt the message for you, which only you can decrypt. |
 
 ### Social Networking
 
@@ -527,3 +526,4 @@ No projects.
 | Browser App | [Link](https://github.com/pichillilorenzo/flutter_browser_app) | Full-Featured Mobile Browser App. |
 | Blink Comparison | [Link](https://github.com/proninyaroslav/blink-comparison) | Simplifies comparing photos of tamper-evident seals and patterns using your eyes. |
 | Type | [Link](https://github.com/jeffsieu/type) | A typing test. |
+| RSA Encryption | [Link](https://github.com/vellt/RSA-Encryption-Flutter) | Encryption based on asymmetric cryptography. |
