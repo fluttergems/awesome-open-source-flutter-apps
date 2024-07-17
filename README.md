@@ -340,6 +340,7 @@ No projects.
 | Inkino | [Link](https://github.com/roughike/inKino) | App for browsing movies and showtimes for Finnkino cinemas |
 | Fluttery Filmy | [Link](https://github.com/ibhavikmakwana/Fluttery-Filmy) | 🎥 Movie app powered by tmdb |
 | Marvel App | [Link](https://github.com/Ansh-Rathod/Flutter-Bloc-Marvel-App) | App providing information about marvel characters & movies built using Marvel Comics API and firebase. |
+| Get Games | [Link](https://github.com/mzsdev1/get_games) | The Flutter app that shows which free games are available in the PC world for short periods of time and which store has the cheapest game. Just click on Firebase Messaging to send notifications to users. Yes, it was made with Material 3 design. |
 | FindSeat | [Link](https://github.com/KhoaSuperman/findseat) | A Flutter app for booking movie tickets. |
 
 ### News & Feed
