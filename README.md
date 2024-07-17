@@ -341,6 +341,7 @@ No projects.
 | Fluttery Filmy | [Link](https://github.com/ibhavikmakwana/Fluttery-Filmy) | 🎥 Movie app powered by tmdb |
 | Marvel App | [Link](https://github.com/Ansh-Rathod/Flutter-Bloc-Marvel-App) | App providing information about marvel characters & movies built using Marvel Comics API and firebase. |
 | FindSeat | [Link](https://github.com/KhoaSuperman/findseat) | A Flutter app for booking movie tickets. |
+| FlutterEbookApp | [Link](https://github.com/JideGuru/FlutterEbookApp) | A simple Flutter app to Read and Download books. The Books included in the app are from the Public Domain (Expired Copyright and completely free). |
 
 ### News & Feed
 
