@@ -280,6 +280,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Cocola James | [Link](https://github.com/aratheunseen/flutter-cocola-james-game) | An educational game that gives a brief overview of James Webb Space Telescope. |
 | Anti-Cheat Exam App | [Link](https://github.com/prathamesh-mutkure/anti-cheat-exam-app) | App to stop cheating in online exams with AI and ML. |
 | FAnki | [Link](https://github.com/wklausing/FAnki) | App designed to help users learn using flashcards. |
+| Fludemy | [Link](https://github.com/felipecastrosales/fludemy) | A simple and awesome Udemy Clone made with Flutter, using sensational Responsiveness Techniques made for study and learning |
 
 ### Graphics & Design
 
