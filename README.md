@@ -344,6 +344,7 @@ No projects.
 | Fluttery Filmy | [Link](https://github.com/ibhavikmakwana/Fluttery-Filmy) | 🎥 Movie app powered by tmdb |
 | Marvel App | [Link](https://github.com/Ansh-Rathod/Flutter-Bloc-Marvel-App) | App providing information about marvel characters & movies built using Marvel Comics API and firebase. |
 | FindSeat | [Link](https://github.com/KhoaSuperman/findseat) | A Flutter app for booking movie tickets. |
+| Movie DB | [Link](https://github.com/hazarbelge/flutter_getx_the_moviedb) | The Movie DB App with GetX State Management. |
 
 ### News & Feed
 
@@ -480,6 +481,7 @@ No projects.
 | eQuran | [Link](https://github.com/ya27hw/equran_app) | An app for reading the Holy Quran. |
 | Auragita | [Link](https://github.com/tushal13/Auragita) | Bhagavad Gita learning app |
 | Bhagavad Gita | [Link](https://github.com/kvmangukiya/bhagavad_gita) | App to study and explore the teachings of Bhagvat Geeta |
+| Inni di Lode | [Link](https://github.com/theFreeman96/inni-di-lode) | A Christian Songbook for Italian Churches. |
 
 ### Boilerplate
 
@@ -529,3 +531,5 @@ No projects.
 | Browser App | [Link](https://github.com/pichillilorenzo/flutter_browser_app) | Full-Featured Mobile Browser App. |
 | Blink Comparison | [Link](https://github.com/proninyaroslav/blink-comparison) | Simplifies comparing photos of tamper-evident seals and patterns using your eyes. |
 | Type | [Link](https://github.com/jeffsieu/type) | A typing test. |
+| Car Control Dashboard | [Link](https://github.com/Hamad-Anwar/Car-Controller-Getx-Flutter) | A user-friendly car control dashboard to interact with dynamic car controls. |
+| RSA Encryption | [Link](https://github.com/vellt/RSA-Encryption-Flutter) | Encryption based on asymmetric cryptography. |
