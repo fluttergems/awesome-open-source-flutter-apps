@@ -165,6 +165,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Quards | [Link](https://github.com/jeffsieu/quards) | Solitaire in Flutter. |
 | Darkness Dungeon | [Link](https://github.com/RafaelBarbosatec/darkness_dungeon) | A role playing game. |
 | WordlyPlus | [Link](https://github.com/Carapacik/WordlyPlus) | Guess the WORD in six tries. |
+| Puzzle Game | [Link](https://github.com/AChep/15puzzle) | Solve the puzzle to win the game. |
 
 ### Sports
 
