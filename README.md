@@ -283,7 +283,9 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 
 ### Graphics & Design
 
-No projects.
+| Project    | Repo  | Description  |
+|:-----------|:------|:-------------|
+| Zerker | [Link](https://github.com/flutterkit/zerker)  | Zerker is a lightweight and powerful flutter graphic animation library |
 
 ### Music
 
