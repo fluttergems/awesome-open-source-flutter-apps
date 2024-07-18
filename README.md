@@ -83,6 +83,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Seeds Light Wallet | [Link](https://github.com/JoinSEEDS/seeds_light_wallet) | A payment platform and financial ecosystem to empower humanity and heal our planet |
 | eTaka | [Link](https://github.com/ssoad/etaka) | A Financial Mobile Application based on P2P Banking Concept |
 | Invoice Pdf | [Link](https://github.com/sabikrahat/invoice_pdf_generate) | App to generate invoices in PDF format |
+| CryptoCRIT | [Link](https://github.com/rgab1508/CryptoCRIT) | CryptoCRIT is an open-source Cryptocurrency project which facilitates a Cryptocurrency wallet for making payments. The associated Cryptocurrency is called CritCoin. |
 
 ### Lifestyle
 
