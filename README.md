@@ -164,7 +164,8 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Supermario game | [Link](https://github.com/DaQinShgy/flutter_game) | A Supermario game built using Flame. |
 | Quards | [Link](https://github.com/jeffsieu/quards) | Solitaire in Flutter. |
 | Darkness Dungeon | [Link](https://github.com/RafaelBarbosatec/darkness_dungeon) | A role playing game. |
-| WordlyPlus | [Link](https://github.com/Carapacik/WordlyPlus) | Guess the WORD in six tries. |[Link](https://github.com/ahmedgulabkhan/SnakeGameFlutter) | It is a recreation of the famous Snake Game that was present in Nokia mobiles|
+| WordlyPlus | [Link](https://github.com/Carapacik/WordlyPlus) | Guess the WORD in six tries. 
+| Snake Game|[Link](https://github.com/ahmedgulabkhan/SnakeGameFlutter) | It is a recreation of the famous Snake Game that was present in Nokia mobiles|
 
 ### Sports
 
