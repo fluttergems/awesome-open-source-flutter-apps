@@ -324,7 +324,7 @@ No projects.
 | Water Me                  | [Link](https://github.com/abertschi/water-me) | A simple, open and privacy friendly plant watering reminder for Android. |
 | You | [Link](https://github.com/MDSADABWASIM/You) | The app to check what internet knows about you. |
 | Plant Disease Detector | [Link](https://github.com/root458/Plant-Disease-Detector) | App that detects a plant's disease given a photo of an affected part of the plant. |
-| ai_radio | [Link](https://github.com/AadrianLeo/AI-Radio-App) | TAI Radio is an radio application with an AI assistant where you can command your application play song stop the song. search the radio song by categories by commands. AI assistant commands are made with the use of Alan AI. and Radio song and category are inputed from an Radio api links. This application is coded in flutter and Alan AI like API's are used. |
+| ai_radio | [Link](https://github.com/AadrianLeo/AI-Radio-App) | TAI Radio is a Flutter-based radio app with an AI assistant powered by Alan AI for hands-free control. Users can play, stop, and search songs by categories using voice commands. Radio data comes from API links. |
 
 ### Entertainment
 
