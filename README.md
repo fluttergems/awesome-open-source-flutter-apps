@@ -96,6 +96,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Meditation | [Link](https://github.com/Re4ch-Jay/Meditation_App) | An app to make you calm, relieved, relaxed and focused. |
 | Habo | [Link](https://github.com/xpavle00/Habo) |  A habit tracker app that helps you create and maintain healthy habits for a better life. |
 | One Second Diary | [Link](https://github.com/KyleKun/one_second_diary) | Minimalist video diary app. |
+| CyBear Jinni App | [Link](https://github.com/CyBear-Jinni/cbj_app) | CyBear Jinni App is the app to control CyBear Jinni Hub remotely from your Android, IOS and Web Browser. If you have ever wondered "Is there an open-source project to make my own smart home?", This is part of one. |
 
 ### Business
 
