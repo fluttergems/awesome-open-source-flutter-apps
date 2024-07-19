@@ -300,6 +300,7 @@ No projects.
 | Flutter Music Player | [Link](https://github.com/iampawan/Flutter-Music-Player) | Music player with audio plugin to play local music files. |
 | WavyBeats | [Link](https://github.com/AssassinAguilar/WavyBeats) | A music player. |
 | Storify | [Link](https://github.com/gyeongmin-lee/Storify) | Flutter app to add captions to songs in your Spotify playlists. |
+| AI Radio | [Link](https://github.com/AadrianLeo/AI-Radio-App) | Radio application with an AI assistant to play, stop, search songs by categories. |
 
 ### Utilities
 
@@ -324,7 +325,6 @@ No projects.
 | Water Me                  | [Link](https://github.com/abertschi/water-me) | A simple, open and privacy friendly plant watering reminder for Android. |
 | You | [Link](https://github.com/MDSADABWASIM/You) | The app to check what internet knows about you. |
 | Plant Disease Detector | [Link](https://github.com/root458/Plant-Disease-Detector) | App that detects a plant's disease given a photo of an affected part of the plant. |
-| ai_radio | [Link](https://github.com/AadrianLeo/AI-Radio-App) | TAI Radio is a Flutter-based radio app with an AI assistant powered by Alan AI for hands-free control. Users can play, stop, and search songs by categories using voice commands. Radio data comes from API links. |
 
 ### Entertainment
 
