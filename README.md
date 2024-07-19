@@ -304,6 +304,7 @@ No projects.
 | Storify | [Link](https://github.com/gyeongmin-lee/Storify) | Flutter app to add captions to songs in your Spotify playlists. |
 | Music Player | [Link](https://github.com/joec05/pocket-music-player) | Music player app made with Flutter. |
 | Marina.Moda | [Link](https://github.com/sorydima/Marina.Moda-) |  A decentralized music streaming service powered by AI. |
+| AI Radio | [Link](https://github.com/AadrianLeo/AI-Radio-App) | Radio application with an AI assistant to play, stop, search songs by categories. |
 
 ### Utilities
 
