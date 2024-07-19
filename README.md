@@ -303,6 +303,7 @@ No projects.
 | WavyBeats | [Link](https://github.com/AssassinAguilar/WavyBeats) | A music player. |
 | Storify | [Link](https://github.com/gyeongmin-lee/Storify) | Flutter app to add captions to songs in your Spotify playlists. |
 | Music Player | [Link](https://github.com/joec05/pocket-music-player) | Music player app made with Flutter. |
+| Marina.Moda | [Link](https://github.com/sorydima/Marina.Moda-) |  A decentralized music streaming service powered by AI. |
 
 ### Utilities
 
