@@ -355,6 +355,7 @@ No projects.
 | FlutterNewsApp | [Link](https://github.com/theindianappguy/FlutterNewsApp)| A Flutter news app which utilizes NewsApi Org. |
 | News App Flutter | [Link](https://github.com/j-j-gajjar/FLUTTER_NewsApp) | Live news app with search functionality |
 | Flews | [Link](https://github.com/jbarr21/flews) | A news client displaying top stories from Hacker News, Reddit's r/AndroidDev, Imgur's most viral, and GitHub top Java repos |
+| Hacki | [Link](https://github.com/Livinglist/Hacki) | A feature-rich Hacker News client. |
 
 ### Chat & Messaging
 
@@ -368,7 +369,6 @@ No projects.
 | flutter-chat-demo | [Link](https://github.com/duytq94/flutter-chat-demo) | A chat app made with Flutter and Firebase that supports login with google, and chat functionalities. |
 | Flutter social chat | [Link](https://github.com/alperefesahin/flutter_social_chat) | A social chat app built using Stream, bloc & Firebase |
 | Whatsapp Clone | [Link](https://github.com/YerikAH/whatsapp-clone) | A UI clone of WhatsApp. |
-| Hacki | [Link](https://github.com/Livinglist/Hacki) | A feature-rich Hacker News client. |
 
 ### Social Networking
 
