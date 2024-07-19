@@ -235,6 +235,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Track My Indoor Workout | [Link](https://github.com/TrackMyIndoorWorkout/TrackMyIndoorWorkout) | An app for recording stationary workouts of smart fitness machines via BLE protocol. |
 | QuitSmoke | [Link](https://github.com/trizin/Quit-Smoke-App) | An app to help you quit smoking. |
 | Wger Workout Manager | [Link](https://github.com/wger-project/flutter) | A digital health and fitness tracker app. |
+| Menstrual Cycle Widget | [Link](https://github.com/sandipkalola/menstrual_cycle_widget) | The 'Menstrual Cycle Widget' Widget is a comprehensive and customizable widget designed to help users to show their menstrual cycles seamlessly. |
 
 ### Medical
 
