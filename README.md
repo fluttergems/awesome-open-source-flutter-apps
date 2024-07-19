@@ -481,7 +481,7 @@ No projects.
 | Auragita | [Link](https://github.com/tushal13/Auragita) | Bhagavad Gita learning app |
 | Bhagavad Gita | [Link](https://github.com/kvmangukiya/bhagavad_gita) | App to study and explore the teachings of Bhagvat Geeta |
 | Inni di Lode | [Link](https://github.com/theFreeman96/inni-di-lode) | A Christian Songbook for Italian Churches. |
-| librum | [Link](https://github.com/aldrinzigmundv/librum) | A free and open-source Bible verse reference app. |
+| Librum | [Link](https://github.com/aldrinzigmundv/librum) | A free and open-source Bible verse reference app. |
 
 ### Boilerplate
 
