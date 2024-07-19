@@ -97,6 +97,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Habo | [Link](https://github.com/xpavle00/Habo) |  A habit tracker app that helps you create and maintain healthy habits for a better life. |
 | One Second Diary | [Link](https://github.com/KyleKun/one_second_diary) | Minimalist video diary app. |
 | Your Journal | [Link](https://github.com/VinayakHinduja/Your-Journal) | App to write daily journals digitally. |
+| Deep Waste App | [Link](https://github.com/sumn2u/deep-waste-app) | D.Waste is as an open source AI-powered app that enables users to identify the type of waste they are trying to dispose of and provides guidance on how to do so correctly. |
 
 ### Business
 
