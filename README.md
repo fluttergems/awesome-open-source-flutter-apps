@@ -184,6 +184,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Open Food Facts | [Link](https://github.com/openfoodfacts/smooth-app) | App to scan, discover & compare over 3 million food products. |
 | Food Delivery App UI | [Link](https://github.com/Tarikul711/flutter-food-delivery-app-ui) | Food ordering & delivery application UI. |
 
+
 ### Books
 
 | Project    | Repo  | Description  |
@@ -511,3 +512,4 @@ No projects.
 | Browser App | [Link](https://github.com/pichillilorenzo/flutter_browser_app) | Full-Featured Mobile Browser App. |
 | Blink Comparison | [Link](https://github.com/proninyaroslav/blink-comparison) | Simplifies comparing photos of tamper-evident seals and patterns using your eyes. |
 | Type | [Link](https://github.com/jeffsieu/type) | A typing test. |
+| Covid Care | [Link](https://github.com/j-j-gajjar/covid-care) | Treatment. Many people with COVID-19 recover with rest, plenty of fluids and care that manages symptoms.|
