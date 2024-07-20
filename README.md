@@ -506,6 +506,7 @@ No projects.
 | Quiz App | [Link](https://github.com/muhammad-fiaz/QuizApp-Flutter) | A simple Quiz Application UI template |
 | Flight search | [Link](https://github.com/MarcinusX/flutter_ui_challenge_flight_search) | Flight search UI template |
 | Boilerplate | [Link](https://github.com/zubairehman/flutter_boilerplate_project) | A boilerplate project created using MobX and Provider. |
+| MVVM app architecture | [Link](https://github.com/DeveloperRahnuma/Flutter-Mvvm-Clean-Setup) | Model–View–ViewModel (MVVM) example. |
 
 ### Others
 
@@ -543,4 +544,3 @@ No projects.
 | Type | [Link](https://github.com/jeffsieu/type) | A typing test. |
 | Car Control Dashboard | [Link](https://github.com/Hamad-Anwar/Car-Controller-Getx-Flutter) | A user-friendly car control dashboard to interact with dynamic car controls. |
 | RSA Encryption | [Link](https://github.com/vellt/RSA-Encryption-Flutter) | Encryption based on asymmetric cryptography. |
-
