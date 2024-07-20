@@ -99,7 +99,6 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | One Second Diary | [Link](https://github.com/KyleKun/one_second_diary) | Minimalist video diary app. |
 | Your Journal | [Link](https://github.com/VinayakHinduja/Your-Journal) | App to write daily journals digitally. |
 | Deep Waste | [Link](https://github.com/sumn2u/deep-waste-app) | Managing waste in fun and easy way with AI. |
-| CyBear Jinni  | [Link](https://github.com/CyBear-Jinni/cbj_app) | CyBear Jinni App is the app to control CyBear Jinni Hub remotely from your Android, IOS and Web Browser.  |
 
 ### Business
 
@@ -403,6 +402,7 @@ No projects.
 |localsend | [Link](https://github.com/localsend/localsend) | An app to securely share files and messages with nearby devices without requiring an internet connection. |
 | AirDash | [Link](https://github.com/simonbengtsson/airdash) | Transfer photos and files to any device. |
 | NetworkArch | [Link](https://github.com/ivirtex/networkarch-flutter) | Network diagnostic app. |
+| CyBear Jinni  | [Link](https://github.com/CyBear-Jinni/cbj_app) | App to control your smart devices. |
 
 ### Weather
 
