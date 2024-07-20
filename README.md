@@ -31,6 +31,8 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | ai_buddy  | [Link](https://github.com/yatendra2001/ai_buddy)               | Your personal free-to-use AI assistant, built with gemini & flutter. |
 | Simple ChatGPT | [Link](https://github.com/SnowStar0423/ChatGPT-Flutter-App) | ChatGPT like app in Flutter. |
 | AI Assistant Flutter | [Link](https://github.com/SheershBhatnagar/AI-Assistant---Flutter) | A mobile app that offers users an interactive digital assistant using ChatGPT and DALL-E API. |
+| AI Assistant App | [Link](https://github.com/HarshAndroid/Ai-Assistant-In-Flutter-Using-ChatGpt) | AI Chatbot, Image Generator & Language Translator App. |
+| Flutter Scribble | [Link](https://github.com/lahirumaramba/flutter_scribble) | Turn your scribbles into detailed images with AI. |
 
 ### Productivity
 
@@ -53,6 +55,8 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Time Cop | [Link](https://github.com/hamaluik/timecop) | A privacy first time tracking app. |
 | Virlow Flutter Recorder | [Link](https://github.com/virlow-voice/virlow-flutter-recorder) | An app that transcribes recorded audio and includes a text editor for editing/adding notes. |
 | Taskez | [Link](https://github.com/Davies-K/Taskez) | A productivity mobile application UI kit. |
+| Todoey | [Link](https://github.com/Coffee-Expert/Todoey) | A simple To-do app. |
+| Neumorphic Calculator | [Link](https://github.com/mllrr96/Neumorphic-Calculator) | An elegant and highly customizable calculator app with a beautiful neumorphic design. |
 
 ### Finance
 
@@ -78,6 +82,8 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Budgeto | [Link](https://github.com/tejasbadone/budgeto) | A money management app that allows users to split their income into customizable categories |
 | mmas-money-tracker | [Link](https://github.com/floranguyen0/mmas-money-tracker) | An optimized application for daily expense tracking and personal finance management |
 | Seeds Light Wallet | [Link](https://github.com/JoinSEEDS/seeds_light_wallet) | A payment platform and financial ecosystem to empower humanity and heal our planet |
+| eTaka | [Link](https://github.com/ssoad/etaka) | A Financial Mobile Application based on P2P Banking Concept |
+| Invoice Pdf | [Link](https://github.com/sabikrahat/invoice_pdf_generate) | App to generate invoices in PDF format |
 
 ### Lifestyle
 
@@ -91,6 +97,8 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Meditation | [Link](https://github.com/Re4ch-Jay/Meditation_App) | An app to make you calm, relieved, relaxed and focused. |
 | Habo | [Link](https://github.com/xpavle00/Habo) |  A habit tracker app that helps you create and maintain healthy habits for a better life. |
 | One Second Diary | [Link](https://github.com/KyleKun/one_second_diary) | Minimalist video diary app. |
+| Your Journal | [Link](https://github.com/VinayakHinduja/Your-Journal) | App to write daily journals digitally. |
+| Deep Waste | [Link](https://github.com/sumn2u/deep-waste-app) | Managing waste in fun and easy way with AI. |
 
 ### Business
 
@@ -101,6 +109,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | webtrit_phone         | [Link](https://github.com/WebTrit/webtrit_phone)  | WebTrit Phone application  |
 | business_light | [Link](https://github.com/ABDULKARIMALBAIK/business_light) | App providing order management, product cataloguing, payments for small business owners |
 | AppFlowy | [Link](https://github.com/AppFlowy-IO/AppFlowy) | AI collaborative workspace & an open source alternative to Notion. |
+| Talawa | [Link](https://github.com/PalisadoesFoundation/talawa) | Community Organization Management Platform. |
 
 ### Photo & Video
 
@@ -159,6 +168,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Quards | [Link](https://github.com/jeffsieu/quards) | Solitaire in Flutter. |
 | Darkness Dungeon | [Link](https://github.com/RafaelBarbosatec/darkness_dungeon) | A role playing game. |
 | WordlyPlus | [Link](https://github.com/Carapacik/WordlyPlus) | Guess the WORD in six tries. |
+| Game of Fifteen | [Link](https://github.com/AChep/15puzzle) | The Game of Fifteen or the 15 puzzle app. |
 
 ### Sports
 
@@ -212,6 +222,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | PicaComic          | [Link](https://github.com/wgh136/PicaComic) | A comic app built with Flutter, supporting multiple comic sources. |
 | JHenTai            | [Link](https://github.com/jiangtian616/JHenTai)    | A cross-platform app made for e-hentai & exhentai by Flutter   |
 | AnimSearch | [Link](https://github.com/ArizArmeidi/AnimSearch)  | An App for searching Anime and Manga created using Flutter and Jikan API. |
+| CrunchyAnime | [Link](https://github.com/BrunoMazzocchi/crunchyanime)  | An app that allows users to search and browse anime titles, view details, and save their favorite anime to a personalized list. |
 
 ### Health & Fitness
 
@@ -239,6 +250,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | StudyU | [Link](https://github.com/hpi-studyu/studyu) | An application to digitally specify, publish, and conduct medical trials. |
 | DigiDiagnose | [Link](https://github.com/prashant07ag/HealthTestBookingApp) | An application that simplifies diagnostic test booking and lab appointments. |
 | Safe Bump | [Link](https://github.com/Safe-Bump/Safe-Bump-App) | An application to provide pregnant women and new mothers with tools and resources to manage their maternal health. |
+| eRx | [Link](https://github.com/HeveshL/eRx) | E-prescription app developed with Flutter and Firebase. |
 
 ### Travel & Navigation
 
@@ -270,6 +282,10 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Mathematics | [Link](https://github.com/j-j-gajjar/mathematics/) | Mathematics Flutter offers a collection of mathematical functions and supports generation of MCQs, QnA PDFs & quizzes. |
 | eqTrainer | [Link](https://github.com/potatosalad775/eqTrainer) | Critical Listening Skill Training App |
 | CodeQuizzy | [Link](https://github.com/iamnijat/code-quizzy) | App to learn programming concepts using game-like challenges. |
+| Cocola James | [Link](https://github.com/aratheunseen/flutter-cocola-james-game) | An educational game that gives a brief overview of James Webb Space Telescope. |
+| Anti-Cheat Exam App | [Link](https://github.com/prathamesh-mutkure/anti-cheat-exam-app) | App to stop cheating in online exams with AI and ML. |
+| FAnki | [Link](https://github.com/wklausing/FAnki) | App designed to help users learn using flashcards. |
+| Fludemy | [Link](https://github.com/felipecastrosales/fludemy) | Udemy Clone. |
 
 ### Graphics & Design
 
@@ -290,6 +306,9 @@ No projects.
 | Flutter Music Player | [Link](https://github.com/iampawan/Flutter-Music-Player) | Music player with audio plugin to play local music files. |
 | WavyBeats | [Link](https://github.com/AssassinAguilar/WavyBeats) | A music player. |
 | Storify | [Link](https://github.com/gyeongmin-lee/Storify) | Flutter app to add captions to songs in your Spotify playlists. |
+| Music Player | [Link](https://github.com/joec05/pocket-music-player) | Music player app made with Flutter. |
+| Marina.Moda | [Link](https://github.com/sorydima/Marina.Moda-) |  A decentralized music streaming service powered by AI. |
+| AI Radio | [Link](https://github.com/AadrianLeo/AI-Radio-App) | Radio application with an AI assistant to play, stop, search songs by categories. |
 
 ### Utilities
 
@@ -313,7 +332,8 @@ No projects.
 | nfsee                     | [Link](https://github.com/nfcim/nfsee) | Read your Transit/Bank/ID cards on Android/iOS phone with NFSee App |
 | Water Me                  | [Link](https://github.com/abertschi/water-me) | A simple, open and privacy friendly plant watering reminder for Android. |
 | You | [Link](https://github.com/MDSADABWASIM/You) | The app to check what internet knows about you. |
-
+| Plant Disease Detector | [Link](https://github.com/root458/Plant-Disease-Detector) | App that detects a plant's disease given a photo of an affected part of the plant. |
+| FlutCrack | [Link](https://github.com/giovanni-iannaccone/FlutCrack) | App to crack hashes by comparing them against a dictionary of words. |
 
 ### Entertainment
 
@@ -332,6 +352,8 @@ No projects.
 | Inkino | [Link](https://github.com/roughike/inKino) | App for browsing movies and showtimes for Finnkino cinemas |
 | Fluttery Filmy | [Link](https://github.com/ibhavikmakwana/Fluttery-Filmy) | 🎥 Movie app powered by tmdb |
 | Marvel App | [Link](https://github.com/Ansh-Rathod/Flutter-Bloc-Marvel-App) | App providing information about marvel characters & movies built using Marvel Comics API and firebase. |
+| FindSeat | [Link](https://github.com/KhoaSuperman/findseat) | A Flutter app for booking movie tickets. |
+| Movie DB | [Link](https://github.com/hazarbelge/flutter_getx_the_moviedb) | The Movie DB App with GetX State Management. |
 
 ### News & Feed
 
@@ -343,6 +365,7 @@ No projects.
 | FlutterNewsApp | [Link](https://github.com/theindianappguy/FlutterNewsApp)| A Flutter news app which utilizes NewsApi Org. |
 | News App Flutter | [Link](https://github.com/j-j-gajjar/FLUTTER_NewsApp) | Live news app with search functionality |
 | Flews | [Link](https://github.com/jbarr21/flews) | A news client displaying top stories from Hacker News, Reddit's r/AndroidDev, Imgur's most viral, and GitHub top Java repos |
+| Hacki | [Link](https://github.com/Livinglist/Hacki) | A feature-rich Hacker News client. |
 
 ### Chat & Messaging
 
@@ -355,6 +378,7 @@ No projects.
 | OpenPeerChat-flutter | [Link](https://github.com/AOSSIE-Org/OpenPeerChat-flutter) | Sending/relaying messages to nearby devices until the destination is reached, instead of relying on a central server. |
 | flutter-chat-demo | [Link](https://github.com/duytq94/flutter-chat-demo) | A chat app made with Flutter and Firebase that supports login with google, and chat functionalities. |
 | Flutter social chat | [Link](https://github.com/alperefesahin/flutter_social_chat) | A social chat app built using Stream, bloc & Firebase |
+| Whatsapp Clone | [Link](https://github.com/YerikAH/whatsapp-clone) | A UI clone of WhatsApp. |
 
 ### Social Networking
 
@@ -378,6 +402,7 @@ No projects.
 |bluetooth_car | [Link](https://github.com/caibimiaokong/bluetooth_car) | A Bluetooth car control app |
 |localsend | [Link](https://github.com/localsend/localsend) | An app to securely share files and messages with nearby devices without requiring an internet connection. |
 | AirDash | [Link](https://github.com/simonbengtsson/airdash) | Transfer photos and files to any device. |
+| NetworkArch | [Link](https://github.com/ivirtex/networkarch-flutter) | Network diagnostic app. |
 
 ### Weather
 
@@ -402,6 +427,9 @@ No projects.
 | Grocery-App | [Link](https://github.com/Widle-Studio/Grocery-App) | Grocery Shopping App (Mobile & Web) |
 | Flutter-Complete-e-commerce  | [Link](https://github.com/afgprogrammer/Flutter-Complete-e-commerce)  |  An E-commerce app. |
 | Flutter Games | [Link](https://github.com/rayliverified/FlutterGames) | A Flutter app for purchasing and renting games. |
+| LaCoro | [Link](https://github.com/LaCoro/ConsumerFlutterApp) | A quick commerce app. |
+| Shop App | [Link](https://github.com/tie-tan/shopapp) | An online shop for food, groceries, and medicine. |
+| E-commerce App UI | [Link](https://github.com/abuanwar072/E-commerce-App-UI-Flutter) | Nice and clean Online Shop app UI by using Flutter. |
 
 ### AR & VR
 
@@ -463,6 +491,8 @@ No projects.
 | eQuran | [Link](https://github.com/ya27hw/equran_app) | An app for reading the Holy Quran. |
 | Auragita | [Link](https://github.com/tushal13/Auragita) | Bhagavad Gita learning app |
 | Bhagavad Gita | [Link](https://github.com/kvmangukiya/bhagavad_gita) | App to study and explore the teachings of Bhagvat Geeta |
+| Inni di Lode | [Link](https://github.com/theFreeman96/inni-di-lode) | A Christian Songbook for Italian Churches. |
+| Librum | [Link](https://github.com/aldrinzigmundv/librum) | A free and open-source Bible verse reference app. |
 
 ### Boilerplate
 
@@ -512,4 +542,10 @@ No projects.
 | Browser App | [Link](https://github.com/pichillilorenzo/flutter_browser_app) | Full-Featured Mobile Browser App. |
 | Blink Comparison | [Link](https://github.com/proninyaroslav/blink-comparison) | Simplifies comparing photos of tamper-evident seals and patterns using your eyes. |
 | Type | [Link](https://github.com/jeffsieu/type) | A typing test. |
+
 | Covid Care | [Link](https://github.com/j-j-gajjar/covid-care) | Treatment. Many people with COVID-19 recover with rest, plenty of fluids and care that manages symptoms.|
+
+| Car Control Dashboard | [Link](https://github.com/Hamad-Anwar/Car-Controller-Getx-Flutter) | A user-friendly car control dashboard to interact with dynamic car controls. |
+| RSA Encryption | [Link](https://github.com/vellt/RSA-Encryption-Flutter) | Encryption based on asymmetric cryptography. |
+
+
