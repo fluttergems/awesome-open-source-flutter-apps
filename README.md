@@ -57,6 +57,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Taskez | [Link](https://github.com/Davies-K/Taskez) | A productivity mobile application UI kit. |
 | Todoey | [Link](https://github.com/Coffee-Expert/Todoey) | A simple To-do app. |
 | Neumorphic Calculator | [Link](https://github.com/mllrr96/Neumorphic-Calculator) | An elegant and highly customizable calculator app with a beautiful neumorphic design. |
+| enough_mail_app | [Link](https://github.com/Enough-Software/enough_mail_app) | A Mail app for iOS, Android. |
 
 ### Finance
 
