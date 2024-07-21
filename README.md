@@ -542,10 +542,9 @@ No projects.
 | Browser App | [Link](https://github.com/pichillilorenzo/flutter_browser_app) | Full-Featured Mobile Browser App. |
 | Blink Comparison | [Link](https://github.com/proninyaroslav/blink-comparison) | Simplifies comparing photos of tamper-evident seals and patterns using your eyes. |
 | Type | [Link](https://github.com/jeffsieu/type) | A typing test. |
-
 | Covid Care | [Link](https://github.com/j-j-gajjar/covid-care) | Treatment. Many people with COVID-19 recover with rest, plenty of fluids and care that manages symptoms.|
-
 | Car Control Dashboard | [Link](https://github.com/Hamad-Anwar/Car-Controller-Getx-Flutter) | A user-friendly car control dashboard to interact with dynamic car controls. |
 | RSA Encryption | [Link](https://github.com/vellt/RSA-Encryption-Flutter) | Encryption based on asymmetric cryptography. |
+
 
 
