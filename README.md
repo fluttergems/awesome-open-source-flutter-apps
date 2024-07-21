@@ -333,7 +333,7 @@ No projects.
 | You | [Link](https://github.com/MDSADABWASIM/You) | The app to check what internet knows about you. |
 | Plant Disease Detector | [Link](https://github.com/root458/Plant-Disease-Detector) | App that detects a plant's disease given a photo of an affected part of the plant. |
 | FlutCrack | [Link](https://github.com/giovanni-iannaccone/FlutCrack) | App to crack hashes by comparing them against a dictionary of words. |
-| Convapp | [Link](https://github.com/maximoospital/Convapp) | A minimalist, lightweight and multi-platform real-time unit conversion app that keeps it simple and useful. |
+| Convapp | [Link](https://github.com/maximoospital/Convapp) | A lightweight and multi-platform real-time unit conversion app. |
 
 ### Entertainment
 
