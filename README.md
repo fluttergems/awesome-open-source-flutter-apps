@@ -403,6 +403,7 @@ No projects.
 |localsend | [Link](https://github.com/localsend/localsend) | An app to securely share files and messages with nearby devices without requiring an internet connection. |
 | AirDash | [Link](https://github.com/simonbengtsson/airdash) | Transfer photos and files to any device. |
 | NetworkArch | [Link](https://github.com/ivirtex/networkarch-flutter) | Network diagnostic app. |
+| CyBear Jinni  | [Link](https://github.com/CyBear-Jinni/cbj_app) | App to control your smart devices. |
 
 ### Weather
 
@@ -507,6 +508,7 @@ No projects.
 | Quiz App | [Link](https://github.com/muhammad-fiaz/QuizApp-Flutter) | A simple Quiz Application UI template |
 | Flight search | [Link](https://github.com/MarcinusX/flutter_ui_challenge_flight_search) | Flight search UI template |
 | Boilerplate | [Link](https://github.com/zubairehman/flutter_boilerplate_project) | A boilerplate project created using MobX and Provider. |
+| MVVM app architecture | [Link](https://github.com/DeveloperRahnuma/Flutter-Mvvm-Clean-Setup) | Model–View–ViewModel (MVVM) example. |
 
 ### Others
 
@@ -545,6 +547,3 @@ No projects.
 | Covid Care | [Link](https://github.com/j-j-gajjar/covid-care) | Treatment. Many people with COVID-19 recover with rest, plenty of fluids and care that manages symptoms.|
 | Car Control Dashboard | [Link](https://github.com/Hamad-Anwar/Car-Controller-Getx-Flutter) | A user-friendly car control dashboard to interact with dynamic car controls. |
 | RSA Encryption | [Link](https://github.com/vellt/RSA-Encryption-Flutter) | Encryption based on asymmetric cryptography. |
-
-
-
