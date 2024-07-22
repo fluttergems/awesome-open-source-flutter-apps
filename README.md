@@ -120,6 +120,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Blink Comparison | [Link](https://github.com/proninyaroslav/blink-comparison) | Simplifies comparing photos of tamper-evident seals and patterns using your eyes |
 | ente             | [Link](https://github.com/ente-io/ente)                    | Fully open source, End to End Encrypted alternative to Google Photos and Apple Photos |
 | Image Editor | [Link](https://github.com/codenameakshay/image-editor) | Open source image editing app for Android/iOS. |
+| Immich | [Link](https://github.com/immich-app/immich) | Open Source high performance self-hosted photo and video management solution. |
 
 ### Games & Fun
 
