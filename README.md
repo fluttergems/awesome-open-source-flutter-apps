@@ -286,6 +286,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | FAnki | [Link](https://github.com/wklausing/FAnki) | App designed to help users learn using flashcards. |
 | Fludemy | [Link](https://github.com/felipecastrosales/fludemy) | Udemy Clone. |
 | Cloudmate | [Link](https://github.com/lambiengcode/cloudmate-classroom-flutter) | An open-source online learning platform. |
+| Academic Master | [Link](https://github.com/amitsingh6391/Academic-master) | E-learning app where students can share doubts, chat with peers & find notes. |
 
 ### Graphics & Design
 
