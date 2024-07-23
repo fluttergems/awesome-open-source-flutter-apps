@@ -57,6 +57,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Taskez | [Link](https://github.com/Davies-K/Taskez) | A productivity mobile application UI kit. |
 | Todoey | [Link](https://github.com/Coffee-Expert/Todoey) | A simple To-do app. |
 | Neumorphic Calculator | [Link](https://github.com/mllrr96/Neumorphic-Calculator) | An elegant and highly customizable calculator app with a beautiful neumorphic design. |
+| PDF Document Generator | [Link](https://github.com/AmirBayat0/Flutter-PDF-Generator) | 🚀 Create PDF documents seamlessly with our Flutter-based app. Streamline your document generation process with a modern, intuitive interface. |
 
 ### Finance
 
