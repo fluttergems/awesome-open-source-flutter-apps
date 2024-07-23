@@ -285,7 +285,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Anti-Cheat Exam App | [Link](https://github.com/prathamesh-mutkure/anti-cheat-exam-app) | App to stop cheating in online exams with AI and ML. |
 | FAnki | [Link](https://github.com/wklausing/FAnki) | App designed to help users learn using flashcards. |
 | Fludemy | [Link](https://github.com/felipecastrosales/fludemy) | Udemy Clone. |
-| Academic Master | [Link](https://github.com/amitsingh6391/Academic-master) | E-learning app where students can share their doubts with their peers, chat with fellowmates and get notes along with video lectures. |
+| Academic Master | [Link](https://github.com/amitsingh6391/Academic-master) | E-learning app where students can share doubts, chat with peers & find notes. |
 
 ### Graphics & Design
 
