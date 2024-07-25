@@ -453,7 +453,9 @@ No projects.
 
 ### Wearables
 
-No projects.
+| Project | Repo | Description |
+|:--------|:-----|:------------|
+| Live Scores App | [Link](https://github.com/jepbura/Live-Scores-App-V3Live) | See live football and volleyball scores on your smartwatch. |
 
 ### Admin Dashboard
 
