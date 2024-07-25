@@ -453,7 +453,7 @@ No projects.
 
 | Project | Repo | Description |
 |:--------|:-----|:------------|
-| Live-Scores-App-V3Live | [Link](https://github.com/jepbura/Live-Scores-App-V3Live) | This application provides live football and volleyball scores for smartwatches such as Wear OS and Galaxy Watch. |
+| Live Scores App | [Link](https://github.com/jepbura/Live-Scores-App-V3Live) | See live football and volleyball scores on your smartwatch. |
 
 ### Admin Dashboard
 
