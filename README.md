@@ -205,7 +205,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Libro | [Link](https://github.com/infiniteoverflow/Libro) | An app to share books with people around us |
 | Openreads | [Link](https://github.com/mateusz-bak/openreads) | An app to keep track of your books. |
 | AudioBooks | [Link](https://github.com/lohanidamodar/flutter_audiobooks_app) | An audiobook listener and downloader using librivox API |
-| Openlib | [Link](https://github.com/dstark5/Openlib) | An Open source app to download and read books from shadow library. |
+
 
 
 
