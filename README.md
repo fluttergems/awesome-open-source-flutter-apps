@@ -238,7 +238,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Track My Indoor Workout | [Link](https://github.com/TrackMyIndoorWorkout/TrackMyIndoorWorkout) | An app for recording stationary workouts of smart fitness machines via BLE protocol. |
 | QuitSmoke | [Link](https://github.com/trizin/Quit-Smoke-App) | An app to help you quit smoking. |
 | Wger Workout Manager | [Link](https://github.com/wger-project/flutter) | A digital health and fitness tracker app. |
-| Calm Attack | [Link](https://github.com/FatoomRe/Calm-Attack) | Help users manage panic attacks by providing a range of exercises to help them calm their mind and body. |
+| Calm Attack | [Link](https://github.com/FatoomRe/Calm-Attack) | Helps manage panic attacks by providing a range of exercises to help them calm their mind and body. |
 
 ### Medical
 
