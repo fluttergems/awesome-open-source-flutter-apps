@@ -555,4 +555,3 @@ No projects.
 | Type | [Link](https://github.com/jeffsieu/type) | A typing test. |
 | Car Control Dashboard | [Link](https://github.com/Hamad-Anwar/Car-Controller-Getx-Flutter) | A user-friendly car control dashboard to interact with dynamic car controls. |
 | RSA Encryption | [Link](https://github.com/vellt/RSA-Encryption-Flutter) | Encryption based on asymmetric cryptography. |
-| TapAway | [Link](https://github.com/Vaibhav-kesarwani/TapAway-App) | A life-saving mobile application designed to prioritize your safety during emergencies and natural calamities. |
