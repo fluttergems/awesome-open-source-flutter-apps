@@ -290,6 +290,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Cloudmate | [Link](https://github.com/lambiengcode/cloudmate-classroom-flutter) | An open-source online learning platform. |
 | Academic Master | [Link](https://github.com/amitsingh6391/Academic-master) | E-learning app where students can share doubts, chat with peers & find notes. |
 | MatheBuddy | [Link](https://github.com/mathebuddy/mathebuddy) | A gamified learning app for higher math. |
+| Studle | [Link](https://github.com/bernardoveras/studle) | Application for students to research their data and performance at school. |
 
 ### Graphics & Design
 
