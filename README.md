@@ -387,6 +387,7 @@ No projects.
 | Flutter social chat | [Link](https://github.com/alperefesahin/flutter_social_chat) | A social chat app built using Stream, bloc & Firebase |
 | Whatsapp Clone | [Link](https://github.com/YerikAH/whatsapp-clone) | A UI clone of WhatsApp. |
 | Talktive | [Link](https://github.com/gnowoel/talktive) | An anonymous group chat app for safely talking to strangers. |
+| Ejimo | [Link](https://github.com/albemala/emoji-picker) | Comprehensive emoji and symbol picker. |
 
 ### Social Networking
 
