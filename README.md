@@ -99,7 +99,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | One Second Diary | [Link](https://github.com/KyleKun/one_second_diary) | Minimalist video diary app. |
 | Your Journal | [Link](https://github.com/VinayakHinduja/Your-Journal) | App to write daily journals digitally. |
 | Deep Waste | [Link](https://github.com/sumn2u/deep-waste-app) | Managing waste in fun and easy way with AI. |
-| LifeList App | [Link](https://github.com/Spyy004/LifeList) | Plan, Track, and Achieve Your Life Goals Effortlessly. |
+| LifeList | [Link](https://github.com/Spyy004/LifeList) | Plan, Track, and Achieve Your Life Goals Effortlessly. |
 
 ### Business
 
