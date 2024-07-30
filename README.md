@@ -56,6 +56,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Virlow Flutter Recorder | [Link](https://github.com/virlow-voice/virlow-flutter-recorder) | An app that transcribes recorded audio and includes a text editor for editing/adding notes. |
 | Taskez | [Link](https://github.com/Davies-K/Taskez) | A productivity mobile application UI kit. |
 | Todoey | [Link](https://github.com/Coffee-Expert/Todoey) | A simple To-do app. |
+| Neumorphic Calculator | [Link](https://github.com/mllrr96/Neumorphic-Calculator) | An elegant and highly customizable calculator app with a beautiful neumorphic design. |
 
 ### Finance
 
@@ -97,6 +98,8 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Habo | [Link](https://github.com/xpavle00/Habo) |  A habit tracker app that helps you create and maintain healthy habits for a better life. |
 | One Second Diary | [Link](https://github.com/KyleKun/one_second_diary) | Minimalist video diary app. |
 | Your Journal | [Link](https://github.com/VinayakHinduja/Your-Journal) | App to write daily journals digitally. |
+| Deep Waste | [Link](https://github.com/sumn2u/deep-waste-app) | Managing waste in fun and easy way with AI. |
+| LifeList | [Link](https://github.com/Spyy004/LifeList) | Plan, Track, and Achieve Your Life Goals Effortlessly. |
 
 ### Business
 
@@ -118,6 +121,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Blink Comparison | [Link](https://github.com/proninyaroslav/blink-comparison) | Simplifies comparing photos of tamper-evident seals and patterns using your eyes |
 | ente             | [Link](https://github.com/ente-io/ente)                    | Fully open source, End to End Encrypted alternative to Google Photos and Apple Photos |
 | Image Editor | [Link](https://github.com/codenameakshay/image-editor) | Open source image editing app for Android/iOS. |
+| Flutter Photography | [Link](https://github.com/afgprogrammer/Flutter-Photography-Application) | A beautiful and animated Photography Application UI. |
 
 ### Games & Fun
 
@@ -236,6 +240,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | QuitSmoke | [Link](https://github.com/trizin/Quit-Smoke-App) | An app to help you quit smoking. |
 | Wger Workout Manager | [Link](https://github.com/wger-project/flutter) | A digital health and fitness tracker app. |
 | GripGuide | [Link](https://github.com/POLYTALON/climbing-gym-app) | GripGuide is a climbing app for gyms and climbers to manage routes, track progress, and stay updated with gym news. |
+| Calm Attack | [Link](https://github.com/FatoomRe/Calm-Attack) | Helps manage panic attacks by providing a range of exercises to help them calm their mind and body. |
 
 ### Medical
 
@@ -284,6 +289,10 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Anti-Cheat Exam App | [Link](https://github.com/prathamesh-mutkure/anti-cheat-exam-app) | App to stop cheating in online exams with AI and ML. |
 | FAnki | [Link](https://github.com/wklausing/FAnki) | App designed to help users learn using flashcards. |
 | Fludemy | [Link](https://github.com/felipecastrosales/fludemy) | Udemy Clone. |
+| Cloudmate | [Link](https://github.com/lambiengcode/cloudmate-classroom-flutter) | An open-source online learning platform. |
+| Academic Master | [Link](https://github.com/amitsingh6391/Academic-master) | E-learning app where students can share doubts, chat with peers & find notes. |
+| MatheBuddy | [Link](https://github.com/mathebuddy/mathebuddy) | A gamified learning app for higher math. |
+| Studle | [Link](https://github.com/bernardoveras/studle) | Application for students to research their data and performance at school. |
 
 ### Graphics & Design
 
@@ -331,6 +340,9 @@ No projects.
 | Water Me                  | [Link](https://github.com/abertschi/water-me) | A simple, open and privacy friendly plant watering reminder for Android. |
 | You | [Link](https://github.com/MDSADABWASIM/You) | The app to check what internet knows about you. |
 | Plant Disease Detector | [Link](https://github.com/root458/Plant-Disease-Detector) | App that detects a plant's disease given a photo of an affected part of the plant. |
+| FlutCrack | [Link](https://github.com/giovanni-iannaccone/FlutCrack) | App to crack hashes by comparing them against a dictionary of words. |
+| Convapp | [Link](https://github.com/maximoospital/Convapp) | A lightweight and multi-platform real-time unit conversion app. |
+| Nyrna | [Link](https://github.com/Merrit/nyrna) | Suspend games and applications. |
 
 ### Entertainment
 
@@ -376,6 +388,8 @@ No projects.
 | flutter-chat-demo | [Link](https://github.com/duytq94/flutter-chat-demo) | A chat app made with Flutter and Firebase that supports login with google, and chat functionalities. |
 | Flutter social chat | [Link](https://github.com/alperefesahin/flutter_social_chat) | A social chat app built using Stream, bloc & Firebase |
 | Whatsapp Clone | [Link](https://github.com/YerikAH/whatsapp-clone) | A UI clone of WhatsApp. |
+| Talktive | [Link](https://github.com/gnowoel/talktive) | An anonymous group chat app for safely talking to strangers. |
+| Ejimo | [Link](https://github.com/albemala/emoji-picker) | Comprehensive emoji and symbol picker. |
 
 ### Social Networking
 
@@ -400,6 +414,7 @@ No projects.
 |localsend | [Link](https://github.com/localsend/localsend) | An app to securely share files and messages with nearby devices without requiring an internet connection. |
 | AirDash | [Link](https://github.com/simonbengtsson/airdash) | Transfer photos and files to any device. |
 | NetworkArch | [Link](https://github.com/ivirtex/networkarch-flutter) | Network diagnostic app. |
+| CyBear Jinni  | [Link](https://github.com/CyBear-Jinni/cbj_app) | App to control your smart devices. |
 
 ### Weather
 
@@ -427,6 +442,7 @@ No projects.
 | LaCoro | [Link](https://github.com/LaCoro/ConsumerFlutterApp) | A quick commerce app. |
 | Shop App | [Link](https://github.com/tie-tan/shopapp) | An online shop for food, groceries, and medicine. |
 | E-commerce App UI | [Link](https://github.com/abuanwar072/E-commerce-App-UI-Flutter) | Nice and clean Online Shop app UI by using Flutter. |
+| Libretrack | [Link](https://github.com/proninyaroslav/libretrack) | Track postal items directly on your device. |
 
 ### AR & VR
 
@@ -445,7 +461,9 @@ No projects.
 
 ### Wearables
 
-No projects.
+| Project | Repo | Description |
+|:--------|:-----|:------------|
+| Live Scores App | [Link](https://github.com/jepbura/Live-Scores-App-V3Live) | See live football and volleyball scores on your smartwatch. |
 
 ### Admin Dashboard
 
@@ -504,6 +522,7 @@ No projects.
 | Quiz App | [Link](https://github.com/muhammad-fiaz/QuizApp-Flutter) | A simple Quiz Application UI template |
 | Flight search | [Link](https://github.com/MarcinusX/flutter_ui_challenge_flight_search) | Flight search UI template |
 | Boilerplate | [Link](https://github.com/zubairehman/flutter_boilerplate_project) | A boilerplate project created using MobX and Provider. |
+| MVVM app architecture | [Link](https://github.com/DeveloperRahnuma/Flutter-Mvvm-Clean-Setup) | Model–View–ViewModel (MVVM) example. |
 
 ### Others
 
