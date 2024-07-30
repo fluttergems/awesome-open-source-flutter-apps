@@ -121,6 +121,8 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | ente             | [Link](https://github.com/ente-io/ente)                    | Fully open source, End to End Encrypted alternative to Google Photos and Apple Photos |
 | Image Editor | [Link](https://github.com/codenameakshay/image-editor) | Open source image editing app for Android/iOS. |
 | Immich | [Link](https://github.com/immich-app/immich) | Open Source high performance self-hosted photo and video management solution. |
+| Flutter Photography | [Link](https://github.com/afgprogrammer/Flutter-Photography-Application) | A beautiful and animated Photography Application UI. |
+|Openlib| [Link](https://github.com/dstark5/Openlib) | An Open source app to download and read books from shadow library (Anna’s Archive) |
 
 ### Games & Fun
 
@@ -242,6 +244,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Track My Indoor Workout | [Link](https://github.com/TrackMyIndoorWorkout/TrackMyIndoorWorkout) | An app for recording stationary workouts of smart fitness machines via BLE protocol. |
 | QuitSmoke | [Link](https://github.com/trizin/Quit-Smoke-App) | An app to help you quit smoking. |
 | Wger Workout Manager | [Link](https://github.com/wger-project/flutter) | A digital health and fitness tracker app. |
+| Calm Attack | [Link](https://github.com/FatoomRe/Calm-Attack) | Helps manage panic attacks by providing a range of exercises to help them calm their mind and body. |
 
 ### Medical
 
@@ -290,6 +293,9 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Anti-Cheat Exam App | [Link](https://github.com/prathamesh-mutkure/anti-cheat-exam-app) | App to stop cheating in online exams with AI and ML. |
 | FAnki | [Link](https://github.com/wklausing/FAnki) | App designed to help users learn using flashcards. |
 | Fludemy | [Link](https://github.com/felipecastrosales/fludemy) | Udemy Clone. |
+| Cloudmate | [Link](https://github.com/lambiengcode/cloudmate-classroom-flutter) | An open-source online learning platform. |
+| Academic Master | [Link](https://github.com/amitsingh6391/Academic-master) | E-learning app where students can share doubts, chat with peers & find notes. |
+| MatheBuddy | [Link](https://github.com/mathebuddy/mathebuddy) | A gamified learning app for higher math. |
 
 ### Graphics & Design
 
@@ -338,6 +344,8 @@ No projects.
 | You | [Link](https://github.com/MDSADABWASIM/You) | The app to check what internet knows about you. |
 | Plant Disease Detector | [Link](https://github.com/root458/Plant-Disease-Detector) | App that detects a plant's disease given a photo of an affected part of the plant. |
 | FlutCrack | [Link](https://github.com/giovanni-iannaccone/FlutCrack) | App to crack hashes by comparing them against a dictionary of words. |
+| Convapp | [Link](https://github.com/maximoospital/Convapp) | A lightweight and multi-platform real-time unit conversion app. |
+| Nyrna | [Link](https://github.com/Merrit/nyrna) | Suspend games and applications. |
 
 ### Entertainment
 
@@ -383,6 +391,7 @@ No projects.
 | flutter-chat-demo | [Link](https://github.com/duytq94/flutter-chat-demo) | A chat app made with Flutter and Firebase that supports login with google, and chat functionalities. |
 | Flutter social chat | [Link](https://github.com/alperefesahin/flutter_social_chat) | A social chat app built using Stream, bloc & Firebase |
 | Whatsapp Clone | [Link](https://github.com/YerikAH/whatsapp-clone) | A UI clone of WhatsApp. |
+| Talktive | [Link](https://github.com/gnowoel/talktive) | An anonymous group chat app for safely talking to strangers. |
 
 ### Social Networking
 
@@ -453,7 +462,9 @@ No projects.
 
 ### Wearables
 
-No projects.
+| Project | Repo | Description |
+|:--------|:-----|:------------|
+| Live Scores App | [Link](https://github.com/jepbura/Live-Scores-App-V3Live) | See live football and volleyball scores on your smartwatch. |
 
 ### Admin Dashboard
 
@@ -512,6 +523,7 @@ No projects.
 | Quiz App | [Link](https://github.com/muhammad-fiaz/QuizApp-Flutter) | A simple Quiz Application UI template |
 | Flight search | [Link](https://github.com/MarcinusX/flutter_ui_challenge_flight_search) | Flight search UI template |
 | Boilerplate | [Link](https://github.com/zubairehman/flutter_boilerplate_project) | A boilerplate project created using MobX and Provider. |
+| MVVM app architecture | [Link](https://github.com/DeveloperRahnuma/Flutter-Mvvm-Clean-Setup) | Model–View–ViewModel (MVVM) example. |
 
 ### Others
 
@@ -549,4 +561,3 @@ No projects.
 | Type | [Link](https://github.com/jeffsieu/type) | A typing test. |
 | Car Control Dashboard | [Link](https://github.com/Hamad-Anwar/Car-Controller-Getx-Flutter) | A user-friendly car control dashboard to interact with dynamic car controls. |
 | RSA Encryption | [Link](https://github.com/vellt/RSA-Encryption-Flutter) | Encryption based on asymmetric cryptography. |
-
