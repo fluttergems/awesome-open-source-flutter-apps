@@ -235,6 +235,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Track My Indoor Workout | [Link](https://github.com/TrackMyIndoorWorkout/TrackMyIndoorWorkout) | An app for recording stationary workouts of smart fitness machines via BLE protocol. |
 | QuitSmoke | [Link](https://github.com/trizin/Quit-Smoke-App) | An app to help you quit smoking. |
 | Wger Workout Manager | [Link](https://github.com/wger-project/flutter) | A digital health and fitness tracker app. |
+| GripGuide | [Link](https://github.com/POLYTALON/climbing-gym-app) | GripGuide is a climbing app for gyms and climbers to manage routes, track progress, and stay updated with gym news. |
 
 ### Medical
 
