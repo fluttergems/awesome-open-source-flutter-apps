@@ -57,7 +57,6 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Taskez | [Link](https://github.com/Davies-K/Taskez) | A productivity mobile application UI kit. |
 | Todoey | [Link](https://github.com/Coffee-Expert/Todoey) | A simple To-do app. |
 | Neumorphic Calculator | [Link](https://github.com/mllrr96/Neumorphic-Calculator) | An elegant and highly customizable calculator app with a beautiful neumorphic design. |
-| Libretrack | [Link](https://github.com/proninyaroslav/libretrack) | Private, cross-platform package tracking app |
 
 ### Finance
 
@@ -438,6 +437,7 @@ No projects.
 | LaCoro | [Link](https://github.com/LaCoro/ConsumerFlutterApp) | A quick commerce app. |
 | Shop App | [Link](https://github.com/tie-tan/shopapp) | An online shop for food, groceries, and medicine. |
 | E-commerce App UI | [Link](https://github.com/abuanwar072/E-commerce-App-UI-Flutter) | Nice and clean Online Shop app UI by using Flutter. |
+| Libretrack | [Link](https://github.com/proninyaroslav/libretrack) | Track postal items directly on your device. |
 
 ### AR & VR
 
