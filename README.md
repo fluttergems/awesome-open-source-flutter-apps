@@ -84,7 +84,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Seeds Light Wallet | [Link](https://github.com/JoinSEEDS/seeds_light_wallet) | A payment platform and financial ecosystem to empower humanity and heal our planet |
 | eTaka | [Link](https://github.com/ssoad/etaka) | A Financial Mobile Application based on P2P Banking Concept |
 | Invoice Pdf | [Link](https://github.com/sabikrahat/invoice_pdf_generate) | App to generate invoices in PDF format |
-| Monekin App | [Link](https://github.com/enrique-lozano/Monekin) | A 100% Open Source app that tries to make personal finances easier. |
+| Monekin | [Link](https://github.com/enrique-lozano/Monekin) | An app that makes personal finance easier. |
 
 ### Lifestyle
 
