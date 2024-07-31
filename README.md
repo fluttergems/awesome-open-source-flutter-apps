@@ -317,6 +317,7 @@ No projects.
 | Music Player | [Link](https://github.com/joec05/pocket-music-player) | Music player app made with Flutter. |
 | Marina.Moda | [Link](https://github.com/sorydima/Marina.Moda-) |  A decentralized music streaming service powered by AI. |
 | AI Radio | [Link](https://github.com/AadrianLeo/AI-Radio-App) | Radio application with an AI assistant to play, stop, search songs by categories. |
+| Pocket Music Player | [Link](https://github.com/joec05/pocket-music-player) | It is a Music player app made with Flutter. Supports only mp3 files. |
 
 ### Utilities
 
