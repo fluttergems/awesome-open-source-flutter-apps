@@ -123,6 +123,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | ente             | [Link](https://github.com/ente-io/ente)                    | Fully open source, End to End Encrypted alternative to Google Photos and Apple Photos |
 | Image Editor | [Link](https://github.com/codenameakshay/image-editor) | Open source image editing app for Android/iOS. |
 | Flutter Photography | [Link](https://github.com/afgprogrammer/Flutter-Photography-Application) | A beautiful and animated Photography Application UI. |
+|  immich | [Link](https://github.com/immich-app/immich) | High performance self-hosted photo and video management solution. |
 
 ### Games & Fun
 
