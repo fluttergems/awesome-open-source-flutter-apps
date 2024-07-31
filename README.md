@@ -241,6 +241,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | QuitSmoke | [Link](https://github.com/trizin/Quit-Smoke-App) | An app to help you quit smoking. |
 | Wger Workout Manager | [Link](https://github.com/wger-project/flutter) | A digital health and fitness tracker app. |
 | Calm Attack | [Link](https://github.com/FatoomRe/Calm-Attack) | Helps manage panic attacks by providing a range of exercises to help them calm their mind and body. |
+| GripGuide | [Link](https://github.com/POLYTALON/climbing-gym-app) | An app for gyms and climbers to manage routes, track progress, and stay updated with gym news. |
 
 ### Medical
 
