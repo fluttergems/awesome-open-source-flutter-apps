@@ -57,7 +57,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Taskez | [Link](https://github.com/Davies-K/Taskez) | A productivity mobile application UI kit. |
 | Todoey | [Link](https://github.com/Coffee-Expert/Todoey) | A simple To-do app. |
 | Neumorphic Calculator | [Link](https://github.com/mllrr96/Neumorphic-Calculator) | An elegant and highly customizable calculator app with a beautiful neumorphic design. |
-| Time Tracking app | [Link](https://github.com/bizz84/starter_architecture_flutter_firebase) | Time Tracking app with Flutter & Firebase. |
+| Time Tracking | [Link](https://github.com/bizz84/starter_architecture_flutter_firebase) | Time Tracking app with Flutter & Firebase. |
 
 ### Finance
 
