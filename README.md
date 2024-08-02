@@ -108,6 +108,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | business_light | [Link](https://github.com/ABDULKARIMALBAIK/business_light) | App providing order management, product cataloguing, payments for small business owners |
 | AppFlowy | [Link](https://github.com/AppFlowy-IO/AppFlowy) | AI collaborative workspace & an open source alternative to Notion. |
 | Talawa | [Link](https://github.com/PalisadoesFoundation/talawa) | Community Organization Management Platform. |
+| Open E-commerce App | [Link](https://github.com/4seer/openflutterecommerceapp) | commercially valuable product as an open-source project to make mobile technology accessible for small and medium businesses |
 
 ### Photo & Video
 
