@@ -294,7 +294,6 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Cloudmate | [Link](https://github.com/lambiengcode/cloudmate-classroom-flutter) | An open-source online learning platform. |
 | Cocola James | [Link](https://github.com/aratheunseen/flutter-cocola-james-game) | An educational game that gives a brief overview of James Webb Space Telescope. |
 | CodeQuizzy | [Link](https://github.com/iamnijat/code-quizzy) | App to learn programming concepts using game-like challenges. |
-| diccon_evo            | [Link](https://github.com/tranhuudang/diccon_evo)  | Immersive chat-based vietnamese - english dictionary |
 | Elements-App          | [Link](https://github.com/brianrobles204/Elements-App)   | Flutter app for browsing the elements of the periodic table! |
 | eqTrainer | [Link](https://github.com/potatosalad775/eqTrainer) | Critical Listening Skill Training App |
 | FAnki | [Link](https://github.com/wklausing/FAnki) | App designed to help users learn using flashcards. |
