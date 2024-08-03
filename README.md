@@ -174,6 +174,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Darkness Dungeon | [Link](https://github.com/RafaelBarbosatec/darkness_dungeon) | A role playing game. |
 | WordlyPlus | [Link](https://github.com/Carapacik/WordlyPlus) | Guess the WORD in six tries. |
 | Game of Fifteen | [Link](https://github.com/AChep/15puzzle) | The Game of Fifteen or the 15 puzzle app. |
+| Easy Pong | [Link](https://github.com/adeeteya/EasyPong ) |  a classic Pong game built using Flutter and the Flame game engine! Easy Pong provides a smooth and engaging experience with modern UI and simple controls. |
 
 ### Sports
 
