@@ -81,7 +81,6 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Monekin | [Link](https://github.com/enrique-lozano/Monekin) | An app that makes personal finance easier. |
 | Natrium | [Link](https://github.com/appditto/natrium_wallet_flutter) | A Nano cryptocurrency wallet app to manage your Nano funds |
 | okane                    | [Link](https://gitlab.com/wolfenrain/okane)                      | okane is an unnecessarily complicated and over-engineered invoice generator. |
-| Paisa                    | [Link](https://github.com/RetroMusicPlayer/Paisa)                | Expense manager for Android with Material Design |
 | piggyvault               | [Link](https://github.com/piggyvault/piggyvault)                 | Family finance management app. |
 | Platypus Crypto | [Link](https://github.com/Blakexx/CryptoTracker) | An ad-free cross-platform robust solution for tracking cryptocurrency assets |
 | Seeds Light Wallet | [Link](https://github.com/JoinSEEDS/seeds_light_wallet) | A payment platform and financial ecosystem to empower humanity and heal our planet |
