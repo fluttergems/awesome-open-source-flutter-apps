@@ -561,3 +561,4 @@ No projects.
 | Type | [Link](https://github.com/jeffsieu/type) | A typing test. |
 | Car Control Dashboard | [Link](https://github.com/Hamad-Anwar/Car-Controller-Getx-Flutter) | A user-friendly car control dashboard to interact with dynamic car controls. |
 | RSA Encryption | [Link](https://github.com/vellt/RSA-Encryption-Flutter) | Encryption based on asymmetric cryptography. |
+| Flutter drawing board | [Link](https://github.com/JideGuru/flutter_drawing_board) | A simple drawing app made with Flutter. | 
