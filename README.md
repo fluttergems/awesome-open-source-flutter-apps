@@ -302,7 +302,9 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 
 ### Graphics & Design
 
-No projects.
+| Project    | Repo  | Description  |
+|:-----------|:------|:-------------|
+| Paintroid | [Link](https://github.com/Catrobat/Paintroid-Flutter) | Graphical paint editor application that allows setting parts of pictures to transparent. |
 
 ### Music
 
