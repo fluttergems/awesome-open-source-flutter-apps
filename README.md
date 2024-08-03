@@ -282,9 +282,8 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | flutter-airline-app | [Link](https://github.com/martinoyovo/flutter-airline-app) | App where you can learn everything you need to know about your next journey and how to make it safe, hassle-free, and on budget. It has information on your scheduled flights, reward miles, best hotel deals, and more. |
 | ShareACab | [Link](https://github.com/devclub-iitd/ShareACab) | An app for sharing cab with college students. |
 | spaced-travel-app   | [Link](https://github.com/nonybrighto/spaced-travel-app)   | Spaced is an animated travel application UI that enables users to find locations and schedule trips. |
-ss. |
 | travel_app          | [Link](https://github.com/Shadow60539/travel_app)          | Travel App |
-| trip-brain-app      | [Link](https://github.com/Pr0nE/trip-brain-app) | Travel app built with Flutter, Go, and gRPC for personalized travel suggestions, rich insights, and offline acce
+| trip-brain-app      | [Link](https://github.com/Pr0nE/trip-brain-app) | Travel app built with Flutter, Go, and gRPC for personalized travel suggestions, rich insights, and offline access. |
 
 ### Education
 
