@@ -793,7 +793,6 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 |:-----------|:------|:-------------|
 | AirController | [Link](https://github.com/air-controller/air-controller-desktop) | A new handy and powerful Android phone assistant |
 | AppImage Pool       | [Link](https://github.com/prateekmedia/appimagepool)   | A simple, modern AppImageHub Client, powered by flutter. |
-| Canta | [Link](https://github.com/samolego/canta) | Uninstall any Android app without root (Shizuku)! |
 | Obtainium           | [Link](https://github.com/ImranR98/Obtainium)          | Get Android app updates straight from the source.        |
 | revanced-manager | [Link](https://github.com/revanced/revanced-manager)  | Application to use ReVanced on Android  |
 | Software App for Ubuntu | [Link](https://github.com/ubuntu-flutter-community/software) | Software App for Ubuntu made with Flutter |
