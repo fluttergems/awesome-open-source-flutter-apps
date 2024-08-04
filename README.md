@@ -231,7 +231,6 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Notepad | [Link](https://github.com/sarvesh4396/notepad) | An open-source simple light-weight notepad ,built with Flutter |
 | Paperless Mobile | [Link](https://github.com/astubenbord/paperless-mobile) | An (almost) fully fledged mobile paperless client. |
 | PaperlessShare | [Link](https://github.com/qcasey/paperless_share) | Android App to share your documents with your Paperless server |
-| Talawa | [Link](https://github.com/PalisadoesFoundation/talawa) | Community Organization Management Platform. |
 | Visual Editor | [Link](https://github.com/visual-space/visual-editor) | Rich text editor for Flutter based on Delta format (Quill fork) |
 | webtrit_phone         | [Link](https://github.com/WebTrit/webtrit_phone)  | WebTrit Phone application  |
 
