@@ -437,7 +437,6 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Flutter Games | [Link](https://github.com/rayliverified/FlutterGames) | A Flutter app for purchasing and renting games. |
 | Flutter-Complete-e-commerce  | [Link](https://github.com/afgprogrammer/Flutter-Complete-e-commerce)  |  An E-commerce app. |
 | Flutter-Grocery-App-UI  | [Link](https://github.com/mohammedhashim44/Flutter-Grocery-App-UI) | Flutter Grocery App UI  |
-| FlutterFurnitureApp     | [Link](https://github.com/adityar224/FlutterFurnitureApp)          | |
 | flutterzon_bloc         | [Link](https://github.com/tejasbadone/flutterzon_bloc)             | Flutterzon is a full-stack e-commerce application that tries to mirror the functionality and user experience of the Amazon mobile app. |
 | flutter-woocommerce-app | [Link](https://github.com/woosignal/flutter-woocommerce-app)       | WooCommerce App template that uses Flutter. Integrated to work with WooCommerce stores, connect and create an IOS and Android app from Flutter for IOS and Android |
 | FlyBuy                  | [Link](https://github.com/AdelRizq/FlyBuy)                         | A full E-commerce app with nice UI consists of on-boarding, login, sign-up, home, product details, cart and user profile.  |
