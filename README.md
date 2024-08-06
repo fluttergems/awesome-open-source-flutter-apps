@@ -769,6 +769,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Project | Repo | Description |
 |:--------|:-----|:------------|
 | Live Scores App | [Link](https://github.com/jepbura/Live-Scores-App-V3Live) | See live football and volleyball scores on your smartwatch. |
+| BFRBSys | [Link](https://github.com/xtnctx/bfrbsys) | A wrist-worn device and monitoring system for a person with Body-focused Repetitive Behavior. |
 
 ### Admin Dashboard
 
