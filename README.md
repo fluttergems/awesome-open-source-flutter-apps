@@ -897,6 +897,8 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Browser App | [Link](https://github.com/pichillilorenzo/flutter_browser_app) | Full-Featured Mobile Browser App. |
 | Calculator | [Link](https://github.com/dahliaos/calculator) | dahliaOS calculator |
 | Car Control Dashboard | [Link](https://github.com/Hamad-Anwar/Car-Controller-Getx-Flutter) | A user-friendly car control dashboard to interact with dynamic car controls. |
+| RSA Encryption | [Link](https://github.com/vellt/RSA-Encryption-Flutter) | Encryption based on asymmetric cryptography. |
+| Flutter drawing board | [Link](https://github.com/JideGuru/flutter_drawing_board) | A simple drawing app made with Flutter. | 
 | Chrono | [Link](https://github.com/vicolo-dev/chrono) | A modern and powerful clock, alarms, timer and stopwatch app for Android! |
 | Congress Fahrplan | [Link](https://github.com/benjaminschilling33/congress_fahrplan) | A Congress Fahrplan App written in Flutter |
 | Convapp | [Link](https://github.com/maximoospital/Convapp) | A lightweight and multi-platform real-time unit conversion app. |
