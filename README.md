@@ -338,6 +338,8 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | watermelon             | [Link](https://github.com/idootop/watermelon)  | Watermelon is a game developed using Flutter + Flame + Forge2D. |
 | Who Goes First? | [Link](https://github.com/j7126/who_goes_first) | Random funny 'who goes first' rules from popular tabletop games! |
 | WordlyPlus | [Link](https://github.com/Carapacik/WordlyPlus) | Guess the WORD in six tries. |
+| Game of Fifteen | [Link](https://github.com/AChep/15puzzle) | The Game of Fifteen or the 15 puzzle app. |
+| Easy Pong | [Link](https://github.com/adeeteya/EasyPong ) |  a classic Pong game built using Flutter and the Flame game engine! Easy Pong provides a smooth and engaging experience with modern UI and simple controls. |
 | Xeonjia | [Link](https://gitlab.com/deepdaikon/xeonjia) | Save the world by solving ice puzzles and defeating enemies! |
 | Zoysii | [Link](https://gitlab.com/deepdaikon/zoysii) | A simple logic game: find the best path to delete every number in a square space |
 
