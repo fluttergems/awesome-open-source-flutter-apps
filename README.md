@@ -932,3 +932,4 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Smart-City-Dashboard | [Link](https://github.com/LiquidGalaxyLAB/Smart-City-Dashboard)  | Android app to visualize many available public data of various Smart Cities through Dashboards. |
 | STEAM-Celestial-Satellite-tracker-in-real-time | [Link](https://github.com/LiquidGalaxyLAB/STEAM-Celestial-Satellite-tracker-in-real-time) | Steam Celestial Satellite tracker in real time   |
 | Type | [Link](https://github.com/jeffsieu/type) | A typing test. |
+| Taskwarrior-flutter | [Link](https://github.com/CCExtractor/taskwarrior-flutter)| This is the repo of mobile app of taskwarrior |
