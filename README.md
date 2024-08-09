@@ -227,11 +227,17 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | HalfDot | [Link](https://github.com/davquar/halfdot) | Minimalistic Umami client for Android |
 | katswiri              | [Link](https://github.com/doreanbyte/katswiri)  | A crawler to find job listings and aggregate them from multiple sources  |
 | microsoft_teams_clone | [Link](https://github.com/Karanjot-singh/microsoft_teams_clone) | Microsoft Teams Clone is a Video conference application with a rich integrated chat experience, to connect with friends, family & colleagues. |
+
+| Talawa | [Link](https://github.com/PalisadoesFoundation/talawa) | Community Organization Management Platform. |
+
+| Open E-commerce App | [Link](https://github.com/4seer/openflutterecommerceapp) | commercially valuable product as an open-source project to make mobile technology accessible for small and medium businesses |
+
 | Notat | [Link](https://github.com/dev-salem/notat) | a simple note-taking app with a markdown editor, built with Flutter and Firebase |
 | Notepad | [Link](https://github.com/sarvesh4396/notepad) | An open-source simple light-weight notepad ,built with Flutter |
 | Paperless Mobile | [Link](https://github.com/astubenbord/paperless-mobile) | An (almost) fully fledged mobile paperless client. |
 | PaperlessShare | [Link](https://github.com/qcasey/paperless_share) | Android App to share your documents with your Paperless server |
 | Visual Editor | [Link](https://github.com/visual-space/visual-editor) | Rich text editor for Flutter based on Delta format (Quill fork) |
+
 | webtrit_phone         | [Link](https://github.com/WebTrit/webtrit_phone)  | WebTrit Phone application  |
 
 ### Photo & Video
