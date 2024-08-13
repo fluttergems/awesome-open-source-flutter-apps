@@ -678,6 +678,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Project    | Repo  | Description  |
 |:-----------|:------|:-------------|
 | AirDash | [Link](https://github.com/simonbengtsson/airdash) | Transfer photos and files to any device. |
+| Tic Tac Toe | [Link](https://github.com/alexrintt/ttt) | Tic Tac Toe Local Multiplayer Game |
 | ArthurMorgan | [Link](https://github.com/belikesohan/arthurmorgan) | Cross-Platform Google Drive client with encryption support. |
 | bluetooth_car | [Link](https://github.com/caibimiaokong/bluetooth_car) | A Bluetooth car control app |
 | Brisk | [Link](https://github.com/aminbhst/brisk) | Fast, multithreaded, cross-platform download manager |
