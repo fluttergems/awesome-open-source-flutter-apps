@@ -332,6 +332,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Tapit | [Link](https://github.com/webrror/tapit-flutter) | A casual finger battle game. |
 | Tetris | [Link](https://github.com/priyanshudutta04/Tetris) | A Tetris game. |
 | Tic Tac Toe | [Link](https://github.com/Raj2503/Tic-Tac-Toe-Flutter) | Tic tac toe game. |
+| Tic Tac Toe | [Link](https://github.com/alexrintt/ttt) | Tic Tac Toe Local Multiplayer Game |
 | tictactoe              | [Link](https://github.com/filiph/tictactoe)   | A mobile game Tic Tac Toe |
 | Trex game | [Link](https://github.com/renancaraujo/trex-flame) | Flutter port of the famous Trex game |
 | turi                   | [Link](https://github.com/renancaraujo/turi)  | A Fragment shader based game using Flame and Flutter  |
