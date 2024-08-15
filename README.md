@@ -159,31 +159,6 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Venom | [Link](https://github.com/navirobayo/venom) | App to keep track of the fuel consumption and expenses of your vehicles. |
 | Wimpy - PoS System for Small Restaurants | [Link](https://github.com/ahmadrashed1999/wimpy) | Wimpy is a point-of-sale (POS) system designed for small restaurants to manage their sales and customer orders. |
 
-### Password, Encryption & Security
-
-| Project    | Repo  | Description  |
-|:-----------|:------|:-------------|
-| AuthPass Password Manager | [Link](https://github.com/authpass/authpass) | AuthPass - Password Manager based on Flutter for all platforms. Keepass 2.x (kdbx 3.x) compatible. |
-| Crypto ID | [Link](https://gitlab.com/cryptographic_id/cryptographic-id-flutter) | Attest the trustworthiness of a device using asymmetric cryptography |
-| Encrypt it | [Link](https://github.com/malazhariy/encrypt_it) | An app that encrypt and decrypt texts and protect them with a password. |
-| EncryptX | [Link](https://github.com/musfique113/EncryptX) | Application that provides a convenient way to encrypt plain text. |
-| FlutCrack | [Link](https://github.com/giovanni-iannaccone/FlutCrack) | App to crack hashes by comparing them against a dictionary of words. |
-| free_watermark | [Link](https://github.com/free-watermark/mobile-app) | Free and easy watermarking tool for your sensitive images |
-| Keyoxide | [Link](https://codeberg.org/berker/keyoxide-flutter) | A modern, secure and privacy-friendly platform to establish your decentralized online identity |
-| NC Passwords | [Link](https://gitlab.com/joleaf/nc-passwords-app) | A password manager app (Android + iOS) for Nextcloud's Passwords app. |
-| nfsee | [Link](https://github.com/nfcim/nfsee) | Read your Transit/Bank/ID cards on Android/iOS phone with NFSee App |
-| Passy | [Link](https://github.com/glitterware/passy) | Offline password manager with cross-platform synchronization |
-| PrivacyBlur | [Link](https://github.com/mathema-gmbh/privacyblur) | Obfuscate sensitive data in your pictures before sharing them online. |
-| Rivia | [Link](https://github.com/loooltooot/rivia) | Rivia is the unique encryption tool |
-| RSA Encryption | [Link](https://github.com/vellt/RSA-Encryption-Flutter) | Encryption based on asymmetric cryptography. |
-| Safe Notes | [Link](https://github.com/keshav-space/safenotes) | Safe Notes is a security project aimed at providing an encrypted, private note manager that works locally and protects notes from various threat actors. |
-| Secur | [Link](https://gitlab.com/atechnohazard/secur) | A FOSS, cross-platform TOTP client written in Flutter with the aim of providing a beautiful UI. |
-| Securify: The Password Manager | [Link](https://github.com/ishanrakte/securify) | A password manager application with three layers of security. The app stores the passwords in a local database in an encrypted format.  Also, there is biometric verification(Fingerprint) whenever the app opens. |
-| SelfPrivacy | [Link](https://git.selfprivacy.org/kherel/selfprivacy.org.app) | SelfPrivacy — is a platform on your cloud hosting, that allows to deploy your own private services and control them using mobile application |
-| Wassword | [Link](https://github.com/polilluminato/wassword-flutter) | Wassword is an Android App built with Flutter to generate passwords and passphrases |
-| Yivi | [Link](https://github.com/privacybydesign/irmamobile) | Yivi offers a privacy-friendly, flexible and secure solution to many authentication problems, putting the user in full control over his/her data |
-| Yubico Authenticator | [Link](https://github.com/yubico/yubioath-flutter) | Yubico Authenticator for Desktop (Windows, macOS and Linux) and Android |
-
 ### Lifestyle
 
 | Project    | Repo  | Description  |
@@ -233,6 +208,31 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | PaperlessShare | [Link](https://github.com/qcasey/paperless_share) | Android App to share your documents with your Paperless server |
 | Visual Editor | [Link](https://github.com/visual-space/visual-editor) | Rich text editor for Flutter based on Delta format (Quill fork) |
 | webtrit_phone         | [Link](https://github.com/WebTrit/webtrit_phone)  | WebTrit Phone application  |
+
+### Password, Encryption & Security
+
+| Project    | Repo  | Description  |
+|:-----------|:------|:-------------|
+| AuthPass Password Manager | [Link](https://github.com/authpass/authpass) | AuthPass - Password Manager based on Flutter for all platforms. Keepass 2.x (kdbx 3.x) compatible. |
+| Crypto ID | [Link](https://gitlab.com/cryptographic_id/cryptographic-id-flutter) | Attest the trustworthiness of a device using asymmetric cryptography |
+| Encrypt it | [Link](https://github.com/malazhariy/encrypt_it) | An app that encrypt and decrypt texts and protect them with a password. |
+| EncryptX | [Link](https://github.com/musfique113/EncryptX) | Application that provides a convenient way to encrypt plain text. |
+| FlutCrack | [Link](https://github.com/giovanni-iannaccone/FlutCrack) | App to crack hashes by comparing them against a dictionary of words. |
+| free_watermark | [Link](https://github.com/free-watermark/mobile-app) | Free and easy watermarking tool for your sensitive images |
+| Keyoxide | [Link](https://codeberg.org/berker/keyoxide-flutter) | A modern, secure and privacy-friendly platform to establish your decentralized online identity |
+| NC Passwords | [Link](https://gitlab.com/joleaf/nc-passwords-app) | A password manager app (Android + iOS) for Nextcloud's Passwords app. |
+| nfsee | [Link](https://github.com/nfcim/nfsee) | Read your Transit/Bank/ID cards on Android/iOS phone with NFSee App |
+| Passy | [Link](https://github.com/glitterware/passy) | Offline password manager with cross-platform synchronization |
+| PrivacyBlur | [Link](https://github.com/mathema-gmbh/privacyblur) | Obfuscate sensitive data in your pictures before sharing them online. |
+| Rivia | [Link](https://github.com/loooltooot/rivia) | Rivia is the unique encryption tool |
+| RSA Encryption | [Link](https://github.com/vellt/RSA-Encryption-Flutter) | Encryption based on asymmetric cryptography. |
+| Safe Notes | [Link](https://github.com/keshav-space/safenotes) | Safe Notes is a security project aimed at providing an encrypted, private note manager that works locally and protects notes from various threat actors. |
+| Secur | [Link](https://gitlab.com/atechnohazard/secur) | A FOSS, cross-platform TOTP client written in Flutter with the aim of providing a beautiful UI. |
+| Securify: The Password Manager | [Link](https://github.com/ishanrakte/securify) | A password manager application with three layers of security. The app stores the passwords in a local database in an encrypted format.  Also, there is biometric verification(Fingerprint) whenever the app opens. |
+| SelfPrivacy | [Link](https://git.selfprivacy.org/kherel/selfprivacy.org.app) | SelfPrivacy — is a platform on your cloud hosting, that allows to deploy your own private services and control them using mobile application |
+| Wassword | [Link](https://github.com/polilluminato/wassword-flutter) | Wassword is an Android App built with Flutter to generate passwords and passphrases |
+| Yivi | [Link](https://github.com/privacybydesign/irmamobile) | Yivi offers a privacy-friendly, flexible and secure solution to many authentication problems, putting the user in full control over his/her data |
+| Yubico Authenticator | [Link](https://github.com/yubico/yubioath-flutter) | Yubico Authenticator for Desktop (Windows, macOS and Linux) and Android |
 
 ### Photo & Video
 
