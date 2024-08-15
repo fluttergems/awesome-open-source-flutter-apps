@@ -48,60 +48,70 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Simple ChatGPT | [Link](https://github.com/SnowStar0423/ChatGPT-Flutter-App) | ChatGPT like app in Flutter |
 | Story Generator | [Link](https://github.com/Lord-Chris/story-generator) | A mobile app that generates random stories based on user input using Google Generative AI |
 
-### Finance
+### Personal Finance
 
 | Project    | Repo  | Description  |
 |:-----------|:------|:-------------|
-| app-finance              | [Link](https://github.com/lyskouski/app-finance)                 | Fingrom -- open-source platform-agnostic financial accounting application  |
-| archethic-wallet         | [Link](https://github.com/archethic-foundation/archethic-wallet) | Archethic Wallet |
+| app-finance  | [Link](https://github.com/lyskouski/app-finance) | Fingrom -- open-source platform-agnostic financial accounting application  |
 | Be Thrifty Today | [Link](https://github.com/amruthpillai/bethriftytoday) | A simple and secure money manager that keeps you financially vigilant. |
-| Breez Mobile Client | [Link](https://github.com/breez/breezmobile) | Lightning Network mobile client |
 | Budget Budy | [Link](https://github.com/mufaddal5253110/budgetbudy) | A simple app to track your financial life using flutter |
 | Budgeto | [Link](https://github.com/tejasbadone/budgeto) | A money management app that allows users to split their income into customizable categories |
-| c-breez                  | [Link](https://github.com/breez/c-breez)                         | c-Breez is a migration of Breez mobile app to the Greenlight infrastructure. |
 | Carfoin | [Link](https://github.com/webierta/carfoin) | Investment Fund Portfolio Manager |
 | Cash Balancer | [Link](https://github.com/bernaferrari/cashbalancer) | This app helps you understand your finances without the help of an expert. It works as a finance calculator for asset allocation. |
 | Cashew                   | [Link](https://github.com/jameskokoska/Cashew)                   | 💸 An app created to help users manage a budget and purchases |
-| Combo POS | [Link](https://github.com/aquariumfish2/combo-pos) | Digital technology combo pos application is responsible to make any restaurant point of sale with a menu, table, users, balance calculator, etc. |
 | cone | [Link](https://github.com/bradyt/cone) | A ledger. |
-| Crypto Prices | [Link](https://gitlab.com/cl0n30/cryptoprices) | Crypto Prices is an Android app that lets you keep track of the prices of most available cryptocurrencies. |
-| crypto-dashboard         | [Link](https://github.com/olayemii/crypto-dashboard)             | Cryptocurrency UI dashboard. |
 | Currency alarm | [Link](https://github.com/shurygindv/currency-alarm) | currency flutter app |
-| Dypos | [Link](https://github.com/torchice/dypos) | Point Of Sales Application using Flutter Firebase |
-| Encointer Wallet | [Link](https://github.com/encointer/encointer-wallet-flutter) | Encointer mobile wallet flutter implementation |
-| eTaka | [Link](https://github.com/ssoad/etaka) | A Financial Mobile Application based on P2P Banking Concept |
-| flutter-crypto-app       | [Link](https://github.com/salvadordeveloper/flutter-crypto-app)  | Cryptocurrency App |
-| flutter-crypto-wallet    | [Link](https://github.com/JErazo7/flutter-crypto-wallet)         | A multiplatform (Android, iOS, Web and macOS) crypto-wallet example created with Flutter and CoinGecko API.  |
 | flutter-vizier-challenge | [Link](https://github.com/merixstudio/flutter-vizier-challenge)  | Prototype of a financial mobile application. |
-| Flutter Point Of Sale App UI | [Link](https://github.com/julvikramsupandi/flutter-pos-app-ui) | Flutter Point Of Sale App UI |
-| Flutter web3 Auction | [Link](https://github.com/y-pakorn/flutter_web3_auction) | A token auction website made by Flutter thats interacts with Ethereum web3 through flutter_web3 package. |
-| fWallet | [Link](https://gitlab.com/theonewiththebraid/f_wallet) | A beautiful cross-platform wallet application. |
-| HADWIN                   | [Link](https://github.com/brownboycodes/HADWIN)                  | a prototype of a fund transfer platform |
-| Invoice Ninja            | [Link](https://github.com/invoiceninja/admin-portal)             | Invoice Ninja: Desktop/mobile admin portal |
-| Invoice Pdf | [Link](https://github.com/sabikrahat/invoice_pdf_generate) | App to generate invoices in PDF format |
-| LocalMonero | [Link](https://github.com/agoradesk-localmonero/agoradesk-app-foss) | Source code for the AgoraDesk/LocalMonero Mobile Applications. |
-| MiGo POS Software | [Link](https://github.com/poslevel/migo) | A POS Software that works everywhere seamlessly |
 | mmas-money-tracker | [Link](https://github.com/floranguyen0/mmas-money-tracker) | An optimized application for daily expense tracking and personal finance management |
 | Monekin | [Link](https://github.com/enrique-lozano/Monekin) | An app that makes personal finance easier. |
 | Money Logs | [Link](https://gitlab.com/kazispintechub/money-logs) | Financial Record Manager App.  |
 | Money Tracker | [Link](https://github.com/jerichoi224/moneytracker) | Money Tracking App using Flutter |
-| MPoS | [Link](https://github.com/kiks12/mpos-flutter) | Mobile Point of Sale System for Four Angels Retail Shop |
-| Natrium | [Link](https://github.com/appditto/natrium_wallet_flutter) | A Nano cryptocurrency wallet app to manage your Nano funds |
 | Oinkoin | [Link](https://github.com/emavgl/oinkoin) | Oinkoin is a flutter app for helping you managing your expenses. No internet required. |
-| okane                    | [Link](https://gitlab.com/wolfenrain/okane)                      | okane is an unnecessarily complicated and over-engineered invoice generator. |
-| Peercoin | [Link](https://github.com/peercoin/peercoin_flutter) | Light Peercoin wallet written in Flutter, deployable on Android, iOS and Web. |
-| piggyvault               | [Link](https://github.com/piggyvault/piggyvault)                 | Family finance management app. |
-| Platypus Crypto | [Link](https://github.com/Blakexx/CryptoTracker) | An ad-free cross-platform robust solution for tracking cryptocurrency assets |
-| POS System | [Link](https://github.com/evan361425/flutter-pos-system) | An open source Flutter POS system (ordering system) with users. |
+| piggyvault | [Link](https://github.com/piggyvault/piggyvault) | Family finance management app. |
 | Receipt manager | [Link](https://github.com/ReceiptManager/receipt-manager-app) | Receipt parser application written in dart. |
+| Sossoldi | [Link](https://github.com/RIP-Comm/sossoldi) | Sossoldi is a free and open source wealth management / personal finance / Net Worth tracking app |
+| Venom | [Link](https://github.com/navirobayo/venom) | App to keep track of the fuel consumption and expenses of your vehicles. |
+
+### Web3 & Crypto
+
+| Project    | Repo  | Description  |
+|:-----------|:------|:-------------|
+| archethic-wallet | [Link](https://github.com/archethic-foundation/archethic-wallet) | A fully decentralized & cryptocurrency non-custodial hot wallet that enables you to safely manage assets on Layer 1 Archethic blockchain |
+| Breez Mobile Client | [Link](https://github.com/breez/breezmobile) | Lightning Network mobile client. Provides a platform for simple, instantaneous bitcoin payments |
+| c-breez | [Link](https://github.com/breez/c-breez)  | c-Breez is a migration of Breez mobile app to the Greenlight infrastructure. |
+| Crypto Prices | [Link](https://gitlab.com/cl0n30/cryptoprices) | Crypto Prices is an Android app that lets you keep track of the prices of most available cryptocurrencies. |
+| crypto-dashboard         | [Link](https://github.com/olayemii/crypto-dashboard)             | Cryptocurrency UI dashboard. |
+| flutter-crypto-app       | [Link](https://github.com/salvadordeveloper/flutter-crypto-app)  | Cryptocurrency App |
+| flutter-crypto-wallet    | [Link](https://github.com/JErazo7/flutter-crypto-wallet)         | A multiplatform (Android, iOS, Web and macOS) crypto-wallet example created with Flutter and CoinGecko API.  |
+| Flutter web3 Auction | [Link](https://github.com/y-pakorn/flutter_web3_auction) | A token auction website made by Flutter thats interacts with Ethereum web3 through flutter_web3 package. |
+| LocalMonero | [Link](https://github.com/agoradesk-localmonero/agoradesk-app-foss) | Source code for the AgoraDesk/LocalMonero Mobile Applications. Buy or sell Bitcoin without ID verification |
+| Natrium | [Link](https://github.com/appditto/natrium_wallet_flutter) | A Nano cryptocurrency wallet app to manage your Nano funds |
+| Platypus Crypto | [Link](https://github.com/Blakexx/CryptoTracker) | An ad-free cross-platform robust solution for tracking cryptocurrency assets |
+| thirdbank | [Link](https://github.com/aldrinzigmundv/thirdbank) | A free and open-source experimental non-custodial Bitcoin wallet that focuses on simplicity and ease of use. |
+| Trace | [Link](https://github.com/trentpiercy/trace) | Modern crypto portfolio & market explorer |
+
+### Wallets, Payments & PoS
+
+| Project    | Repo  | Description  |
+|:-----------|:------|:-------------|
+| Combo POS | [Link](https://github.com/aquariumfish2/combo-pos) | Digital technology combo pos application is responsible to make any restaurant point of sale with a menu, table, users, balance calculator, etc. |
+| Dypos | [Link](https://github.com/torchice/dypos) | Point Of Sales Application using Flutter Firebase |
+| Encointer Wallet | [Link](https://github.com/encointer/encointer-wallet-flutter) | Encointer mobile wallet flutter implementation |
+| eTaka | [Link](https://github.com/ssoad/etaka) | A Financial Mobile Application based on P2P Banking Concept |
+| Flutter Point Of Sale App UI | [Link](https://github.com/julvikramsupandi/flutter-pos-app-ui) | Flutter Point Of Sale App UI |
+| fWallet | [Link](https://gitlab.com/theonewiththebraid/f_wallet) | A beautiful cross-platform wallet application. |
+| HADWIN                   | [Link](https://github.com/brownboycodes/HADWIN)                  | a prototype of a fund transfer platform |
+| Invoice Ninja            | [Link](https://github.com/invoiceninja/admin-portal)             | Invoice Ninja: Desktop/mobile admin portal |
+| Invoice Pdf | [Link](https://github.com/sabikrahat/invoice_pdf_generate) | App to generate invoices in PDF format |
+| MiGo POS Software | [Link](https://github.com/poslevel/migo) | A POS Software that works everywhere seamlessly |
+| MPoS | [Link](https://github.com/kiks12/mpos-flutter) | Mobile Point of Sale System for Four Angels Retail Shop |
+| okane | [Link](https://gitlab.com/wolfenrain/okane) | okane is an unnecessarily complicated and over-engineered invoice generator. |
+| Peercoin | [Link](https://github.com/peercoin/peercoin_flutter) | Light Peercoin wallet written in Flutter, deployable on Android, iOS and Web. |
+| POS System | [Link](https://github.com/evan361425/flutter-pos-system) | An open source Flutter POS system (ordering system) with users. |
 | Seeds Light Wallet | [Link](https://github.com/JoinSEEDS/seeds_light_wallet) | A payment platform and financial ecosystem to empower humanity and heal our planet |
 | Simple-POS | [Link](https://github.com/tcd93/flutter-pos) | A mobile POS app written with Flutter, compatible Sunmi device |
-| Sossoldi | [Link](https://github.com/RIP-Comm/sossoldi) | Sossoldi is a free and open source wealth management / personal finance / Net Worth tracking app |
 | ThePOS | [Link](https://github.com/the-pos/the-pos-flutter) | Point of Sale App using GetX |
-| thirdbank                | [Link](https://github.com/aldrinzigmundv/thirdbank)              | A free and open-source experimental non-custodial Bitcoin wallet that focuses on simplicity and ease of use. |
-| Trace | [Link](https://github.com/trentpiercy/trace) | Modern crypto portfolio & market explorer |
 | Veil Wallet | [Link](https://github.com/steel97/veil_wallet) | Veil mobile wallet |
-| Venom | [Link](https://github.com/navirobayo/venom) | App to keep track of the fuel consumption and expenses of your vehicles. |
 | Wimpy - PoS System for Small Restaurants | [Link](https://github.com/ahmadrashed1999/wimpy) | Wimpy is a point-of-sale (POS) system designed for small restaurants to manage their sales and customer orders. |
 
 ### Lifestyle
