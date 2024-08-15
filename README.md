@@ -135,8 +135,8 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Journapi | [Link](https://github.com/changjoo-park/journapi_flutter) | Open source bullet journal to log your life |
 | koduko                     | [Link](https://github.com/Mazahir26/koduko)                         | A habit tracker |
 | LifeList | [Link](https://github.com/Spyy004/LifeList) | Plan, Track, and Achieve Your Life Goals Effortlessly. |
-| Meditation | [Link](https://github.com/Re4ch-Jay/Meditation_App) | An app to make you calm, relieved, relaxed and focused. |
 | Meditation | [Link](https://github.com/nyxkn/meditation) | Essential meditation timer for Android |
+| Meditation App | [Link](https://github.com/Re4ch-Jay/Meditation_App) | An app to make you calm, relieved, relaxed and focused. |
 | medito-app | [Link](https://github.com/meditohq/medito-app)   | The Medito app is a 100% free meditation app. The app is available on Android and iOS. |
 | Mindful Notifier | [Link](https://github.com/kmac/mindfulnotifier) | A simple mindfulness-based timer which displays a notification/reminder at user-defined intervals |
 | One Second Diary | [Link](https://github.com/KyleKun/one_second_diary) | Minimalist video diary app. |
@@ -220,7 +220,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Anchr | [Link](https://github.com/muety/anchr-android) | Android client for Anchr.io link collections, built with Flutter |
 | Biyi | [Link](https://github.com/lijy91/biyi) | Biyi (比译) is a convenient translation and dictionary app written in Flutter. |
 | Browser App | [Link](https://github.com/pichillilorenzo/flutter_browser_app) | Full-Featured Mobile Browser App. |
-| Calculator | [Link](https://github.com/dahliaos/calculator) | dahliaOS calculator |
+| Calculator (dahliaOS) | [Link](https://github.com/dahliaos/calculator) | dahliaOS calculator |
 | Calculator | [Link](https://github.com/belelaritra/neumorphic_calculator) | A Soft UI (Neumorphism) Simple Calculator created using Flutter. |
 | Chrono | [Link](https://github.com/vicolo-dev/chrono) | A modern and powerful clock, alarms, timer and stopwatch app for Android |
 | Convapp | [Link](https://github.com/maximoospital/Convapp) | A lightweight and multi-platform real-time unit conversion app. |
@@ -328,7 +328,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Ghost Rigger | [Link](https://github.com/float-like-a-dash-sting-like-a-dart/ghostrigger) | Cyberpunk-inspired puzzle game prototype created with Flutter and Flame |
 | get_games              | [Link](https://github.com/mzsdev1/get_games)  | Mobile app showing free and discounted PC games |
 | GG-Games-and-Giveaways | [Link](https://github.com/ikramhasan/GG-Games-and-Giveaways)    | See all available free games and active giveaways. Get notified when a game becomes free. |
-| Hangman | [Link](https://github.com/tavasolireza/Hangman-Game-Flutter) | Hangman game. |
+| Hangman Game | [Link](https://github.com/tavasolireza/Hangman-Game-Flutter) | Hangman game. |
 | Hangman | [Link](https://github.com/jerald-jacob/flutter-apps) | Hangman Game |
 | inspiral               | [Link](https://gitlab.com/nfriend/inspiral)   | Relive your childhood in pixel-perfect bliss.  |
 | io_flip                | [Link](https://github.com/flutter/io_flip)  | Google I/O 2023 FLIP AI-designed card game built with Flutter & Firebase  |
@@ -355,15 +355,15 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Space-Empires          | [Link](https://github.com/SatyamX64/Space-Empires)  | Space Themed Turn-Based Strategy Game |
 | Spacecape | [Link](https://github.com/ufrshubham/spacescape) | A 2D top-down space shooter made using Flutter and Flame engine. |
 | Sudaku | [Link](https://codeberg.org/theoden8/sudaku) | Solve sudoku by creating rules |
-| sudoku | [Link](https://git.harrault.fr/android/org.benoitharrault.sudoku) | Sudoku |
-| sudoku | [Link](https://github.com/thesuncat/sudoku) | FOSS Sudoku |
-| Sudoku | [Link](https://github.com/einsitang/sudoku-flutter) | An open source Sudoku game. |
+| sudoku (benoitharrault) | [Link](https://git.harrault.fr/android/org.benoitharrault.sudoku) | Sudoku |
+| Sudoku | [Link](https://github.com/thesuncat/sudoku) | FOSS Sudoku |
+| Sudoku (einsitang) | [Link](https://github.com/einsitang/sudoku-flutter) | An open source Sudoku game. |
 | super_dash             | [Link](https://github.com/flutter/super_dash)| A multiplatform demo game built using Flutter and Flame |
 | Supermario game | [Link](https://github.com/DaQinShgy/flutter_game) | A Supermario game built using Flame. |
 | Tapit | [Link](https://github.com/webrror/tapit-flutter) | A casual finger battle game. |
 | Tetris | [Link](https://github.com/priyanshudutta04/Tetris) | A Tetris game. |
 | Tic Tac Toe | [Link](https://github.com/Raj2503/Tic-Tac-Toe-Flutter) | Tic tac toe game. |
-| Tic Tac Toe | [Link](https://github.com/alexrintt/ttt) | Tic Tac Toe Local Multiplayer Game |
+| Tic Tac Toe (Multiplayer) | [Link](https://github.com/alexrintt/ttt) | Tic Tac Toe Local Multiplayer Game |
 | tictactoe              | [Link](https://github.com/filiph/tictactoe)   | A mobile game Tic Tac Toe |
 | Trex game | [Link](https://github.com/renancaraujo/trex-flame) | Flutter port of the famous Trex game |
 | turi                   | [Link](https://github.com/renancaraujo/turi)  | A Fragment shader based game using Flame and Flutter  |
@@ -585,8 +585,8 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Drip | [Link](https://github.com/spsden/drip) | A Youtube Music client for Desktop. (in Development) |
 | finamp              | [Link](https://github.com/jmshrv/finamp)   | A Jellyfin music client for mobile  |
 | Flutter Music | [Link](https://github.com/o-ifeanyi/musicplayer) | A Flutter music player to play songs (mp3). |
-| Flutter Music Player | [Link](https://github.com/moda20/flutter-tunein) | Dynamically themed Music Player built with flutter  |
 | Flutter Music Player | [Link](https://github.com/iampawan/Flutter-Music-Player) | Music player with audio plugin to play local music files. |
+| Flutter Tunein | [Link](https://github.com/moda20/flutter-tunein) | Dynamically themed Music Player built with flutter  |
 | Flutter-Musive-app  | [Link](https://github.com/Ansh-Rathod/Flutter-Musive-app) | Full-stack music player app with fully functional UI like Spotify written in flutter and dart using node.js music API. |
 | FlutterCloudMusic | [Link](https://github.com/AIYO77/flutter_cloud_music) | NetEase Cloud Music App |
 | Harmonoid | [Link](https://github.com/harmonoid/harmonoid) | Plays & manages your music library. Looks beautiful & juicy. Playlists, visuals, synced lyrics, pitch shift, volume boost & more. |
