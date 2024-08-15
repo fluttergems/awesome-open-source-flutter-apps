@@ -93,6 +93,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Shorey | [Link](https://github.com/elementlo/shorey) | Shorey is a simple note app which is built with Flutter and supports both Android/iOS platforms. |
 | task_management            | [Link](https://github.com/iahmadamin/task_management)               | Task Management / TODO App  |
 | Taskez | [Link](https://github.com/Davies-K/Taskez) | A productivity mobile application UI kit. |
+| TaskWarrior | [Link](https://github.com/CCExtractor/taskwarrior-flutter)| A premier task management tool for terminal users |
 | Time Cop | [Link](https://github.com/hamaluik/timecop) | A privacy first time tracking app. |
 | Time Tracking | [Link](https://github.com/bizz84/starter_architecture_flutter_firebase) | Time Tracking app with Flutter & Firebase. |
 | tmail-flutter              | [Link](https://github.com/linagora/tmail-flutter)                   | A multi-platform application for reading your emails, with your favorite devices, using the JMAP protocol! |
