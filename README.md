@@ -48,60 +48,6 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Simple ChatGPT | [Link](https://github.com/SnowStar0423/ChatGPT-Flutter-App) | ChatGPT like app in Flutter |
 | Story Generator | [Link](https://github.com/Lord-Chris/story-generator) | A mobile app that generates random stories based on user input using Google Generative AI |
 
-
-### Productivity
-
-| Project    | Repo  | Description  |
-|:-----------|:------|:-------------|
-| Break.Down.Timer | [Link](https://github.com/jenspfahl/bdt) | Break.Down.Timer |
-| Calculator | [Link](https://github.com/belelaritra/neumorphic_calculator) | A Soft UI (Neumorphism) Simple Calculator created using Flutter. |
-| DeadlinesApp | [Link](https://github.com/emmanuelmess/deadlinesapp) | A simple app for keeping track of deadlines |
-| Deer | [Link](https://github.com/aleksanderwozniak/deer) | Minimalist Flutter Todo App, built using BLoC pattern |
-| Everyday Tasks | [Link](https://github.com/jenspfahl/everydaytasks) | Track, log and schedule your everyday tasks. |
-| flutter_notes_app          | [Link](https://github.com/31Carlton7/flutter_notes_app)             | Note taking app. |
-| Flutter-Pomodoro           | [Link](https://github.com/wilsonowilson/Flutter-Pomodoro)           | A complete pomodoro app for MacOS. |
-| Githo | [Link](https://github.com/glitchy-tozier/githo) | An app that helps you gradually build long-lasting habits. |
-| GitJournal | [Link](https://github.com/gitjournal/gitjournal) | Mobile first Note Taking integrated with Git |
-| google-docs-clone-flutter  | [Link](https://github.com/funwithflutter/google-docs-clone-flutter) | A clone of Google Docs using Flutter and Appwrite |
-| Glory Todo Desktop | [Link](https://github.com/yessglory17/glory_todo_desktop) | A desktop Todo app. |
-| IdiomReplaceX Browser | [Link](https://github.com/idiomreplacex/idiomreplacex-app) | The IdiomReplaceX Browser App is a special browser app from the net art project IdiomReplaceX.  When using this browser, the IdiomReplaceX toolbox is added to almost any web page, allowing  literary filters to be applied to the content of the web page. |
-| koduko                     | [Link](https://github.com/Mazahir26/koduko)                         | A habit tracker |
-| koperasi-mobileApp         | [Link](https://github.com/koperasi-rlp1/koperasi-mobileApp)         | Task Planner App |
-| Leaflet | [Link](https://github.com/potatoproject/leaflet) | POSP official notes app, soon to be included |
-| Lightplan | [Link](https://github.com/xddk/lightplan) | LightPlan is an open source project meant to remind tasks you have to make. Time is ticking, let's not waste time planning. |
-| listify                    | [Link](https://github.com/momshaddinury/listify)                    | Todo App with a refreshing UI. Technology used: Flutter, Firebase, MVC, Riverpod. |
-| log_book                   | [Link](https://github.com/DonnC/log_book)                           | An internship log book desktop app |
-| markdownr | [Link](https://github.com/sanzoghenzo/markdownr) | Android app that converts an URL to markdown, and lets you share it to your favorite notes app. |
-| memo                       | [Link](https://github.com/olmps/memo)                               | Memo is an open-source, programming-oriented spaced repetition software (SRS). |
-| minttask | [Link](https://github.com/boredcodebyk/minttask) | A simple todo manager for Android made using Flutter with Material Design 3 |
-| Neumorphic Calculator | [Link](https://github.com/mllrr96/Neumorphic-Calculator) | An elegant and highly customizable calculator app with a beautiful neumorphic design. |
-| Note Taking App | [Link](https://github.com/bimsina/notes-app) | Note Taking App made with Flutter with Sqlite as database. |
-| NoteApp-Clean-Architecture | [Link](https://github.com/imSanjaySoni/NoteApp-Clean-Architecture)  | NoteApp with Domain-Driven Clean Architecture with FlutterBloc + Freezed + Hive  |
-| Noteless | [Link](https://github.com/redsolver/noteless) | A Markdown-based note-taking app for mobile devices. |
-| Noty                       | [Link](https://github.com/JohnKinyanjui/Noty)                       | Write notes in the most productive ways |
-| ntodotxt | [Link](https://github.com/tmaegel/ntodotxt) | Flutter app for managing your todos within a todo.txt file locally or via webdav (e.g. Nextcloud) |
-| Nyrna | [Link](https://github.com/Merrit/nyrna) | Suspend games and applications. |
-| One Day List | [Link](https://github.com/asjqkkkk/flutter-todos) | A small, simple and beautiful app that can help you keep track of your daily plans. |
-| Orgro | [Link](https://github.com/amake/orgro) | An Org Mode file viewer for iOS and Android |
-| Paperless | [Link](https://github.com/bauerj/paperless_app) | An Android/iOS app for Paperless |
-| pomodoro-session           | [Link](https://github.com/jashdubal/pomodoro-session)               | Helps users track work sessions using the Pomodoro Technique |
-| pmdr                       | [Link](https://github.com/aricodeine/pmdr)                          | A Pomodoro App |
-| Repeat Me | [Link](https://github.com/samarthdesai01/repeatme) | A clean and intuitive task managing app for Android created with Flutter  |
-| Shorey | [Link](https://github.com/elementlo/shorey) | Shorey is a simple note app which is built with Flutter and supports both Android/iOS platforms. |
-| task_management            | [Link](https://github.com/iahmadamin/task_management)               | Task Management / TODO App  |
-| Taskez | [Link](https://github.com/Davies-K/Taskez) | A productivity mobile application UI kit. |
-| TaskWarrior | [Link](https://github.com/CCExtractor/taskwarrior-flutter)| A premier task management tool for terminal users |
-| Time Cop | [Link](https://github.com/hamaluik/timecop) | A privacy first time tracking app. |
-| Time Tracking | [Link](https://github.com/bizz84/starter_architecture_flutter_firebase) | Time Tracking app with Flutter & Firebase. |
-| tmail-flutter              | [Link](https://github.com/linagora/tmail-flutter)                   | A multi-platform application for reading your emails, with your favorite devices, using the JMAP protocol! |
-| Todoey | [Link](https://github.com/Coffee-Expert/Todoey) | A simple To-do app. |
-| Virlow Flutter Recorder | [Link](https://github.com/virlow-voice/virlow-flutter-recorder) | An app that transcribes recorded audio and includes a text editor for editing/adding notes. |
-| WD Notes | [Link](https://gitlab.com/ideotec/wdnotes) | A note-taking app that syncs with WebDAV |
-| WhatTodo | [Link](https://github.com/burhanrashid52/whattodo) | A Simple Todo app design in Flutter to keep track of your task on daily basis. Its build on BLoC Pattern |
-| Working Time Alert | [Link](https://github.com/spidgorny/workingtimealert) | Working time alert. Never miss the time to go home. |
-| Xournal++ | [Link](https://gitlab.com/theonewiththebraid/xournalpp_mobile) | https://xournal.online/ A port of the main features of Xournal++ to various Flutter platforms like Android, iOS and the Web. |
-| Yet another Todo Application | [Link](https://github.com/rohithgilla12/yata) | Yet another Todo Application |
-
 ### Finance
 
 | Project    | Repo  | Description  |
@@ -135,7 +81,6 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Invoice Pdf | [Link](https://github.com/sabikrahat/invoice_pdf_generate) | App to generate invoices in PDF format |
 | LocalMonero | [Link](https://github.com/agoradesk-localmonero/agoradesk-app-foss) | Source code for the AgoraDesk/LocalMonero Mobile Applications. |
 | MiGo POS Software | [Link](https://github.com/poslevel/migo) | A POS Software that works everywhere seamlessly |
-| Mint Calculator | [Link](https://github.com/boredcodebyk/mintcalc) | A simple calculator and unit converter app with Material Design 3 inspired by Windows Calculator |
 | mmas-money-tracker | [Link](https://github.com/floranguyen0/mmas-money-tracker) | An optimized application for daily expense tracking and personal finance management |
 | Monekin | [Link](https://github.com/enrique-lozano/Monekin) | An app that makes personal finance easier. |
 | Money Logs | [Link](https://gitlab.com/kazispintechub/money-logs) | Financial Record Manager App.  |
@@ -172,11 +117,13 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | EcoMateSG | [Link](https://github.com/jicsontoh/EcoMateSG) | EcoMateSG helps users make environmentally conscious choices and adopt a sustainable lifestyle. |
 | Feels App | [Link](https://github.com/seras42/feels_app) | Log your emotions in an encrypted diary. See statistics of your feelings. |
 | FltKeep | [Link](https://github.com/xinthink/flutter-keep) | A note-taking app built with Flutter + Firebase |
+| Githo | [Link](https://github.com/glitchy-tozier/githo) | An app that helps you gradually build long-lasting habits. |
 | Habo | [Link](https://github.com/xpavle00/Habo) |  A habit tracker app that helps you create and maintain healthy habits for a better life. |
 | Inner Breeze | [Link](https://github.com/naoxio/inner_breeze) | Guided breathing meditation app based on the Wim Hof breathing method. |
 | InnerQuest | [Link](https://github.com/Kushalrock/innerquest) | InnerQuest is an app designed to help you embark on a journey of self-discovery, personal growth, and increased productivity. |
 | Interactive Diary | [Link](https://github.com/suesitran/interactive_diary) | A map based social network for introverts |
 | Journapi | [Link](https://github.com/changjoo-park/journapi_flutter) | Open source bullet journal to log your life |
+| koduko                     | [Link](https://github.com/Mazahir26/koduko)                         | A habit tracker |
 | LifeList | [Link](https://github.com/Spyy004/LifeList) | Plan, Track, and Achieve Your Life Goals Effortlessly. |
 | Meditation | [Link](https://github.com/Re4ch-Jay/Meditation_App) | An app to make you calm, relieved, relaxed and focused. |
 | Meditation | [Link](https://github.com/nyxkn/meditation) | Essential meditation timer for Android |
@@ -199,6 +146,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Flokk | [Link](https://github.com/gskinnerteam/flokk) | A fresh and modern Google Contacts manager that integrates with GitHub and Twitter. |
 | Flow | [Link](https://github.com/linwooddev/flow) | Feature rich event, group and time managment system |
 | Fluffyboard | [Link](https://github.com/y0ngg4n/fluffy_board) | A offline and online Flutter Whiteboard with collaboration Features. Maintained in my free time. Currently demo is offline |
+| google-docs-clone-flutter  | [Link](https://github.com/funwithflutter/google-docs-clone-flutter) | A clone of Google Docs using Flutter and Appwrite |
 | HalfDot | [Link](https://github.com/davquar/halfdot) | Minimalistic Umami client for Android |
 | katswiri              | [Link](https://github.com/doreanbyte/katswiri)  | A crawler to find job listings and aggregate them from multiple sources  |
 | microsoft_teams_clone | [Link](https://github.com/Karanjot-singh/microsoft_teams_clone) | Microsoft Teams Clone is a Video conference application with a rich integrated chat experience, to connect with friends, family & colleagues. |
@@ -207,7 +155,79 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Paperless Mobile | [Link](https://github.com/astubenbord/paperless-mobile) | An (almost) fully fledged mobile paperless client. |
 | PaperlessShare | [Link](https://github.com/qcasey/paperless_share) | Android App to share your documents with your Paperless server |
 | Visual Editor | [Link](https://github.com/visual-space/visual-editor) | Rich text editor for Flutter based on Delta format (Quill fork) |
-| webtrit_phone         | [Link](https://github.com/WebTrit/webtrit_phone)  | WebTrit Phone application  |
+| webtrit_phone | [Link](https://github.com/WebTrit/webtrit_phone)  | WebTrit Phone application  |
+
+### Productivity
+
+| Project    | Repo  | Description  |
+|:-----------|:------|:-------------|
+| Break.Down.Timer | [Link](https://github.com/jenspfahl/bdt) | A handy timer where you can define notifications ("breaks") while the timer is running |
+| DeadlinesApp | [Link](https://github.com/emmanuelmess/deadlinesapp) | A simple app for keeping track of deadlines |
+| Deer | [Link](https://github.com/aleksanderwozniak/deer) | Minimalist Flutter Todo App, built using BLoC pattern |
+| Everyday Tasks | [Link](https://github.com/jenspfahl/everydaytasks) | Track, log and schedule your everyday tasks. |
+| flutter_notes_app          | [Link](https://github.com/31Carlton7/flutter_notes_app)             | Note taking app. |
+| Flutter-Pomodoro           | [Link](https://github.com/wilsonowilson/Flutter-Pomodoro)           | A complete pomodoro app for MacOS. |
+| GitJournal | [Link](https://github.com/gitjournal/gitjournal) | Mobile first Note Taking integrated with Git |
+| Glory Todo Desktop | [Link](https://github.com/yessglory17/glory_todo_desktop) | A desktop Todo app. |
+| koperasi-mobileApp         | [Link](https://github.com/koperasi-rlp1/koperasi-mobileApp)         | Task Planner App |
+| Leaflet | [Link](https://github.com/potatoproject/leaflet) | POSP official notes app, soon to be included |
+| Lightplan | [Link](https://github.com/xddk/lightplan) | LightPlan is an open source project meant to remind tasks you have to make. Time is ticking, let's not waste time planning. |
+| listify                    | [Link](https://github.com/momshaddinury/listify)                    | Todo App with a refreshing UI. Technology used: Flutter, Firebase, MVC, Riverpod. |
+| log_book                   | [Link](https://github.com/DonnC/log_book)                           | An internship log book desktop app |
+| markdownr | [Link](https://github.com/sanzoghenzo/markdownr) | Android app that converts an URL to markdown, and lets you share it to your favorite notes app. |
+| memo                       | [Link](https://github.com/olmps/memo)                               | Memo is an open-source, programming-oriented spaced repetition software (SRS). |
+| minttask | [Link](https://github.com/boredcodebyk/minttask) | A simple todo manager for Android made using Flutter with Material Design 3 |
+| Note Taking App | [Link](https://github.com/bimsina/notes-app) | Note Taking App made with Flutter with Sqlite as database. |
+| NoteApp-Clean-Architecture | [Link](https://github.com/imSanjaySoni/NoteApp-Clean-Architecture)  | NoteApp with Domain-Driven Clean Architecture with FlutterBloc + Freezed + Hive  |
+| Noteless | [Link](https://github.com/redsolver/noteless) | A Markdown-based note-taking app for mobile devices. |
+| Noty                       | [Link](https://github.com/JohnKinyanjui/Noty)                       | Write notes in the most productive ways |
+| ntodotxt | [Link](https://github.com/tmaegel/ntodotxt) | Flutter app for managing your todos within a todo.txt file locally or via webdav (e.g. Nextcloud) |
+| One Day List | [Link](https://github.com/asjqkkkk/flutter-todos) | A small, simple and beautiful app that can help you keep track of your daily plans. |
+| Paperless | [Link](https://github.com/bauerj/paperless_app) | An Android/iOS app for Paperless |
+| pomodoro-session           | [Link](https://github.com/jashdubal/pomodoro-session)               | Helps users track work sessions using the Pomodoro Technique |
+| pmdr                       | [Link](https://github.com/aricodeine/pmdr)                          | A Pomodoro App |
+| Repeat Me | [Link](https://github.com/samarthdesai01/repeatme) | A clean and intuitive task managing app for Android created with Flutter  |
+| Shorey | [Link](https://github.com/elementlo/shorey) | Shorey is a simple note app which is built with Flutter and supports both Android/iOS platforms. |
+| task_management            | [Link](https://github.com/iahmadamin/task_management)               | Task Management / TODO App  |
+| Taskez | [Link](https://github.com/Davies-K/Taskez) | A productivity mobile application UI kit. |
+| TaskWarrior | [Link](https://github.com/CCExtractor/taskwarrior-flutter)| A premier task management tool for terminal users |
+| Time Cop | [Link](https://github.com/hamaluik/timecop) | A privacy first time tracking app. |
+| Time Tracking | [Link](https://github.com/bizz84/starter_architecture_flutter_firebase) | Time Tracking app with Flutter & Firebase. |
+| tmail-flutter              | [Link](https://github.com/linagora/tmail-flutter)                   | A multi-platform application for reading your emails, with your favorite devices, using the JMAP protocol! |
+| Todoey | [Link](https://github.com/Coffee-Expert/Todoey) | A simple To-do app. |
+| Virlow Flutter Recorder | [Link](https://github.com/virlow-voice/virlow-flutter-recorder) | An app that transcribes recorded audio and includes a text editor for editing/adding notes. |
+| WD Notes | [Link](https://gitlab.com/ideotec/wdnotes) | A note-taking app that syncs with WebDAV |
+| WhatTodo | [Link](https://github.com/burhanrashid52/whattodo) | A Simple Todo app design in Flutter to keep track of your task on daily basis. Its build on BLoC Pattern |
+| Working Time Alert | [Link](https://github.com/spidgorny/workingtimealert) | Working time alert. Never miss the time to go home. |
+| Xournal++ | [Link](https://gitlab.com/theonewiththebraid/xournalpp_mobile) | https://xournal.online/ A port of the main features of Xournal++ to various Flutter platforms like Android, iOS and the Web. |
+| Yet another Todo Application | [Link](https://github.com/rohithgilla12/yata) | Yet another Todo Application |
+
+### Tools & Utilities
+
+| Project    | Repo  | Description  |
+|:-----------|:------|:-------------|
+| alisthelper | [Link](https://github.com/Xmarmalade/alisthelper) | Alist Helper is an application designed to simplify the use of the desktop version of alist. |
+| Anchr | [Link](https://github.com/muety/anchr-android) | Android client for Anchr.io link collections, built with Flutter |
+| Biyi | [Link](https://github.com/lijy91/biyi) | Biyi (比译) is a convenient translation and dictionary app written in Flutter. |
+| Browser App | [Link](https://github.com/pichillilorenzo/flutter_browser_app) | Full-Featured Mobile Browser App. |
+| Calculator | [Link](https://github.com/dahliaos/calculator) | dahliaOS calculator |
+| Calculator | [Link](https://github.com/belelaritra/neumorphic_calculator) | A Soft UI (Neumorphism) Simple Calculator created using Flutter. |
+| Chrono | [Link](https://github.com/vicolo-dev/chrono) | A modern and powerful clock, alarms, timer and stopwatch app for Android |
+| Convapp | [Link](https://github.com/maximoospital/Convapp) | A lightweight and multi-platform real-time unit conversion app. |
+| Converter NOW | [Link](https://github.com/ferraridamiano/converternow) | The Unit Converter app: easy, immediate and multi-platform |
+| dpc | [Link](https://github.com/jakubslaby09/dpc) | An open-source app for writing a family pedigree with a chronicle using Git. |
+| Gopeed | [Link](https://github.com/GopeedLab/gopeed) | A modern download manager that supports all platforms. |
+| IdiomReplaceX Browser | [Link](https://github.com/idiomreplacex/idiomreplacex-app) | The IdiomReplaceX Browser App is a special browser app where IdiomReplaceX toolbox is added to almost any web page, allowing literary filters to be applied to the content of the web page. |
+| keyviz | [Link](https://github.com/mulaRahul/keyviz) | Keyviz is a free and open-source tool to visualize your keystrokes ⌨️ and 🖱️ mouse actions in real-time.  |
+| Keyviz | [Link](https://github.com/softwarearchitect817/keyviz) | Let your audience know what handy shortcuts/keys you're pressing during screencasts, presentations, collaborations, or whenever you need it. |
+| limpazap | [Link](https://github.com/lucasew/limpazap) | Clean up Whatsapp backups |
+| Mint Calculator | [Link](https://github.com/boredcodebyk/mintcalc) | A simple calculator and unit converter app with Material Design 3 inspired by Windows Calculator |
+| Neumorphic Calculator | [Link](https://github.com/mllrr96/Neumorphic-Calculator) | An elegant and highly customizable calculator app with a beautiful neumorphic design. |
+| Nyrna | [Link](https://github.com/Merrit/nyrna) | Suspend games and applications. |
+| Orgro | [Link](https://github.com/amake/orgro) | An Org Mode file viewer for iOS and Android |
+| RPNcalc | [Link](https://github.com/apesic/rpncalc) | A simple RPN (Reverse Polish Notation) calculator app built using Flutter |
+| SimplyTranslate Mobile | [Link](https://github.com/manerakai/simplytranslate_mobile) | Privacy friendly frontend to Google Translate |
+| Type | [Link](https://github.com/jeffsieu/type) | A typing test. |
 
 ### Password, Encryption & Security
 
@@ -857,7 +877,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | MVVM app architecture | [Link](https://github.com/DeveloperRahnuma/Flutter-Mvvm-Clean-Setup) | Model–View–ViewModel (MVVM) example. |
 | Quiz App | [Link](https://github.com/muhammad-fiaz/QuizApp-Flutter) | A simple Quiz Application UI template |
 
-### Crime & Safety
+### Privacy, Safety & Crime
 
 | Project    | Repo  | Description  |
 |:-----------|:------|:-------------|
@@ -882,8 +902,9 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Plant Disease Detector | [Link](https://github.com/root458/Plant-Disease-Detector) | App that detects a plant's disease given a photo of an affected part of the plant. |
 | Plant Sense | [Link](https://github.com/reaper47/plant-sense) | An Arduino project with an Android app to measure the soil moisture of your plants. |
 | Precio Luz | [Link](https://github.com/webierta/precio-luz) | Official electricity rate in Spain (PVPC) |
-| SMASH - Smart Mobile App for the Surveyor's Happiness | [Link](https://github.com/geopaparazzi/smash) | Source code of the SMASH Android/iOS digital field mapping app. |
 | reforestation-assistant-simulator | [Link](https://github.com/LiquidGalaxyLAB/reforestation-assistant-simulator)  | The Reforestation Assistant & Simulator idea is to create an app to help on reforestation of degraded areas of the planet by drone or manually |
+| Smart-City-Dashboard | [Link](https://github.com/LiquidGalaxyLAB/Smart-City-Dashboard)  | Android app to visualize many available public data of various Smart Cities through Dashboards. |
+| SMASH - Smart Mobile App for the Surveyor's Happiness | [Link](https://github.com/geopaparazzi/smash) | Source code of the SMASH Android/iOS digital field mapping app. |
 | Water Me | [Link](https://github.com/abertschi/water-me) | A simple, open and privacy friendly plant watering reminder for Android. |
 
 ### Others
@@ -891,30 +912,18 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Project    | Repo  | Description  |
 |:-----------|:------|:-------------|
 | AgroRobotSwarm-dashboard | [Link](https://github.com/LiquidGalaxyLAB/AgroRobotSwarm-dashboard)  | Have a better control of the lands and show the collected information of the robots   |
-| alisthelper | [Link](https://github.com/Xmarmalade/alisthelper) | Alist Helper is an application designed to simplify the use of the desktop version of alist. |
-| Anchr | [Link](https://github.com/muety/anchr-android) | Android client for Anchr.io link collections, built with Flutter |
 | Arduino-Controller  | [Link](https://github.com/LiquidGalaxyLAB/Arduino-Controller) | Arduino Controller for Liquid Galaxy |
 | asteroids-lg-retro-gaming | [Link](https://github.com/LiquidGalaxyLAB/asteroids-lg-retro-gaming)  | Making the management of the Asteroids game in the Liquid Galaxy easier for any user |
 | Barrett 2090 & XV 3088 Flutter Simulation | [Link](https://github.com/hadiuzzaman524/barrett-2090-xv-3088-flutter-simulation) | This Flutter project simulates the operation of the Barrett 2090 and XV 3088 communication systems. |
-| Biyi | [Link](https://github.com/lijy91/biyi) | Biyi (比译) is a convenient translation and dictionary app written in Flutter. |
-| Browser App | [Link](https://github.com/pichillilorenzo/flutter_browser_app) | Full-Featured Mobile Browser App. |
-| Calculator | [Link](https://github.com/dahliaos/calculator) | dahliaOS calculator |
 | Car Control Dashboard | [Link](https://github.com/Hamad-Anwar/Car-Controller-Getx-Flutter) | A user-friendly car control dashboard to interact with dynamic car controls. |
-| Chrono | [Link](https://github.com/vicolo-dev/chrono) | A modern and powerful clock, alarms, timer and stopwatch app for Android! |
 | Congress Fahrplan | [Link](https://github.com/benjaminschilling33/congress_fahrplan) | A Congress Fahrplan App written in Flutter |
-| Convapp | [Link](https://github.com/maximoospital/Convapp) | A lightweight and multi-platform real-time unit conversion app. |
-| Converter NOW | [Link](https://github.com/ferraridamiano/converternow) | The Unit Converter app: easy, immediate and multi-platform |
-| dpc | [Link](https://github.com/jakubslaby09/dpc) | An open-source app for writing a family pedigree with a chronicle using Git. |
 | Elements | [Link](https://github.com/vendelin8/elements-flutter) | A cross-platform mobile and web app to show Chinese zodiac five elements as a pageable calendar |
 | flutterplasma | [Link](https://github.com/felixblaschke/flutterplasma) | Flutter app demonstrating Flutter web rendering. |
 | Gauges_Showcase | [Link](https://github.com/Afroz-Shaikh/Gauges_Showcase)  | Showcase app that demonstrates the power and flexibility of the geekyants_flutter_gauges   |
 | Gesture-Controller | [Link](https://github.com/LiquidGalaxyLAB/Gesture-Controller) | A cheap and easy solution to add a new way to control Liquid Galaxy  |
-| Gopeed | [Link](https://github.com/GopeedLab/gopeed) | A modern download manager that supports all platforms. |
 | image-satellite-visualizer | [Link](https://github.com/LiquidGalaxyLAB/image-satellite-visualizer) | Image satellite visualizer |
 | INAV Cross configurator | [Link](https://github.com/elgansayer/inav-cross-configurator) | A new INav cross platform configuration tool taking mobile into account |
 | IREX Mobile App | [Link](https://gitlab.com/web_irex/irex-mobile) | IREX portal mobile client project |
-| keyviz | [Link](https://github.com/mulaRahul/keyviz) | Keyviz is a free and open-source tool to visualize your keystrokes ⌨️ and 🖱️ mouse actions in real-time.  |
-| Keyviz | [Link](https://github.com/softwarearchitect817/keyviz) | Keyviz is a free and open-source software to visualize your keystrokes in realtime! Let your audience know what handy shortcuts/keys you're pressing during screencasts, presentations, collaborations, or whenever you need it. |
 | Laser-Slides | [Link](https://github.com/LiquidGalaxyLAB/Laser-Slides) | Simplifies the adjustment of OSC messages on your phone or tablet for laser presentations |
 | Laser_Slides_Flutter | [Link](https://github.com/LiquidGalaxyLAB/Laser_Slides_Flutter)  | Seamlessly integrate with Beyond software using OSC (Open Sound Control) commands |
 | LG-Gesture-And-Voice-Control | [Link](https://github.com/LiquidGalaxyLAB/LG-Gesture-And-Voice-Control)  | An App To Provide Gesture and Voice Control for Liquid Galaxy. |
@@ -922,16 +931,12 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Lg-Laser-Slides-App | [Link](https://github.com/LiquidGalaxyLAB/Lg-Laser-Slides-App) | Allows users to manipulate the laser slides in the beyond software from a tablet device  |
 | lg-retro-gaming | [Link](https://github.com/LiquidGalaxyLAB/lg-retro-gaming) | Retro Gaming is an app created with the intention of making the management of games in the Liquid Galaxy easier for any user |
 | LG_Travel | [Link](https://github.com/LiquidGalaxyLAB/LG_Travel) | App tells you about the popular breakfasts in major world cities and provides you popular locations to try them.  |
-| limpazap | [Link](https://github.com/lucasew/limpazap) | Clean up Whatsapp backups |
 | LiquidArt_AI | [Link](https://github.com/LiquidGalaxyLAB/LiquidArt_AI)  | Allows users to generate images using a text or an audio to text prompt and a selection of APIs |
 | MarschRide | [Link](https://bitbucket.org/bobbery/marschride) |  |
 | matoid | [Link](https://bitbucket.org/bobbery/matoid) |  |
-| RPNcalc | [Link](https://github.com/apesic/rpncalc) | A simple RPN (Reverse Polish Notation) calculator app built using Flutter |
 | Rocket-Launcher-App | [Link](https://github.com/LiquidGalaxyLAB/Rocket-Launcher-App)  | Rocket Launch Visualizer |
 | SatNOGS-Visualization-Tool | [Link](https://github.com/LiquidGalaxyLAB/SatNOGS-Visualization-Tool) | Mobile app that aims to show information from satellites and ground stations using the SatNOGS database and API. |
 | scroll_text_application | [Link](https://github.com/LiquidGalaxyLAB/scroll_text_application) | An application to display various types of content (such as text, images, videos, and more) on Liquid Galaxy screens. |
 | SignalMeter | [Link](https://github.com/shaxxx/signalmeter2) | Satellite Signal Meter for Enigma based receivers |
-| SimplyTranslate Mobile | [Link](https://github.com/manerakai/simplytranslate_mobile) | Privacy friendly frontend to Google Translate |
-| Smart-City-Dashboard | [Link](https://github.com/LiquidGalaxyLAB/Smart-City-Dashboard)  | Android app to visualize many available public data of various Smart Cities through Dashboards. |
 | STEAM-Celestial-Satellite-tracker-in-real-time | [Link](https://github.com/LiquidGalaxyLAB/STEAM-Celestial-Satellite-tracker-in-real-time) | Steam Celestial Satellite tracker in real time   |
-| Type | [Link](https://github.com/jeffsieu/type) | A typing test. |
+
