@@ -560,6 +560,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Flutter-Musive-app  | [Link](https://github.com/Ansh-Rathod/Flutter-Musive-app) | Full-stack music player app with fully functional UI like Spotify written in flutter and dart using node.js music API. |
 | FlutterCloudMusic | [Link](https://github.com/AIYO77/flutter_cloud_music) | NetEase Cloud Music App |
 | Harmonoid | [Link](https://github.com/harmonoid/harmonoid) | Plays & manages your music library. Looks beautiful & juicy. Playlists, visuals, synced lyrics, pitch shift, volume boost & more. |
+| Harmony Forge | [Link](https://github.com/jztchl/Harmony-Forge) | A music generation platform merging Flask & Flutter. Flask manages backend tasks while the app offers a user-friendly interface |
 | Harmony Music | [Link](https://github.com/anandnet/harmony-music) | A cross platform App for streaming Music |
 | Lyrics 2 | [Link](https://github.com/f-leoni/lyrics2) | A flutter app to search songs' lyrics |
 | Marina.Moda | [Link](https://github.com/sorydima/Marina.Moda-) |  A decentralized music streaming service powered by AI. |
