@@ -355,8 +355,8 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Space-Empires          | [Link](https://github.com/SatyamX64/Space-Empires)  | Space Themed Turn-Based Strategy Game |
 | Spacecape | [Link](https://github.com/ufrshubham/spacescape) | A 2D top-down space shooter made using Flutter and Flame engine. |
 | Sudaku | [Link](https://codeberg.org/theoden8/sudaku) | Solve sudoku by creating rules |
-| sudoku (benoitharrault) | [Link](https://git.harrault.fr/android/org.benoitharrault.sudoku) | Sudoku |
 | Sudoku | [Link](https://github.com/thesuncat/sudoku) | FOSS Sudoku |
+| Sudoku (benoitharrault) | [Link](https://git.harrault.fr/android/org.benoitharrault.sudoku) | Sudoku |
 | Sudoku (einsitang) | [Link](https://github.com/einsitang/sudoku-flutter) | An open source Sudoku game. |
 | super_dash             | [Link](https://github.com/flutter/super_dash)| A multiplatform demo game built using Flutter and Flame |
 | Supermario game | [Link](https://github.com/DaQinShgy/flutter_game) | A Supermario game built using Flame. |
