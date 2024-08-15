@@ -42,14 +42,15 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 
 | Project    | Repo  | Description  |
 |:-----------|:------|:-------------|
-| AI Assistant App | [Link](https://github.com/HarshAndroid/Ai-Assistant-In-Flutter-Using-ChatGpt) | AI Chatbot, Image Generator & Language Translator App. |
-| AI Assistant Flutter | [Link](https://github.com/SheershBhatnagar/AI-Assistant---Flutter) | A mobile app that offers users an interactive digital assistant using ChatGPT and DALL-E API. |
-| ai_buddy  | [Link](https://github.com/yatendra2001/ai_buddy)               | Your personal free-to-use AI assistant, built with gemini & flutter. |
+| AI Assistant App | [Link](https://github.com/HarshAndroid/Ai-Assistant-In-Flutter-Using-ChatGpt) | AI Chatbot, Image Generator & Language Translator App |
+| AI Assistant Flutter | [Link](https://github.com/SheershBhatnagar/AI-Assistant---Flutter) | A mobile app that offers users an interactive digital assistant using ChatGPT and DALL-E API |
+| ai_buddy  | [Link](https://github.com/yatendra2001/ai_buddy)               | Your personal free-to-use AI assistant, built with gemini & flutter |
 | aidea     | [Link](https://github.com/mylxsw/aidea)                        | AIdea supports GPT and domestic LLMs Tongyi Qianwen, Wenxinyiyan, etc., and supports Stable Diffusion Wenshengtu, Tushengtu, SDXL1.0, super-resolution, and picture coloring. |
-| Flutter Scribble | [Link](https://github.com/lahirumaramba/flutter_scribble) | Turn your scribbles into detailed images with AI. |
-| maid      | [Link](https://github.com/Mobile-Artificial-Intelligence/maid) | Maid is a cross-platform Flutter app for interfacing with GGUF / llama.cpp models locally, and with Ollama and OpenAI models remotely. |
-| Simple ChatGPT | [Link](https://github.com/SnowStar0423/ChatGPT-Flutter-App) | ChatGPT like app in Flutter. |
-| Story Generator | [Link](https://github.com/Lord-Chris/story-generator) | A mobile app that generates random stories based on user input using Google Generative AI. |
+| Flutter Scribble | [Link](https://github.com/lahirumaramba/flutter_scribble) | Turn your scribbles into detailed images with AI |
+| HaoChat | [Link](https://github.com/conghaonet/hao_chatgpt) | An unofficial ChatGPT application |
+| maid      | [Link](https://github.com/Mobile-Artificial-Intelligence/maid) | Maid is a cross-platform Flutter app for interfacing with GGUF / llama.cpp models locally, and with Ollama and OpenAI models remotely |
+| Simple ChatGPT | [Link](https://github.com/SnowStar0423/ChatGPT-Flutter-App) | ChatGPT like app in Flutter |
+| Story Generator | [Link](https://github.com/Lord-Chris/story-generator) | A mobile app that generates random stories based on user input using Google Generative AI |
 
 
 ### Productivity
