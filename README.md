@@ -274,6 +274,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Dino Run | [Link](https://github.com/ufrshubham/dino_run) | A 2D infinite side scroller mobile game made using Flame engine. |
 | Dinosaur Game | [Link](https://github.com/HeveshL/flutter-dinosaur) | A simple chrome dinosaur game. |
 | doddle                 | [Link](https://github.com/NaserElziadna/doddle) | Amazing magical doodle game provide a creative doodle world for you! |
+| Easy Pong | [Link](https://github.com/adeeteya/EasyPong) |  a classic Pong game built using Flutter and the Flame game engine |
 | Egyptian Mouse Pounce | [Link](https://github.com/dozingcat/mousepounce) | Egyptian Rat Screw, a card game in Flutter |
 | Everest | [Link](https://github.com/mwageringel/everest) | A mathematical puzzle game |
 | Fingertap | [Link](https://github.com/arokip/fingertap) | Catchy mobile game using more of your fingers. |
