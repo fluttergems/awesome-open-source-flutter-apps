@@ -91,6 +91,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Shorey | [Link](https://github.com/elementlo/shorey) | Shorey is a simple note app which is built with Flutter and supports both Android/iOS platforms. |
 | task_management            | [Link](https://github.com/iahmadamin/task_management)               | Task Management / TODO App  |
 | Taskez | [Link](https://github.com/Davies-K/Taskez) | A productivity mobile application UI kit. |
+| TaskWarrior | [Link](https://github.com/CCExtractor/taskwarrior-flutter)| A premier task management tool for terminal users |
 | Time Cop | [Link](https://github.com/hamaluik/timecop) | A privacy first time tracking app. |
 | Time Tracking | [Link](https://github.com/bizz84/starter_architecture_flutter_firebase) | Time Tracking app with Flutter & Firebase. |
 | tmail-flutter              | [Link](https://github.com/linagora/tmail-flutter)                   | A multi-platform application for reading your emails, with your favorite devices, using the JMAP protocol! |
@@ -932,4 +933,3 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Smart-City-Dashboard | [Link](https://github.com/LiquidGalaxyLAB/Smart-City-Dashboard)  | Android app to visualize many available public data of various Smart Cities through Dashboards. |
 | STEAM-Celestial-Satellite-tracker-in-real-time | [Link](https://github.com/LiquidGalaxyLAB/STEAM-Celestial-Satellite-tracker-in-real-time) | Steam Celestial Satellite tracker in real time   |
 | Type | [Link](https://github.com/jeffsieu/type) | A typing test. |
-| Taskwarrior-flutter | [Link](https://github.com/CCExtractor/taskwarrior-flutter)| This is the repo of mobile app of taskwarrior |
