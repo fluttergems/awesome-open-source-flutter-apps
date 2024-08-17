@@ -629,7 +629,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Marvel App | [Link](https://github.com/Ansh-Rathod/Flutter-Bloc-Marvel-App) | App providing information about marvel characters & movies built using Marvel Comics API and firebase. |
 | Movie DB | [Link](https://github.com/hazarbelge/flutter_getx_the_moviedb) | The Movie DB App with GetX State Management. |
 | movie-finder             | [Link](https://github.com/OmarJ9/movie-finder) | A Flutter App based on TheMovieAPI, and built with Supabase backend and BLoC state management library.  |
-| MovieLab: Movies & TV Guide | [Link](https://github.com/erfanrht/movielab) | An open source movie tracker and movie finder. |
+| MovieLab | [Link](https://github.com/erfanrht/movielab) | An open source movie tracker and movie finder. |
 | Movies App | [Link](https://github.com/vellt/movies-app-flutter) | MoviesApp based on themoviedb API |
 | movies_app               | [Link](https://github.com/Roaa94/movies_app) | Directory for movies and famous people  |
 | namida                   | [Link](https://github.com/namidaco/namida) | A Beautiful and Feature-rich Music & Video Player with Youtube Support |
