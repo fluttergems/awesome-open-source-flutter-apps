@@ -29,7 +29,8 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Lab+ for GitLab | [Link](https://github.com/thelooter/labplus_for_gitlab) | An App to manage your interactions with your Gitlab Instance from your phone or Desktop |
 | RustDesk | [Link](https://github.com/rustdesk/rustdesk) | An open-source remote desktop, and alternative to TeamViewer. |
 | semaphore | [Link](https://github.com/gsmlg-dev/ansible-semaphore-client) | Client App for Ansible Semaphore |
-| ServeIt | [Link](https://github.com/many-fac3d-g0d/serveit) | A simple http-server on android using flutter. |
+| ServeIt | [Link](https://github.com/many-fac3d-g0d/serveit) | A simple http-server on android |
+| ServerBox | [Link](https://github.com/lollipopkit/flutter_server_box) | Provides charts to display Linux server status and tools to manage server |
 | sidekick   | [Link](https://github.com/fluttertools/sidekick)      | A simple desktop interface for tools that enhance Flutter's development experience to make it even more delightful. |
 | Software architecture of interpreter in Dart | [Link](https://github.com/euler2dot7/interpreter) | Software architecture of interpreter in Dart (Flutter) |
 | The Widget-Maker | [Link](https://github.com/norbert515/flutter_ide) | A visual editor for Flutter widgets |
@@ -227,9 +228,10 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Chrono | [Link](https://github.com/vicolo-dev/chrono) | A modern and powerful clock, alarms, timer and stopwatch app for Android |
 | Convapp | [Link](https://github.com/maximoospital/Convapp) | A lightweight and multi-platform real-time unit conversion app. |
 | Converter NOW | [Link](https://github.com/ferraridamiano/converternow) | The Unit Converter app: easy, immediate and multi-platform |
-| dpc | [Link](https://github.com/jakubslaby09/dpc) | An open-source app for writing a family pedigree with a chronicle using Git. |
-| Gopeed | [Link](https://github.com/GopeedLab/gopeed) | A modern download manager that supports all platforms. |
-| IdiomReplaceX Browser | [Link](https://github.com/idiomreplacex/idiomreplacex-app) | The IdiomReplaceX Browser App is a special browser app where IdiomReplaceX toolbox is added to almost any web page, allowing literary filters to be applied to the content of the web page. |
+| dpc | [Link](https://github.com/jakubslaby09/dpc) | An open-source app for writing a family pedigree with a chronicle using Git |
+| Frigoligo | [Link](https://github.com/casimir/frigoligo) | A wallabag client to take your links anywhere and keep them fresh! |
+| Gopeed | [Link](https://github.com/GopeedLab/gopeed) | A modern download manager that supports all platforms |
+| IdiomReplaceX Browser | [Link](https://github.com/idiomreplacex/idiomreplacex-app) | The IdiomReplaceX Browser App is a special browser app where IdiomReplaceX toolbox is added to almost any web page, allowing literary filters to be applied to the content of the web page |
 | keyviz | [Link](https://github.com/mulaRahul/keyviz) | Keyviz is a free and open-source tool to visualize your keystrokes ⌨️ and 🖱️ mouse actions in real-time.  |
 | Keyviz | [Link](https://github.com/softwarearchitect817/keyviz) | Let your audience know what handy shortcuts/keys you're pressing during screencasts, presentations, collaborations, or whenever you need it. |
 | limpazap | [Link](https://github.com/lucasew/limpazap) | Clean up Whatsapp backups |
@@ -281,6 +283,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | OBS Blade | [Link](https://github.com/kounex/obs_blade) | Make use of the OBS WebSocket Plugin (https://github.com/obsproject/obs-websocket) and control your stream |
 | photobooth       | [Link](https://github.com/flutter/photobooth)              | Google I/O 2021 Photo Booth built with Flutter and Firebase  |
 | pstube           | [Link](https://github.com/prateekmedia/pstube)             | Watch and download videos without ads |
+| Snap Saver | [Link](https://github.com/nielslee/snapsaver) | A camera app that makes it easier to take photos for selected albums or directories |
 | Yaga | [Link](https://github.com/vauvenal5/yaga) | Nextcloud Yaga - A Nextcloud first gallery app for Android. |
 
 ### Games & Fun
@@ -314,6 +317,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Fingertap | [Link](https://github.com/arokip/fingertap) | Catchy mobile game using more of your fingers. |
 | Flame Simple Platformer | [Link](https://github.com/ufrshubham/flame_simple_platformer) | A 2D platformer made using Flame engine |
 | Flappy Bird | [Link](https://github.com/moha-b/Flappy-Bird) | A game based on flutter animation. |
+| Flappy Dash | [Link](https://github.com/rutvikpanchal246/flappydash) | A fast-paced, addictive mobile game that puts your reflexes to the test |
 | Flappy Flame | [Link](https://github.com/pierre-monier/flappy_flame) | A Flappy Bird clone made with flame |
 | Fludo | [Link](https://github.com/smokelaboratory/fludo) | A ludo board game developed in Flutter using canvas. |
 | flutter_jardinains     | [Link](https://github.com/retroportalstudio/flutter_jardinains) | A basic demonstration for creating a Jardinains (Fancy Pong-Like) Game |
@@ -532,18 +536,19 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | CodeQuizzy | [Link](https://github.com/iamnijat/code-quizzy) | App to learn programming concepts using game-like challenges. |
 | DanXi | [Link](https://github.com/danxi-dev/danxi) | An all-rounded service app for Fudan University students. |
 | Dev-Doctor | [Link](https://github.com/LinwoodDev/dev_doctor) | Free, opensource, serverless learning platform |
-| Elements-App          | [Link](https://github.com/brianrobles204/Elements-App)   | Flutter app for browsing the elements of the periodic table! |
+| Elements-App | [Link](https://github.com/brianrobles204/Elements-App)   | Flutter app for browsing the elements of the periodic table! |
 | eqTrainer | [Link](https://github.com/potatosalad775/eqTrainer) | Critical Listening Skill Training App |
 | FAnki | [Link](https://github.com/wklausing/FAnki) | App designed to help users learn using flashcards. |
 | Fludemy | [Link](https://github.com/felipecastrosales/fludemy) | Udemy Clone. |
 | flutter-wonderous-app | [Link](https://github.com/gskinnerTeam/flutter-wonderous-app) | A showcase app for the Flutter SDK. Wonderous will educate and entertain as you uncover information about some of the most famous structures in the world. |
-| FlutterQuizzApp       | [Link](https://github.com/Akashdu/FlutterQuizzApp)  | A quiz app |
+| FlutterQuizzApp | [Link](https://github.com/Akashdu/FlutterQuizzApp)  | A quiz app |
 | freeCodeCamp | [Link](https://github.com/freeCodeCamp/mobile)   | freeCodeCamp's open-source mobile app  |
 | fujiten | [Link](https://github.com/odrevet/fujiten) | Fujiten is a Japanese dictionary application |
 | Fun With Kanji | [Link](https://github.com/krille-chan/fun-with-kanji) | Simple Flutter app to learn Japanese writing systems Hiragana, Katakana and Kanji. |
 | Graded | [Link](https://github.com/nightdreamgames/graded) | Graded - Grade Tracker |
 | hamfisted | [Link](https://github.com/specht/hamfisted) | With this app you can prepare for the amateur radio exam for classes E and A. Practice all the questions and keep track of your progress. |
-| JS-Dict | [Link](https://github.com/petlyh/js-dict) | Japanese-English dictionary app powered by Jisho.org. |
+| JS-Dict | [Link](https://github.com/petlyh/js-dict) | Japanese-English dictionary app powered by Jisho.org |
+| Kepler-App | [Link](https://github.com/antonioalbt/kepler_app) | The ultimate overview app for all JKG students, parents and teachers |
 | lanelexicon | [Link](https://github.com/gibreelabdullah/lanelexicon) | Lane's Lexicon - An Arabic English Dictionary |
 | MatheBuddy | [Link](https://github.com/mathebuddy/mathebuddy) | A gamified learning app for higher math. |
 | Mathematics | [Link](https://github.com/j-j-gajjar/mathematics) | Mathematics Flutter offers a collection of mathematical functions and supports generation of MCQs, QnA PDFs & quizzes. |
@@ -551,6 +556,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Notely | [Link](https://github.com/thilojaeggi/notely) | A cross-platform mobile client for the Kaschuso (schulnetz) School platform.  |
 | O̍h Tâi Gí | [Link](https://github.com/hschueh/oh_tai_gi) | A Taiwanese (tâi-gí) learning app inspired by moedict & quizlet. |
 | Onyx | [Link](https://github.com/onyx-lyon1/onyx) | The app for Universite Claude Bernard |
+| OpenUSOS | [Link](https://github.com/openusos/openusos) | Unofficial USOS app, for students in Poland |
 | OpSo | [Link](https://github.com/andoriyaprashant/OpSo) | OpSo provides information about various open-source programs like GSoC, Summer of Bitcoin, etc. |
 | Orientation | [Link](https://github.com/matthewtory/trinity-orientation-2018) | An app for orientation week at Trinity College, University of Toronto. |
 | Saber | [Link](https://github.com/saber-notes/saber) | The cross-platform open-source app built for handwriting |
@@ -721,6 +727,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 |:-----------|:------|:-------------|
 | AirDash | [Link](https://github.com/simonbengtsson/airdash) | Transfer photos and files to any device. |
 | ArthurMorgan | [Link](https://github.com/belikesohan/arthurmorgan) | Cross-Platform Google Drive client with encryption support. |
+| BleOta | [Link](https://github.com/vovagorodok/ble_ota_app) | Graphical application for upload firmware over Bluetooth |
 | bluetooth_car | [Link](https://github.com/caibimiaokong/bluetooth_car) | A Bluetooth car control app |
 | Brisk | [Link](https://github.com/aminbhst/brisk) | Fast, multithreaded, cross-platform download manager |
 | Custom Uploader | [Link](https://github.com/srs2225a/custom_uploader) | Custom Uploader is a simple, lightweight, and easy to use file uploader built using flutter for android devices that allows you to upload files to a file host of your choice. |
@@ -752,7 +759,8 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | My Leaf | [Link](https://gitlab.com/tobiaswkjeldsen/carwingsflutter) | My Leaf is a simple, striving to be great looking, and fast alternative to the official NissanConnect app(s) from Nissan. |
 | OpenWrt Manager | [Link](https://github.com/hagaygo/openwrtmanager) | Mobile app for interacting with your OpenWrt device |
 | Osram remote | [Link](https://github.com/talkingpanda0/osram-remote) | Android app for controlling Osram RGB lights using infrared |
-| Sharp LH5801 | [Link](https://github.com/cbonello/lh5801) | Sharp LH5801 8-bit microprocessor emulator in Dart. |
+| Sharp LH5801 | [Link](https://github.com/cbonello/lh5801) | Sharp LH5801 8-bit microprocessor emulator in Dart |
+| Sensors Dashboard | [Link](https://github.com/umer0586/sensorserver) | A web app to test WebSocket connections with SensorServer in a web browser |
 
 ### Weather
 
