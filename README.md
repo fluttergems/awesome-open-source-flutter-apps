@@ -258,7 +258,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | RSA Encryption | [Link](https://github.com/vellt/RSA-Encryption-Flutter) | Encryption based on asymmetric cryptography. |
 | Safe Notes | [Link](https://github.com/keshav-space/safenotes) | Safe Notes is a security project aimed at providing an encrypted, private note manager that works locally and protects notes from various threat actors. |
 | Secur | [Link](https://gitlab.com/atechnohazard/secur) | A FOSS, cross-platform TOTP client written in Flutter with the aim of providing a beautiful UI. |
-| Securify: The Password Manager | [Link](https://github.com/ishanrakte/securify) | A password manager application with three layers of security. The app stores the passwords in a local database in an encrypted format.  Also, there is biometric verification(Fingerprint) whenever the app opens. |
+| Securify | [Link](https://github.com/ishanrakte/securify) | A password manager application with three layers of security. The app stores the passwords in a local database in an encrypted format.  Also, there is biometric verification(Fingerprint) whenever the app opens. |
 | SelfPrivacy | [Link](https://git.selfprivacy.org/kherel/selfprivacy.org.app) | SelfPrivacy — is a platform on your cloud hosting, that allows to deploy your own private services and control them using mobile application |
 | Wassword | [Link](https://github.com/polilluminato/wassword-flutter) | Wassword is an Android App built with Flutter to generate passwords and passphrases |
 | Yivi | [Link](https://github.com/privacybydesign/irmamobile) | Yivi offers a privacy-friendly, flexible and secure solution to many authentication problems, putting the user in full control over his/her data |
@@ -342,7 +342,6 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Minesweeper Game | [Link](https://github.com/recepsenoglu/minesweeper) | A Minesweeper game. |
 | Oblique Strategies | [Link](https://github.com/hobgoblina/oblique-strategies) | A digital rendering of Oblique Strategies - Over one hundred worthwhile dilemmas |
 | Pacman | [Link](https://github.com/Raj2503/Pacman-Flutter) | Vintage Pacman Game. |
-| Palčka | [Link](https://github.com/mytja/tarok) | A fully open-source Tarock program for playing online (through WebSocket-based backend) or offline (using bots). Integrates StockŠkis custom-made tarock engine. |
 | Parlera | [Link](https://gitlab.com/enjoyingfoss/parlera) | Word guessing party game, written in Flutter |
 | pinball                | [Link](https://github.com/flutter/pinball)   | Google I/O 2022 Pinball game built with Flutter and Firebase    |
 | Quards | [Link](https://github.com/jeffsieu/quards) | Solitaire in Flutter. |
@@ -361,6 +360,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | super_dash             | [Link](https://github.com/flutter/super_dash)| A multiplatform demo game built using Flutter and Flame |
 | Supermario game | [Link](https://github.com/DaQinShgy/flutter_game) | A Supermario game built using Flame. |
 | Tapit | [Link](https://github.com/webrror/tapit-flutter) | A casual finger battle game. |
+| Tarok | [Link](https://github.com/mytja/tarok) | A fully open-source Tarock program for playing online (through WebSocket-based backend) or offline (using bots). Integrates StockŠkis custom-made tarock engine. |
 | Tetris | [Link](https://github.com/priyanshudutta04/Tetris) | A Tetris game. |
 | Tic Tac Toe | [Link](https://github.com/Raj2503/Tic-Tac-Toe-Flutter) | Tic tac toe game. |
 | Tic Tac Toe (Multiplayer) | [Link](https://github.com/alexrintt/ttt) | Tic Tac Toe Local Multiplayer Game |
@@ -368,7 +368,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Trex game | [Link](https://github.com/renancaraujo/trex-flame) | Flutter port of the famous Trex game |
 | turi                   | [Link](https://github.com/renancaraujo/turi)  | A Fragment shader based game using Flame and Flutter  |
 | watermelon             | [Link](https://github.com/idootop/watermelon)  | Watermelon is a game developed using Flutter + Flame + Forge2D. |
-| Who Goes First? | [Link](https://github.com/j7126/who_goes_first) | Random funny 'who goes first' rules from popular tabletop games! |
+| Who Goes First | [Link](https://github.com/j7126/who_goes_first) | Random funny 'who goes first' rules from popular tabletop games! |
 | WordlyPlus | [Link](https://github.com/Carapacik/WordlyPlus) | Guess the WORD in six tries. |
 | Xeonjia | [Link](https://gitlab.com/deepdaikon/xeonjia) | Save the world by solving ice puzzles and defeating enemies! |
 | Zoysii | [Link](https://gitlab.com/deepdaikon/zoysii) | A simple logic game: find the best path to delete every number in a square space |
@@ -470,7 +470,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | trale | [Link](https://github.com/quantumphysique/trale) | trale – a simple body weight diary app respecting your privacy |
 | Watermaniac | [Link](https://github.com/artur-ios-dev/watermaniac) | A hydration tracking app that helps you track the amount of water you drink |
 | Wger Workout Manager | [Link](https://github.com/wger-project/flutter) | A digital health and fitness tracker app. |
-| Workout Time! | [Link](https://gitlab.com/ideotec/workouttime) | An app for managing and performing timed workouts |
+| Workout Time | [Link](https://gitlab.com/ideotec/workouttime) | An app for managing and performing timed workouts |
 | Workout Tracker | [Link](https://github.com/jerichoi224/workouttracker) | An app to record and track workout routines |
 
 ### Medical
@@ -504,7 +504,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Every Door | [Link](https://github.com/zverik/every_door) | A dedicated app for collecting thousands of POI for OpenStreetMap |
 | flutter-airline-app | [Link](https://github.com/martinoyovo/flutter-airline-app) | App where you can learn everything you need to know about your next journey and how to make it safe, hassle-free, and on budget. It has information on your scheduled flights, reward miles, best hotel deals, and more. |
 | Het Saldo | [Link](https://gitlab.com/meyskens/het-saldo) | Open source application to check the remaining trips on a De Lijn card ticket. |
-| NÖ Finderlein | [Link](https://github.com/finderlein/noefinderlein_flutter) | The NÖ Finderlein is an app that shows the loaction of Niederösterreich-Card destinations  |
+| Noe Finderlein | [Link](https://github.com/finderlein/noefinderlein_flutter) | The NÖ Finderlein is an app that shows the loaction of Niederösterreich-Card destinations  |
 | now8 | [Link](https://github.com/now8-org/app) | Improved public transport arrival time estimations using Machine Learning. App. |
 | OpenStop | [Link](https://github.com/opener-next/openstop) | App for collecting OpenStreetMap-compliant accessibility data in public transport |
 | ShareACab | [Link](https://github.com/devclub-iitd/ShareACab) | An app for sharing cab with college students. |
@@ -571,7 +571,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Paint Redesigned | [Link](https://github.com/maheshmnj/paint-redesigned) | A flutter Desktop App to do free drawing on the canvas.  |
 | Paintroid | [Link](https://github.com/Catrobat/Paintroid-Flutter) | Graphical paint editor application that allows setting parts of pictures to transparent. |
 | Puzzle Grid | [Link](https://bitbucket.org/fyll-nds/puzzle-grid) | Draw puzzle grids (for crosswords, sudokus, and battleship puzzles) to avoid having to write on papers |
-| PX:VW | [Link](https://github.com/loooltooot/css-px-converter) | simple converter from px to vw & vh (default 1920x1080) |
+| PX VW | [Link](https://github.com/loooltooot/css-px-converter) | simple converter from px to vw & vh (default 1920x1080) |
 | Wallpaper App | [Link](https://github.com/bimsina/wallpaper) | Wallpaper App made with Flutter with Dynamic Theming. |
 
 ### Music
@@ -605,7 +605,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Polaris | [Link](https://github.com/agersant/polaris-android) | Android client for Polaris |
 | Practice Suite | [Link](https://codeberg.org/berker/practice_suite) | The Swiss army knife of musicians |
 | raag | [Link](https://github.com/raag-music/raag) | Music player made using Flutter. |
-| Radio România | [Link](https://gitlab.com/andrei-pavel/radio-romania) | An open source aggregator for Radio Romania podcasts. |
+| Radio Romania | [Link](https://gitlab.com/andrei-pavel/radio-romania) | An open source aggregator for Radio Romania podcasts. |
 | sap                 | [Link](https://github.com/31Carlton7/sap)   | A mobile music streaming app with a complex UI built with Flutter and the Deezer API |
 | Spotube | [Link](https://github.com/KRTirtho/spotube) | Open source Spotify client |
 | Storify | [Link](https://github.com/gyeongmin-lee/Storify) | Flutter app to add captions to songs in your Spotify playlists. |
