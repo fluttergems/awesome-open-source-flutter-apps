@@ -26,6 +26,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | GSYGitHubApp | [Link](https://github.com/CarGuo/gsy_github_app_flutter) | An open source Github client App developed in Flutter. Provides a wide variety of functionality. |
 | KitX | [Link](https://github.com/crequency/kitx-mobile) | Mobile Client for KitX |
 | kubenav | [Link](https://github.com/kubenav/kubenav) | kubenav is the navigator for your Kubernetes clusters right in your pocket. |
+| Lab+ for GitLab | [Link](https://github.com/thelooter/labplus_for_gitlab) | An App to manage your interactions with your Gitlab Instance from your phone or Desktop |
 | RustDesk | [Link](https://github.com/rustdesk/rustdesk) | An open-source remote desktop, and alternative to TeamViewer. |
 | semaphore | [Link](https://github.com/gsmlg-dev/ansible-semaphore-client) | Client App for Ansible Semaphore |
 | ServeIt | [Link](https://github.com/many-fac3d-g0d/serveit) | A simple http-server on android using flutter. |
@@ -178,7 +179,8 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | flutter_notes_app          | [Link](https://github.com/31Carlton7/flutter_notes_app)             | Note taking app. |
 | Flutter-Pomodoro           | [Link](https://github.com/wilsonowilson/Flutter-Pomodoro)           | A complete pomodoro app for MacOS. |
 | GitJournal | [Link](https://github.com/gitjournal/gitjournal) | Mobile first Note Taking integrated with Git |
-| Glory Todo Desktop | [Link](https://github.com/yessglory17/glory_todo_desktop) | A desktop Todo app. |
+| Glory Todo Desktop | [Link](https://github.com/yessglory17/glory_todo_desktop) | A desktop Todo app |
+| kardi notes | [Link](https://github.com/rikodot/kardi_notes_app)         | Cross-platform app to take notes. Encrypted, open-source, sync across devices |
 | koperasi-mobileApp         | [Link](https://github.com/koperasi-rlp1/koperasi-mobileApp)         | Task Planner App |
 | Leaflet | [Link](https://github.com/potatoproject/leaflet) | POSP official notes app, soon to be included |
 | Lightplan | [Link](https://github.com/xddk/lightplan) | LightPlan is an open source project meant to remind tasks you have to make. Time is ticking, let's not waste time planning. |
@@ -235,6 +237,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Neumorphic Calculator | [Link](https://github.com/mllrr96/Neumorphic-Calculator) | An elegant and highly customizable calculator app with a beautiful neumorphic design. |
 | Nyrna | [Link](https://github.com/Merrit/nyrna) | Suspend games and applications. |
 | Orgro | [Link](https://github.com/amake/orgro) | An Org Mode file viewer for iOS and Android |
+| Parti | [Link](https://gitlab.com/carsten_scholtes/parti) | A tool to help partitioning something into fractional parts |
 | RPNcalc | [Link](https://github.com/apesic/rpncalc) | A simple RPN (Reverse Polish Notation) calculator app built using Flutter |
 | SimplyTranslate Mobile | [Link](https://github.com/manerakai/simplytranslate_mobile) | Privacy friendly frontend to Google Translate |
 | Type | [Link](https://github.com/jeffsieu/type) | A typing test. |
@@ -290,6 +293,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Arcade Plaza | [Link](https://github.com/aryamangodara/Arcade-Plaza) | App that let's you play free more than 55 games for free. |
 | BananaMon | [Link](https://github.com/hotstu/flutter_BananaMon) | A bombman-like game. |
 | Basketball Game | [Link](https://github.com/enoch-aik/basketball_game) | A Basketball game developed using Flame. |
+| Beret | [Link](https://github.com/sashkent3/beret) | App to play the famous hat game |
 | BGUG | [Link](https://github.com/bluefireteam/bgug) | Break Guns Using Gems is a fast paced side-scrolling platformer with innovative controls and a gun-related twist. |
 | block_breaker          | [Link](https://github.com/Umigishi-Aoi/block_breaker)  | Game of Block Breaker made using flame. |
 | bounce_game            | [Link](https://github.com/Shadow60539/bounce_game)    | Bounce game  |
@@ -455,6 +459,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Calm Attack | [Link](https://github.com/FatoomRe/Calm-Attack) | Helps manage panic attacks by providing a range of exercises to help them calm their mind and body. |
 | Energize | [Link](https://codeberg.org/epinez/energize) | Track your food and nutrition easily and fast |
 | Feeel | [Link](https://gitlab.com/enjoyingfoss/feeel) | A cross-platform Flutter home workout app that respects your privacy |
+| FitBook | [Link](https://github.com/brandonp2412/fitbook) | Track your eating habits and visualize your progress with intuitive graphs, all completely offline |
 | Flexify | [Link](https://github.com/brandonp2412/flexify) | Track your gym progress - Completely offline! |
 | Flutter-Steps-Tracker      | [Link](https://github.com/TarekAlabd/Flutter-Steps-Tracker)      | It's an open source project for the steps tracking (Pedometer) built with Flutter. |
 | FlutterBMI | [Link](https://github.com/jaysavsani07/FlutterBMI) | A BMI calculator app |
@@ -533,13 +538,13 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Fludemy | [Link](https://github.com/felipecastrosales/fludemy) | Udemy Clone. |
 | flutter-wonderous-app | [Link](https://github.com/gskinnerTeam/flutter-wonderous-app) | A showcase app for the Flutter SDK. Wonderous will educate and entertain as you uncover information about some of the most famous structures in the world. |
 | FlutterQuizzApp       | [Link](https://github.com/Akashdu/FlutterQuizzApp)  | A quiz app |
-| freeCodeCamp | [Link](https://github.com/freeCodeCamp/mobile)   | freeCodeCamp's open-source mobile app made with Flutter  |
-| fujiten | [Link](https://github.com/odrevet/fujiten) | Fujiten is a Japanese dictionary application made with the flutter framework |
+| freeCodeCamp | [Link](https://github.com/freeCodeCamp/mobile)   | freeCodeCamp's open-source mobile app  |
+| fujiten | [Link](https://github.com/odrevet/fujiten) | Fujiten is a Japanese dictionary application |
 | Fun With Kanji | [Link](https://github.com/krille-chan/fun-with-kanji) | Simple Flutter app to learn Japanese writing systems Hiragana, Katakana and Kanji. |
 | Graded | [Link](https://github.com/nightdreamgames/graded) | Graded - Grade Tracker |
 | hamfisted | [Link](https://github.com/specht/hamfisted) | With this app you can prepare for the amateur radio exam for classes E and A. Practice all the questions and keep track of your progress. |
 | JS-Dict | [Link](https://github.com/petlyh/js-dict) | Japanese-English dictionary app powered by Jisho.org. |
-| lanelexicon | [Link](https://github.com/gibreelabdullah/lanelexicon) | Lane's Lexicon - An Arabic English Dictionary - A Flutter app |
+| lanelexicon | [Link](https://github.com/gibreelabdullah/lanelexicon) | Lane's Lexicon - An Arabic English Dictionary |
 | MatheBuddy | [Link](https://github.com/mathebuddy/mathebuddy) | A gamified learning app for higher math. |
 | Mathematics | [Link](https://github.com/j-j-gajjar/mathematics) | Mathematics Flutter offers a collection of mathematical functions and supports generation of MCQs, QnA PDFs & quizzes. |
 | Nihonoari | [Link](https://github.com/aeri/nihonoari-app) | A little and minimalist Japanese Kana training |
@@ -550,16 +555,17 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Orientation | [Link](https://github.com/matthewtory/trinity-orientation-2018) | An app for orientation week at Trinity College, University of Toronto. |
 | Saber | [Link](https://github.com/saber-notes/saber) | The cross-platform open-source app built for handwriting |
 | sharezone-app         | [Link](https://github.com/SharezoneApp/sharezone-app)  | Sharezone is a collaborative school organization app for iOS, Android, macOS and web  |
-| Smart course app | [Link](https://github.com/thealphamerc/flutter_smart_course) | Smart course app built in flutter. |
+| Smart course app | [Link](https://github.com/thealphamerc/flutter_smart_course) | Smart course app |
 | StudentAI             | [Link](https://github.com/Avadhkumar-geek/StudentAI)  | StudentAI is an prompt-less AI chatbot app that uses OpenAI API to help students learn more effectively. StudentAI can answer questions, provide explanations, and even generate creative content. |
 | Studle | [Link](https://github.com/bernardoveras/studle) | Application for students to research their data and performance at school. |
 | TestApp | [Link](https://gitlab.com/testapp-system/testapp-flutter) | This project contains the flutter port of the TestApp client. |
 | Traintime PDA | [Link](https://github.com/benderblog/traintime_pda) | An open source information query software designed for Xidian undergraduate students. |
-| TubeCards             | [Link](https://github.com/friebetill/TubeCards)   | TubeCards - Cross-platform Spaced Repetition App written in Flutter |
+| TubeCards             | [Link](https://github.com/friebetill/TubeCards)   | TubeCards - Cross-platform Spaced Repetition App |
 | Toughest | [Link](https://github.com/MDSADABWASIM/Toughest) | An app for interview preparation |
 | university-app        | [Link](https://github.com/0niel/university-app)   | A mobile application for the MIREA - Russian Technological University, which includes a schedule, news and many other functions  |
 | Vocabhub | [Link](https://github.com/maheshmnj/vocabhub) | An app to help you build your vocabulary. This app contains 800+ curated GRE words |
-| words.hk | [Link](https://github.com/alienkevin/wordshk_app) | An open Cantonese dictionary for iOS and Android built with Flutter |
+| words.hk | [Link](https://github.com/alienkevin/wordshk_app) | An open Cantonese dictionary for iOS and Android |
+| Wuxia Learn | [Link](https://github.com/wuxialearn/wuxialearn) | A free and open source Chinese language learning app |
 
 ### Graphics & Design
 
@@ -582,6 +588,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Bide et Musique | [Link](https://github.com/odrevet/bide_et_musique_flutter) | Listen to and access the web radio 'Bide and Music' |
 | BloomeeTunes        | [Link](https://github.com/HemantKArya/BloomeeTunes)  | A music app designed to bring you ad-free tunes from various sources.  |
 | Chillify | [Link](https://github.com/karimelghamry/chillify) | Music App made with flutter |
+| DJ Edertech App | [Link](https://gitlab.com/edertech/dj_edertech) | Immerse yourself in the nostalgic beats spanning various music genres |
 | Drip | [Link](https://github.com/spsden/drip) | A Youtube Music client for Desktop. (in Development) |
 | finamp              | [Link](https://github.com/jmshrv/finamp)   | A Jellyfin music client for mobile  |
 | Flutter Music | [Link](https://github.com/o-ifeanyi/musicplayer) | A Flutter music player to play songs (mp3). |
@@ -592,6 +599,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Harmonoid | [Link](https://github.com/harmonoid/harmonoid) | Plays & manages your music library. Looks beautiful & juicy. Playlists, visuals, synced lyrics, pitch shift, volume boost & more. |
 | Harmony Forge | [Link](https://github.com/jztchl/Harmony-Forge) | A music generation platform merging Flask & Flutter. Flask manages backend tasks while the app offers a user-friendly interface |
 | Harmony Music | [Link](https://github.com/anandnet/harmony-music) | A cross platform App for streaming Music |
+| K-19 Player | [Link](https://github.com/ulysg/k19-player) | A nice music player for OpenSubsonic server |
 | Lyrics 2 | [Link](https://github.com/f-leoni/lyrics2) | A flutter app to search songs' lyrics |
 | Marina.Moda | [Link](https://github.com/sorydima/Marina.Moda-) |  A decentralized music streaming service powered by AI. |
 | Meloplay            | [Link](https://github.com/ShokhrukhbekYuldoshev/Meloplay) | Meloplay is a local music player app that plays music from your device built with Flutter. |
@@ -653,8 +661,9 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | MobileInpact | [Link](https://github.com/bhasherbel/mobileinpact) | An unofficial client for NextInpact |
 | News App | [Link](https://github.com/akashlilhare/news_app) | News app where you can see all trending news |
 | News App Flutter | [Link](https://github.com/j-j-gajjar/FLUTTER_NewsApp) | Live news app with search functionality |
-| RSSAid             | [Link](https://github.com/LeetaoGoooo/RSSAid)            | RSSAid is a complementary app for RSSHub built with Flutter |
-| spacex-go          | [Link](https://github.com/jesusrp98/spacex-go)           | Simple yet powerful, open-source SpaceX launch tracker.     |
+| Raven | [Link](https://github.com/ksh-b/raven) | This app uses APIs and web scraping to fetch news articles |
+| RSSAid | [Link](https://github.com/LeetaoGoooo/RSSAid) | RSSAid is a complementary app for RSSHub built with Flutter |
+| spacex-go | [Link](https://github.com/jesusrp98/spacex-go) | Simple yet powerful, open-source SpaceX launch tracker |
 
 ### Chat & Messaging
 
@@ -741,6 +750,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | flutter-remote | [Link](https://github.com/e200/flutter-remote) | A Flutter app that controls your TV, and other devices based on IR codes |
 | lumi | [Link](https://github.com/rootasjey/lumi) | Philips Hue app to control lights and sensors |
 | My Leaf | [Link](https://gitlab.com/tobiaswkjeldsen/carwingsflutter) | My Leaf is a simple, striving to be great looking, and fast alternative to the official NissanConnect app(s) from Nissan. |
+| OpenWrt Manager | [Link](https://github.com/hagaygo/openwrtmanager) | Mobile app for interacting with your OpenWrt device |
 | Osram remote | [Link](https://github.com/talkingpanda0/osram-remote) | Android app for controlling Osram RGB lights using infrared |
 | Sharp LH5801 | [Link](https://github.com/cbonello/lh5801) | Sharp LH5801 8-bit microprocessor emulator in Dart. |
 
@@ -866,8 +876,9 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Inni di Lode | [Link](https://github.com/theFreeman96/inni-di-lode) | A Christian Songbook for Italian Churches. |
 | Librum | [Link](https://github.com/aldrinzigmundv/librum) | A free and open-source Bible verse reference app. |
 | Muslim fortress application | [Link](https://github.com/muslimpack/hisnelmoslem_app) | The application contains the complete book Hisn al-Muslim, with a search feature in the index and other features. |
-| noor              | [Link](https://github.com/pr-Mais/noor)                          | Noor is a mobile app designed to help in providing a comfortable reading experience for Muslims, by referencing the book "Hisnul Muslim", and some other references. |
-| Prayer | [Link](https://github.com/theagapefoundation/prayer) | A Christian prayer app. |
+| noor | [Link](https://github.com/pr-Mais/noor) | Noor is a mobile app designed to help in providing a comfortable reading experience for Muslims, by referencing the book "Hisnul Muslim", and some other references. |
+| Prayer | [Link](https://github.com/theagapefoundation/prayer) | A Christian prayer app |
+| Qadaa | [Link](https://github.com/muslimpack/qadaa) | Helps you to organize your missed prayers and fasting |
 | Quran Revision Companion | [Link](https://github.com/waqar144/quran_memorization_helper) | An app to help huffaz revise Quran |
 | Sirat-E-Mustaqeem | [Link](https://github.com/muhammadtalhasultan/Sirat-E-Mustaqeem) | Islamic App with Complete Quran, Prayer time Api, Hadith, & Qibla Direction. |
 | The Life | [Link](https://gitlab.com/hotlittlewhitedog/biblethelife) | Bible in multiple languages - English, French, Italian, Spanish, Portuguese. |
@@ -911,6 +922,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Insigno | [Link](https://github.com/mindshub/insigno_frontend) | Insigno makes keeping your city clean enjoyable and inspiring! |
 | Plant Disease Detector | [Link](https://github.com/root458/Plant-Disease-Detector) | App that detects a plant's disease given a photo of an affected part of the plant. |
 | Plant Sense | [Link](https://github.com/reaper47/plant-sense) | An Arduino project with an Android app to measure the soil moisture of your plants. |
+| Plant-it | [Link](https://github.com/mdeluise/plant-it) | A self-hosted gardening companion app |
 | Precio Luz | [Link](https://github.com/webierta/precio-luz) | Official electricity rate in Spain (PVPC) |
 | reforestation-assistant-simulator | [Link](https://github.com/LiquidGalaxyLAB/reforestation-assistant-simulator)  | The Reforestation Assistant & Simulator idea is to create an app to help on reforestation of degraded areas of the planet by drone or manually |
 | Smart-City-Dashboard | [Link](https://github.com/LiquidGalaxyLAB/Smart-City-Dashboard)  | Android app to visualize many available public data of various Smart Cities through Dashboards. |
