@@ -173,6 +173,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 
 | Project    | Repo  | Description  |
 |:-----------|:------|:-------------|
+| Ozan | [Link](https://github.com/imrofayel/Ozan/) | A personal knowledge base like Obsidian & Notion that combines simplicity with powerful features e.g., markdown support, graph, AI assistant, import/export etc. |
 | Break.Down.Timer | [Link](https://github.com/jenspfahl/bdt) | A handy timer where you can define notifications ("breaks") while the timer is running |
 | DeadlinesApp | [Link](https://github.com/emmanuelmess/deadlinesapp) | A simple app for keeping track of deadlines |
 | Deer | [Link](https://github.com/aleksanderwozniak/deer) | Minimalist Flutter Todo App, built using BLoC pattern |
