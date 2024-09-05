@@ -161,6 +161,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | google-docs-clone-flutter  | [Link](https://github.com/funwithflutter/google-docs-clone-flutter) | A clone of Google Docs using Flutter and Appwrite |
 | HalfDot | [Link](https://github.com/davquar/halfdot) | Minimalistic Umami client for Android |
 | katswiri              | [Link](https://github.com/doreanbyte/katswiri)  | A crawler to find job listings and aggregate them from multiple sources  |
+| Ozan | [Link](https://github.com/imrofayel/Ozan/) | A personal knowledge base like Obsidian & Notion that combines simplicity with powerful features e.g., markdown support, graph, AI assistant, import/export etc. |
 | microsoft_teams_clone | [Link](https://github.com/Karanjot-singh/microsoft_teams_clone) | Microsoft Teams Clone is a Video conference application with a rich integrated chat experience, to connect with friends, family & colleagues. |
 | Notat | [Link](https://github.com/dev-salem/notat) | a simple note-taking app with a markdown editor, built with Flutter and Firebase |
 | Notepad | [Link](https://github.com/sarvesh4396/notepad) | An open-source simple light-weight notepad ,built with Flutter |
