@@ -22,6 +22,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Flutter Design Patterns | [Link](https://github.com/mkobuolys/flutter-design-patterns) | Flutter Design Patterns application |
 | Flutter Installer | [Link](https://github.com/yazeedalkhalaf/flutter_installer) | Flutter Installer is an installer for Flutter built with Flutter |
 | GitCommitStreak | [Link](https://github.com/schilken/git_commit_streak) | A tool that shows the number of consecutive days with at least one commit per day. |
+| GitStamp | [Link](https://github.com/arononak/git_stamp) | Advanced await-less information provider. From simple information such as build-branch to a screen with Flutter code with commits and change history. |
 | GitTouch | [Link](https://github.com/pd4d10/git-touch) | An open-source app for GitHub, GitLab, Bitbucket, Gitea, and Gitee, built with Flutter |
 | GSYGitHubApp | [Link](https://github.com/CarGuo/gsy_github_app_flutter) | An open source Github client App developed in Flutter. Provides a wide variety of functionality. |
 | KitX | [Link](https://github.com/crequency/kitx-mobile) | Mobile Client for KitX |
