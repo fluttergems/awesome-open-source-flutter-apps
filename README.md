@@ -15,7 +15,6 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | API Dash   | [Link](https://github.com/foss42/apidash)             | API Dash is a beautiful open-source cross-platform API Client built using Flutter which can help you easily create & customize your API requests, visually inspect responses and generate API integration code. A lightweight alternative to postman/insomnia. |
 | Appainter | [Link](https://github.com/zeshuaro/appainter) | A material theme editor and generator for Flutter to configure and preview the overall visual theme of your material app. |
 | BendyStraw | [Link](https://codeberg.org/mm-dev/bendy-straw) | An Android app for managing NewPipe databases |
-| blazed cloud | [Link](https://github.com/theredspy15/blazedcloud) | Mobile client for minimalistic cloud hosting provider, Blazed Cloud |
 | cb_app | [Link](https://github.com/printpagestopdf/cb_app) | A Flutter based App that provides Access to CommonsBooking driven Sites |
 | devtoolbox | [Link](https://github.com/PolyglotNetwork/devtoolbox) | Collection of offline utilities for developers |
 | DevWidgets | [Link](https://github.com/gumbarros/DevWidgets)       | DevWidgets is a Flutter application with several tools such as generators, formatters and converters for developers. It's directly inspired by DevToys. |
@@ -99,7 +98,6 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Combo POS | [Link](https://github.com/aquariumfish2/combo-pos) | Digital technology combo pos application is responsible to make any restaurant point of sale with a menu, table, users, balance calculator, etc. |
 | Dypos | [Link](https://github.com/torchice/dypos) | Point Of Sales Application using Flutter Firebase |
 | Encointer Wallet | [Link](https://github.com/encointer/encointer-wallet-flutter) | Encointer mobile wallet flutter implementation |
-| eTaka | [Link](https://github.com/ssoad/etaka) | A Financial Mobile Application based on P2P Banking Concept |
 | Flutter Point Of Sale App UI | [Link](https://github.com/julvikramsupandi/flutter-pos-app-ui) | Flutter Point Of Sale App UI |
 | fWallet | [Link](https://gitlab.com/theonewiththebraid/f_wallet) | A beautiful cross-platform wallet application. |
 | HADWIN                   | [Link](https://github.com/brownboycodes/HADWIN)                  | a prototype of a fund transfer platform |
