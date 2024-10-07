@@ -145,7 +145,6 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Table Habit | [Link](https://github.com/friesi23/mhabit) | Our app helps you form and track micro habits with easy-to-use charts and tools, making it simple to establish healthy habits that stick. Start your personal growth journey today |
 | voiceliner | [Link](https://github.com/maxkrieger/voiceliner) | Braindump better. |
 | Your Journal | [Link](https://github.com/VinayakHinduja/Your-Journal) | App to write daily journals digitally. |
-| MindWrite | [Link](https://github.com/mohhamad-esmaili/mindwrite) | Help you create and manage your notes, this app is Clone of google KeepNote |
 
 ### Business
 
@@ -189,6 +188,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | log_book                   | [Link](https://github.com/DonnC/log_book)                           | An internship log book desktop app |
 | markdownr | [Link](https://github.com/sanzoghenzo/markdownr) | Android app that converts an URL to markdown, and lets you share it to your favorite notes app. |
 | memo                       | [Link](https://github.com/olmps/memo)                               | Memo is an open-source, programming-oriented spaced repetition software (SRS). |
+| MindWrite | [Link](https://github.com/mohhamad-esmaili/mindwrite) | Help you create and manage your notes, this app is clone of Google Keep |
 | minttask | [Link](https://github.com/boredcodebyk/minttask) | A simple todo manager for Android made using Flutter with Material Design 3 |
 | Note Taking App | [Link](https://github.com/bimsina/notes-app) | Note Taking App made with Flutter with Sqlite as database. |
 | NoteApp-Clean-Architecture | [Link](https://github.com/imSanjaySoni/NoteApp-Clean-Architecture)  | NoteApp with Domain-Driven Clean Architecture with FlutterBloc + Freezed + Hive  |
