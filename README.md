@@ -20,6 +20,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | DevWidgets | [Link](https://github.com/gumbarros/DevWidgets)       | DevWidgets is a Flutter application with several tools such as generators, formatters and converters for developers. It's directly inspired by DevToys. |
 | Flutter Design Patterns | [Link](https://github.com/mkobuolys/flutter-design-patterns) | Flutter Design Patterns application |
 | Flutter Installer | [Link](https://github.com/yazeedalkhalaf/flutter_installer) | Flutter Installer is an installer for Flutter built with Flutter |
+| FlutterFx | [Link](https://github.com/flutterfx/flutterfx_widgets) | The flutterfx project is all about showing how easy it is to create stunning visuals in Flutter. Each animation is implemented as a separate widget, making it easy to understand and integrate into your own projects. |
 | GitCommitStreak | [Link](https://github.com/schilken/git_commit_streak) | A tool that shows the number of consecutive days with at least one commit per day. |
 | GitTouch | [Link](https://github.com/pd4d10/git-touch) | An open-source app for GitHub, GitLab, Bitbucket, Gitea, and Gitee, built with Flutter |
 | GSYGitHubApp | [Link](https://github.com/CarGuo/gsy_github_app_flutter) | An open source Github client App developed in Flutter. Provides a wide variety of functionality. |
