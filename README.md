@@ -13,25 +13,25 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Project    | Repo  | Description  |
 |:-----------|:------|:-------------|
 | API Dash   | [Link](https://github.com/foss42/apidash)             | API Dash is a beautiful open-source cross-platform API Client built using Flutter which can help you easily create & customize your API requests, visually inspect responses and generate API integration code. A lightweight alternative to postman/insomnia. |
-| Appainter | [Link](https://github.com/zeshuaro/appainter) | A material theme editor and generator for Flutter to configure and preview the overall visual theme of your material app. |
+| Appainter | [Link](https://github.com/zeshuaro/appainter) | A material theme editor and generator for Flutter to configure and preview the overall visual theme of your material app |
 | BendyStraw | [Link](https://codeberg.org/mm-dev/bendy-straw) | An Android app for managing NewPipe databases |
-| cb_app | [Link](https://github.com/printpagestopdf/cb_app) | A Flutter based App that provides Access to CommonsBooking driven Sites |
+| cb_app | [Link](https://github.com/printpagestopdf/cb_app) | An App that provides Access to CommonsBooking driven Sites |
 | devtoolbox | [Link](https://github.com/PolyglotNetwork/devtoolbox) | Collection of offline utilities for developers |
-| DevWidgets | [Link](https://github.com/gumbarros/DevWidgets)       | DevWidgets is a Flutter application with several tools such as generators, formatters and converters for developers. It's directly inspired by DevToys. |
+| DevWidgets | [Link](https://github.com/gumbarros/DevWidgets)       | DevWidgets is an application with several tools such as generators, formatters and converters for developers |
 | Flutter Design Patterns | [Link](https://github.com/mkobuolys/flutter-design-patterns) | Flutter Design Patterns application |
 | Flutter Installer | [Link](https://github.com/yazeedalkhalaf/flutter_installer) | Flutter Installer is an installer for Flutter built with Flutter |
 | FlutterFx | [Link](https://github.com/flutterfx/flutterfx_widgets) | Animated flutter widgets for busy flutter developers |
-| GitCommitStreak | [Link](https://github.com/schilken/git_commit_streak) | A tool that shows the number of consecutive days with at least one commit per day. |
+| GitCommitStreak | [Link](https://github.com/schilken/git_commit_streak) | A tool that shows the number of consecutive days with at least one commit per day |
 | GitTouch | [Link](https://github.com/pd4d10/git-touch) | An open-source app for GitHub, GitLab, Bitbucket, Gitea, and Gitee, built with Flutter |
-| GSYGitHubApp | [Link](https://github.com/CarGuo/gsy_github_app_flutter) | An open source Github client App developed in Flutter. Provides a wide variety of functionality. |
+| GSYGitHubApp | [Link](https://github.com/CarGuo/gsy_github_app_flutter) | An open source Github client App that provides a wide variety of functionality |
 | KitX | [Link](https://github.com/crequency/kitx-mobile) | Mobile Client for KitX |
-| kubenav | [Link](https://github.com/kubenav/kubenav) | kubenav is the navigator for your Kubernetes clusters right in your pocket. |
+| kubenav | [Link](https://github.com/kubenav/kubenav) | kubenav is the navigator for your Kubernetes clusters right in your pocket |
 | Lab+ for GitLab | [Link](https://github.com/thelooter/labplus_for_gitlab) | An App to manage your interactions with your Gitlab Instance from your phone or Desktop |
-| RustDesk | [Link](https://github.com/rustdesk/rustdesk) | An open-source remote desktop, and alternative to TeamViewer. |
+| RustDesk | [Link](https://github.com/rustdesk/rustdesk) | An open-source remote desktop, and alternative to TeamViewer |
 | semaphore | [Link](https://github.com/gsmlg-dev/ansible-semaphore-client) | Client App for Ansible Semaphore |
 | ServeIt | [Link](https://github.com/many-fac3d-g0d/serveit) | A simple http-server on android |
 | ServerBox | [Link](https://github.com/lollipopkit/flutter_server_box) | Provides charts to display Linux server status and tools to manage server |
-| sidekick   | [Link](https://github.com/fluttertools/sidekick)      | A simple desktop interface for tools that enhance Flutter's development experience to make it even more delightful. |
+| sidekick   | [Link](https://github.com/fluttertools/sidekick)      | A simple desktop interface for tools that enhance Flutter's development experience to make it even more delightful |
 | Software architecture of interpreter in Dart | [Link](https://github.com/euler2dot7/interpreter) | Software architecture of interpreter in Dart (Flutter) |
 | The Widget-Maker | [Link](https://github.com/norbert515/flutter_ide) | A visual editor for Flutter widgets |
 | tldr | [Link](https://github.com/techno-disaster/tldr-flutter) | simplified man-pages, a tldr.sh client |
