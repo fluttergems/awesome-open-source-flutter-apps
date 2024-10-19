@@ -33,7 +33,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | ServerBox | [Link](https://github.com/lollipopkit/flutter_server_box) | Provides charts to display Linux server status and tools to manage server |
 | sidekick   | [Link](https://github.com/fluttertools/sidekick)      | A simple desktop interface for tools that enhance Flutter's development experience to make it even more delightful |
 | Software architecture of interpreter in Dart | [Link](https://github.com/euler2dot7/interpreter) | Software architecture of interpreter in Dart (Flutter) |
-| SnapInk | [Link](https://github.com/IldySilva/SnapInk) | A tool that transforms your code into beautiful, print-ready images. It allows developers to easily customize, share, and showcase their code with style. |
+| SnapInk | [Link](https://github.com/IldySilva/SnapInk) | Transform your code into beautiful, print-ready images. Easily customize, share & showcase your code with style |
 | The Widget-Maker | [Link](https://github.com/norbert515/flutter_ide) | A visual editor for Flutter widgets |
 | tldr | [Link](https://github.com/techno-disaster/tldr-flutter) | simplified man-pages, a tldr.sh client |
 
