@@ -263,7 +263,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Rivia | [Link](https://github.com/loooltooot/rivia) | Rivia is the unique encryption tool |
 | RSA Encryption | [Link](https://github.com/vellt/RSA-Encryption-Flutter) | Encryption based on asymmetric cryptography. |
 | Safe Notes | [Link](https://github.com/keshav-space/safenotes) | Safe Notes is a security project aimed at providing an encrypted, private note manager that works locally and protects notes from various threat actors. |
-| Secur | [Link](https://gitlab.com/atechnohazard/secur) | A FOSS, cross-platform TOTP client written in Flutter with the aim of providing a beautiful UI. |
+| Secur | [Link](https://gitlab.com/SphericalKat/secur) | A FOSS, cross-platform TOTP client written in Flutter with the aim of providing a beautiful UI. |
 | Securify | [Link](https://github.com/ishanrakte/securify) | A password manager application with three layers of security. The app stores the passwords in a local database in an encrypted format.  Also, there is biometric verification(Fingerprint) whenever the app opens. |
 | SelfPrivacy | [Link](https://git.selfprivacy.org/kherel/selfprivacy.org.app) | SelfPrivacy — is a platform on your cloud hosting, that allows to deploy your own private services and control them using mobile application |
 | Wassword | [Link](https://github.com/polilluminato/wassword-flutter) | Wassword is an Android App built with Flutter to generate passwords and passphrases |
@@ -595,7 +595,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Bide et Musique | [Link](https://github.com/odrevet/bide_et_musique_flutter) | Listen to and access the web radio 'Bide and Music' |
 | BloomeeTunes        | [Link](https://github.com/HemantKArya/BloomeeTunes)  | A music app designed to bring you ad-free tunes from various sources.  |
 | Chillify | [Link](https://github.com/karimelghamry/chillify) | Music App made with flutter |
-| DJ Edertech App | [Link](https://gitlab.com/edertech/dj_edertech) | Immerse yourself in the nostalgic beats spanning various music genres |
+| DJ Edertech App | [Link](https://gitlab.com/ederson-itabaiana/dj_edertech) | Immerse yourself in the nostalgic beats spanning various music genres |
 | Drip | [Link](https://github.com/spsden/drip) | A Youtube Music client for Desktop. (in Development) |
 | finamp              | [Link](https://github.com/jmshrv/finamp)   | A Jellyfin music client for mobile  |
 | Flutter Music | [Link](https://github.com/o-ifeanyi/musicplayer) | A Flutter music player to play songs (mp3). |
