@@ -513,6 +513,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | City Cab | [Link](https://github.com/edemekong/city-cab) | An open source flutter taxi - app for learning purpose(Provider & Bloc) using firebase as backend/server |
 | Every Door | [Link](https://github.com/zverik/every_door) | A dedicated app for collecting thousands of POI for OpenStreetMap |
 | flutter-airline-app | [Link](https://github.com/martinoyovo/flutter-airline-app) | App where you can learn everything you need to know about your next journey and how to make it safe, hassle-free, and on budget. It has information on your scheduled flights, reward miles, best hotel deals, and more. |
+| GroupTrack | [Link](https://github.com/canopas/group-track-flutter) | An app designed to enhance family safety 👫 through real-time location sharing 📍 and communication features |
 | Het Saldo | [Link](https://gitlab.com/meyskens/het-saldo) | Open source application to check the remaining trips on a De Lijn card ticket. |
 | Noe Finderlein | [Link](https://github.com/finderlein/noefinderlein_flutter) | The NÖ Finderlein is an app that shows the loaction of Niederösterreich-Card destinations  |
 | now8 | [Link](https://github.com/now8-org/app) | Improved public transport arrival time estimations using Machine Learning. App. |
@@ -521,7 +522,6 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | spaced-travel-app   | [Link](https://github.com/nonybrighto/spaced-travel-app)   | Spaced is an animated travel application UI that enables users to find locations and schedule trips. |
 | travel_app          | [Link](https://github.com/Shadow60539/travel_app)          | Travel App |
 | trip-brain-app      | [Link](https://github.com/Pr0nE/trip-brain-app) | Travel app built with Flutter, Go, and gRPC for personalized travel suggestions, rich insights, and offline access. |
-| group-track-app     | [Link](https://github.com/canopas/group-track-flutter) | GroupTrack app for family safety. It provides real-time location sharing and communication, ensuring your loved ones stay safe and connected.
 
 ### Education
 
