@@ -578,7 +578,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 
 | Project    | Repo  | Description  |
 |:-----------|:------|:-------------|
-| Color Hap | [Link](https://github.com/tecdrop/color_hap) | Random color generator to generate a vast array of colors, including basic, web, named, and true random colors.
+| Color Hap | [Link](https://github.com/tecdrop/color_hap) | Random color generator to generate a vast array of colors, including basic, web, named, and true random colors. |
 | Color Studio | [Link](https://github.com/bernaferrari/color-studio) | Build coherent and accessible themes with the right colors. |
 | Let's Draw | [Link](https://github.com/jideguru/flutter_drawing_board) | A simple drawing app made with Flutter |
 | Mooltik | [Link](https://github.com/ruskakimov/mooltik) | Mobile app for drawing 2D animation |
