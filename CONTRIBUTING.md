@@ -1,4 +1,4 @@
-## Contribution Guidelines
+## Contribution Guidelines by 
 
 We value your participation in this open source project. This page will give you a quick overview of how to get involved.
 
