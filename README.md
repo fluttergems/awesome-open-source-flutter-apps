@@ -277,6 +277,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 |:-----------|:------|:-------------|
 | Aves Libre | [Link](https://github.com/deckerst/aves) | Aves is a gallery and metadata explorer app, built for Android with Flutter. |
 | Blink Comparison | [Link](https://github.com/proninyaroslav/blink-comparison) | Simplifies comparing photos of tamper-evident seals and patterns using your eyes |
+| Cloud Gallery | [Link](https://github.com/canopas/cloud-gallery) | Have all your photos/videos on any cloud at anytime! Powered by Firebase |
 | ente             | [Link](https://github.com/ente-io/ente)                    | Fully open source, End to End Encrypted alternative to Google Photos and Apple Photos |
 | Flutter Photography | [Link](https://github.com/afgprogrammer/Flutter-Photography-Application) | A beautiful and animated Photography Application UI. |
 | Image Editor | [Link](https://github.com/codenameakshay/image-editor) | Open source image editing app for Android/iOS. |
@@ -391,6 +392,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Box, Box! | [Link](https://github.com/brightdv/boxbox) | Unofficial Android and web app for Formula 1 fans! |
 | FitConnect | [Link](https://github.com/fitconnect-app/fitconnect-flutter-app) | App that facilitates meaningful connections among individuals through shared sports activities |
 | Flutter League | [Link](https://github.com/csuka1219/Flutter_League) | A companion app for League of Legends players to search summoners, view stats and match history, and check ongoing games. |
+| Khelo | [Link](https://github.com/canopas/khelo) | An open-source flutter app for easy cricket team management and performance tracking |
 | Shoot Report | [Link](https://github.com/Alienuser/shoot-report-flutter) | App for shooting sports |
 | Shooting Sports Analyst | [Link](https://github.com/jslater89/shooting-sports-analyst) | Desktop application for viewing, analyzing, and predicting practical shooting match results. |
 | Spod | [Link](https://github.com/mikirinkode/sports_venue_booking_app) | Spod allows user to book a sport venue from anywhere anytime using a mobile. |
