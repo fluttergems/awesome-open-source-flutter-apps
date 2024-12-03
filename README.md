@@ -624,8 +624,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Harmony Music | [Link](https://github.com/anandnet/harmony-music) | A cross platform App for streaming Music |
 | K-19 Player | [Link](https://github.com/ulysg/k19-player) | A nice music player for OpenSubsonic server |
 | Lyrics 2 | [Link](https://github.com/f-leoni/lyrics2) | A flutter app to search songs' lyrics |
-| Marina.Moda | [Link](https://github.com/sorydima/Marina.Moda-) |  A decentralized music streaming service powered by AI. |
-| Meloplay            | [Link](https://github.com/ShokhrukhbekYuldoshev/Meloplay) | Meloplay is a local music player app that plays music from your device built with Flutter. |
+| Meloplay | [Link](https://github.com/ShokhrukhbekYuldoshev/Meloplay) | Meloplay is a local music player app that plays music from your device built with Flutter. |
 | Mightier Amp | [Link](https://github.com/tuntorius/mightier_amp) | An alternative app for controlling NUX Mighty amps. |
 | mucke | [Link](https://github.com/moritz-weber/mucke) | mucke - android music player |
 | Music Player | [Link](https://github.com/joec05/pocket-music-player) | Music player app made with Flutter. |
