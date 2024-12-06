@@ -99,8 +99,9 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 
 | Project    | Repo  | Description  |
 |:-----------|:------|:-------------|
+| Cake Wallet | [Link](https://github.com/cake-tech/cake_wallet) | A non-custodial, and private multi-currency crypto wallet |
 | Combo POS | [Link](https://github.com/aquariumfish2/combo-pos) | Digital technology combo pos application is responsible to make any restaurant point of sale with a menu, table, users, balance calculator, etc. |
-| Dypos | [Link](https://github.com/torchice/dypos) | Point Of Sales Application using Flutter Firebase |
+| Dypos | [Link](https://github.com/torchice/dypos) | Point of Sales Application using Flutter Firebase |
 | Encointer Wallet | [Link](https://github.com/encointer/encointer-wallet-flutter) | Encointer mobile wallet flutter implementation |
 | Flutter Point Of Sale App UI | [Link](https://github.com/julvikramsupandi/flutter-pos-app-ui) | Flutter Point Of Sale App UI |
 | fWallet | [Link](https://gitlab.com/theonewiththebraid/f_wallet) | A beautiful cross-platform wallet application. |
