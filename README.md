@@ -217,6 +217,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Time Tracking | [Link](https://github.com/bizz84/starter_architecture_flutter_firebase) | Time Tracking app with Flutter & Firebase. |
 | tmail-flutter              | [Link](https://github.com/linagora/tmail-flutter)                   | A multi-platform application for reading your emails, with your favorite devices, using the JMAP protocol! |
 | Todoey | [Link](https://github.com/Coffee-Expert/Todoey) | A simple To-do app. |
+| Tomo | [Link](https://github.com/k7d/tomo) | Pomodoro timer for MacOS |
 | Virlow Flutter Recorder | [Link](https://github.com/virlow-voice/virlow-flutter-recorder) | An app that transcribes recorded audio and includes a text editor for editing/adding notes. |
 | WD Notes | [Link](https://gitlab.com/ideotec/wdnotes) | A note-taking app that syncs with WebDAV |
 | WhatTodo | [Link](https://github.com/burhanrashid52/whattodo) | A Simple Todo app design in Flutter to keep track of your task on daily basis. Its build on BLoC Pattern |
