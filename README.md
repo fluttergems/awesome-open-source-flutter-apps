@@ -59,7 +59,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Project    | Repo  | Description  |
 |:-----------|:------|:-------------|
 | app-finance  | [Link](https://github.com/lyskouski/app-finance) | Fingrom -- open-source platform-agnostic financial accounting application  |
-| Be Thrifty Today | [Link](https://github.com/amruthpillai/bethriftytoday) | A simple and secure money manager that keeps you financially vigilant. |
+| Be Thrifty Today | [Link](https://github.com/AmruthPillai/BeThriftyToday) | A simple and secure money manager that keeps you financially vigilant. |
 | Budget Budy | [Link](https://github.com/mufaddal5253110/budgetbudy) | A simple app to track your financial life using flutter |
 | Budgeto | [Link](https://github.com/tejasbadone/budgeto) | A money management app that allows users to split their income into customizable categories |
 | Carfoin | [Link](https://github.com/webierta/carfoin) | Investment Fund Portfolio Manager |
