@@ -53,6 +53,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | MyOllama | [Link](https://github.com/bipark/my_ollama_app) | Ollama-based LLM mobile client |
 | Simple ChatGPT | [Link](https://github.com/SnowStar0423/ChatGPT-Flutter-App) | ChatGPT like app in Flutter |
 | Story Generator | [Link](https://github.com/Lord-Chris/story-generator) | A mobile app that generates random stories based on user input using Google Generative AI |
+| ChatGPT Client with LINE-Style UI | [Link](https://github.com/softjapan/flutter_chatgpt) | ChatGPT Client with LINE-Style UI Built with Flutter and Riverpod |
 
 ### Personal Finance
 
