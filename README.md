@@ -46,6 +46,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | AI Assistant Flutter | [Link](https://github.com/SheershBhatnagar/AI-Assistant---Flutter) | A mobile app that offers users an interactive digital assistant using ChatGPT and DALL-E API |
 | ai_buddy  | [Link](https://github.com/yatendra2001/ai_buddy)               | Your personal free-to-use AI assistant, built with gemini & flutter |
 | aidea     | [Link](https://github.com/mylxsw/aidea)                        | AIdea supports GPT and domestic LLMs Tongyi Qianwen, Wenxinyiyan, etc., and supports Stable Diffusion Wenshengtu, Tushengtu, SDXL1.0, super-resolution, and picture coloring. |
+| ChatGPT Client | [Link](https://github.com/softjapan/flutter_chatgpt) | ChatGPT Client with LINE-Style UI Built with Flutter and Riverpod |
 | Flutter Scribble | [Link](https://github.com/lahirumaramba/flutter_scribble) | Turn your scribbles into detailed images with AI |
 | FlutterVoiceFriend | [Link](https://github.com/jbpassot/flutter_voice_friend) | Build interactive, voice-driven chatbot experiences using a combination of speech-to-text (STT) and text-to-speech (TTS) |
 | HaoChat | [Link](https://github.com/conghaonet/hao_chatgpt) | An unofficial ChatGPT application |
@@ -53,7 +54,6 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | MyOllama | [Link](https://github.com/bipark/my_ollama_app) | Ollama-based LLM mobile client |
 | Simple ChatGPT | [Link](https://github.com/SnowStar0423/ChatGPT-Flutter-App) | ChatGPT like app in Flutter |
 | Story Generator | [Link](https://github.com/Lord-Chris/story-generator) | A mobile app that generates random stories based on user input using Google Generative AI |
-| ChatGPT Client with LINE-Style UI | [Link](https://github.com/softjapan/flutter_chatgpt) | ChatGPT Client with LINE-Style UI Built with Flutter and Riverpod |
 
 ### Personal Finance
 
