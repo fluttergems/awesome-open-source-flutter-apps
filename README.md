@@ -583,6 +583,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | StudentAI             | [Link](https://github.com/Avadhkumar-geek/StudentAI)  | StudentAI is an prompt-less AI chatbot app that uses OpenAI API to help students learn more effectively. StudentAI can answer questions, provide explanations, and even generate creative content. |
 | Studle | [Link](https://github.com/bernardoveras/studle) | Application for students to research their data and performance at school. |
 | TestApp | [Link](https://gitlab.com/testapp-system/testapp-flutter) | This project contains the flutter port of the TestApp client. |
+| ToPWR | [Link](https://github.com/Solvro/mobile-topwr) | A mobile application for WUST - Wrocław University of Science and Technology, which includes buildings, live parking places, cafeteria menu, news, and more | 
 | Traintime PDA | [Link](https://github.com/benderblog/traintime_pda) | An open source information query software designed for Xidian undergraduate students. |
 | TubeCards             | [Link](https://github.com/friebetill/TubeCards)   | TubeCards - Cross-platform Spaced Repetition App |
 | Toughest | [Link](https://github.com/MDSADABWASIM/Toughest) | An app for interview preparation |
@@ -590,7 +591,6 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Vocabhub | [Link](https://github.com/maheshmnj/vocabhub) | An app to help you build your vocabulary. This app contains 800+ curated GRE words |
 | words.hk | [Link](https://github.com/alienkevin/wordshk_app) | An open Cantonese dictionary for iOS and Android |
 | Wuxia Learn | [Link](https://github.com/wuxialearn/wuxialearn) | A free and open source Chinese language learning app |
-| ToPWR | [Link](https://github.com/Solvro/mobile-topwr) | A mobile application for WUST - Wrocław University of Science and Technology, which includes buildings, live parking places, live cafeteria menu and people counter, news, guided and many, many more | 
 
 ### Graphics & Design
 
