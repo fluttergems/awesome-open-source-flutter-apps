@@ -503,7 +503,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 
 | Project    | Repo  | Description  |
 |:-----------|:------|:-------------|
-| Apexo | [Link](https://github.com/alselawi/apexo-flutter) | Simple dental clinic management software, cross platform, works offline and synchronizes with multiple devices |
+| Apexo | [Link](https://github.com/alselawi/apexo-flutter) | Dental clinic management software, works offline and synchronizes with multiple devices |
 | Awashyaak | [Link](https://github.com/TaRun1369/Awashyaak) | Open Source Project for Speedy Health Care delivery |
 | Covid19 Stats | [Link](https://github.com/gabrieltavernini/covid19stats) | A simple mobile app developed with Flutter to visualize Covid19 statistics  |
 | covid19-tracker | [Link](https://github.com/adityanjr/covid19-tracker) | Tracking the impact of COVID-19 cases based on your location |
