@@ -523,6 +523,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 |:-----------|:------|:-------------|
 | blood pressure app | [Link](https://github.com/nobodyfornothing/blood-pressure-monitor-fl) | A cross platform app to save blood pressure values with export function |
 | Calm Attack | [Link](https://github.com/FatoomRe/Calm-Attack) | Helps manage panic attacks by providing a range of exercises to help them calm their mind and body. |
+| Calodiary | [Link](https://git.justquitstudios.de/marco/calorimeter) | Diary for your calorie intake |
 | Energize | [Link](https://codeberg.org/epinez/energize) | Track your food and nutrition easily and fast |
 | Feeel | [Link](https://gitlab.com/enjoyingfoss/feeel) | A cross-platform Flutter home workout app that respects your privacy |
 | FitBook | [Link](https://github.com/brandonp2412/fitbook) | Track your eating habits and visualize your progress with intuitive graphs, all completely offline |
