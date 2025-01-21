@@ -357,6 +357,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | BananaMon | [Link](https://github.com/hotstu/flutter_BananaMon) | A bombman-like game. |
 | Basketball Game | [Link](https://github.com/enoch-aik/basketball_game) | A Basketball game developed using Flame. |
 | Beret | [Link](https://github.com/sashkent3/beret) | App to play the famous hat game |
+| BFBAN Assistants | [Link](https://github.com/cabbagelol/bfban-app-mobile) | Report players on your phone with mobile app for BFBAN |
 | BGUG | [Link](https://github.com/bluefireteam/bgug) | Break Guns Using Gems is a fast paced side-scrolling platformer with innovative controls and a gun-related twist. |
 | block_breaker          | [Link](https://github.com/Umigishi-Aoi/block_breaker)  | Game of Block Breaker made using flame. |
 | bounce_game            | [Link](https://github.com/Shadow60539/bounce_game)    | Bounce game  |
