@@ -23,7 +23,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 - [Sports](#sports)
 - [Food & Drink](#food--drink)
 - [Books](#books)
-- [Anime & Manga](#anime--manga)
+- [Comics, Anime & Manga](#comics-anime--manga)
 - [Health & Fitness](#health--fitness)
 - [Medical](#medical)
 - [Travel & Navigation](#travel--navigation)
@@ -494,7 +494,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Openreads | [Link](https://github.com/mateusz-bak/openreads) | An app to keep track of your books. |
 | Openlib | [Link](https://github.com/dstark5/Openlib) | App to download and read books from shadow library (Anna’s Archive). |
 
-### Anime & Manga
+### Comics, Anime & Manga
 
 | Project    | Repo  | Description  |
 |:-----------|:------|:-------------|
@@ -515,6 +515,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | pikapika           | [Link](https://github.com/niuhuan/pikapika) | A beautiful, easy-to-use and ad-free comic and game client that supports MacOS, Windows, Android, and iOS. |
 | pixez-flutter      | [Link](https://github.com/Notsfsssf/pixez-flutter)     | A third-party Pixiv flutter client that supports agent-free direct connection and animation viewing. |
 | Tachidesk-Sorayomi | [Link](https://github.com/Suwayomi/Tachidesk-Sorayomi) | A free and open source manga reader app to read manga from a Tachidesk-Server instance.  |
+| venera | [Link](https://github.com/venera-app/venera) | A comic reader that support reading local and network comics |
 | wax                | [Link](https://github.com/niuhuan/wax) | Client of Gentleman Comics  |
 
 ### Health & Fitness
