@@ -515,7 +515,8 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | PicaComic          | [Link](https://github.com/wgh136/PicaComic) | A comic app built with Flutter, supporting multiple comic sources. |
 | pikapika           | [Link](https://github.com/niuhuan/pikapika) | A beautiful, easy-to-use and ad-free comic and game client that supports MacOS, Windows, Android, and iOS. |
 | pixez-flutter      | [Link](https://github.com/Notsfsssf/pixez-flutter)     | A third-party Pixiv flutter client that supports agent-free direct connection and animation viewing. |
-| Tachidesk-Sorayomi | [Link](https://github.com/Suwayomi/Tachidesk-Sorayomi) | A free and open source manga reader app to read manga from a Tachidesk-Server instance.  |
+| Tachidesk-Sorayomi | [Link](https://github.com/Suwayomi/Tachidesk-Sorayomi) | A free and open source manga reader app to read manga from a Tachidesk-Server instance. |
+| tsdm_client | [Link](https://github.com/realth000/tsdm_client) | Angel Anime Forum Third-Party Cross-Platform Customer |
 | venera | [Link](https://github.com/venera-app/venera) | A comic reader that support reading local and network comics |
 | wax                | [Link](https://github.com/niuhuan/wax) | Client of Gentleman Comics  |
 
