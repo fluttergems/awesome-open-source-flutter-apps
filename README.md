@@ -4,6 +4,8 @@ Contributors should go through the [Contributing Guide](https://github.com/flutt
 
 # Awesome Open Source Flutter Apps
 
+![flutterapps (1)](https://github.com/user-attachments/assets/103a0be6-9429-4c7c-94fb-3b5e69a6f80a)
+
 A curated list of awesome open source Flutter apps.
 
 All the projects added in this project are featured in [fluttergems.dev](fluttergems.dev)
