@@ -366,6 +366,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | brain_punk             | [Link](https://github.com/animator/brain_punk)   | A Brain Story Game built using Flutter + Flame |
 | Cards With Cats | [Link](https://github.com/dozingcat/cardswithcats) | Hearts and Spades card games |
 | chaldea | [Link](https://github.com/chaldea-center/chaldea) | Chaldea - Yet Another Material Planner and Battle Simulator for Fate/Grand Order aka FGO |
+| Chronicle | [Link](https://github.com/Izwin/chronicle_frontend) | Chronicle is a game where users can create exciting stories. |
 | Club Penguin | [Link](https://github.com/Shadow60539/club_penguin_game) | A multiplayer game involving penguins and anonymous chat in a virtual 2D world. |
 | Color Mixer | [Link](https://github.com/androideen/color_mixer_flame) | Color Mixer game in Flame engine |
 | Darkness Dungeon | [Link](https://github.com/RafaelBarbosatec/darkness_dungeon) | A role playing game. |
@@ -777,6 +778,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | clubhouse      | [Link](https://github.com/perpetio/clubhouse)          | Clubhouse clone written in Flutter using Firebase/Firestore and Agora services. |
 | e1547 | [Link](https://github.com/clragon/e1547) | A sophisticated e621 browser |
 | Fedi | [Link](https://github.com/Big-Fig/Fediverse.app) | Open source client for Pleroma and Mastodon social networks. |
+| FlashMeet | [Link](https://github.com/Izwin/flashmeet_frontend) | Social network app where users can create and join meetups, find events on a map and chat in real time |
 | Fluttergram | [Link](https://github.com/mdanics/fluttergram) | An Instagram clone written in Flutter using Firebase/Firestore |
 | flutter_tiktok | [Link](https://github.com/DingMouRen/flutter_tiktok)   | Flutter Tiktok |
 | Fritter | [Link](https://github.com/jonjomckay/fritter) | A privacy-friendly Twitter frontend for mobile devices |
@@ -1008,6 +1010,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Project    | Repo  | Description  |
 |:-----------|:------|:-------------|
 | #FFF Info | [Link](https://gitlab.com/jugendhackt/fff_info) | Get all information about your climate strike! |
+| Charify | [Link](https://github.com/Izwin/charify_frontend) | Charify is a charity fundraising application, designed to simplify donations for users. |
 | DigiAgriApp | [Link](https://gitlab.com/digiagriapp/digiagriapp-mobile) | FOSS application to monitor your agriculture field |
 | Ehrenamt | [Link](https://github.com/digitalfabrik/entitlementcard) | App for the Bayerische Ehrenamtskarte, a benefit card for volunteers in Bavaria, Germany. |
 | Florae | [Link](https://github.com/aeri/florae) | Keep care of your green, leafy best friends |
