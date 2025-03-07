@@ -726,6 +726,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | tv-randshow              | [Link](https://github.com/deandreamatias/tv-randshow) | App to choose a random TV show episode  |
 | Watch | [Link](https://github.com/diptanshumahish/watch) | A movies/web series recommendation app. |
 | TMDB | [Link](https://github.com/marjandn/tmdb) | A movie Flutter application powered by TMDB APIs. |
+| Truth Or Dare and Charades | [Link](https://github.com/marjandn/truthordare-charades-game) | Truth Or Dare and Charades Game built with Flutter |
 
 
 ### News & Feed
