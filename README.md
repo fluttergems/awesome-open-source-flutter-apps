@@ -725,6 +725,8 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | TMDBM | [Link](https://github.com/88srzh/comics_db) | Mobile version of TMDB |
 | tv-randshow              | [Link](https://github.com/deandreamatias/tv-randshow) | App to choose a random TV show episode  |
 | Watch | [Link](https://github.com/diptanshumahish/watch) | A movies/web series recommendation app. |
+| TMDB | [Link](https://github.com/marjandn/tmdb) | A movie Flutter application powered by TMDB APIs. |
+
 
 ### News & Feed
 
