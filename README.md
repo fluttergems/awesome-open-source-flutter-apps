@@ -706,6 +706,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Project    | Repo  | Description  |
 |:-----------|:------|:-------------|
 | BiliYou | [Link](https://github.com/lucinhu/bili_you) | A third-party Bilibili client made with flutter. |
+| Cinema Booking | [Link](https://github.com/ChunhThanhDe/cinema-booking) | An app for booking movie tickets, built with Flutter Clean Template, BLoC, REST API, Firebase Auth, and Unit Tests. |
 | Clipious | [Link](https://github.com/lamarios/clipious) | Invidious client for android |
 | ez_tickets_app           | [Link](https://github.com/arafaysaleem/ez_tickets_app) | A cinema ticket booking app made with Flutter SDK  |
 | FindSeat | [Link](https://github.com/KhoaSuperman/findseat) | A Flutter app for booking movie tickets. |
