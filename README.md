@@ -438,13 +438,13 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Tic Tac Toe (Multiplayer) | [Link](https://github.com/alexrintt/ttt) | Tic Tac Toe Local Multiplayer Game |
 | tictactoe              | [Link](https://github.com/filiph/tictactoe)   | A mobile game Tic Tac Toe |
 | Trex game | [Link](https://github.com/renancaraujo/trex-flame) | Flutter port of the famous Trex game |
+| Truth Or Dare and Charades | [Link](https://github.com/marjandn/truthordare-charades-game) | Truth Or Dare and Charades Game built with Flutter - Persian |
 | turi                   | [Link](https://github.com/renancaraujo/turi)  | A Fragment shader based game using Flame and Flutter  |
 | watermelon             | [Link](https://github.com/idootop/watermelon)  | Watermelon is a game developed using Flutter + Flame + Forge2D. |
 | Who Goes First | [Link](https://github.com/j7126/who_goes_first) | Random funny 'who goes first' rules from popular tabletop games! |
 | WordlyPlus | [Link](https://github.com/Carapacik/WordlyPlus) | Guess the WORD in six tries. |
 | Xeonjia | [Link](https://gitlab.com/deepdaikon/xeonjia) | Save the world by solving ice puzzles and defeating enemies! |
 | Zoysii | [Link](https://gitlab.com/deepdaikon/zoysii) | A simple logic game: find the best path to delete every number in a square space |
-| Truth Or Dare and Charades | [Link](https://github.com/marjandn/truthordare-charades-game) | Truth Or Dare and Charades Game built with Flutter - Persian |
 
 ### Sports
 
@@ -702,7 +702,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Vidya Music | [Link](https://github.com/mateusrodcosta/vidya_music) | Flutter player for the Vidya Intarweb Playlist (aka VIP Aersia) |
 | WavyBeats | [Link](https://github.com/AssassinAguilar/WavyBeats) | A music player. |
 
-### 
+### Entertainment
 
 | Project    | Repo  | Description  |
 |:-----------|:------|:-------------|
@@ -723,11 +723,10 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | namida                   | [Link](https://github.com/namidaco/namida) | A Beautiful and Feature-rich Music & Video Player with Youtube Support |
 | pilipala                 | [Link](https://github.com/guozhigq/pilipala) | PiliPala is a third-party BiliBili client developed using Flutter. |
 | psychphinder | [Link](https://github.com/daih27/psychphinder) | An app to search for your favorite quotes from the TV show Psych |
+| TMDB | [Link](https://github.com/marjandn/tmdb) | A movie Flutter application powered by TMDB APIs. |
 | TMDBM | [Link](https://github.com/88srzh/comics_db) | Mobile version of TMDB |
 | tv-randshow              | [Link](https://github.com/deandreamatias/tv-randshow) | App to choose a random TV show episode  |
 | Watch | [Link](https://github.com/diptanshumahish/watch) | A movies/web series recommendation app. |
-| TMDB | [Link](https://github.com/marjandn/tmdb) | A movie Flutter application powered by TMDB APIs. |
-
 
 ### News & Feed
 
