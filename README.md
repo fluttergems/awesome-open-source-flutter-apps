@@ -195,7 +195,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Mindful Notifier | [Link](https://github.com/kmac/mindfulnotifier) | A simple mindfulness-based timer which displays a notification/reminder at user-defined intervals |
 | One Second Diary | [Link](https://github.com/KyleKun/one_second_diary) | Minimalist video diary app. |
 | Reflectly | [Link](https://github.com/sagarshende23/Reflectly-Flutter-App) | A journaling app |
-| Spooky | [Link](https://github.com/juniorise/spooky-mb) | Minimalist application to write stories, notes, diary! |
+| StoryPad | [Link](https://github.com/theachoem/storypad) | Minimalist app to write stories, notes, diary |
 | Table Habit | [Link](https://github.com/friesi23/mhabit) | Our app helps you form and track micro habits with easy-to-use charts and tools, making it simple to establish healthy habits that stick. Start your personal growth journey today |
 | voiceliner | [Link](https://github.com/maxkrieger/voiceliner) | Braindump better. |
 | Your Journal | [Link](https://github.com/VinayakHinduja/Your-Journal) | App to write daily journals digitally. |
