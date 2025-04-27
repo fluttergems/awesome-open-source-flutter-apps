@@ -539,7 +539,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | GripGuide | [Link](https://github.com/POLYTALON/climbing-gym-app) | An app for gyms and climbers to manage routes, track progress, and stay updated with gym news. |
 | Just Another Workout Timer | [Link](https://github.com/blockbasti/just_another_workout_timer) | A simple timer for your workouts, built with Flutter! |
 | LifeSync | [Link](https://github.com/Utku-Mese/LifeSync) | App that allows users to track important factors such as nutrition, sports and water consumption. |
-| MigraineLog | [Link](https://gitlab.com/zerodogg/org.zerodogg.migrainelog) | A simple multi-platform headache diary, written in dart using the flutter framework. |
+| MigraineLog | [Link](https://gitlab.com/mglog/org.zerodogg.migraineLog) | A simple multi-platform headache diary, written in dart using the flutter framework. |
 | OpenHIIT | [Link](https://github.com/a-mabe/OpenHIIT) | A cross platform HIIT and Tabata interval timer mobile application. |
 | OpenNutriTracker | [Link](https://github.com/simonoppowa/OpenNutriTracker) | A calorie tracker to simplify nutritional tracking and management. |
 | QuitSmoke | [Link](https://github.com/trizin/Quit-Smoke-App) | An app to help you quit smoking. |
