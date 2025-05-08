@@ -445,6 +445,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | WordlyPlus | [Link](https://github.com/Carapacik/WordlyPlus) | Guess the WORD in six tries. |
 | Xeonjia | [Link](https://gitlab.com/deepdaikon/xeonjia) | Save the world by solving ice puzzles and defeating enemies! |
 | Zoysii | [Link](https://gitlab.com/deepdaikon/zoysii) | A simple logic game: find the best path to delete every number in a square space |
+| Board Buddy | [Link](https://github.com/khlebobul/board_buddy) | A free cross-platform mobile app for tracking scores and rules in board games |
 
 ### Sports
 
