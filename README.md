@@ -362,6 +362,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | BFBAN Assistants | [Link](https://github.com/cabbagelol/bfban-app-mobile) | Report players on your phone with mobile app for BFBAN |
 | BGUG | [Link](https://github.com/bluefireteam/bgug) | Break Guns Using Gems is a fast paced side-scrolling platformer with innovative controls and a gun-related twist. |
 | block_breaker          | [Link](https://github.com/Umigishi-Aoi/block_breaker)  | Game of Block Breaker made using flame. |
+| Board Buddy | [Link](https://github.com/khlebobul/board_buddy) | Mobile app for tracking scores and rules in board games |
 | bounce_game            | [Link](https://github.com/Shadow60539/bounce_game)    | Bounce game  |
 | brain_punk             | [Link](https://github.com/animator/brain_punk)   | A Brain Story Game built using Flutter + Flame |
 | Cards With Cats | [Link](https://github.com/dozingcat/cardswithcats) | Hearts and Spades card games |
@@ -445,7 +446,6 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | WordlyPlus | [Link](https://github.com/Carapacik/WordlyPlus) | Guess the WORD in six tries. |
 | Xeonjia | [Link](https://gitlab.com/deepdaikon/xeonjia) | Save the world by solving ice puzzles and defeating enemies! |
 | Zoysii | [Link](https://gitlab.com/deepdaikon/zoysii) | A simple logic game: find the best path to delete every number in a square space |
-| Board Buddy | [Link](https://github.com/khlebobul/board_buddy) | A free cross-platform mobile app for tracking scores and rules in board games |
 
 ### Sports
 
