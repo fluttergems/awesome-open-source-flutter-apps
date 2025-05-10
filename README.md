@@ -221,6 +221,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | PaperlessShare | [Link](https://github.com/qcasey/paperless_share) | Android App to share your documents with your Paperless server |
 | Visual Editor | [Link](https://github.com/visual-space/visual-editor) | Rich text editor for Flutter based on Delta format (Quill fork) |
 | webtrit_phone | [Link](https://github.com/WebTrit/webtrit_phone)  | WebTrit Phone application  |
+| HireHub | [Link](https://github.com/akashpd390/HireHub) |  A modern job-seeking application built with Flutter, resume uploads, real-time chat, application tracking, bookmarking, and a scalable UI architecture. |
 
 ### Productivity
 
