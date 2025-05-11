@@ -212,6 +212,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Fluffyboard | [Link](https://github.com/y0ngg4n/fluffy_board) | A offline and online Flutter Whiteboard with collaboration Features. Maintained in my free time. Currently demo is offline |
 | google-docs-clone-flutter  | [Link](https://github.com/funwithflutter/google-docs-clone-flutter) | A clone of Google Docs using Flutter and Appwrite |
 | HalfDot | [Link](https://github.com/davquar/halfdot) | Minimalistic Umami client for Android |
+| HireHub | [Link](https://github.com/akashpd390/HireHub) |  A job-seeking app with resume uploads, real-time chat, application tracking and a scalable UI architecture |
 | katswiri              | [Link](https://github.com/doreanbyte/katswiri)  | A crawler to find job listings and aggregate them from multiple sources  |
 | Ozan | [Link](https://github.com/imrofayel/Ozan) | A personal knowledge base like Obsidian & Notion that combines simplicity with powerful features e.g., markdown support, graph, AI assistant, import/export etc. |
 | microsoft_teams_clone | [Link](https://github.com/Karanjot-singh/microsoft_teams_clone) | Microsoft Teams Clone is a Video conference application with a rich integrated chat experience, to connect with friends, family & colleagues. |
@@ -221,7 +222,6 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | PaperlessShare | [Link](https://github.com/qcasey/paperless_share) | Android App to share your documents with your Paperless server |
 | Visual Editor | [Link](https://github.com/visual-space/visual-editor) | Rich text editor for Flutter based on Delta format (Quill fork) |
 | webtrit_phone | [Link](https://github.com/WebTrit/webtrit_phone)  | WebTrit Phone application  |
-| HireHub | [Link](https://github.com/akashpd390/HireHub) |  A modern job-seeking application built with Flutter, resume uploads, real-time chat, application tracking, bookmarking, and a scalable UI architecture. |
 
 ### Productivity
 
