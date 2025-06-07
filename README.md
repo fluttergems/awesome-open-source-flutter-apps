@@ -673,6 +673,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Bide et Musique | [Link](https://github.com/odrevet/bide_et_musique_flutter) | Listen to and access the web radio 'Bide and Music' |
 | BloomeeTunes        | [Link](https://github.com/HemantKArya/BloomeeTunes)  | A music app designed to bring you ad-free tunes from various sources.  |
 | Chillify | [Link](https://github.com/karimelghamry/chillify) | Music App made with flutter |
+| ClassiPod | [Link](https://github.com/adeeteya/Classipod) | A local music player app designed to capture the nostalgic essence of the iconic iPod Classic. |
 | DJ Edertech App | [Link](https://gitlab.com/ederson-itabaiana/dj_edertech) | Immerse yourself in the nostalgic beats spanning various music genres |
 | Drip | [Link](https://github.com/spsden/drip) | A Youtube Music client for Desktop. (in Development) |
 | finamp              | [Link](https://github.com/jmshrv/finamp)   | A Jellyfin music client for mobile  |
