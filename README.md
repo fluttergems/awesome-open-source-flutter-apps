@@ -769,6 +769,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Guerrilla Mail | [Link](https://gitlab.com/theonewiththebraid/guerrilla_mail) | Quickly receive anonymous and temporary mails using Guerrilla Mail. |
 | OpenPeerChat-flutter | [Link](https://github.com/AOSSIE-Org/OpenPeerChat-flutter) | Sending/relaying messages to nearby devices until the destination is reached, instead of relying on a central server. |
 | Simple Chat UI | [Link](https://github.com/jamalianpour/simplechatui) | Simple chat UI build with flutter |
+| SMS Telebot | [Link](https://github.com/teslor/sms-telebot) | Android app to forward incoming SMS messages to your Telegram bot |
 | snack_chat           | [Link](https://github.com/Kennygunderman/snack_chat)       | Spicy chatting app  |
 | StreamKit Chat Reader | [Link](https://github.com/mentegago/streamkit) | Reads your Twitch chat, with automatic language detection! |
 | Syphon | [Link](https://github.com/syphon-org/syphon) | A privacy centric matrix client  |
