@@ -255,6 +255,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Paperless | [Link](https://github.com/bauerj/paperless_app) | An Android/iOS app for Paperless |
 | pomodoro-session           | [Link](https://github.com/jashdubal/pomodoro-session)               | Helps users track work sessions using the Pomodoro Technique |
 | pmdr                       | [Link](https://github.com/aricodeine/pmdr)                          | A Pomodoro App |
+| Purple Task                | [Link](https://github.com/mivoligo/purple_task)                     | Simple TO-DO app to help you get stuff done. |
 | Repeat Me | [Link](https://github.com/samarthdesai01/repeatme) | A clean and intuitive task managing app for Android created with Flutter  |
 | Shorey | [Link](https://github.com/elementlo/shorey) | Shorey is a simple note app which is built with Flutter and supports both Android/iOS platforms. |
 | Stride | [Link](https://github.com/stride-tasks/stride) | Task management application with in-built git integration |
