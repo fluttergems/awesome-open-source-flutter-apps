@@ -733,6 +733,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | psychphinder | [Link](https://github.com/daih27/psychphinder) | An app to search for your favorite quotes from the TV show Psych |
 | TMDB | [Link](https://github.com/marjandn/tmdb) | A movie Flutter application powered by TMDB APIs. |
 | TMDBM | [Link](https://github.com/88srzh/comics_db) | Mobile version of TMDB |
+| TurtleOTT | [Link](https://github.com/fastogt/TurtleOTT) | A crossplatform iptv/ott/streaming player |
 | tv-randshow              | [Link](https://github.com/deandreamatias/tv-randshow) | App to choose a random TV show episode  |
 | Watch | [Link](https://github.com/diptanshumahish/watch) | A movies/web series recommendation app. |
 
