@@ -669,7 +669,6 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 
 | Project    | Repo  | Description  |
 |:-----------|:------|:-------------|
-| Rhythmic Realm | [Link](https://github.com/SoSerious194/rhythmic_realm_app) | Rhythmic Realm is not just a music app—it's a culmination of everything I've learned over the past few years. From best practices in Flutter development, UI/UX design, and performance optimization, this project represents the highest quality standards that developers can learn from and use as a reference. |
 | AI Radio | [Link](https://github.com/AadrianLeo/AI-Radio-App) | Radio application with an AI assistant to play, stop, search songs by categories. |
 | Anytime Podcast Player | [Link](https://github.com/amugofjava/anytime_podcast_player) | Simple, easy to use Podcast player app |
 | Bide et Musique | [Link](https://github.com/odrevet/bide_et_musique_flutter) | Listen to and access the web radio 'Bide and Music' |
@@ -701,7 +700,8 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Practice Suite | [Link](https://codeberg.org/berker/practice_suite) | The Swiss army knife of musicians |
 | raag | [Link](https://github.com/raag-music/raag) | Music player made using Flutter. |
 | Radio Romania | [Link](https://gitlab.com/andrei-pavel/radio-romania) | An open source aggregator for Radio Romania podcasts. |
-| sap                 | [Link](https://github.com/31Carlton7/sap)   | A mobile music streaming app with a complex UI built with Flutter and the Deezer API |
+| Rhythmic Realm | [Link](https://github.com/SoSerious194/rhythmic_realm_app) | A music app |
+| sap | [Link](https://github.com/31Carlton7/sap)   | A mobile music streaming app with a complex UI built with Flutter and the Deezer API |
 | Spotube | [Link](https://github.com/KRTirtho/spotube) | Open source Spotify client |
 | Storify | [Link](https://github.com/gyeongmin-lee/Storify) | Flutter app to add captions to songs in your Spotify playlists. |
 | Stream Music Player with GetX | [Link](https://github.com/vellt/getx-stream-music-player-flutter) | Listen to music online with a clean GetX MVC architecture |
