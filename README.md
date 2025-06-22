@@ -776,6 +776,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | StreamKit Chat Reader | [Link](https://github.com/mentegago/streamkit) | Reads your Twitch chat, with automatic language detection! |
 | Syphon | [Link](https://github.com/syphon-org/syphon) | A privacy centric matrix client  |
 | Talktive | [Link](https://github.com/gnowoel/talktive) | An anonymous group chat app for safely talking to strangers. |
+| Twake Chat Client | [Link](https://github.com/linagora/twake-on-matrix) | Decentralized chat app based on the Matrix protocol |
 | Whatsapp Clone | [Link](https://github.com/YerikAH/whatsapp-clone) | A UI clone of WhatsApp. |
 | zulip-flutter        | [Link](https://github.com/zulip/zulip-flutter)             | Future Zulip client using Flutter  |
 
