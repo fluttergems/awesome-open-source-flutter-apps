@@ -502,7 +502,6 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Project    | Repo  | Description  |
 |:-----------|:------|:-------------|
 | AudioBooks | [Link](https://github.com/lohanidamodar/flutter_audiobooks_app) | An audiobook listener and downloader using librivox API |
-| Boobook         | [Link](https://github.com/julienlebren/Boobook)     | Your library management assistant at school!      |
 | Calibre Web Companion | [Link](https://github.com/doen1el/calibre-web-companion) | Unofficial companion app for calibre web |
 | deedum | [Link](https://github.com/snoe/deedum) | A cross platform Gemini browser |
 | DOI to SciHub | [Link](https://gitlab.com/sigmarelax/doi_to_scihub) | Android app for quickly opening Sci-Hub links from the Digital Object Identifier's URL (using Android intents). |
