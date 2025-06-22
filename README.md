@@ -237,6 +237,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Glory Todo Desktop | [Link](https://github.com/yessglory17/glory_todo_desktop) | A desktop Todo app |
 | kardi notes | [Link](https://github.com/rikodot/kardi_notes_app)         | Cross-platform app to take notes. Encrypted, open-source, sync across devices |
 | koperasi-mobileApp         | [Link](https://github.com/koperasi-rlp1/koperasi-mobileApp)         | Task Planner App |
+| kowalski | [Link](https://github.com/Zatfer17/kowalski) | AI-powered personal Knowledge Management System for Android |
 | Leaflet | [Link](https://github.com/potatoproject/leaflet) | POSP official notes app, soon to be included |
 | Lightplan | [Link](https://github.com/xddk/lightplan) | LightPlan is an open source project meant to remind tasks you have to make. Time is ticking, let's not waste time planning. |
 | listify                    | [Link](https://github.com/momshaddinury/listify)                    | Todo App with a refreshing UI. Technology used: Flutter, Firebase, MVC, Riverpod. |
