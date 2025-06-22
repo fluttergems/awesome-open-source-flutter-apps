@@ -1024,6 +1024,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | #FFF Info | [Link](https://gitlab.com/jugendhackt/fff_info) | Get all information about your climate strike! |
 | DigiAgriApp | [Link](https://gitlab.com/digiagriapp/digiagriapp-mobile) | FOSS application to monitor your agriculture field |
 | Ehrenamt | [Link](https://github.com/digitalfabrik/entitlementcard) | App for the Bayerische Ehrenamtskarte, a benefit card for volunteers in Bavaria, Germany. |
+| Farm Mate | [Link](https://github.com/amoghkb/FarmMate) | Connects farmers with businesses, enabling them to sell crops directly to buyers |
 | Florae | [Link](https://github.com/aeri/florae) | Keep care of your green, leafy best friends |
 | Insigno | [Link](https://github.com/mindshub/insigno_frontend) | Insigno makes keeping your city clean enjoyable and inspiring! |
 | Plant Disease Detector | [Link](https://github.com/root458/Plant-Disease-Detector) | App that detects a plant's disease given a photo of an affected part of the plant. |
@@ -1033,7 +1034,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | reforestation-assistant-simulator | [Link](https://github.com/LiquidGalaxyLAB/reforestation-assistant-simulator)  | The Reforestation Assistant & Simulator idea is to create an app to help on reforestation of degraded areas of the planet by drone or manually |
 | Smart-City-Dashboard | [Link](https://github.com/LiquidGalaxyLAB/Smart-City-Dashboard)  | Android app to visualize many available public data of various Smart Cities through Dashboards. |
 | SMASH - Smart Mobile App for the Surveyor's Happiness | [Link](https://github.com/geopaparazzi/smash) | Source code of the SMASH Android/iOS digital field mapping app. |
-| Water Me | [Link](https://github.com/abertschi/water-me) | A simple, open and privacy friendly plant watering reminder for Android. |
+| Water Me | [Link](https://github.com/abertschi/water-me) | A simple, open and privacy friendly plant watering reminder for Android |
 
 ### Others
 
