@@ -1000,6 +1000,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | last_fm                  | [Link](https://github.com/elias8/last_fm)                       | A simple app to demonstrate a testable, maintainable, and scalable architecture for flutter. flutter_bloc, get_it, hive, and REST API are some of the tech stacks used in this project. |
 | MVVM app architecture | [Link](https://github.com/DeveloperRahnuma/Flutter-Mvvm-Clean-Setup) | Model–View–ViewModel (MVVM) example. |
 | Quiz App | [Link](https://github.com/muhammad-fiaz/QuizApp-Flutter) | A simple Quiz Application UI template |
+| WriteSync | [Link](https://github.com/tayormi/writesync) | A modern, responsive blog engine built with Jaspr and Dart |
 
 ### Privacy, Safety & Crime
 
