@@ -29,6 +29,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 🏃‍♂️ [Health & Fitness](#health--fitness)  
 🏥 [Medical](#medical)  
 ✈️ [Travel & Navigation](#travel--navigation)  
+🏎️ [Cars & Automobiles](#cars--automobiles)  
 🎓 [Education](#education)  
 🎨 [Graphics & Design](#graphics--design)  
 🎵 [Music](#music)  
@@ -59,7 +60,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 
 | Project    | Repo  | Description  |
 |:-----------|:------|:-------------|
-| API Dash   | [Link](https://github.com/foss42/apidash)             | API Dash is a beautiful open-source cross-platform API Client built using Flutter which can help you easily create & customize your API requests, visually inspect responses and generate API integration code. A lightweight alternative to postman/insomnia. |
+| API Dash   | [Link](https://github.com/foss42/apidash)             | A beautiful AI powered open-source cross-platform (Desktop & Mobile) API Client built using Flutter which can help you easily create & customize your API requests, visually inspect responses and generate API integration code. A lightweight alternative to postman/insomnia. |
 | Appainter | [Link](https://github.com/zeshuaro/appainter) | A material theme editor and generator for Flutter to configure and preview the overall visual theme of your material app |
 | BendyStraw | [Link](https://codeberg.org/mm-dev/bendy-straw) | An Android app for managing NewPipe databases |
 | cb_app | [Link](https://github.com/printpagestopdf/cb_app) | An App that provides Access to CommonsBooking driven Sites |
@@ -99,6 +100,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | HaoChat | [Link](https://github.com/conghaonet/hao_chatgpt) | An unofficial ChatGPT application |
 | maid      | [Link](https://github.com/Mobile-Artificial-Intelligence/maid) | Maid is a cross-platform Flutter app for interfacing with GGUF / llama.cpp models locally, and with Ollama and OpenAI models remotely |
 | MyOllama | [Link](https://github.com/bipark/my_ollama_app) | Ollama-based LLM mobile client |
+| Open Alert Viewer | [Link](https://github.com/leaf-node/open_alert_viewer) | Display server and network alerts from servers running Prometheus, Nagios, Icinga or Zabbix |
 | Simple ChatGPT | [Link](https://github.com/SnowStar0423/ChatGPT-Flutter-App) | ChatGPT like app in Flutter |
 | Story Generator | [Link](https://github.com/Lord-Chris/story-generator) | A mobile app that generates random stories based on user input using Google Generative AI |
 
@@ -116,6 +118,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | cone | [Link](https://github.com/bradyt/cone) | A ledger. |
 | Currency alarm | [Link](https://github.com/shurygindv/currency-alarm) | currency flutter app |
 | flutter-vizier-challenge | [Link](https://github.com/merixstudio/flutter-vizier-challenge)  | Prototype of a financial mobile application. |
+| MarketMonk | [Link](https://github.com/brandonp2412/marketmonk) | Track stocks on any platform |
 | mmas-money-tracker | [Link](https://github.com/floranguyen0/mmas-money-tracker) | An optimized application for daily expense tracking and personal finance management |
 | Monekin | [Link](https://github.com/enrique-lozano/Monekin) | An app that makes personal finance easier. |
 | Money Logs | [Link](https://gitlab.com/kazispintechub/money-logs) | Financial Record Manager App.  |
@@ -289,10 +292,12 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Chrono | [Link](https://github.com/vicolo-dev/chrono) | A modern and powerful clock, alarms, timer and stopwatch app for Android |
 | Convapp | [Link](https://github.com/maximoospital/Convapp) | A lightweight and multi-platform real-time unit conversion app. |
 | Converter NOW | [Link](https://github.com/ferraridamiano/converternow) | The Unit Converter app: easy, immediate and multi-platform |
+| Digital Calculator | [Link](https://github.com/adeeteya/digitalcalculator) | Digital calculator which has keyboard support (external bluetooth keyboard) |
 | dpc | [Link](https://github.com/jakubslaby09/dpc) | An open-source app for writing a family pedigree with a chronicle using Git |
 | Emotic | [Link](https://github.com/futuristicgoo/emotic) | Show a list of emoticons which can be copied to clipboard for any use |
 | Frigoligo | [Link](https://github.com/casimir/frigoligo) | A wallabag client to take your links anywhere and keep them fresh! |
 | Gopeed | [Link](https://github.com/GopeedLab/gopeed) | A modern download manager that supports all platforms |
+| Holidayz | [Link](https://github.com/paskozhelev/holidayz-app) | Stay Ahead with Global Public Holidays & Regional Days Off |
 | IdiomReplaceX Browser | [Link](https://github.com/idiomreplacex/idiomreplacex-app) | The IdiomReplaceX Browser App is a special browser app where IdiomReplaceX toolbox is added to almost any web page, allowing literary filters to be applied to the content of the web page |
 | keyviz | [Link](https://github.com/mulaRahul/keyviz) | Keyviz is a free and open-source tool to visualize your keystrokes ⌨️ and 🖱️ mouse actions in real-time.  |
 | Keyviz | [Link](https://github.com/softwarearchitect817/keyviz) | Let your audience know what handy shortcuts/keys you're pressing during screencasts, presentations, collaborations, or whenever you need it. |
@@ -305,7 +310,9 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Parti | [Link](https://gitlab.com/carsten_scholtes/parti) | A tool to help partitioning something into fractional parts |
 | RPNcalc | [Link](https://github.com/apesic/rpncalc) | A simple RPN (Reverse Polish Notation) calculator app built using Flutter |
 | SimplyTranslate Mobile | [Link](https://github.com/manerakai/simplytranslate_mobile) | Privacy friendly frontend to Google Translate |
-| Type | [Link](https://github.com/jeffsieu/type) | A typing test. |
+| TiefPrompt | [Link](https://github.com/Tiefseetauchner/tiefprompt) | Cross-platform teleprompter app |
+| Touch Torch | [Link](https://github.com/softcodingforyou/touchtorch) | Touch the screen and the light turns on |
+| Type | [Link](https://github.com/jeffsieu/type) | A typing test |
 
 ### Password, Encryption & Security
 
@@ -345,6 +352,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Immich | [Link](https://github.com/immich-app/immich) | High performance self-hosted photo and video management solution. |
 | Libre Camera | [Link](https://github.com/iakmds/librecamera) | A free and open source camera app for Android written in Flutter and Dart |
 | OBS Blade | [Link](https://github.com/kounex/obs_blade) | Make use of the OBS WebSocket Plugin (https://github.com/obsproject/obs-websocket) and control your stream |
+| Panoramax | [Link](https://gitlab.com/panoramax/clients/mobile-app) | Capture photo sequences with your mobile and send these sequences to a Panoramax instance |
 | photobooth       | [Link](https://github.com/flutter/photobooth)              | Google I/O 2021 Photo Booth built with Flutter and Firebase  |
 | PicGuard | [Link](https://github.com/picguard/picguard) | Secure & customize your digital photos by adding watermarks to your images |
 | pstube           | [Link](https://github.com/prateekmedia/pstube)             | Watch and download videos without ads |
@@ -381,6 +389,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Easy Pong | [Link](https://github.com/adeeteya/EasyPong) |  a classic Pong game built using Flutter and the Flame game engine |
 | Egyptian Mouse Pounce | [Link](https://github.com/dozingcat/mousepounce) | Egyptian Rat Screw, a card game in Flutter |
 | Everest | [Link](https://github.com/mwageringel/everest) | A mathematical puzzle game |
+| FaFa Runner | [Link](https://github.com/fafarunner/fafarunner) | Epic adventure RPG game |
 | Fingertap | [Link](https://github.com/arokip/fingertap) | Catchy mobile game using more of your fingers. |
 | Flame Simple Platformer | [Link](https://github.com/ufrshubham/flame_simple_platformer) | A 2D platformer made using Flame engine |
 | Flappy Bird | [Link](https://github.com/moha-b/Flappy-Bird) | A game based on flutter animation. |
@@ -494,6 +503,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 |:-----------|:------|:-------------|
 | AudioBooks | [Link](https://github.com/lohanidamodar/flutter_audiobooks_app) | An audiobook listener and downloader using librivox API |
 | Boobook         | [Link](https://github.com/julienlebren/Boobook)     | Your library management assistant at school!      |
+| Calibre Web Companion | [Link](https://github.com/doen1el/calibre-web-companion) | Unofficial companion app for calibre web |
 | deedum | [Link](https://github.com/snoe/deedum) | A cross platform Gemini browser |
 | DOI to SciHub | [Link](https://gitlab.com/sigmarelax/doi_to_scihub) | Android app for quickly opening Sci-Hub links from the Digital Object Identifier's URL (using Android intents). |
 | Explr | [Link](https://github.com/Project-Easter/Flutter-UI) | Explr provides a platform for users to know what their friends are reading and exchange books with them, along with knowing which book is the talk of the town. |
@@ -532,10 +542,12 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 
 | Project    | Repo  | Description  |
 |:-----------|:------|:-------------|
+| 5/3/1 Log | [Link](https://github.com/willames-jr/fivetone_log) | Track your workouts and progress using the popular 5/3/1 strength training method |
 | blood pressure app | [Link](https://github.com/nobodyfornothing/blood-pressure-monitor-fl) | A cross platform app to save blood pressure values with export function |
 | Calm Attack | [Link](https://github.com/FatoomRe/Calm-Attack) | Helps manage panic attacks by providing a range of exercises to help them calm their mind and body. |
 | Calodiary | [Link](https://git.justquitstudios.de/marco/calorimeter) | Diary for your calorie intake |
 | Energize | [Link](https://codeberg.org/epinez/energize) | Track your food and nutrition easily and fast |
+| ExHale | [Link](https://codeberg.org/retiolus/exhale) | Quit Smoking App |
 | Feeel | [Link](https://gitlab.com/enjoyingfoss/feeel) | A cross-platform Flutter home workout app that respects your privacy |
 | FitBook | [Link](https://github.com/brandonp2412/fitbook) | Track your eating habits and visualize your progress with intuitive graphs, all completely offline |
 | Flexify | [Link](https://github.com/brandonp2412/flexify) | Track your gym progress - Completely offline! |
@@ -549,6 +561,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | OpenNutriTracker | [Link](https://github.com/simonoppowa/OpenNutriTracker) | A calorie tracker to simplify nutritional tracking and management. |
 | QuitSmoke | [Link](https://github.com/trizin/Quit-Smoke-App) | An app to help you quit smoking. |
 | Spartathlon | [Link](https://gitlab.com/thgoebel/spartathlon) | This app aims to help athletes, supporters and volunteers during the ultra distance race Spartathlon. |
+| Sunrise Signal | [Link](https://github.com/avizitrx/sunrise_signal) | Track and understand morning wood to gain better health insights |
 | Track My Indoor Workout | [Link](https://github.com/TrackMyIndoorWorkout/TrackMyIndoorWorkout) | An app for recording stationary workouts of smart fitness machines via BLE protocol. |
 | trale | [Link](https://github.com/quantumphysique/trale) | trale – a simple body weight diary app respecting your privacy |
 | Watermaniac | [Link](https://github.com/artur-ios-dev/watermaniac) | A hydration tracking app that helps you track the amount of water you drink |
@@ -596,6 +609,13 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | travel_app          | [Link](https://github.com/Shadow60539/travel_app)          | Travel App |
 | trip-brain-app      | [Link](https://github.com/Pr0nE/trip-brain-app) | Travel app built with Flutter, Go, and gRPC for personalized travel suggestions, rich insights, and offline access. |
 
+### Cars & Automobiles
+
+| Project | Repo | Description |
+|:--------|:-----|:------------|
+| CarVita | [Link](https://github.com/jezil/carvita) | Personal assistant for managing and predicting your vehicle's maintenance needs |
+
+
 ### Education
 
 | Project    | Repo  | Description  |
@@ -604,6 +624,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Algorithms and Visualiser-App | [Link](https://github.com/inductor69/algorithms-visualiser-app) | e-Learning Online Courses App |
 | Animated App with Rive and Flutter | [Link](https://github.com/abuanwar072/build-an-animated-app-with-rive-and-flutter) | Animated App with Rive and Flutter |
 | Anti-Cheat Exam App | [Link](https://github.com/prathamesh-mutkure/anti-cheat-exam-app) | App to stop cheating in online exams with AI and ML. |
+| Better schedule | [Link](https://github.com/larvenstein/better-stundenplan) | A better client for virtual-hour schedule.org |
 | brainjogging | [Link](https://github.com/fkropfhamer/brainjogging) | An application to train your brain. |
 | CircuitVerse Mobile | [Link](https://github.com/circuitverse/mobile-app) | Mobile App for CircuitVerse |
 | Cloudmate | [Link](https://github.com/lambiengcode/cloudmate-classroom-flutter) | An open-source online learning platform. |
@@ -626,13 +647,17 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | JS-Dict | [Link](https://github.com/petlyh/js-dict) | Japanese-English dictionary app powered by Jisho.org |
 | Kepler-App | [Link](https://github.com/antonioalbt/kepler_app) | The ultimate overview app for all JKG students, parents and teachers |
 | lanelexicon | [Link](https://github.com/gibreelabdullah/lanelexicon) | Lane's Lexicon - An Arabic English Dictionary |
+| LogicalDefence | [Link](https://github.com/lukestonehm/logicaldefence) | Displays a list of the logical fallacies that haunt every rationalists world |
 | MatheBuddy | [Link](https://github.com/mathebuddy/mathebuddy) | A gamified learning app for higher math. |
 | Mathematics | [Link](https://github.com/j-j-gajjar/mathematics) | Mathematics Flutter offers a collection of mathematical functions and supports generation of MCQs, QnA PDFs & quizzes. |
 | Ciyue | [Link](https://github.com/mumu-lhl/ciyue) | A mdict dictionary with Android support |
+| NATINFo | [Link](https://codeberg.org/retiolus/natinfo_flutter) | Search and consult the current violations of the NATINF nomenclature |
 | Nihonoari | [Link](https://github.com/aeri/nihonoari-app) | A little and minimalist Japanese Kana training |
 | Notely | [Link](https://github.com/thilojaeggi/notely) | A cross-platform mobile client for the Kaschuso (schulnetz) School platform.  |
 | O̍h Tâi Gí | [Link](https://github.com/hschueh/oh_tai_gi) | A Taiwanese (tâi-gí) learning app inspired by moedict & quizlet. |
+| oj_helper | [Link](https://github.com/2754lm/oj_helper) | An app for looking up Online Judge information |
 | Onyx | [Link](https://github.com/onyx-lyon1/onyx) | The app for Universite Claude Bernard |
+| Java OOP Quiz | [Link](https://github.com/aliakrem/oopquiz) | Test and improve Object-Oriented Programming (OOP) concepts in Java |
 | OpenUSOS | [Link](https://github.com/openusos/openusos) | Unofficial USOS app, for students in Poland |
 | OpSo | [Link](https://github.com/andoriyaprashant/OpSo) | OpSo provides information about various open-source programs like GSoC, Summer of Bitcoin, etc. |
 | Orientation | [Link](https://github.com/matthewtory/trinity-orientation-2018) | An app for orientation week at Trinity College, University of Toronto. |
@@ -648,6 +673,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Toughest | [Link](https://github.com/MDSADABWASIM/Toughest) | An app for interview preparation |
 | university-app        | [Link](https://github.com/0niel/university-app)   | A mobile application for the MIREA - Russian Technological University, which includes a schedule, news and many other functions  |
 | Vocabhub | [Link](https://github.com/maheshmnj/vocabhub) | An app to help you build your vocabulary. This app contains 800+ curated GRE words |
+| Wispar | [Link](https://github.com/scriptbash/wispar) | Stay up-to-date with academic journals and the latest research articles |
 | words.hk | [Link](https://github.com/alienkevin/wordshk_app) | An open Cantonese dictionary for iOS and Android |
 | Wuxia Learn | [Link](https://github.com/wuxialearn/wuxialearn) | A free and open source Chinese language learning app |
 
@@ -657,6 +683,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 |:-----------|:------|:-------------|
 | Color Hap | [Link](https://github.com/tecdrop/color_hap) | Random color generator to generate a vast array of colors, including basic, web, named, and true random colors. |
 | Color Studio | [Link](https://github.com/bernaferrari/color-studio) | Build coherent and accessible themes with the right colors. |
+| Font Gallery | [Link](https://github.com/adeeteya/fontgallery) | Display how different fonts families and their variations look |
 | Let's Draw | [Link](https://github.com/jideguru/flutter_drawing_board) | A simple drawing app made with Flutter |
 | Mooltik | [Link](https://github.com/ruskakimov/mooltik) | Mobile app for drawing 2D animation |
 | Paint Redesigned | [Link](https://github.com/maheshmnj/paint-redesigned) | A flutter Desktop App to do free drawing on the canvas.  |
@@ -674,7 +701,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Bide et Musique | [Link](https://github.com/odrevet/bide_et_musique_flutter) | Listen to and access the web radio 'Bide and Music' |
 | BloomeeTunes        | [Link](https://github.com/HemantKArya/BloomeeTunes)  | A music app designed to bring you ad-free tunes from various sources.  |
 | Chillify | [Link](https://github.com/karimelghamry/chillify) | Music App made with flutter |
-| ClassiPod | [Link](https://github.com/adeeteya/Classipod) | A local music player app designed to capture the nostalgic essence of the iconic iPod Classic. |
+| ClassiPod | [Link](https://github.com/adeeteya/Classipod) | A local music player app designed to capture the nostalgic essence of the iconic iPod Classic |
 | DJ Edertech App | [Link](https://gitlab.com/ederson-itabaiana/dj_edertech) | Immerse yourself in the nostalgic beats spanning various music genres |
 | Drip | [Link](https://github.com/spsden/drip) | A Youtube Music client for Desktop. (in Development) |
 | finamp              | [Link](https://github.com/jmshrv/finamp)   | A Jellyfin music client for mobile  |
@@ -705,7 +732,8 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Spotube | [Link](https://github.com/KRTirtho/spotube) | Open source Spotify client |
 | Storify | [Link](https://github.com/gyeongmin-lee/Storify) | Flutter app to add captions to songs in your Spotify playlists. |
 | Stream Music Player with GetX | [Link](https://github.com/vellt/getx-stream-music-player-flutter) | Listen to music online with a clean GetX MVC architecture |
-| Tsacdop | [Link](https://github.com/tsacdop/tsacdop) | Enjoy podcasts with Tsacdop!  A podcast player built with flutter. |
+| Tsacdop | [Link](https://github.com/tsacdop/tsacdop) | Enjoy podcasts with Tsacdop!  A podcast player built with flutter |
+| Tsacdop (Fork) | [Link](https://github.com/lojcs/tsacdop) | Enjoy podcasts with Tsacdop!  A podcast player built with flutter |
 | Vidya Music | [Link](https://github.com/mateusrodcosta/vidya_music) | Flutter player for the Vidya Intarweb Playlist (aka VIP Aersia) |
 | WavyBeats | [Link](https://github.com/AssassinAguilar/WavyBeats) | A music player. |
 
@@ -729,6 +757,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Movies App | [Link](https://github.com/vellt/movies-app-flutter) | MoviesApp based on themoviedb API |
 | movies_app               | [Link](https://github.com/Roaa94/movies_app) | Directory for movies and famous people  |
 | namida                   | [Link](https://github.com/namidaco/namida) | A Beautiful and Feature-rich Music & Video Player with Youtube Support |
+| PeerTube | [Link](https://framagit.org/framasoft/peertube/mobile-application) | Browse, watch, and interact with content from thousands of PeerTube instances |
 | pilipala                 | [Link](https://github.com/guozhigq/pilipala) | PiliPala is a third-party BiliBili client developed using Flutter. |
 | psychphinder | [Link](https://github.com/daih27/psychphinder) | An app to search for your favorite quotes from the TV show Psych |
 | TMDB | [Link](https://github.com/marjandn/tmdb) | A movie Flutter application powered by TMDB APIs. |
@@ -772,6 +801,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Guerrilla Mail | [Link](https://gitlab.com/theonewiththebraid/guerrilla_mail) | Quickly receive anonymous and temporary mails using Guerrilla Mail. |
 | OpenPeerChat-flutter | [Link](https://github.com/AOSSIE-Org/OpenPeerChat-flutter) | Sending/relaying messages to nearby devices until the destination is reached, instead of relying on a central server. |
 | Simple Chat UI | [Link](https://github.com/jamalianpour/simplechatui) | Simple chat UI build with flutter |
+| < polycule > | [Link](https://gitlab.com/polycule_client/polycule) | A geeky and efficient [matrix] client for power users |
 | SMS Telebot | [Link](https://github.com/teslor/sms-telebot) | Android app to forward incoming SMS messages to your Telegram bot |
 | snack_chat           | [Link](https://github.com/Kennygunderman/snack_chat)       | Spicy chatting app  |
 | StreamKit Chat Reader | [Link](https://github.com/mentegago/streamkit) | Reads your Twitch chat, with automatic language detection! |
@@ -779,6 +809,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Talktive | [Link](https://github.com/gnowoel/talktive) | An anonymous group chat app for safely talking to strangers. |
 | Twake Chat Client | [Link](https://github.com/linagora/twake-on-matrix) | Decentralized chat app based on the Matrix protocol |
 | Whatsapp Clone | [Link](https://github.com/YerikAH/whatsapp-clone) | A UI clone of WhatsApp. |
+| WhatsApp Contacts Adder | [Link](https://github.com/amr-jawwad/whatsapp_contact_adder) | Allows users to add WhatsApp contacts, without giving WhatsApp access to their contacts |
 | zulip-flutter        | [Link](https://github.com/zulip/zulip-flutter)             | Future Zulip client using Flutter  |
 
 ### Social Networking
@@ -790,6 +821,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | clubhouse      | [Link](https://github.com/perpetio/clubhouse)          | Clubhouse clone written in Flutter using Firebase/Firestore and Agora services. |
 | e1547 | [Link](https://github.com/clragon/e1547) | A sophisticated e621 browser |
 | Fedi | [Link](https://github.com/Big-Fig/Fediverse.app) | Open source client for Pleroma and Mastodon social networks. |
+| Flabr | [Link](https://github.com/iska9der/flabr) | A habr client |
 | Fluttergram | [Link](https://github.com/mdanics/fluttergram) | An Instagram clone written in Flutter using Firebase/Firestore |
 | flutter_tiktok | [Link](https://github.com/DingMouRen/flutter_tiktok)   | Flutter Tiktok |
 | Fritter | [Link](https://github.com/jonjomckay/fritter) | A privacy-friendly Twitter frontend for mobile devices |
@@ -837,6 +869,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 
 | Project    | Repo  | Description  |
 |:-----------|:------|:-------------|
+| Badge Magic | [Link](https://github.com/fossasia/badgemagic-app) | Create Text and Draw Cliparts on LED Name Badges using Bluetooth |
 | Drone Detection Map | [Link](https://github.com/dionlahh/drone-detection-android-application) | Detect drones using computer vision, and plot their locations on a map. |
 | flindex | [Link](https://gitlab.com/asmw/flindex) | Flindex is an app to manage the contents of your home. Use NFC or QR code stickers to manage the inventory of your boxes and drawers. |
 | flutter_thingsboard_app   | [Link](https://github.com/thingsboard/flutter_thingsboard_app) | ThingsBoard Mobile Application  |
@@ -846,6 +879,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | OpenWrt Manager | [Link](https://github.com/hagaygo/openwrtmanager) | Mobile app for interacting with your OpenWrt device |
 | Osram remote | [Link](https://github.com/talkingpanda0/osram-remote) | Android app for controlling Osram RGB lights using infrared |
 | Sharp LH5801 | [Link](https://github.com/cbonello/lh5801) | Sharp LH5801 8-bit microprocessor emulator in Dart |
+| ShockAlarm | [Link](https://github.com/computerelite/shockalarmapp) | App for controlling and managing OpenShock devices |
 | Sensors Dashboard | [Link](https://github.com/umer0586/sensorserver) | A web app to test WebSocket connections with SensorServer in a web browser |
 
 ### Weather
@@ -982,6 +1016,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Librum | [Link](https://github.com/aldrinzigmundv/librum) | A free and open-source Bible verse reference app. |
 | Muslim fortress application | [Link](https://github.com/muslimpack/hisnelmoslem_app) | The application contains the complete book Hisn al-Muslim, with a search feature in the index and other features. |
 | noor | [Link](https://github.com/pr-Mais/noor) | Noor is a mobile app designed to help in providing a comfortable reading experience for Muslims, by referencing the book "Hisnul Muslim", and some other references. |
+| PocketDhamma | [Link](https://github.com/s4nj1th/pocket-dhamma) | For offline reading of the Dhammapada |
 | Prayer | [Link](https://github.com/theagapefoundation/prayer) | A Christian prayer app |
 | Qadaa | [Link](https://github.com/muslimpack/qadaa) | Helps you to organize your missed prayers and fasting |
 | Quran Revision Companion | [Link](https://github.com/waqar144/quran_memorization_helper) | An app to help huffaz revise Quran |
