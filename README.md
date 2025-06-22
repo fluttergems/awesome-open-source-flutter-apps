@@ -193,7 +193,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Meditation App | [Link](https://github.com/Re4ch-Jay/Meditation_App) | An app to make you calm, relieved, relaxed and focused. |
 | medito-app | [Link](https://github.com/meditohq/medito-app)   | The Medito app is a 100% free meditation app. The app is available on Android and iOS. |
 | Mindful Notifier | [Link](https://github.com/kmac/mindfulnotifier) | A simple mindfulness-based timer which displays a notification/reminder at user-defined intervals |
-| One Second Diary | [Link](https://github.com/KyleKun/one_second_diary) | Minimalist video diary app. |
+| One Second Diary | [Link](https://github.com/KyleKun/one_second_diary) | Minimalist video diary app |
 | Reflectly | [Link](https://github.com/sagarshende23/Reflectly-Flutter-App) | A journaling app |
 | StoryPad | [Link](https://github.com/theachoem/storypad) | Minimalist app to write stories, notes, diary |
 | Table Habit | [Link](https://github.com/friesi23/mhabit) | Our app helps you form and track micro habits with easy-to-use charts and tools, making it simple to establish healthy habits that stick. Start your personal growth journey today |
@@ -992,6 +992,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Boilerplate | [Link](https://github.com/zubairehman/flutter_boilerplate_project) | A boilerplate project created using MobX and Provider. |
 | conference-app           | [Link](https://github.com/invertase/conference-app)             | The Conference app toolkit is an app template that can be used to create a Flutter conference app for your event easily. |
 | festapp                  | [Link](https://github.com/vkh-cr/festapp)                       | Festapp - mobile app for festivals, conferences or events. |
+| FireNoti | [link](https://github.com/iamapuneet/Fire-Noti) | Aims to provide a seamless notification experience by integrating Firebase FCM |
 | Flight search | [Link](https://github.com/MarcinusX/flutter_ui_challenge_flight_search) | Flight search UI template |
 | flutter_template         | [Link](https://github.com/wednesday-solutions/flutter_template) | A Flutter template application showcasing - Clean architecture, Responsive design, State management, testing, Navigation, etc.  |
 | flutter_boolean_template | [Link](https://github.com/getBoolean/flutter_boolean_template)  | Provides the boilerplate needed to create a large app and provides utilities to separate code generation into separate packages.  |
