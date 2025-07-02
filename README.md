@@ -8,7 +8,7 @@ Contributors should go through the [Contributing Guide](https://github.com/flutt
 
 A curated list of awesome open source Flutter apps.
 
-All the projects added in this project are featured in [fluttergems.dev](fluttergems.dev)
+All the projects added in this project are featured in [fluttergems.dev](https://fluttergems.dev)
 
 🧑🏻‍💻 [Developer Tools](#developer-tools)  
 🤖 [Generative AI & LLMs](#generative-ai--llms)  
