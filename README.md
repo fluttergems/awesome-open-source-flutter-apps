@@ -495,8 +495,8 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 | Open Food Facts | [Link](https://github.com/openfoodfacts/smooth-app) | App to scan, discover & compare over 3 million food products. |
 | OpenCanteen | [Link](https://git.mnau.xyz/hernik/opencanteen) | OpenCanteen is an alternative free open-source client for the iCanteen food ordering system |
 | Saisonkalender | [Link](https://github.com/seasoncalendar/seasoncalendar) | A seasonal foods calendar app for a conscious and sustainable diet. |
+| SavourAI | [Link](https://github.com/Dheeraj-Chintala/Android-Apps/tree/master/savourai) | A dynamic, swipeable feed of random meals complete with YouTube recipe links, ingredient lists, etc. using TheMealDB API |
 | Yumniastic | [Link](https://github.com/1hanzla100/flutter-yumniastic) | Yumniastic is a online food delivery service app built with Flutter and Django |
-| SavourAI | [Link](https://github.com/Dheeraj-Chintala/Android-Apps/tree/master/savourai) | This App delivers a dynamic, swipeable feed of random meals using TheMealDB API. Think of it as a Reels-style food discovery experience, complete with YouTube recipe links, ingredient lists, and more!. |
 
 ### Books
 
