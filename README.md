@@ -295,6 +295,7 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 | Digital Calculator | [Link](https://github.com/adeeteya/digitalcalculator) | Digital calculator which has keyboard support (external bluetooth keyboard) |
 | dpc | [Link](https://github.com/jakubslaby09/dpc) | An open-source app for writing a family pedigree with a chronicle using Git |
 | Emotic | [Link](https://github.com/futuristicgoo/emotic) | Show a list of emoticons which can be copied to clipboard for any use |
+| Floating Volume | [Link](https://github.com/mkalmousli/FloatingVolume) | Control your device’s volume with a floating slider on Android. |
 | Frigoligo | [Link](https://github.com/casimir/frigoligo) | A wallabag client to take your links anywhere and keep them fresh! |
 | Gopeed | [Link](https://github.com/GopeedLab/gopeed) | A modern download manager that supports all platforms |
 | Holidayz | [Link](https://github.com/paskozhelev/holidayz-app) | Stay Ahead with Global Public Holidays & Regional Days Off |
@@ -309,6 +310,7 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 | Orgro | [Link](https://github.com/amake/orgro) | An Org Mode file viewer for iOS and Android |
 | Parti | [Link](https://gitlab.com/carsten_scholtes/parti) | A tool to help partitioning something into fractional parts |
 | RPNcalc | [Link](https://github.com/apesic/rpncalc) | A simple RPN (Reverse Polish Notation) calculator app built using Flutter |
+| Ruko | [Link](https://github.com/sheeroo/ruko) | Swipe to delete or keep photos in a Tinder-style UI. Helps clean your camera roll fast and in a fun way. |
 | SimplyTranslate Mobile | [Link](https://github.com/manerakai/simplytranslate_mobile) | Privacy friendly frontend to Google Translate |
 | TiefPrompt | [Link](https://github.com/Tiefseetauchner/tiefprompt) | Cross-platform teleprompter app |
 | Touch Torch | [Link](https://github.com/softcodingforyou/touchtorch) | Touch the screen and the light turns on |
@@ -376,6 +378,7 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 | Board Buddy | [Link](https://github.com/khlebobul/board_buddy) | Mobile app for tracking scores and rules in board games |
 | bounce_game            | [Link](https://github.com/Shadow60539/bounce_game)    | Bounce game  |
 | brain_punk             | [Link](https://github.com/animator/brain_punk)   | A Brain Story Game built using Flutter + Flame |
+| Cards | [Link](https://github.com/JLogical-Apps/cards) | A collection of classic card games with progressive difficulty levels, achievements, and customization options. |
 | Cards With Cats | [Link](https://github.com/dozingcat/cardswithcats) | Hearts and Spades card games |
 | chaldea | [Link](https://github.com/chaldea-center/chaldea) | Chaldea - Yet Another Material Planner and Battle Simulator for Fate/Grand Order aka FGO |
 | Club Penguin | [Link](https://github.com/Shadow60539/club_penguin_game) | A multiplayer game involving penguins and anonymous chat in a virtual 2D world. |
@@ -704,6 +707,7 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 | ClassiPod | [Link](https://github.com/adeeteya/Classipod) | A local music player app designed to capture the nostalgic essence of the iconic iPod Classic |
 | DJ Edertech App | [Link](https://gitlab.com/ederson-itabaiana/dj_edertech) | Immerse yourself in the nostalgic beats spanning various music genres |
 | Drip | [Link](https://github.com/spsden/drip) | A Youtube Music client for Desktop. (in Development) |
+| Echo MPD | [Link](https://github.com/rd6260/echo_mpd) | A beautiful, modern, and feature-rich mobile client for Music Player Daemon (MPD) |
 | finamp              | [Link](https://github.com/jmshrv/finamp)   | A Jellyfin music client for mobile  |
 | Flutter Music | [Link](https://github.com/o-ifeanyi/musicplayer) | A Flutter music player to play songs (mp3). |
 | Flutter Music Player | [Link](https://github.com/iampawan/Flutter-Music-Player) | Music player with audio plugin to play local music files. |
@@ -881,6 +885,7 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 | Sharp LH5801 | [Link](https://github.com/cbonello/lh5801) | Sharp LH5801 8-bit microprocessor emulator in Dart |
 | ShockAlarm | [Link](https://github.com/computerelite/shockalarmapp) | App for controlling and managing OpenShock devices |
 | Sensors Dashboard | [Link](https://github.com/umer0586/sensorserver) | A web app to test WebSocket connections with SensorServer in a web browser |
+| Tautulli Remote | [Link](https://github.com/Tautulli/Tautulli-Remote) | Tautulli companion app. |
 
 ### Weather
 
