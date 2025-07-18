@@ -790,6 +790,7 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 |:-----------|:------|:-------------|
 | BlueBubbles | [Link](https://github.com/BlueBubblesApp/bluebubbles-app) | A cross-platform app ecosystem, bringing iMessage to Android, PC (Windows, Linux, & even macOS), and Web! |
 | chatsen              | [Link](https://github.com/chatsen/chatsen)                 | Cross-platform Twitch Chat application with 3rd-party addon support! |
+| Cloudy | [Link](https://github.com/kmdshi/cloudy) | Encrypted messaging app with a custom cryptographic protocol |
 | DinoMail App | [Link](https://github.com/nanoy42/dinomail_app) | Mobile app for DinoMail |
 | Ejimo | [Link](https://github.com/albemala/emoji-picker) | Comprehensive emoji and symbol picker. |
 | ESSE                 | [Link](https://github.com/CympleTech/ESSE)                 | Encrypted peer-to-peer IM for data security. Own data, own privacy. (Rust+Flutter) |
