@@ -808,6 +808,7 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 | Syphon | [Link](https://github.com/syphon-org/syphon) | A privacy centric matrix client  |
 | Talktive | [Link](https://github.com/gnowoel/talktive) | An anonymous group chat app for safely talking to strangers. |
 | Twake Chat Client | [Link](https://github.com/linagora/twake-on-matrix) | Decentralized chat app based on the Matrix protocol |
+| Vidar | [Link](https://github.com/DrSolidDevil/Vidar) | End-to-end encrypted SMS app utilizing AES256 encryption. |
 | Whatsapp Clone | [Link](https://github.com/YerikAH/whatsapp-clone) | A UI clone of WhatsApp. |
 | WhatsApp Contacts Adder | [Link](https://github.com/amr-jawwad/whatsapp_contact_adder) | Allows users to add WhatsApp contacts, without giving WhatsApp access to their contacts |
 | zulip-flutter        | [Link](https://github.com/zulip/zulip-flutter)             | Future Zulip client using Flutter  |
