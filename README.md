@@ -278,6 +278,8 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 | Working Time Alert | [Link](https://github.com/spidgorny/workingtimealert) | Working time alert. Never miss the time to go home. |
 | Xournal++ | [Link](https://gitlab.com/theonewiththebraid/xournalpp_mobile) | https://xournal.online/ A port of the main features of Xournal++ to various Flutter platforms like Android, iOS and the Web. |
 | Yet another Todo Application | [Link](https://github.com/rohithgilla12/yata) | Yet another Todo Application |
+| FlipCard | [Link](https://github.com/fiqryx/flipcard) | A modern learning companion for effective memorization |
+| ToDay | [Link](https://github.com/fiqryx/to-day) | A minimalist daily task manager |
 
 ### Tools & Utilities
 
