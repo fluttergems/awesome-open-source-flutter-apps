@@ -234,6 +234,7 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 | DeadlinesApp | [Link](https://github.com/emmanuelmess/deadlinesapp) | A simple app for keeping track of deadlines |
 | Deer | [Link](https://github.com/aleksanderwozniak/deer) | Minimalist Flutter Todo App, built using BLoC pattern |
 | Everyday Tasks | [Link](https://github.com/jenspfahl/everydaytasks) | Track, log and schedule your everyday tasks. |
+| FlipCard | [Link](https://github.com/fiqryx/flipcard) | A modern learning companion for effective memorization |
 | flutter_notes_app          | [Link](https://github.com/31Carlton7/flutter_notes_app)             | Note taking app. |
 | Flutter-Pomodoro           | [Link](https://github.com/wilsonowilson/Flutter-Pomodoro)           | A complete pomodoro app for MacOS. |
 | GitJournal | [Link](https://github.com/gitjournal/gitjournal) | Mobile first Note Taking integrated with Git |
@@ -270,6 +271,7 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 | Time Cop | [Link](https://github.com/hamaluik/timecop) | A privacy first time tracking app. |
 | Time Tracking | [Link](https://github.com/bizz84/starter_architecture_flutter_firebase) | Time Tracking app with Flutter & Firebase. |
 | tmail-flutter              | [Link](https://github.com/linagora/tmail-flutter)                   | A multi-platform application for reading your emails, with your favorite devices, using the JMAP protocol! |
+| ToDay | [Link](https://github.com/fiqryx/to-day) | A minimalist daily task manager |
 | Todoey | [Link](https://github.com/Coffee-Expert/Todoey) | A simple To-do app. |
 | Tomo | [Link](https://github.com/k7d/tomo) | Pomodoro timer for MacOS |
 | Virlow Flutter Recorder | [Link](https://github.com/virlow-voice/virlow-flutter-recorder) | An app that transcribes recorded audio and includes a text editor for editing/adding notes. |
@@ -278,8 +280,6 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 | Working Time Alert | [Link](https://github.com/spidgorny/workingtimealert) | Working time alert. Never miss the time to go home. |
 | Xournal++ | [Link](https://gitlab.com/theonewiththebraid/xournalpp_mobile) | https://xournal.online/ A port of the main features of Xournal++ to various Flutter platforms like Android, iOS and the Web. |
 | Yet another Todo Application | [Link](https://github.com/rohithgilla12/yata) | Yet another Todo Application |
-| FlipCard | [Link](https://github.com/fiqryx/flipcard) | A modern learning companion for effective memorization |
-| ToDay | [Link](https://github.com/fiqryx/to-day) | A minimalist daily task manager |
 
 ### Tools & Utilities
 
