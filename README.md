@@ -378,7 +378,7 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 | Board Buddy | [Link](https://github.com/khlebobul/board_buddy) | Mobile app for tracking scores and rules in board games |
 | bounce_game            | [Link](https://github.com/Shadow60539/bounce_game)    | Bounce game  |
 | brain_punk             | [Link](https://github.com/animator/brain_punk)   | A Brain Story Game built using Flutter + Flame |
-| Cards | [Link](https://github.com/JLogical-Apps/cards) | A collection of classic card games with progressive difficulty levels, achievements, and customization options. |
+| Cards | [Link](https://github.com/JLogical-Apps/cards) | A collection of classic card games with progressive difficulty levels & achievements |
 | Cards With Cats | [Link](https://github.com/dozingcat/cardswithcats) | Hearts and Spades card games |
 | chaldea | [Link](https://github.com/chaldea-center/chaldea) | Chaldea - Yet Another Material Planner and Battle Simulator for Fate/Grand Order aka FGO |
 | Club Penguin | [Link](https://github.com/Shadow60539/club_penguin_game) | A multiplayer game involving penguins and anonymous chat in a virtual 2D world. |
