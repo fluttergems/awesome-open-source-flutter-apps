@@ -310,7 +310,6 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 | Orgro | [Link](https://github.com/amake/orgro) | An Org Mode file viewer for iOS and Android |
 | Parti | [Link](https://gitlab.com/carsten_scholtes/parti) | A tool to help partitioning something into fractional parts |
 | RPNcalc | [Link](https://github.com/apesic/rpncalc) | A simple RPN (Reverse Polish Notation) calculator app built using Flutter |
-| Ruko | [Link](https://github.com/sheeroo/ruko) | Swipe to delete or keep photos in a Tinder-style UI. Helps clean your camera roll fast and in a fun way. |
 | SimplyTranslate Mobile | [Link](https://github.com/manerakai/simplytranslate_mobile) | Privacy friendly frontend to Google Translate |
 | TiefPrompt | [Link](https://github.com/Tiefseetauchner/tiefprompt) | Cross-platform teleprompter app |
 | Touch Torch | [Link](https://github.com/softcodingforyou/touchtorch) | Touch the screen and the light turns on |
@@ -358,6 +357,7 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 | photobooth       | [Link](https://github.com/flutter/photobooth)              | Google I/O 2021 Photo Booth built with Flutter and Firebase  |
 | PicGuard | [Link](https://github.com/picguard/picguard) | Secure & customize your digital photos by adding watermarks to your images |
 | pstube           | [Link](https://github.com/prateekmedia/pstube)             | Watch and download videos without ads |
+| Ruko | [Link](https://github.com/sheeroo/ruko) | Helps clean your camera roll via Swipe to delete or keep photos in a Tinder-style UI |
 | Snap Saver | [Link](https://github.com/nielslee/snapsaver) | A camera app that makes it easier to take photos for selected albums or directories |
 | Yaga | [Link](https://github.com/vauvenal5/yaga) | Nextcloud Yaga - A Nextcloud first gallery app for Android. |
 
