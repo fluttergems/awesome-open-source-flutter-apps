@@ -103,6 +103,7 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 | Open Alert Viewer | [Link](https://github.com/leaf-node/open_alert_viewer) | Display server and network alerts from servers running Prometheus, Nagios, Icinga or Zabbix |
 | Simple ChatGPT | [Link](https://github.com/SnowStar0423/ChatGPT-Flutter-App) | ChatGPT like app in Flutter |
 | Story Generator | [Link](https://github.com/Lord-Chris/story-generator) | A mobile app that generates random stories based on user input using Google Generative AI |
+| VertexAI Flutter Demo | [Link](https://github.com/suesitran/vertexai_demo) | A tiny demo project that shows how to use Vertex AI in Firebase in Flutter application |
 
 ### Personal Finance
 
