@@ -681,7 +681,7 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 | Wispar | [Link](https://github.com/scriptbash/wispar) | Stay up-to-date with academic journals and the latest research articles |
 | words.hk | [Link](https://github.com/alienkevin/wordshk_app) | An open Cantonese dictionary for iOS and Android |
 | Wuxia Learn | [Link](https://github.com/wuxialearn/wuxialearn) | A free and open source Chinese language learning app |
-| StudyHelp | [Link](https://github.com/jay-sharmaa/studyhelp) | An app which creates flowchart of your code with help from python graphviz|
+| StudyHelp | [Link](https://github.com/jay-sharmaa/studyhelp) | An app which creates flowchart of your code with help from python graphviz |
 
 ### Graphics & Design
 
