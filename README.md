@@ -345,6 +345,7 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 
 | Project    | Repo  | Description  |
 |:-----------|:------|:-------------|
+| Editnest Canvas Editor | [Link](https://github.com/arinagrawal05/editnest_editor) | Open source image editing app for Android/iOS. |
 | Aves Libre | [Link](https://github.com/deckerst/aves) | Aves is a gallery and metadata explorer app, built for Android with Flutter. |
 | Blink Comparison | [Link](https://github.com/proninyaroslav/blink-comparison) | Simplifies comparing photos of tamper-evident seals and patterns using your eyes |
 | Cloud Gallery | [Link](https://github.com/canopas/cloud-gallery) | Have all your photos/videos on any cloud at anytime! Powered by Firebase |
