@@ -701,6 +701,7 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 
 | Project    | Repo  | Description  |
 |:-----------|:------|:-------------|
+| retune music | [Link](https://github.com/samvabya/retune) | Listen to your favourite music all day with no ads, no signups, no paywalls, with Vibrant UI. |
 | AI Radio | [Link](https://github.com/AadrianLeo/AI-Radio-App) | Radio application with an AI assistant to play, stop, search songs by categories. |
 | Anytime Podcast Player | [Link](https://github.com/amugofjava/anytime_podcast_player) | Simple, easy to use Podcast player app |
 | Bide et Musique | [Link](https://github.com/odrevet/bide_et_musique_flutter) | Listen to and access the web radio 'Bide and Music' |
