@@ -334,6 +334,7 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 | Rivia | [Link](https://github.com/loooltooot/rivia) | Rivia is the unique encryption tool |
 | RSA Encryption | [Link](https://github.com/vellt/RSA-Encryption-Flutter) | Encryption based on asymmetric cryptography. |
 | Safe Notes | [Link](https://github.com/keshav-space/safenotes) | Safe Notes is a security project aimed at providing an encrypted, private note manager that works locally and protects notes from various threat actors. |
+| SavePass | [Link](https://github.com/judatop/savepass)  | Password manager built with Flutter + Supabase |
 | Secur | [Link](https://gitlab.com/SphericalKat/secur) | A FOSS, cross-platform TOTP client written in Flutter with the aim of providing a beautiful UI. |
 | Securify | [Link](https://github.com/ishanrakte/securify) | A password manager application with three layers of security. The app stores the passwords in a local database in an encrypted format.  Also, there is biometric verification(Fingerprint) whenever the app opens. |
 | SelfPrivacy | [Link](https://git.selfprivacy.org/kherel/selfprivacy.org.app) | SelfPrivacy — is a platform on your cloud hosting, that allows to deploy your own private services and control them using mobile application |
