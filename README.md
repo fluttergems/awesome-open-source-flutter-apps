@@ -93,7 +93,7 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 | Project    | Repo  | Description  |
 |:-----------|:------|:-------------|
 | AI Assistant App | [Link](https://github.com/HarshAndroid/Ai-Assistant-In-Flutter-Using-ChatGpt) | AI Chatbot, Image Generator & Language Translator App |
-| AI Assistant Flutter | [Link](https://github.com/SheershBhatnagar/AI-Assistant---Flutter) | A mobile app that offers users an interactive digital assistant using ChatGPT and DALL-E API |
+| AI Assistant | [Link](https://github.com/SheershBhatnagar/AI-Assistant) | A mobile app that offers users an interactive digital assistant using ChatGPT and DALL-E API |
 | ai_buddy  | [Link](https://github.com/yatendra2001/ai_buddy)               | Your personal free-to-use AI assistant, built with gemini & flutter |
 | aidea     | [Link](https://github.com/mylxsw/aidea)                        | AIdea supports GPT and domestic LLMs Tongyi Qianwen, Wenxinyiyan, etc., and supports Stable Diffusion Wenshengtu, Tushengtu, SDXL1.0, super-resolution, and picture coloring. |
 | ChatGPT Client | [Link](https://github.com/softjapan/flutter_chatgpt) | ChatGPT Client with LINE-Style UI Built with Flutter and Riverpod |
