@@ -165,7 +165,7 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 | Invoice Ninja            | [Link](https://github.com/invoiceninja/admin-portal)             | Invoice Ninja: Desktop/mobile admin portal |
 | Invoice Pdf | [Link](https://github.com/sabikrahat/invoice_pdf_generate) | App to generate invoices in PDF format |
 | MiGo POS Software | [Link](https://github.com/poslevel/migo) | A POS Software that works everywhere seamlessly |
-| MPoS | [Link](https://github.com/kiks12/mpos-flutter) | Mobile Point of Sale System for Four Angels Retail  |
+| MPoS | [Link](https://github.com/kiks12/mpos-flutter) | Mobile Point of Sale System for Four Angels Retail Shop |
 | okane | [Link](https://gitlab.com/wolfenrain/okane) | okane is an unnecessarily complicated and over-engineered invoice generator. |
 | Peercoin | [Link](https://github.com/peercoin/peercoin_flutter) | Light Peercoin wallet written in Flutter, deployable on Android, iOS and Web. |
 | POS System | [Link](https://github.com/evan361425/flutter-pos-system) | An open source Flutter POS system (ordering system) with users. |
@@ -505,7 +505,7 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 | Food Delivery App UI | [Link](https://github.com/Tarikul711/flutter-food-delivery-app-ui) | Food ordering & delivery application UI. |
 | Infusion Tea Timer | [Link](https://github.com/sesu8642/infusiontimer) | Tea timer for Gong Fu and western style brewing for true enthusiasts. |
 | keiko_food_reviews             | [Link](https://github.com/JediPixels/keiko_food_reviews) | Keiko Food Reviews App |
-| KitchenOwl                     | [Link](https://github.com/TomBursch/kitchenowl) | KitchenOwl is a self-hosted grocery list and recipe manager. Easily add items to your ping list before you go ping. You can also create recipes and add items based on what you want to cook.  |
+| KitchenOwl                     | [Link](https://github.com/TomBursch/kitchenowl) | KitchenOwl is a self-hosted grocery list and recipe manager. Easily add items to your shopping list before you go shopping. You can also create recipes and add items based on what you want to cook.  |
 | Nextcloud Cookbook | [Link](https://github.com/teifun2/nextcloud-cookbook-flutter) | Flutter Project for the nextcloud plugin "cookbook" |
 | Open Food Facts | [Link](https://github.com/openfoodfacts/smooth-app) | App to scan, discover & compare over 3 million food products. |
 | OpenCanteen | [Link](https://git.mnau.xyz/hernik/opencanteen) | OpenCanteen is an alternative free open-source client for the iCanteen food ordering system |
