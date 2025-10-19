@@ -183,6 +183,7 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 | Butterfly | [Link](https://github.com/LinwoodDev/Butterfly) | Powerful, minimalistic, cross-platform, opensource note-taking app |
 | Clock | [Link](https://github.com/creativecreatorormaybenot/clock) | A clock app that uses exclusively the Flutter Canvas to draw everything you see on screen. |
 | Daily Diary | [Link](https://github.com/voklen/daily-diary) | An app to create a diary entry every day |
+| Daily You | [Link](https://github.com/demizo/daily_you) | Log your thoughts, track your mood, and keep a diary of meaningful moments, every day |
 | Diary | [Link](https://github.com/bennyboer/diary) | Digital diary with state-of-the-art encryption |
 | Deep Waste | [Link](https://github.com/sumn2u/deep-waste-app) | Managing waste in fun and easy way with AI. |
 | EcoMateSG | [Link](https://github.com/jicsontoh/EcoMateSG) | EcoMateSG helps users make environmentally conscious choices and adopt a sustainable lifestyle. |
@@ -646,6 +647,7 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 | Better schedule | [Link](https://github.com/larvenstein/better-stundenplan) | A better client for virtual-hour schedule.org |
 | brainjogging | [Link](https://github.com/fkropfhamer/brainjogging) | An application to train your brain. |
 | CircuitVerse Mobile | [Link](https://github.com/circuitverse/mobile-app) | Mobile App for CircuitVerse |
+| Ciyue | [Link](https://github.com/mumu-lhl/ciyue) | A mdict dictionary with Android support |
 | Cloudmate | [Link](https://github.com/lambiengcode/cloudmate-classroom-flutter) | An open-source online learning platform. |
 | Cocola James | [Link](https://github.com/aratheunseen/flutter-cocola-james-game) | An educational game that gives a brief overview of James Webb Space Telescope. |
 | CodeQuizzy | [Link](https://github.com/iamnijat/code-quizzy) | App to learn programming concepts using game-like challenges. |
@@ -660,23 +662,23 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 | freeCodeCamp | [Link](https://github.com/freeCodeCamp/mobile)   | freeCodeCamp's open-source mobile app  |
 | fujiten | [Link](https://github.com/odrevet/fujiten) | Fujiten is a Japanese dictionary application |
 | Fun With Kanji | [Link](https://github.com/krille-chan/fun-with-kanji) | Simple Flutter app to learn Japanese writing systems Hiragana, Katakana and Kanji. |
+| GPA Calculator | [Link](https://github.com/mllrr96/gpa-calculator) | Helps AUIS students calculate their GPA based on letter grades and credit hours |
 | Graded | [Link](https://github.com/nightdreamgames/graded) | Graded - Grade Tracker |
 | hamfisted | [Link](https://github.com/specht/hamfisted) | With this app you can prepare for the amateur radio exam for classes E and A. Practice all the questions and keep track of your progress. |
 | Human Benchmark | [Link](https://github.com/printn/human-benchmark) | Mobile app designed to test and improve cognitive abilities through a series of fun and challenging tests |
+| Java OOP Quiz | [Link](https://github.com/aliakrem/oopquiz) | Test and improve Object-Oriented Programming (OOP) concepts in Java |
 | JS-Dict | [Link](https://github.com/petlyh/js-dict) | Japanese-English dictionary app powered by Jisho.org |
 | Kepler-App | [Link](https://github.com/antonioalbt/kepler_app) | The ultimate overview app for all JKG students, parents and teachers |
 | lanelexicon | [Link](https://github.com/gibreelabdullah/lanelexicon) | Lane's Lexicon - An Arabic English Dictionary |
 | LogicalDefence | [Link](https://github.com/lukestonehm/logicaldefence) | Displays a list of the logical fallacies that haunt every rationalists world |
 | MatheBuddy | [Link](https://github.com/mathebuddy/mathebuddy) | A gamified learning app for higher math. |
 | Mathematics | [Link](https://github.com/j-j-gajjar/mathematics) | Mathematics Flutter offers a collection of mathematical functions and supports generation of MCQs, QnA PDFs & quizzes. |
-| Ciyue | [Link](https://github.com/mumu-lhl/ciyue) | A mdict dictionary with Android support |
 | NATINFo | [Link](https://codeberg.org/retiolus/natinfo_flutter) | Search and consult the current violations of the NATINF nomenclature |
 | Nihonoari | [Link](https://github.com/aeri/nihonoari-app) | A little and minimalist Japanese Kana training |
 | Notely | [Link](https://github.com/thilojaeggi/notely) | A cross-platform mobile client for the Kaschuso (schulnetz) School platform.  |
 | O̍h Tâi Gí | [Link](https://github.com/hschueh/oh_tai_gi) | A Taiwanese (tâi-gí) learning app inspired by moedict & quizlet. |
 | oj_helper | [Link](https://github.com/2754lm/oj_helper) | An app for looking up Online Judge information |
 | Onyx | [Link](https://github.com/onyx-lyon1/onyx) | The app for Universite Claude Bernard |
-| Java OOP Quiz | [Link](https://github.com/aliakrem/oopquiz) | Test and improve Object-Oriented Programming (OOP) concepts in Java |
 | OpenUSOS | [Link](https://github.com/openusos/openusos) | Unofficial USOS app, for students in Poland |
 | OpSo | [Link](https://github.com/andoriyaprashant/OpSo) | OpSo provides information about various open-source programs like GSoC, Summer of Bitcoin, etc. |
 | Orientation | [Link](https://github.com/matthewtory/trinity-orientation-2018) | An app for orientation week at Trinity College, University of Toronto. |
@@ -704,6 +706,7 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 | Color Studio | [Link](https://github.com/bernaferrari/color-studio) | Build coherent and accessible themes with the right colors. |
 | Font Gallery | [Link](https://github.com/adeeteya/fontgallery) | Display how different fonts families and their variations look |
 | Let's Draw | [Link](https://github.com/jideguru/flutter_drawing_board) | A simple drawing app made with Flutter |
+| Minis companion | [Link](https://gitlab.com/devauxcedric/miniature-painting-companion) | Helps miniature painters keep track of their painting recipes |
 | Mooltik | [Link](https://github.com/ruskakimov/mooltik) | Mobile app for drawing 2D animation |
 | Paint Redesigned | [Link](https://github.com/maheshmnj/paint-redesigned) | A flutter Desktop App to do free drawing on the canvas.  |
 | Paintroid | [Link](https://github.com/Catrobat/Paintroid-Flutter) | Graphical paint editor application that allows setting parts of pictures to transparent. |
@@ -739,7 +742,8 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 | Meloplay | [Link](https://github.com/ShokhrukhbekYuldoshev/Meloplay) | Meloplay is a local music player app that plays music from your device built with Flutter. |
 | Mightier Amp | [Link](https://github.com/tuntorius/mightier_amp) | An alternative app for controlling NUX Mighty amps. |
 | mucke | [Link](https://github.com/moritz-weber/mucke) | mucke - android music player |
-| Music Player | [Link](https://github.com/joec05/pocket-music-player) | Music player app made with Flutter. |
+| Music Player | [Link](https://github.com/joec05/pocket-music-player) | Music player app |
+| Musicore | [Link](https://github.com/mlm-games/musicore-libre) | MusicXML viewer for android |
 | MusicPiped | [Link](https://github.com/deep-gaurav/musicpiped) | A Materialistic Music player that streams music |
 | Musicpod | [Link](https://github.com/ubuntu-flutter-community/musicpod) | Music, radio, television and podcast player for Ubuntu, Windows, MacOs and Android |
 | Musify              | [Link](https://github.com/gokadzev/Musify)  | Unlock the full potential of music: Stream effortlessly with one app! |
@@ -901,6 +905,7 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 | My Leaf | [Link](https://gitlab.com/tobiaswkjeldsen/carwingsflutter) | My Leaf is a simple, striving to be great looking, and fast alternative to the official NissanConnect app(s) from Nissan. |
 | OpenWrt Manager | [Link](https://github.com/hagaygo/openwrtmanager) | Mobile app for interacting with your OpenWrt device |
 | Osram remote | [Link](https://github.com/talkingpanda0/osram-remote) | Android app for controlling Osram RGB lights using infrared |
+| PSLab | [Link](https://github.com/fossasia/pslab-app) | Perform experiments with the Pocket Science Lab open-hardware platform |
 | Sharp LH5801 | [Link](https://github.com/cbonello/lh5801) | Sharp LH5801 8-bit microprocessor emulator in Dart |
 | ShockAlarm | [Link](https://github.com/computerelite/shockalarmapp) | App for controlling and managing OpenShock devices |
 | Sensors Dashboard | [Link](https://github.com/umer0586/sensorserver) | A web app to test WebSocket connections with SensorServer in a web browser |
