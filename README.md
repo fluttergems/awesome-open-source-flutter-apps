@@ -128,6 +128,7 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 | Receipt manager | [Link](https://github.com/ReceiptManager/receipt-manager-app) | Receipt parser application written in dart. |
 | Sossoldi | [Link](https://github.com/RIP-Comm/sossoldi) | Sossoldi is a free and open source wealth management / personal finance / Net Worth tracking app |
 | Venom | [Link](https://github.com/navirobayo/venom) | App to keep track of the fuel consumption and expenses of your vehicles. |
+| Waterfly III | [Link](https://github.com/dreautall/waterfly-iii) | Unofficial Android App for Firefly III, a free and open source personal finance manager |
 
 ### Web3 & Crypto
 
@@ -307,6 +308,7 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 | Keyviz | [Link](https://github.com/softwarearchitect817/keyviz) | Let your audience know what handy shortcuts/keys you're pressing during screencasts, presentations, collaborations, or whenever you need it. |
 | limpazap | [Link](https://github.com/lucasew/limpazap) | Clean up Whatsapp backups |
 | Logger | [Link](https://github.com/sanmeet007/logger) | Android app to view and export call logs in CSV or JSON format and perform lightweight on-device analysis |
+| Markdown Editor | [Link](https://github.com/adeeteya/fluttermarkdowneditor) | Create and edit markdown files with ease |
 | Mint Calculator | [Link](https://github.com/boredcodebyk/mintcalc) | A simple calculator and unit converter app with Material Design 3 inspired by Windows Calculator |
 | Neumorphic Calculator | [Link](https://github.com/mllrr96/neumorphic-calculator) | An elegant and highly customizable calculator app with a beautiful neumorphic design. |
 | Nyrna | [Link](https://github.com/Merrit/nyrna) | Suspend games and applications. |
@@ -554,26 +556,28 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 | blood pressure app | [Link](https://github.com/nobodyfornothing/blood-pressure-monitor-fl) | A cross platform app to save blood pressure values with export function |
 | Calm Attack | [Link](https://github.com/FatoomRe/Calm-Attack) | Helps manage panic attacks by providing a range of exercises to help them calm their mind and body. |
 | Calodiary | [Link](https://git.justquitstudios.de/marco/calorimeter) | Diary for your calorie intake |
+| Compete | [Link](https://codeberg.org/epinez/compete) | Create challenges, invite friends, and compete against the public or in private | 
 | Energize | [Link](https://codeberg.org/epinez/energize) | Track your food and nutrition easily and fast |
 | ExHale | [Link](https://codeberg.org/retiolus/exhale) | Quit Smoking App |
 | Feeel | [Link](https://gitlab.com/enjoyingfoss/feeel) | A cross-platform Flutter home workout app that respects your privacy |
 | FitBook | [Link](https://github.com/brandonp2412/fitbook) | Track your eating habits and visualize your progress with intuitive graphs, all completely offline |
 | Flexify | [Link](https://github.com/brandonp2412/flexify) | Track your gym progress - Completely offline! |
-| Flutter-Steps-Tracker      | [Link](https://github.com/TarekAlabd/Flutter-Steps-Tracker)      | It's an open source project for the steps tracking (Pedometer) built with Flutter. |
+| Flutter-Steps-Tracker      | [Link](https://github.com/TarekAlabd/Flutter-Steps-Tracker) | Open source project for the steps tracking (Pedometer) |
 | FlutterBMI | [Link](https://github.com/jaysavsani07/FlutterBMI) | A BMI calculator app |
-| GripGuide | [Link](https://github.com/POLYTALON/climbing-gym-app) | An app for gyms and climbers to manage routes, track progress, and stay updated with gym news. |
+| GripGuide | [Link](https://github.com/POLYTALON/climbing-gym-app) | An app for gyms and climbers to manage routes, track progress, and stay updated with gym news |
 | Just Another Workout Timer | [Link](https://github.com/blockbasti/just_another_workout_timer) | A simple timer for your workouts, built with Flutter! |
-| LifeSync | [Link](https://github.com/Utku-Mese/LifeSync) | App that allows users to track important factors such as nutrition, sports and water consumption. |
-| MigraineLog | [Link](https://gitlab.com/mglog/org.zerodogg.migraineLog) | A simple multi-platform headache diary, written in dart using the flutter framework. |
-| OpenHIIT | [Link](https://github.com/a-mabe/OpenHIIT) | A cross platform HIIT and Tabata interval timer mobile application. |
-| OpenNutriTracker | [Link](https://github.com/simonoppowa/OpenNutriTracker) | A calorie tracker to simplify nutritional tracking and management. |
-| QuitSmoke | [Link](https://github.com/trizin/Quit-Smoke-App) | An app to help you quit smoking. |
-| Spartathlon | [Link](https://gitlab.com/thgoebel/spartathlon) | This app aims to help athletes, supporters and volunteers during the ultra distance race Spartathlon. |
+| LifeSync | [Link](https://github.com/Utku-Mese/LifeSync) | App that allows users to track important factors such as nutrition, sports and water consumption |
+| MigraineLog | [Link](https://gitlab.com/mglog/org.zerodogg.migraineLog) | A simple multi-platform headache diary |
+| OpenHIIT | [Link](https://github.com/a-mabe/OpenHIIT) | A cross platform HIIT and Tabata interval timer mobile application |
+| OpenNutriTracker | [Link](https://github.com/simonoppowa/OpenNutriTracker) | A calorie tracker to simplify nutritional tracking and management |
+| QuitSmoke | [Link](https://github.com/trizin/Quit-Smoke-App) | An app to help you quit smoking |
+| Quitter | [Link](https://github.com/brandonp2412/quitter) | Give up on addictions and become a Quitter |
+| Spartathlon | [Link](https://gitlab.com/thgoebel/spartathlon) | This app aims to help athletes, supporters and volunteers during the ultra distance race Spartathlon |
 | Sunrise Signal | [Link](https://github.com/avizitrx/sunrise_signal) | Track and understand morning wood to gain better health insights |
-| Track My Indoor Workout | [Link](https://github.com/TrackMyIndoorWorkout/TrackMyIndoorWorkout) | An app for recording stationary workouts of smart fitness machines via BLE protocol. |
+| Track My Indoor Workout | [Link](https://github.com/TrackMyIndoorWorkout/TrackMyIndoorWorkout) | An app for recording stationary workouts of smart fitness machines via BLE protocol |
 | trale | [Link](https://github.com/quantumphysique/trale) | trale – a simple body weight diary app respecting your privacy |
 | Watermaniac | [Link](https://github.com/artur-ios-dev/watermaniac) | A hydration tracking app that helps you track the amount of water you drink |
-| Wger Workout Manager | [Link](https://github.com/wger-project/flutter) | A digital health and fitness tracker app. |
+| Wger Workout Manager | [Link](https://github.com/wger-project/flutter) | A digital health and fitness tracker app |
 | Workout Time | [Link](https://gitlab.com/ideotec/workouttime) | An app for managing and performing timed workouts |
 | Workout Tracker | [Link](https://github.com/jerichoi224/workouttracker) | An app to record and track workout routines |
 
@@ -1065,6 +1069,7 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 | Locus | [Link](https://github.com/myzel394/locus) | Share your location end-to-end encrypted on decentralized servers using Nostr. |
 | Pareu de Parar-me | [Link](https://gitlab.com/pareudepararme/pareu-de-pararme-map) | Report racist actuation in Barcelona |
 | penhas-app | [Link](https://github.com/institutoazmina/penhas-app) | Source code of the PenhaS Mobile App  |
+| PrepApp | [Link](https://github.com/v1n1v131r4/prepapp) | Helps people prepare and react in emergency situations |
 | Trovami | [Link](https://github.com/samaritan1011001/trovami) | A live location sharing app built on Flutter and Firebase as backend |
 | You | [Link](https://github.com/MDSADABWASIM/You) | The app to check what internet knows about you. |
 
