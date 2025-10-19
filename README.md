@@ -504,7 +504,6 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 | Cuppa | [Link](https://github.com/ncosgray/cuppa_mobile) | A simple tea timer app for Android and iOS built with Flutter. |
 | deliverzler                    | [Link](https://github.com/AhmedLSayed9/deliverzler) | Delivery App for Restaurants built on Flutter using Domain-Driven Design (DDD) and Layered Architecture along with Riverpod Framework.  |
 | Firestaurant | [Link](https://github.com/DyNamite-TNT-1/restaurant_flutter) |  Front end for restaurant management. |
-| Flask | [Link](https://github.com/computersciencehouse/devin) | A cute little Flutter app you can use to order items from the Computer Science House vending machines! |
 | Flutter-Delivery-App | [Link](https://github.com/Frave07/Flutter-Delivery-App) | A food delivery app. |
 | Food Delivery App UI | [Link](https://github.com/Tarikul711/flutter-food-delivery-app-ui) | Food ordering & delivery application UI. |
 | Infusion Tea Timer | [Link](https://github.com/sesu8642/infusiontimer) | Tea timer for Gong Fu and western style brewing for true enthusiasts. |
