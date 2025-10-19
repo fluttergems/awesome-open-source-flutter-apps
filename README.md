@@ -286,6 +286,7 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 | WD Notes | [Link](https://gitlab.com/ideotec/wdnotes) | A note-taking app that syncs with WebDAV |
 | WhatTodo | [Link](https://github.com/burhanrashid52/whattodo) | A Simple Todo app design in Flutter to keep track of your task on daily basis. Its build on BLoC Pattern |
 | Working Time Alert | [Link](https://github.com/spidgorny/workingtimealert) | Working time alert. Never miss the time to go home. |
+| WHPH - Work Hard Play Hard | [Link](https://github.com/ahmet-cetinkaya/whph) | Helps you manage tasks, develop new habits, and optimize your time |
 | Xournal++ | [Link](https://gitlab.com/theonewiththebraid/xournalpp_mobile) | https://xournal.online/ A port of the main features of Xournal++ to various Flutter platforms like Android, iOS and the Web. |
 | Yet another Todo Application | [Link](https://github.com/rohithgilla12/yata) | Yet another Todo Application |
 
@@ -305,7 +306,7 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 | Digital Calculator | [Link](https://github.com/adeeteya/digitalcalculator) | Digital calculator which has keyboard support (external bluetooth keyboard) |
 | dpc | [Link](https://github.com/jakubslaby09/dpc) | An open-source app for writing a family pedigree with a chronicle using Git |
 | Emotic | [Link](https://github.com/futuristicgoo/emotic) | Show a list of emoticons which can be copied to clipboard for any use |
-| Floating Volume | [Link](https://github.com/mkalmousli/FloatingVolume) | Control your device’s volume with a floating slider on Android. |
+| Floating Volume | [Link](https://github.com/mkalmousli/floatingvolume) | Control your device’s volume with a floating slider on Android. |
 | Frigoligo | [Link](https://github.com/casimir/frigoligo) | A wallabag client to take your links anywhere and keep them fresh! |
 | Gopeed | [Link](https://github.com/GopeedLab/gopeed) | A modern download manager that supports all platforms |
 | Holidayz | [Link](https://github.com/paskozhelev/holidayz-app) | Stay Ahead with Global Public Holidays & Regional Days Off |
@@ -325,6 +326,7 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 | TiefPrompt | [Link](https://github.com/Tiefseetauchner/tiefprompt) | Cross-platform teleprompter app |
 | Touch Torch | [Link](https://github.com/softcodingforyou/touchtorch) | Touch the screen and the light turns on |
 | Type | [Link](https://github.com/jeffsieu/type) | A typing test |
+| WebLibre | [Link](https://github.com/fafre/weblibre) | Privacy-Focused Browser. Browse privately, search locally. Organize tabs, block tracking, and use Tor. |
 
 ### Password, Encryption & Security
 
@@ -381,6 +383,7 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 | 2048 | [Link](https://github.com/shubhexists/2048) |2048 game. |
 | Ahorcado | [Link](https://github.com/webierta/ahorcandroid) | Spanish Hangman |
 | Ant Squash | [Link](https://github.com/sourabhgupta811/ant-squash) | 2D game on Flutter. Made with Flame game engine. |
+| Antimine | [Link](https://github.com/lucasnlm/antimine-flutter) | Minesweeper-like puzzle game |
 | Arcade Plaza | [Link](https://github.com/aryamangodara/Arcade-Plaza) | App that let's you play free more than 55 games for free. |
 | BananaMon | [Link](https://github.com/hotstu/flutter_BananaMon) | A bombman-like game. |
 | Basketball Game | [Link](https://github.com/enoch-aik/basketball_game) | A Basketball game developed using Flame. |
@@ -454,6 +457,7 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 | Sober Driver | [Link](https://github.com/maurovanetti/guidi-tu) | A game to select who drives tonight, and who drinks instead |
 | Space-Empires          | [Link](https://github.com/SatyamX64/Space-Empires)  | Space Themed Turn-Based Strategy Game |
 | Spacecape | [Link](https://github.com/ufrshubham/spacescape) | A 2D top-down space shooter made using Flutter and Flame engine. |
+| Square Shooter | [Link](https://github.com/namzug16/squareshooter_flame)  | Re-implementation of the original Square Shooter using Flame |
 | Sudaku | [Link](https://codeberg.org/theoden8/sudaku) | Solve sudoku by creating rules |
 | Sudoku | [Link](https://github.com/thesuncat/sudoku) | FOSS Sudoku |
 | Sudoku (benoitharrault) | [Link](https://git.harrault.fr/android/org.benoitharrault.sudoku) | Sudoku |
@@ -526,6 +530,7 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 | Explr | [Link](https://github.com/Project-Easter/Flutter-UI) | Explr provides a platform for users to know what their friends are reading and exchange books with them, along with knowing which book is the talk of the town. |
 | FlutterEbookApp | [Link](https://github.com/JideGuru/FlutterEbookApp) | A simple Flutter app to Read and Download eBooks. |
 | LibGen | [Link](https://github.com/manuelvargastapia/libgen_mobile_app) | This is a unoffical mobile client for Library Genesis service.  |
+| Libre Librivox Listener | [Link](https://gitlab.com/libre-librivox-listener/libre-librivox-listener) | Listen to LibriVox audiobooks |
 | Libro | [Link](https://github.com/infiniteoverflow/Libro) | An app to share books with people around us |
 | Openreads | [Link](https://github.com/mateusz-bak/openreads) | An app to keep track of your books. |
 | Openlib | [Link](https://github.com/dstark5/Openlib) | App to download and read books from shadow library (Anna’s Archive). |
@@ -693,6 +698,7 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 | TubeCards             | [Link](https://github.com/friebetill/TubeCards)   | TubeCards - Cross-platform Spaced Repetition App |
 | Toughest | [Link](https://github.com/MDSADABWASIM/Toughest) | An app for interview preparation |
 | university-app        | [Link](https://github.com/0niel/university-app)   | A mobile application for the MIREA - Russian Technological University, which includes a schedule, news and many other functions  |
+| Visual Graphs | [Link](https://github.com/mglsj/visual_graphs) | A Graph (Data structure) Algorithm Visualizer |
 | Vocabhub | [Link](https://github.com/maheshmnj/vocabhub) | An app to help you build your vocabulary. This app contains 800+ curated GRE words |
 | Wispar | [Link](https://github.com/scriptbash/wispar) | Stay up-to-date with academic journals and the latest research articles |
 | words.hk | [Link](https://github.com/alienkevin/wordshk_app) | An open Cantonese dictionary for iOS and Android |
