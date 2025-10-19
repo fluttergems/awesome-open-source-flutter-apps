@@ -252,6 +252,7 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 | MindWrite | [Link](https://github.com/mohhamad-esmaili/mindwrite) | Help you create and manage your notes, this app is clone of Google Keep |
 | minttask | [Link](https://github.com/boredcodebyk/minttask) | A simple todo manager for Android made using Flutter with Material Design 3 |
 | Note Taking App | [Link](https://github.com/bimsina/notes-app) | Note Taking App made with Flutter with Sqlite as database. |
+| NoteApp | [Link](https://github.com/AmirrezaKhezerlou/Flutter_Note_app) | Neomorphic Design Note taking app |
 | NoteApp-Clean-Architecture | [Link](https://github.com/imSanjaySoni/NoteApp-Clean-Architecture)  | NoteApp with Domain-Driven Clean Architecture with FlutterBloc + Freezed + Hive  |
 | Noteless | [Link](https://github.com/redsolver/noteless) | A Markdown-based note-taking app for mobile devices. |
 | Noty                       | [Link](https://github.com/JohnKinyanjui/Noty)                       | Write notes in the most productive ways |
