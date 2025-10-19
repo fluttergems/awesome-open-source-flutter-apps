@@ -722,7 +722,6 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 
 | Project    | Repo  | Description  |
 |:-----------|:------|:-------------|
-| Retune | [Link](https://github.com/samvabya/retune) | Listen to your favourite music all day with no ads, no signups, no paywalls, with Vibrant UI. |
 | AI Radio | [Link](https://github.com/AadrianLeo/AI-Radio-App) | Radio application with an AI assistant to play, stop, search songs by categories. |
 | Anytime Podcast Player | [Link](https://github.com/amugofjava/anytime_podcast_player) | Simple, easy to use Podcast player app |
 | Bide et Musique | [Link](https://github.com/odrevet/bide_et_musique_flutter) | Listen to and access the web radio 'Bide and Music' |
@@ -756,6 +755,7 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 | Practice Suite | [Link](https://codeberg.org/berker/practice_suite) | The Swiss army knife of musicians |
 | raag | [Link](https://github.com/raag-music/raag) | Music player made using Flutter. |
 | Radio Romania | [Link](https://gitlab.com/andrei-pavel/radio-romania) | An open source aggregator for Radio Romania podcasts. |
+| Retune | [Link](https://github.com/samvabya/retune) | Listen to music all day with no ads, no signups, no paywalls, with Vibrant UI |
 | Rhythmic Realm | [Link](https://github.com/SoSerious194/rhythmic_realm_app) | A music app |
 | sap | [Link](https://github.com/31Carlton7/sap)   | A mobile music streaming app with a complex UI built with Flutter and the Deezer API |
 | Spotube | [Link](https://github.com/KRTirtho/spotube) | Open source Spotify client |
