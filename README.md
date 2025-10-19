@@ -184,7 +184,6 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 | EcoMateSG | [Link](https://github.com/jicsontoh/EcoMateSG) | EcoMateSG helps users make environmentally conscious choices and adopt a sustainable lifestyle. |
 | Feels App | [Link](https://github.com/seras42/feels_app) | Log your emotions in an encrypted diary. See statistics of your feelings. |
 | FltKeep | [Link](https://github.com/xinthink/flutter-keep) | A note-taking app built with Flutter + Firebase |
-| NoteApp | [Link](https://github.com/AmirrezaKhezerlou/Flutter_Note_app) | A Flutter Neomorphic Design Note taking app |
 | Githo | [Link](https://github.com/glitchy-tozier/githo) | An app that helps you gradually build long-lasting habits. |
 | Habo | [Link](https://github.com/xpavle00/Habo) |  A habit tracker app that helps you create and maintain healthy habits for a better life. |
 | Inner Breeze | [Link](https://github.com/naoxio/inner_breeze) | Guided breathing meditation app based on the Wim Hof breathing method. |
@@ -253,6 +252,7 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 | MindWrite | [Link](https://github.com/mohhamad-esmaili/mindwrite) | Help you create and manage your notes, this app is clone of Google Keep |
 | minttask | [Link](https://github.com/boredcodebyk/minttask) | A simple todo manager for Android made using Flutter with Material Design 3 |
 | Note Taking App | [Link](https://github.com/bimsina/notes-app) | Note Taking App made with Flutter with Sqlite as database. |
+| NoteApp | [Link](https://github.com/AmirrezaKhezerlou/Flutter_Note_app) | Neomorphic Design Note taking app |
 | NoteApp-Clean-Architecture | [Link](https://github.com/imSanjaySoni/NoteApp-Clean-Architecture)  | NoteApp with Domain-Driven Clean Architecture with FlutterBloc + Freezed + Hive  |
 | Noteless | [Link](https://github.com/redsolver/noteless) | A Markdown-based note-taking app for mobile devices. |
 | Noty                       | [Link](https://github.com/JohnKinyanjui/Noty)                       | Write notes in the most productive ways |
