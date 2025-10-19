@@ -130,7 +130,6 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 | piggyvault | [Link](https://github.com/piggyvault/piggyvault) | Family finance management app. |
 | Receipt manager | [Link](https://github.com/ReceiptManager/receipt-manager-app) | Receipt parser application written in dart. |
 | Sossoldi | [Link](https://github.com/RIP-Comm/sossoldi) | Sossoldi is a free and open source wealth management / personal finance / Net Worth tracking app |
-| Venom | [Link](https://github.com/navirobayo/venom) | App to keep track of the fuel consumption and expenses of your vehicles. |
 | Waterfly III | [Link](https://github.com/dreautall/waterfly-iii) | Unofficial Android App for Firefly III, a free and open source personal finance manager |
 
 ### Web3 & Crypto
