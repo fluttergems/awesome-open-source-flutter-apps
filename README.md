@@ -102,7 +102,7 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 | HaoChat | [Link](https://github.com/conghaonet/hao_chatgpt) | An unofficial ChatGPT application |
 | maid      | [Link](https://github.com/Mobile-Artificial-Intelligence/maid) | Maid is a cross-platform Flutter app for interfacing with GGUF / llama.cpp models locally, and with Ollama and OpenAI models remotely |
 | MyOllama | [Link](https://github.com/bipark/my_ollama_app) | Ollama-based LLM mobile client |
-| Open Alert Viewer | [Link](https://github.com/leaf-node/open_alert_viewer) | Display server and network alerts from servers running Prometheus, Nagios, Icinga or Zabbix |
+| Open Alert Viewer | [Link](https://codeberg.org/leaf-node/open_alert_viewer) | Display server and network alerts from servers running Prometheus, Nagios, Icinga or Zabbix |
 | Shots Studio | [Link](https://gitlab.com/mohdansah10/shots-studio) | Turns screenshot folder into an intelligent, organized archive using Gemma |
 | Simple ChatGPT | [Link](https://github.com/SnowStar0423/ChatGPT-Flutter-App) | ChatGPT like app in Flutter |
 | Story Generator | [Link](https://github.com/Lord-Chris/story-generator) | A mobile app that generates random stories based on user input using Google Generative AI |
