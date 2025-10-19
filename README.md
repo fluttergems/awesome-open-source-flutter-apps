@@ -1,5 +1,7 @@
 [![Discord Server Invite](https://img.shields.io/badge/DISCORD-JOIN%20SERVER-5663F7?style=for-the-badge&logo=discord&logoColor=white)](https://bit.ly/heyfoss)
 
+<img src="https://trendshift.io/api/badge/repositories/11282" alt="fluttergems%2Fawesome-open-source-flutter-apps | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/>
+
 Contributors should go through the [Contributing Guide](https://github.com/fluttergems/awesome-open-source-flutter-apps/blob/main/CONTRIBUTING.md) to learn how to send across a PR.
 
 # Awesome Open Source Flutter Apps
@@ -101,6 +103,7 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 | maid      | [Link](https://github.com/Mobile-Artificial-Intelligence/maid) | Maid is a cross-platform Flutter app for interfacing with GGUF / llama.cpp models locally, and with Ollama and OpenAI models remotely |
 | MyOllama | [Link](https://github.com/bipark/my_ollama_app) | Ollama-based LLM mobile client |
 | Open Alert Viewer | [Link](https://github.com/leaf-node/open_alert_viewer) | Display server and network alerts from servers running Prometheus, Nagios, Icinga or Zabbix |
+| Shots Studio | [Link](https://gitlab.com/mohdansah10/shots-studio) | Turns screenshot folder into an intelligent, organized archive using Gemma |
 | Simple ChatGPT | [Link](https://github.com/SnowStar0423/ChatGPT-Flutter-App) | ChatGPT like app in Flutter |
 | Story Generator | [Link](https://github.com/Lord-Chris/story-generator) | A mobile app that generates random stories based on user input using Google Generative AI |
 
@@ -162,7 +165,7 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 | Invoice Ninja            | [Link](https://github.com/invoiceninja/admin-portal)             | Invoice Ninja: Desktop/mobile admin portal |
 | Invoice Pdf | [Link](https://github.com/sabikrahat/invoice_pdf_generate) | App to generate invoices in PDF format |
 | MiGo POS Software | [Link](https://github.com/poslevel/migo) | A POS Software that works everywhere seamlessly |
-| MPoS | [Link](https://github.com/kiks12/mpos-flutter) | Mobile Point of Sale System for Four Angels Retail Shop |
+| MPoS | [Link](https://github.com/kiks12/mpos-flutter) | Mobile Point of Sale System for Four Angels Retail  |
 | okane | [Link](https://gitlab.com/wolfenrain/okane) | okane is an unnecessarily complicated and over-engineered invoice generator. |
 | Peercoin | [Link](https://github.com/peercoin/peercoin_flutter) | Light Peercoin wallet written in Flutter, deployable on Android, iOS and Web. |
 | POS System | [Link](https://github.com/evan361425/flutter-pos-system) | An open source Flutter POS system (ordering system) with users. |
@@ -240,6 +243,7 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 | Flutter-Pomodoro           | [Link](https://github.com/wilsonowilson/Flutter-Pomodoro)           | A complete pomodoro app for MacOS. |
 | GitJournal | [Link](https://github.com/gitjournal/gitjournal) | Mobile first Note Taking integrated with Git |
 | Glory Todo Desktop | [Link](https://github.com/yessglory17/glory_todo_desktop) | A desktop Todo app |
+| Jiyi | [Link](https://github.com/xiaoshihou514/jiyi) | Cross-platform encrypted voice note application |
 | kardi notes | [Link](https://github.com/rikodot/kardi_notes_app)         | Cross-platform app to take notes. Encrypted, open-source, sync across devices |
 | koperasi-mobileApp         | [Link](https://github.com/koperasi-rlp1/koperasi-mobileApp)         | Task Planner App |
 | kowalski | [Link](https://github.com/Zatfer17/kowalski) | AI-powered personal Knowledge Management System for Android |
@@ -276,6 +280,7 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 | ToDay | [Link](https://github.com/fiqryx/to-day) | A minimalist daily task manager |
 | Todoey | [Link](https://github.com/Coffee-Expert/Todoey) | A simple To-do app. |
 | Tomo | [Link](https://github.com/k7d/tomo) | Pomodoro timer for MacOS |
+| Tomodoro | [Link](https://github.com/shahriaarrr/Tomodoro) | A modern Pomodoro timer & task management app |
 | Virlow Flutter Recorder | [Link](https://github.com/virlow-voice/virlow-flutter-recorder) | An app that transcribes recorded audio and includes a text editor for editing/adding notes. |
 | WD Notes | [Link](https://gitlab.com/ideotec/wdnotes) | A note-taking app that syncs with WebDAV |
 | WhatTodo | [Link](https://github.com/burhanrashid52/whattodo) | A Simple Todo app design in Flutter to keep track of your task on daily basis. Its build on BLoC Pattern |
@@ -500,7 +505,7 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 | Food Delivery App UI | [Link](https://github.com/Tarikul711/flutter-food-delivery-app-ui) | Food ordering & delivery application UI. |
 | Infusion Tea Timer | [Link](https://github.com/sesu8642/infusiontimer) | Tea timer for Gong Fu and western style brewing for true enthusiasts. |
 | keiko_food_reviews             | [Link](https://github.com/JediPixels/keiko_food_reviews) | Keiko Food Reviews App |
-| KitchenOwl                     | [Link](https://github.com/TomBursch/kitchenowl) | KitchenOwl is a self-hosted grocery list and recipe manager. Easily add items to your shopping list before you go shopping. You can also create recipes and add items based on what you want to cook.  |
+| KitchenOwl                     | [Link](https://github.com/TomBursch/kitchenowl) | KitchenOwl is a self-hosted grocery list and recipe manager. Easily add items to your ping list before you go ping. You can also create recipes and add items based on what you want to cook.  |
 | Nextcloud Cookbook | [Link](https://github.com/teifun2/nextcloud-cookbook-flutter) | Flutter Project for the nextcloud plugin "cookbook" |
 | Open Food Facts | [Link](https://github.com/openfoodfacts/smooth-app) | App to scan, discover & compare over 3 million food products. |
 | OpenCanteen | [Link](https://git.mnau.xyz/hernik/opencanteen) | OpenCanteen is an alternative free open-source client for the iCanteen food ordering system |
@@ -512,6 +517,7 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 
 | Project    | Repo  | Description  |
 |:-----------|:------|:-------------|
+| Anx Reader | [link](https://github.com/anxcye/anx-reader) | e-book reader for book lovers with AI capabilities & supporting various e-book formats |
 | AudioBooks | [Link](https://github.com/lohanidamodar/flutter_audiobooks_app) | An audiobook listener and downloader using librivox API |
 | Calibre Web Companion | [Link](https://github.com/doen1el/calibre-web-companion) | Unofficial companion app for calibre web |
 | deedum | [Link](https://github.com/snoe/deedum) | A cross platform Gemini browser |
@@ -565,6 +571,7 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 | Flutter-Steps-Tracker      | [Link](https://github.com/TarekAlabd/Flutter-Steps-Tracker) | Open source project for the steps tracking (Pedometer) |
 | FlutterBMI | [Link](https://github.com/jaysavsani07/FlutterBMI) | A BMI calculator app |
 | GripGuide | [Link](https://github.com/POLYTALON/climbing-gym-app) | An app for gyms and climbers to manage routes, track progress, and stay updated with gym news |
+| Hidroly | [Link](https://github.com/om1cael/hidroly) | Stay hydrated by tracking your water intake and sending notifications |
 | Just Another Workout Timer | [Link](https://github.com/blockbasti/just_another_workout_timer) | A simple timer for your workouts, built with Flutter! |
 | LifeSync | [Link](https://github.com/Utku-Mese/LifeSync) | App that allows users to track important factors such as nutrition, sports and water consumption |
 | MigraineLog | [Link](https://gitlab.com/mglog/org.zerodogg.migraineLog) | A simple multi-platform headache diary |
@@ -933,6 +940,7 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 | Libretrack | [Link](https://github.com/proninyaroslav/libretrack) | Track postal items directly on your device. |
 | openflutterecommerceapp | [Link](https://github.com/4seer/openflutterecommerceapp)           | Open Flutter E-commerce App |
 | Shop App | [Link](https://github.com/tie-tan/shopapp) | An online shop for food, groceries, and medicine. |
+| Shopping List | [Link](https://github.com/jaimegonzalezfabregas/lista_de_la_compra) | A shopping list app with integrated meal planning |
 | TailorMade | [Link](https://github.com/jogboms/tailor_made) | Managing a Fashion designer's daily routine. |
 | Voucher Vault | [Link](https://github.com/tim-smart/vouchervault) | A vault for all your vouchers and gift cards. |
 
@@ -1026,6 +1034,7 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 | Al-Azkar | [Link](https://github.com/muslimpack/al-azkar) | Imam Al-Hafiz Yahya bin Sharafah Al-Din Al-Nawawi |
 | Auragita | [Link](https://github.com/tushal13/Auragita) | Bhagavad Gita learning app |
 | Bhagavad Gita | [Link](https://github.com/kvmangukiya/bhagavad_gita) | App to study and explore the teachings of Bhagvat Geeta |
+| Bible Feed | [Link](https://github.com/dizzib/bible-feed) | Keep track of your daily bible reading if you are using the Professor Grant Horner reading plan |
 | Bibleside | [Link](https://github.com/correct-syntax/bible_side) | An offline Bible app featuring the OET (Open English Translation) |
 | elisha            | [Link](https://github.com/31Carlton7/elisha)                     | An Offline Bible & Church App for iOS & Android.  |
 | eQuran | [Link](https://github.com/ya27hw/equran_app) | An app for reading the Holy Quran. |
