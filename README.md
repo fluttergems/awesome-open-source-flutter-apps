@@ -928,6 +928,7 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 | Meteo Weather Greece | [Link](https://gitlab.com/vitaspiros/meteo-weather-gr) | A lightweight, beautiful weather app that fetches data from meteo.gr |
 | Pluvia Weather | [Link](https://github.com/SpicyChair/pluvia_weather_flutter) | A weather app with beautiful animations |
 | weather_app    | [Link](https://github.com/rrafush/weather_app)        | Fetch weather data from cities around the globe! |
+| Weather Master | [Link](https://github.com/PranshulGG/WeatherMaster) | A weather app for android  |
 
 ### Shopping & E-commerce
 
