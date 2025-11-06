@@ -478,6 +478,7 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 | WordlyPlus | [Link](https://github.com/Carapacik/WordlyPlus) | Guess the WORD in six tries. |
 | Xeonjia | [Link](https://gitlab.com/deepdaikon/xeonjia) | Save the world by solving ice puzzles and defeating enemies! |
 | Zoysii | [Link](https://gitlab.com/deepdaikon/zoysii) | A simple logic game: find the best path to delete every number in a square space |
+| Pegma | [Link](https://github.com/khlebobul/pegma) | A free and cross-platform version of the classic Peg Solitaire |
 
 ### Sports
 
