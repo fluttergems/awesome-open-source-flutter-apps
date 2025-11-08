@@ -445,6 +445,7 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 | Oblique Strategies | [Link](https://github.com/hobgoblina/oblique-strategies) | A digital rendering of Oblique Strategies - Over one hundred worthwhile dilemmas |
 | Pacman | [Link](https://github.com/Raj2503/Pacman-Flutter) | Vintage Pacman Game. |
 | Parlera | [Link](https://gitlab.com/enjoyingfoss/parlera) | Word guessing party game, written in Flutter |
+| Pegma | [Link](https://github.com/khlebobul/pegma) | A free and cross-platform version of the classic Peg Solitaire |
 | pinball                | [Link](https://github.com/flutter/pinball)   | Google I/O 2022 Pinball game built with Flutter and Firebase    |
 | Quards | [Link](https://github.com/jeffsieu/quards) | Solitaire in Flutter. |
 | Quinb | [Link](https://gitlab.com/deepdaikon/quinb) | A multiplayer reaction game: train your mind and your reflexes while having fun! |
