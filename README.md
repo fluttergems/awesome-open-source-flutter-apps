@@ -897,6 +897,7 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 | Synce | [Link](https://github.com/prateekmedia/synce) | Connect all your devices hassle-free |
 | Uploadgram | [Link](https://github.com/Uploadgram/app) | An app for Uploadgram files and uploads management |
 | Vernet | [Link](https://github.com/osociety/vernet) | Vernet - Network Analyzer and Monitoring Tool |
+| V2ray | [Link](https://github.com/amir-zr/flutter_v2ray_client) | High-performance Flutter V2Ray/Xray VPN client with multi-protocol support |
 
 ### IoT & Remote Control
 
