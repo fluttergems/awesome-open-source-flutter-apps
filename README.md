@@ -579,6 +579,7 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 | Hidroly | [Link](https://github.com/om1cael/hidroly) | Stay hydrated by tracking your water intake and sending notifications |
 | Just Another Workout Timer | [Link](https://github.com/blockbasti/just_another_workout_timer) | A simple timer for your workouts, built with Flutter! |
 | LifeSync | [Link](https://github.com/Utku-Mese/LifeSync) | App that allows users to track important factors such as nutrition, sports and water consumption |
+| Menstrudel | [Link](https://github.com/J-shw/Menstrudel) | Free, offline, and open source period tracking app |
 | MigraineLog | [Link](https://gitlab.com/mglog/org.zerodogg.migraineLog) | A simple multi-platform headache diary |
 | OpenHIIT | [Link](https://github.com/a-mabe/OpenHIIT) | A cross platform HIIT and Tabata interval timer mobile application |
 | OpenNutriTracker | [Link](https://github.com/simonoppowa/OpenNutriTracker) | A calorie tracker to simplify nutritional tracking and management |
