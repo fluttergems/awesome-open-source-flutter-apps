@@ -113,6 +113,7 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 |:-----------|:------|:-------------|
 | app-finance  | [Link](https://github.com/lyskouski/app-finance) | Fingrom -- open-source platform-agnostic financial accounting application  |
 | Be Thrifty Today | [Link](https://github.com/AmruthPillai/BeThriftyToday) | A simple and secure money manager that keeps you financially vigilant. |
+| BeeCount | [Link](https://github.com/TNT-Likely/BeeCount) | Privacy-focused personal finance management and expense tracker app for iOS/Android |
 | Budget Budy | [Link](https://github.com/mufaddal5253110/budgetbudy) | A simple app to track your financial life using flutter |
 | Budgeto | [Link](https://github.com/tejasbadone/budgeto) | A money management app that allows users to split their income into customizable categories |
 | Carfoin | [Link](https://github.com/webierta/carfoin) | Investment Fund Portfolio Manager |
@@ -200,6 +201,7 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 | Meditation App | [Link](https://github.com/Re4ch-Jay/Meditation_App) | An app to make you calm, relieved, relaxed and focused. |
 | medito-app | [Link](https://github.com/meditohq/medito-app)   | The Medito app is a 100% free meditation app. The app is available on Android and iOS. |
 | Mindful Notifier | [Link](https://github.com/kmac/mindfulnotifier) | A simple mindfulness-based timer which displays a notification/reminder at user-defined intervals |
+| Norm | [Link](https://github.com/tusharonly/norm)| A minimal habit tracker that focuses on quick daily logging |
 | One Second Diary | [Link](https://github.com/KyleKun/one_second_diary) | Minimalist video diary app |
 | Reflectly | [Link](https://github.com/sagarshende23/Reflectly-Flutter-App) | A journaling app |
 | StoryPad | [Link](https://github.com/theachoem/storypad) | Minimalist app to write stories, notes, diary |
@@ -583,6 +585,7 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 | MigraineLog | [Link](https://gitlab.com/mglog/org.zerodogg.migraineLog) | A simple multi-platform headache diary |
 | OpenHIIT | [Link](https://github.com/a-mabe/OpenHIIT) | A cross platform HIIT and Tabata interval timer mobile application |
 | OpenNutriTracker | [Link](https://github.com/simonoppowa/OpenNutriTracker) | A calorie tracker to simplify nutritional tracking and management |
+| PinkRain | [Link](https://github.com/rudi-q/pinkrain_health_journal) | A privacy-first mental health companion that helps you track your wellness journey, manage medications, and find emotional support |
 | QuitSmoke | [Link](https://github.com/trizin/Quit-Smoke-App) | An app to help you quit smoking |
 | Quitter | [Link](https://github.com/brandonp2412/quitter) | Give up on addictions and become a Quitter |
 | Spartathlon | [Link](https://gitlab.com/thgoebel/spartathlon) | This app aims to help athletes, supporters and volunteers during the ultra distance race Spartathlon |
