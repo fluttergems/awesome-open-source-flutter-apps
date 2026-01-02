@@ -924,7 +924,7 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 | PSLab | [Link](https://github.com/fossasia/pslab-app) | Perform experiments with the Pocket Science Lab open-hardware platform |
 | Sharp LH5801 | [Link](https://github.com/cbonello/lh5801) | Sharp LH5801 8-bit microprocessor emulator in Dart |
 | ShockAlarm | [Link](https://github.com/computerelite/shockalarmapp) | App for controlling and managing OpenShock devices |
-| SensorServer | [Link](https://github.com/UmerCodez/SensorServer) | Transforms Android device into a versatile sensor hub, providing real-time access to its entire array of sensors |
+| SensorServer Dashboard | [Link](https://github.com/UmerCodez/SensorServer/tree/main/sensors_dashboard) | A web app to test WebSocket connections with SensorServer in a web browser |
 | Tautulli Remote | [Link](https://github.com/Tautulli/Tautulli-Remote) | Tautulli companion app. |
 
 ### Weather
