@@ -130,6 +130,7 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 | Oinkoin | [Link](https://github.com/emavgl/oinkoin) | Oinkoin is a flutter app for helping you managing your expenses. No internet required. |
 | piggyvault | [Link](https://github.com/piggyvault/piggyvault) | Family finance management app. |
 | Receipt manager | [Link](https://github.com/ReceiptManager/receipt-manager-app) | Receipt parser application written in dart. |
+| SoftPlus Options | [Link](https://github.com/dmitrykouznetsov/SoftPlusOptions) | Offline-first, privacy-focused options payoff and volatility surface simulator |
 | Sossoldi | [Link](https://github.com/RIP-Comm/sossoldi) | Sossoldi is a free and open source wealth management / personal finance / Net Worth tracking app |
 | Waterfly III | [Link](https://github.com/dreautall/waterfly-iii) | Unofficial Android App for Firefly III, a free and open source personal finance manager |
 
@@ -145,6 +146,7 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 | flutter-crypto-app       | [Link](https://github.com/salvadordeveloper/flutter-crypto-app)  | Cryptocurrency App |
 | flutter-crypto-wallet    | [Link](https://github.com/JErazo7/flutter-crypto-wallet)         | A multiplatform (Android, iOS, Web and macOS) crypto-wallet example created with Flutter and CoinGecko API.  |
 | Flutter web3 Auction | [Link](https://github.com/y-pakorn/flutter_web3_auction) | A token auction website made by Flutter thats interacts with Ethereum web3 through flutter_web3 package. |
+| Gleec Wallet | [Link](https://github.com/GLEECBTC/gleec-wallet)  | Gleec Wallet App |
 | LocalMonero | [Link](https://github.com/agoradesk-localmonero/agoradesk-app-foss) | Source code for the AgoraDesk/LocalMonero Mobile Applications. Buy or sell Bitcoin without ID verification |
 | Natrium | [Link](https://github.com/appditto/natrium_wallet_flutter) | A Nano cryptocurrency wallet app to manage your Nano funds |
 | Platypus Crypto | [Link](https://github.com/Blakexx/CryptoTracker) | An ad-free cross-platform robust solution for tracking cryptocurrency assets |
@@ -283,6 +285,7 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 | Todoey | [Link](https://github.com/Coffee-Expert/Todoey) | A simple To-do app. |
 | Tomo | [Link](https://github.com/k7d/tomo) | Pomodoro timer for MacOS |
 | Tomodoro | [Link](https://github.com/shahriaarrr/Tomodoro) | A modern Pomodoro timer & task management app |
+| Trudido | [Link](https://github.com/dominikmuellr/trudido) | Private and Minimalist Material You To-Do App |
 | Virlow Flutter Recorder | [Link](https://github.com/virlow-voice/virlow-flutter-recorder) | An app that transcribes recorded audio and includes a text editor for editing/adding notes. |
 | WD Notes | [Link](https://gitlab.com/ideotec/wdnotes) | A note-taking app that syncs with WebDAV |
 | WhatTodo | [Link](https://github.com/burhanrashid52/whattodo) | A Simple Todo app design in Flutter to keep track of your task on daily basis. Its build on BLoC Pattern |
@@ -325,6 +328,7 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 | RPNcalc | [Link](https://github.com/apesic/rpncalc) | A simple RPN (Reverse Polish Notation) calculator app built using Flutter |
 | SimplyTranslate Mobile | [Link](https://github.com/manerakai/simplytranslate_mobile) | Privacy friendly frontend to Google Translate |
 | TiefPrompt | [Link](https://github.com/Tiefseetauchner/tiefprompt) | Cross-platform teleprompter app |
+| Torrents Digger | [Link](https://github.com/ForTheCommunity/TorrentsDigger) | Digs Torrents from multiple sources/sites |
 | Touch Torch | [Link](https://github.com/softcodingforyou/touchtorch) | Touch the screen and the light turns on |
 | Type | [Link](https://github.com/jeffsieu/type) | A typing test |
 | WebLibre | [Link](https://github.com/fafre/weblibre) | Privacy-Focused Browser. Browse privately, search locally. Organize tabs, block tracking, and use Tor. |
@@ -368,7 +372,8 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 | Image Meta Cleaner | [Link](https://gitlab.com/alimiracle/image_meta_cleaner) | A cross-platform application designed to remove metadata from images |
 | Immich | [Link](https://github.com/immich-app/immich) | High performance self-hosted photo and video management solution. |
 | Libre Camera | [Link](https://github.com/iakmds/librecamera) | A free and open source camera app for Android written in Flutter and Dart |
-| OBS Blade | [Link](https://github.com/kounex/obs_blade) | Make use of the OBS WebSocket Plugin (https://github.com/obsproject/obs-websocket) and control your stream |
+| OBS Blade | [Link](https://github.com/kounex/obs_blade) | Make use of the OBS WebSocket Plugin and control your stream |
+| OpenPhotoFrame | [Link](https://github.com/micw/OpenPhotoFrame) | Slideshow app to turn old Android tablet into a beautiful digital photo frame. Syncs photos from Nextcloud or local storage |
 | Panoramax | [Link](https://gitlab.com/panoramax/clients/mobile-app) | Capture photo sequences with your mobile and send these sequences to a Panoramax instance |
 | photobooth       | [Link](https://github.com/flutter/photobooth)              | Google I/O 2021 Photo Booth built with Flutter and Firebase  |
 | PicGuard | [Link](https://github.com/picguard/picguard) | Secure & customize your digital photos by adding watermarks to your images |
@@ -392,6 +397,7 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 | BFBAN Assistants | [Link](https://github.com/cabbagelol/bfban-app-mobile) | Report players on your phone with mobile app for BFBAN |
 | BGUG | [Link](https://github.com/bluefireteam/bgug) | Break Guns Using Gems is a fast paced side-scrolling platformer with innovative controls and a gun-related twist. |
 | block_breaker          | [Link](https://github.com/Umigishi-Aoi/block_breaker)  | Game of Block Breaker made using flame. |
+| Block Drop | [Link](https://github.com/brandonp2412/BlockDrop)  | A modern Tetris clone. Drop, rotate, and clear lines in this classic puzzle game |
 | Board Buddy | [Link](https://github.com/khlebobul/board_buddy) | Mobile app for tracking scores and rules in board games |
 | bounce_game            | [Link](https://github.com/Shadow60539/bounce_game)    | Bounce game  |
 | brain_punk             | [Link](https://github.com/animator/brain_punk)   | A Brain Story Game built using Flutter + Flame |
@@ -490,6 +496,7 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 | Box, Box! | [Link](https://github.com/brightdv/boxbox) | Unofficial Android and web app for Formula 1 fans! |
 | FitConnect | [Link](https://github.com/fitconnect-app/fitconnect-flutter-app) | App that facilitates meaningful connections among individuals through shared sports activities |
 | Flutter League | [Link](https://github.com/csuka1219/Flutter_League) | A companion app for League of Legends players to search summoners, view stats and match history, and check ongoing games. |
+| HEMA Scoring Machine | [Link](https://github.com/kstepanovdev/gdf_hema_timer) | Timer and scoring app for Historical European Martial Arts (HEMA) bouts. Designed for clarity, speed, and offline use during tournaments and sparring sessions |
 | Khelo | [Link](https://github.com/canopas/khelo) | An open-source flutter app for easy cricket team management and performance tracking |
 | Shoot Report | [Link](https://github.com/Alienuser/shoot-report-flutter) | App for shooting sports |
 | Shooting Sports Analyst | [Link](https://github.com/jslater89/shooting-sports-analyst) | Desktop application for viewing, analyzing, and predicting practical shooting match results. |
@@ -761,6 +768,7 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 | Practice Suite | [Link](https://codeberg.org/berker/practice_suite) | The Swiss army knife of musicians |
 | raag | [Link](https://github.com/raag-music/raag) | Music player made using Flutter. |
 | Radio Romania | [Link](https://gitlab.com/andrei-pavel/radio-romania) | An open source aggregator for Radio Romania podcasts. |
+| Repertoire | [Link](https://github.com/Adithya-Jayan/MyRepertoirApp) | Music Practice & Sheet Music Organizer |
 | Retune | [Link](https://github.com/samvabya/retune) | Listen to music all day with no ads, no signups, no paywalls, with Vibrant UI |
 | Rhythmic Realm | [Link](https://github.com/SoSerious194/rhythmic_realm_app) | A music app |
 | sap | [Link](https://github.com/31Carlton7/sap)   | A mobile music streaming app with a complex UI built with Flutter and the Deezer API |
@@ -1017,9 +1025,10 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 | AppImage Pool       | [Link](https://github.com/prateekmedia/appimagepool)   | A simple, modern AppImageHub Client, powered by flutter. |
 | Obtainium           | [Link](https://github.com/ImranR98/Obtainium)          | Get Android app updates straight from the source.        |
 | revanced-manager | [Link](https://github.com/revanced/revanced-manager)  | Application to use ReVanced on Android  |
+| Running Services Monitor | [Link](https://github.com/biplobsd/running_services_monitor)  | Monitor running services on your Android device. With a clean and intuitive interface, you can easily view system and user apps, check their status efficiently |
 | Software App for Ubuntu | [Link](https://github.com/ubuntu-flutter-community/software) | Software App for Ubuntu made with Flutter |
 | WSA Pacman | [Link](https://github.com/alesimula/wsa_pacman) | A GUI package manager and package installer for Windows Subsystem for Android (WSA) |
-| wsl2-distro-manager | [Link](https://github.com/bostrot/wsl2-distro-manager) | A GUI to quickly manage your WSL2 instances              |
+| wsl2-distro-manager | [Link](https://github.com/bostrot/wsl2-distro-manager) | A GUI to quickly manage your WSL2 instances |
 
 ### OS
 
@@ -1048,15 +1057,17 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 | Project    | Repo  | Description  |
 |:-----------|:------|:-------------|
 | Al-Azkar | [Link](https://github.com/muslimpack/al-azkar) | Imam Al-Hafiz Yahya bin Sharafah Al-Din Al-Nawawi |
+| Al-Quran | [Link](https://github.com/meypod/al-quran) | Multi-platform Quran reader |
 | Auragita | [Link](https://github.com/tushal13/Auragita) | Bhagavad Gita learning app |
 | Bhagavad Gita | [Link](https://github.com/kvmangukiya/bhagavad_gita) | App to study and explore the teachings of Bhagvat Geeta |
 | Bible Feed | [Link](https://github.com/dizzib/bible-feed) | Keep track of your daily bible reading if you are using the Professor Grant Horner reading plan |
 | Bibleside | [Link](https://github.com/correct-syntax/bible_side) | An offline Bible app featuring the OET (Open English Translation) |
-| elisha            | [Link](https://github.com/31Carlton7/elisha)                     | An Offline Bible & Church App for iOS & Android.  |
+| elisha | [Link](https://github.com/31Carlton7/elisha) | An Offline Bible & Church App for iOS & Android.  |
 | eQuran | [Link](https://github.com/ya27hw/equran_app) | An app for reading the Holy Quran. |
 | Inni di Lode | [Link](https://github.com/theFreeman96/inni-di-lode) | A Christian Songbook for Italian Churches. |
 | Librum | [Link](https://github.com/aldrinzigmundv/librum) | A free and open-source Bible verse reference app. |
 | Muslim fortress application | [Link](https://github.com/muslimpack/hisnelmoslem_app) | The application contains the complete book Hisn al-Muslim, with a search feature in the index and other features. |
+| My Quran | [Link](https://github.com/dmouayad/my_quran) | A simple, distraction-free and high-performance Quran application |
 | noor | [Link](https://github.com/pr-Mais/noor) | Noor is a mobile app designed to help in providing a comfortable reading experience for Muslims, by referencing the book "Hisnul Muslim", and some other references. |
 | PocketDhamma | [Link](https://github.com/s4nj1th/pocket-dhamma) | For offline reading of the Dhammapada |
 | Prayer | [Link](https://github.com/theagapefoundation/prayer) | A Christian prayer app |
