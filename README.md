@@ -873,7 +873,6 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 | Fwitter | [Link](https://github.com/TheAlphamerc/flutter_twitter_clone) | Fully functional Twitter clone built using Flutter, Firebase realtime database and storage |
 | Harpy | [Link](https://github.com/robertodoering/harpy) | A Twitter app built with Flutter |
 | Librem Social (Beta) | [Link](https://source.puri.sm/liberty/social/multi) | A multi-platform client for Smilodon, with consensual workflows and anti-abuse tools |
-| Quacker | [Link](https://github.com/thehcj/quacker) | Quacker is a more private and clean way to browse Twitter/X |
 | Resonate       | [Link](https://github.com/AOSSIE-Org/Resonate)         | Clubhouse, but Open Source. A social voice platform. |
 | SkyFeed | [Link](https://github.com/redsolver/skyfeed) | Decentralized SkyDB-based alternative to Twitter, YouTube and Instagram with a native iOS, Android and web app. |
 | SlimSocial for Facebook | [Link](https://github.com/rignaneseleo/slimsocial-for-facebook) | Light version of Facebook. Light both in the weight and in the use. |
@@ -1143,7 +1142,6 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 | Gauges_Showcase | [Link](https://github.com/Afroz-Shaikh/Gauges_Showcase)  | Showcase app that demonstrates the power and flexibility of the geekyants_flutter_gauges   |
 | Gesture-Controller | [Link](https://github.com/LiquidGalaxyLAB/Gesture-Controller) | A cheap and easy solution to add a new way to control Liquid Galaxy  |
 | image-satellite-visualizer | [Link](https://github.com/LiquidGalaxyLAB/image-satellite-visualizer) | Image satellite visualizer |
-| INAV Cross configurator | [Link](https://github.com/elgansayer/inav-cross-configurator) | A new INav cross platform configuration tool taking mobile into account |
 | IREX Mobile App | [Link](https://gitlab.com/web_irex/irex-mobile) | IREX portal mobile client project |
 | Laser-Slides | [Link](https://github.com/LiquidGalaxyLAB/Laser-Slides) | Simplifies the adjustment of OSC messages on your phone or tablet for laser presentations |
 | Laser_Slides_Flutter | [Link](https://github.com/LiquidGalaxyLAB/Laser_Slides_Flutter)  | Seamlessly integrate with Beyond software using OSC (Open Sound Control) commands |
