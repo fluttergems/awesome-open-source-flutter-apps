@@ -293,6 +293,7 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 | WHPH - Work Hard Play Hard | [Link](https://github.com/ahmet-cetinkaya/whph) | Helps you manage tasks, develop new habits, and optimize your time |
 | Xournal++ | [Link](https://gitlab.com/theonewiththebraid/xournalpp_mobile) | https://xournal.online/ A port of the main features of Xournal++ to various Flutter platforms like Android, iOS and the Web. |
 | Yet another Todo Application | [Link](https://github.com/rohithgilla12/yata) | Yet another Todo Application |
+| ZariNotes | [Link](https://codeberg.org/ItsZariep/ZariNotes)  | Simple Multi-tabbed notes app with workspaces |
 
 ### Tools & Utilities
 
