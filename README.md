@@ -69,6 +69,7 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 | DevTools | [Link](https://github.com/libgenai/devtoolbox) | Collection of offline utilities for developers |
 | DevWidgets | [Link](https://github.com/gumbarros/DevWidgets)       | DevWidgets is an application with several tools such as generators, formatters and converters for developers |
 | Flutter Design Patterns | [Link](https://github.com/mkobuolys/flutter-design-patterns) | Flutter Design Patterns application |
+| Flutter IDE | [Link](https://github.com/ankurg132/flutter_ide) | An IDE built in Flutter, for Flutter |
 | Flutter Installer | [Link](https://github.com/yazeedalkhalaf/flutter_installer) | Flutter Installer is an installer for Flutter built with Flutter |
 | FlutterFx | [Link](https://github.com/flutterfx/flutterfx_widgets) | Animated flutter widgets for busy flutter developers |
 | GitCommitStreak | [Link](https://github.com/schilken/git_commit_streak) | A tool that shows the number of consecutive days with at least one commit per day |
