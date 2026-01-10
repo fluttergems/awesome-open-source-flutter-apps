@@ -764,6 +764,7 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 | MusicPiped | [Link](https://github.com/deep-gaurav/musicpiped) | A Materialistic Music player that streams music |
 | Musicpod | [Link](https://github.com/ubuntu-flutter-community/musicpod) | Music, radio, television and podcast player for Ubuntu, Windows, MacOs and Android |
 | Musify              | [Link](https://github.com/gokadzev/Musify)  | Unlock the full potential of music: Stream effortlessly with one app! |
+| Nebula | [Link](https://github.com/TG12r/nebula) | A privacy-first, open-source music streaming app built with Flutter & Supabase. |
 | player              | [Link](https://github.com/koel/player)   | Koel Player, the official mobile app for Koel. |
 | Polaris | [Link](https://github.com/agersant/polaris-android) | Android client for Polaris |
 | Practice Suite | [Link](https://codeberg.org/berker/practice_suite) | The Swiss army knife of musicians |
