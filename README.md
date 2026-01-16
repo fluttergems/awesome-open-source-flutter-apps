@@ -71,7 +71,7 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 | Flutter Design Patterns | [Link](https://github.com/mkobuolys/flutter-design-patterns) | Flutter Design Patterns application |
 | Flutter IDE | [Link](https://github.com/ankurg132/flutter_ide) | An IDE built in Flutter, for Flutter |
 | Flutter Installer | [Link](https://github.com/yazeedalkhalaf/flutter_installer) | Flutter Installer is an installer for Flutter built with Flutter |
-| FlutterFx | [Link](https://github.com/flutterfx/flutterfx_widgets) | Animated flutter widgets for busy flutter developers |
+| FlutterFx | [Link](https://github.com/flutterfx/flutterfx_widgets) | Collection of 60+ animated effects including text animations, particles, loaders, and UI components |
 | GitCommitStreak | [Link](https://github.com/schilken/git_commit_streak) | A tool that shows the number of consecutive days with at least one commit per day |
 | GitTouch | [Link](https://github.com/pd4d10/git-touch) | An open-source app for GitHub, GitLab, Bitbucket, Gitea, and Gitee, built with Flutter |
 | GSYGitHubApp | [Link](https://github.com/CarGuo/gsy_github_app_flutter) | An open source Github client App that provides a wide variety of functionality |
