@@ -94,6 +94,7 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 
 | Project    | Repo  | Description  |
 |:-----------|:------|:-------------|
+| Orbit Stateful Agentic AI App | [Link](https://github.com/tayyabmughal676/vantura/tree/main/example) | Orbit - Vantura Agentic AI Framework Example, Business Assistant |
 | AI Assistant App | [Link](https://github.com/HarshAndroid/Ai-Assistant-In-Flutter-Using-ChatGpt) | AI Chatbot, Image Generator & Language Translator App |
 | AI Assistant | [Link](https://github.com/SheershBhatnagar/AI-Assistant) | A mobile app that offers users an interactive digital assistant using ChatGPT and DALL-E API |
 | ai_buddy  | [Link](https://github.com/yatendra2001/ai_buddy)               | Your personal free-to-use AI assistant, built with gemini & flutter |
