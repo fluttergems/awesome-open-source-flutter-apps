@@ -183,6 +183,7 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 | Project    | Repo  | Description  |
 |:-----------|:------|:-------------|
 | Brethap | [Link](https://github.com/jithware/brethap) | Brethap is yet another meditation app (yama). Including a timer for meditation, it also allows you to configure a breathing pattern for you to follow. |
+| MiniWiki | [Link](https://github.com/wellsa-ai/miniwiki) | Privacy-first personal wiki — 100% offline, E2E encrypted (ChaCha20-Poly1305), [[wikilinks]], FTS5 full-text search, iOS/Android/macOS |
 | Butterfly | [Link](https://github.com/LinwoodDev/Butterfly) | Powerful, minimalistic, cross-platform, opensource note-taking app |
 | Clock | [Link](https://github.com/creativecreatorormaybenot/clock) | A clock app that uses exclusively the Flutter Canvas to draw everything you see on screen. |
 | Daily Diary | [Link](https://github.com/voklen/daily-diary) | An app to create a diary entry every day |
