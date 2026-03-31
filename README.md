@@ -579,6 +579,7 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 | Calm Attack | [Link](https://github.com/FatoomRe/Calm-Attack) | Helps manage panic attacks by providing a range of exercises to help them calm their mind and body. |
 | Calodiary | [Link](https://git.justquitstudios.de/marco/calorimeter) | Diary for your calorie intake |
 | Compete | [Link](https://codeberg.org/epinez/compete) | Create challenges, invite friends, and compete against the public or in private | 
+| Don't Panic | [Link](https://github.com/Nepanikar/nepanikar) | First aid for mental health issues |
 | Energize | [Link](https://codeberg.org/epinez/energize) | Track your food and nutrition easily and fast |
 | ExHale | [Link](https://codeberg.org/retiolus/exhale) | Quit Smoking App |
 | Feeel | [Link](https://gitlab.com/enjoyingfoss/feeel) | A cross-platform Flutter home workout app that respects your privacy |
