@@ -436,7 +436,7 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 | Four in a Row  | [Link](https://github.com/filippo-orru/fourinarow-app) | An online version of the popular game four in a row, written in Flutter + Dart on the client and Rust on the server side. |
 | Fruit Ninja | [Link](https://github.com/flutter-clutter/flutter-fruit-ninja-clone) | A clone of the Fruit Ninja game. |
 | Game of Fifteen | [Link](https://github.com/AChep/15puzzle) | The Game of Fifteen or the 15 puzzle app. |
-| Game Trader | [Link](https://github.com/saladinalep/gametrader) | An Android app that notifies you of messages and trade offers on SteamTrades.com |
+| Game Trader | [Link](https://github.com/seloshal/gametrader) | An Android app that notifies you of messages and trade offers on SteamTrades.com |
 | Ghost Rigger | [Link](https://github.com/float-like-a-dash-sting-like-a-dart/ghostrigger) | Cyberpunk-inspired puzzle game prototype created with Flutter and Flame |
 | get_games              | [Link](https://github.com/mzsdev1/get_games)  | Mobile app showing free and discounted PC games |
 | GG-Games-and-Giveaways | [Link](https://github.com/ikramhasan/GG-Games-and-Giveaways)    | See all available free games and active giveaways. Get notified when a game becomes free. |
@@ -745,7 +745,7 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 | DJ Edertech App | [Link](https://gitlab.com/ederson-itabaiana/dj_edertech) | Immerse yourself in the nostalgic beats spanning various music genres |
 | Drip | [Link](https://github.com/spsden/drip) | A Youtube Music client for Desktop. (in Development) |
 | Echo MPD | [Link](https://github.com/rd6260/echo_mpd) | A beautiful, modern, and feature-rich mobile client for Music Player Daemon (MPD) |
-| finamp              | [Link](https://github.com/jmshrv/finamp)   | A Jellyfin music client for mobile  |
+| finamp              | [Link](https://github.com/UnicornsOnLSD/finamp)   | A Jellyfin music client for mobile  |
 | Flutter Music | [Link](https://github.com/o-ifeanyi/musicplayer) | A Flutter music player to play songs (mp3). |
 | Flutter Music Player | [Link](https://github.com/iampawan/Flutter-Music-Player) | Music player with audio plugin to play local music files. |
 | Flutter Tunein | [Link](https://github.com/moda20/flutter-tunein) | Dynamically themed Music Player built with flutter  |
