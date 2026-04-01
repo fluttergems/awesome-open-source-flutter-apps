@@ -102,7 +102,6 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 | Flutter Scribble | [Link](https://github.com/lahirumaramba/flutter_scribble) | Turn your scribbles into detailed images with AI |
 | FlutterVoiceFriend | [Link](https://github.com/jbpassot/flutter_voice_friend) | Build interactive, voice-driven chatbot experiences using a combination of speech-to-text (STT) and text-to-speech (TTS) |
 | HaoChat | [Link](https://github.com/conghaonet/hao_chatgpt) | An unofficial ChatGPT application |
-| maid      | [Link](https://github.com/Mobile-Artificial-Intelligence/maid) | Maid is a cross-platform Flutter app for interfacing with GGUF / llama.cpp models locally, and with Ollama and OpenAI models remotely |
 | MyOllama | [Link](https://github.com/bipark/my_ollama_app) | Ollama-based LLM mobile client |
 | Shots Studio | [Link](https://gitlab.com/mohdansah10/shots-studio) | Turns screenshot folder into an intelligent, organized archive using Gemma |
 | Simple ChatGPT | [Link](https://github.com/SnowStar0423/ChatGPT-Flutter-App) | ChatGPT like app in Flutter |
@@ -285,7 +284,6 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 | tmail-flutter              | [Link](https://github.com/linagora/tmail-flutter)                   | A multi-platform application for reading your emails, with your favorite devices, using the JMAP protocol! |
 | ToDay | [Link](https://github.com/fiqryx/to-day) | A minimalist daily task manager |
 | Todoey | [Link](https://github.com/Coffee-Expert/Todoey) | A simple To-do app. |
-| Tomo | [Link](https://github.com/k7d/tomo) | Pomodoro timer for MacOS |
 | Tomodoro | [Link](https://github.com/shahriaarrr/Tomodoro) | A modern Pomodoro timer & task management app |
 | Trudido | [Link](https://github.com/dominikmuellr/trudido) | Private and Minimalist Material You To-Do App |
 | Virlow Flutter Recorder | [Link](https://github.com/virlow-voice/virlow-flutter-recorder) | An app that transcribes recorded audio and includes a text editor for editing/adding notes. |
@@ -318,7 +316,6 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 | Gopeed | [Link](https://github.com/GopeedLab/gopeed) | A modern download manager that supports all platforms |
 | Holidayz | [Link](https://github.com/paskozhelev/holidayz-app) | Stay Ahead with Global Public Holidays & Regional Days Off |
 | IdiomReplaceX Browser | [Link](https://github.com/idiomreplacex/idiomreplacex-app) | The IdiomReplaceX Browser App is a special browser app where IdiomReplaceX toolbox is added to almost any web page, allowing literary filters to be applied to the content of the web page |
-| keyviz | [Link](https://github.com/mulaRahul/keyviz) | Keyviz is a free and open-source tool to visualize your keystrokes ⌨️ and 🖱️ mouse actions in real-time.  |
 | Keyviz | [Link](https://github.com/softwarearchitect817/keyviz) | Let your audience know what handy shortcuts/keys you're pressing during screencasts, presentations, collaborations, or whenever you need it. |
 | limpazap | [Link](https://github.com/lucasew/limpazap) | Clean up Whatsapp backups |
 | Logger | [Link](https://github.com/sanmeet007/logger) | Android app to view and export call logs in CSV or JSON format and perform lightweight on-device analysis |
@@ -555,7 +552,6 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 | CrunchyAnime | [Link](https://github.com/BrunoMazzocchi/crunchyanime)  | An app that allows users to search and browse anime titles, view details, and save their favorite anime to a personalized list. |
 | DailyAL | [Link](https://github.com/jica98/dailyal) | DailyAL - MyAnimeList Client |
 | daisy              | [Link](https://github.com/niuhuan/daisy)  | A beautiful, easy-to-use, ad-free comic and light novel client. |
-| jasmine            | [Link](https://github.com/niuhuan/jasmine) | A comic browser，support Android / iOS / MacOS / Windows / Linux. |
 | JHenTai            | [Link](https://github.com/jiangtian616/JHenTai)    | A cross-platform app made for e-hentai & exhentai by Flutter   |
 | kazahana           | [Link](https://github.com/yukino-org/kazahana)  | An extension based Anime & Manga client. |
 | kimoi | [Link](https://github.com/yon30c/kimoi) | Application to watch animes. |
@@ -563,12 +559,10 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 | mangayomi          | [Link](https://github.com/kodjodevf/mangayomi)   | Free and open source application for reading manga and watching anime.  |
 | Miru | [Link](https://github.com/miru-project/miru-app) | A versatile application that is free, open-source, and supports extension sources for videos, comics, and novels, available on Android, Windows, and Web platforms. |
 | PicaComic          | [Link](https://github.com/wgh136/PicaComic) | A comic app built with Flutter, supporting multiple comic sources. |
-| pikapika           | [Link](https://github.com/niuhuan/pikapika) | A beautiful, easy-to-use and ad-free comic and game client that supports MacOS, Windows, Android, and iOS. |
 | pixez-flutter      | [Link](https://github.com/Notsfsssf/pixez-flutter)     | A third-party Pixiv flutter client that supports agent-free direct connection and animation viewing. |
 | Tachidesk-Sorayomi | [Link](https://github.com/Suwayomi/Tachidesk-Sorayomi) | A free and open source manga reader app to read manga from a Tachidesk-Server instance. |
 | tsdm_client | [Link](https://github.com/realth000/tsdm_client) | Angel Anime Forum Third-Party Cross-Platform Customer |
 | venera | [Link](https://github.com/venera-app/venera) | A comic reader that support reading local and network comics |
-| wax                | [Link](https://github.com/niuhuan/wax) | Client of Gentleman Comics  |
 
 ### Health & Fitness
 
@@ -1026,7 +1020,6 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 | AirController | [Link](https://github.com/air-controller/air-controller-desktop) | A new handy and powerful Android phone assistant |
 | AppImage Pool       | [Link](https://github.com/prateekmedia/appimagepool)   | A simple, modern AppImageHub Client, powered by flutter. |
 | Obtainium           | [Link](https://github.com/ImranR98/Obtainium)          | Get Android app updates straight from the source.        |
-| revanced-manager | [Link](https://github.com/revanced/revanced-manager)  | Application to use ReVanced on Android  |
 | Running Services Monitor | [Link](https://github.com/biplobsd/running_services_monitor)  | Monitor running services on your Android device. With a clean and intuitive interface, you can easily view system and user apps, check their status efficiently |
 | Software App for Ubuntu | [Link](https://github.com/ubuntu-flutter-community/software) | Software App for Ubuntu made with Flutter |
 | WSA Pacman | [Link](https://github.com/alesimula/wsa_pacman) | A GUI package manager and package installer for Windows Subsystem for Android (WSA) |
