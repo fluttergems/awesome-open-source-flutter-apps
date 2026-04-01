@@ -419,7 +419,6 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 | Egyptian Mouse Pounce | [Link](https://github.com/dozingcat/mousepounce) | Egyptian Rat Screw, a card game in Flutter |
 | Everest | [Link](https://github.com/mwageringel/everest) | A mathematical puzzle game |
 | FaFa Runner | [Link](https://github.com/fafarunner/fafarunner) | Epic adventure RPG game |
-| Fingertap | [Link](https://github.com/arokip/fingertap) | Catchy mobile game using more of your fingers. |
 | Flame Simple Platformer | [Link](https://github.com/ufrshubham/flame_simple_platformer) | A 2D platformer made using Flame engine |
 | Flappy Bird | [Link](https://github.com/moha-b/Flappy-Bird) | A game based on flutter animation. |
 | Flappy Dash | [Link](https://github.com/rutvikpanchal246/flappydash) | A fast-paced, addictive mobile game that puts your reflexes to the test |
@@ -1084,7 +1083,6 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 | Project    | Repo  | Description  |
 |:-----------|:------|:-------------|
 | Boilerplate | [Link](https://github.com/zubairehman/flutter_boilerplate_project) | A boilerplate project created using MobX and Provider. |
-| conference-app           | [Link](https://github.com/invertase/conference-app)             | The Conference app toolkit is an app template that can be used to create a Flutter conference app for your event easily. |
 | festapp                  | [Link](https://github.com/vkh-cr/festapp)                       | Festapp - mobile app for festivals, conferences or events. |
 | FireNoti | [link](https://github.com/iamapuneet/Fire-Noti) | Aims to provide a seamless notification experience by integrating Firebase FCM |
 | Flight search | [Link](https://github.com/MarcinusX/flutter_ui_challenge_flight_search) | Flight search UI template |
@@ -1104,7 +1102,6 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 | Criminal Catcher | [Link](https://github.com/siddharth424/crime-detection) | Online filing of FIR/complaint with GPS location, photos, and videos. |
 | Fake Contacts | [Link](https://github.com/billdietrich/fake_contacts) | Create fake phone contacts, to do data-poisoning. |
 | FOSS Warn | [Link](https://github.com/nucleus-ffm/foss_warn) | An unofficial open source application to get emergency alerts from https://warnung.bund.de/meldungen. |
-| GroupTrack | [Link](https://github.com/canopas/group-track-flutter) | An app designed to enhance family safety 👫 through real-time location sharing 📍 and communication features |
 | Locus | [Link](https://github.com/myzel394/locus) | Share your location end-to-end encrypted on decentralized servers using Nostr. |
 | Pareu de Parar-me | [Link](https://gitlab.com/pareudepararme/pareu-de-pararme-map) | Report racist actuation in Barcelona |
 | penhas-app | [Link](https://github.com/institutoazmina/penhas-app) | Source code of the PenhaS Mobile App  |
