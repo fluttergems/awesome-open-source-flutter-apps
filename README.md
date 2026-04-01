@@ -260,6 +260,7 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 | markdownr | [Link](https://github.com/sanzoghenzo/markdownr) | Android app that converts an URL to markdown, and lets you share it to your favorite notes app. |
 | memo | [Link](https://github.com/olmps/memo) | Memo is an open-source, programming-oriented spaced repetition software (SRS). |
 | MindWrite | [Link](https://github.com/mohhamad-esmaili/mindwrite) | Help you create and manage your notes, this app is clone of Google Keep |
+| MiniWiki | [Link](https://github.com/wellsa-ai/miniwiki) | Privacy-first personal wiki — 100% offline, E2E encrypted (ChaCha20-Poly1305), FTS5 full-text search |
 | minttask | [Link](https://github.com/boredcodebyk/minttask) | A simple todo manager for Android made using Flutter with Material Design 3 |
 | Note Taking App | [Link](https://github.com/bimsina/notes-app) | Note Taking App made with Flutter with Sqlite as database. |
 | NoteApp | [Link](https://github.com/AmirrezaKhezerlou/Flutter_Note_app) | Neomorphic Design Note taking app |
