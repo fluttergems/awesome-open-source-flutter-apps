@@ -103,7 +103,7 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 | FlutterVoiceFriend | [Link](https://github.com/jbpassot/flutter_voice_friend) | Build interactive, voice-driven chatbot experiences using a combination of speech-to-text (STT) and text-to-speech (TTS) |
 | HaoChat | [Link](https://github.com/conghaonet/hao_chatgpt) | An unofficial ChatGPT application |
 | MyOllama | [Link](https://github.com/bipark/my_ollama_app) | Ollama-based LLM mobile client |
-| Shots Studio | [Link](https://gitlab.com/mohdansah10/shots-studio) | Turns screenshot folder into an intelligent, organized archive using Gemma |
+| Shots Studio | [Link](https://github.com/AnsahMohammad/shots-studio) | Turns screenshot folder into an intelligent, organized archive using Gemma |
 | Simple ChatGPT | [Link](https://github.com/SnowStar0423/ChatGPT-Flutter-App) | ChatGPT like app in Flutter |
 | Story Generator | [Link](https://github.com/Lord-Chris/story-generator) | A mobile app that generates random stories based on user input using Google Generative AI |
 
