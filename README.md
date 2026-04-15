@@ -68,6 +68,7 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 | cb_app | [Link](https://github.com/printpagestopdf/cb_app) | An App that provides Access to CommonsBooking driven Sites |
 | DevTools | [Link](https://github.com/libgenai/devtoolbox) | Collection of offline utilities for developers |
 | DevWidgets | [Link](https://github.com/gumbarros/DevWidgets)       | DevWidgets is an application with several tools such as generators, formatters and converters for developers |
+| FileTools |  [Link](https://pub.dev/packages/filetools) | a powerful cli tool designed for developers and advanced users, offering a high-performance, cross-platform solution for file management and task automation.  |
 | Flutter Design Patterns | [Link](https://github.com/mkobuolys/flutter-design-patterns) | Flutter Design Patterns application |
 | Flutter IDE | [Link](https://github.com/ankurg132/flutter_ide) | An IDE built in Flutter, for Flutter |
 | Flutter Installer | [Link](https://github.com/yazeedalkhalaf/flutter_installer) | Flutter Installer is an installer for Flutter built with Flutter |
