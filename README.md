@@ -357,6 +357,7 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 | Wassword | [Link](https://github.com/polilluminato/wassword-flutter) | Wassword is an Android App built with Flutter to generate passwords and passphrases |
 | Yivi | [Link](https://github.com/privacybydesign/irmamobile) | Yivi offers a privacy-friendly, flexible and secure solution to many authentication problems, putting the user in full control over his/her data |
 | Yubico Authenticator | [Link](https://github.com/yubico/yubioath-flutter) | Yubico Authenticator for Desktop (Windows, macOS and Linux) and Android |
+| Permission Scanner | [Link](https://github.com/AHS-Mobile-Labs/Permission_Scanner) | A lightweight Android app that reveals exactly what permissions every installed app holds and whether they actually need them. Features risk scoring, justification engine, smart caching, and notifications. |
 
 ### Photo & Video
 
