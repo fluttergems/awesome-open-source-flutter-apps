@@ -347,6 +347,7 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 | NC Passwords | [Link](https://gitlab.com/joleaf/nc-passwords-app) | A password manager app (Android + iOS) for Nextcloud's Passwords app. |
 | nfsee | [Link](https://github.com/nfcim/nfsee) | Read your Transit/Bank/ID cards on Android/iOS phone with NFSee App |
 | Passy | [Link](https://github.com/glitterware/passy) | Offline password manager with cross-platform synchronization |
+| Permission Scanner | [Link](https://github.com/AHS-Mobile-Labs/Permission_Scanner) | A lightweight Android app that reveals exactly what permissions every installed app holds and whether they actually need them |
 | Rivia | [Link](https://github.com/loooltooot/rivia) | Rivia is the unique encryption tool |
 | RSA Encryption | [Link](https://github.com/vellt/RSA-Encryption-Flutter) | Encryption based on asymmetric cryptography. |
 | Safe Notes | [Link](https://github.com/keshav-space/safenotes) | Safe Notes is a security project aimed at providing an encrypted, private note manager that works locally and protects notes from various threat actors. |
