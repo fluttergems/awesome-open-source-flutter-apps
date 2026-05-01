@@ -79,6 +79,7 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 | kubenav | [Link](https://github.com/kubenav/kubenav) | kubenav is the navigator for your Kubernetes clusters right in your pocket |
 | Lab+ for GitLab | [Link](https://github.com/thelooter/labplus_for_gitlab) | An App to manage your interactions with your Gitlab Instance from your phone or Desktop |
 | Open Alert Viewer | [Link](https://codeberg.org/leaf-node/open_alert_viewer) | Display server and network alerts from servers running Prometheus, Nagios, Icinga or Zabbix |
+| Roxum IDE | [Link](https://github.com/heckmon/roxum-ide) | Mobile-first code editor and mini IDE for Android which combines editing, terminal workflows, Git/GitHub tooling, AI assistance, runtime downloads, and deep customization |
 | RustDesk | [Link](https://github.com/rustdesk/rustdesk) | An open-source remote desktop, and alternative to TeamViewer |
 | semaphore | [Link](https://github.com/gsmlg-app/semaphore-client) | Client App for Ansible Semaphore |
 | ServeIt | [Link](https://github.com/many-fac3d-g0d/serveit) | A simple http-server on android |
@@ -102,6 +103,7 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 | Flutter Scribble | [Link](https://github.com/lahirumaramba/flutter_scribble) | Turn your scribbles into detailed images with AI |
 | FlutterVoiceFriend | [Link](https://github.com/jbpassot/flutter_voice_friend) | Build interactive, voice-driven chatbot experiences using a combination of speech-to-text (STT) and text-to-speech (TTS) |
 | HaoChat | [Link](https://github.com/conghaonet/hao_chatgpt) | An unofficial ChatGPT application |
+| LocalMind | [Link](https://github.com/abdulmominsakib/localmind) | Application that provides a beautiful, fast, and privacy-respecting interface for on device LLM and local LLM servers and cloud providers |
 | MyOllama | [Link](https://github.com/bipark/my_ollama_app) | Ollama-based LLM mobile client |
 | Shots Studio | [Link](https://github.com/AnsahMohammad/shots-studio) | Turns screenshot folder into an intelligent, organized archive using Gemma |
 | Simple ChatGPT | [Link](https://github.com/SnowStar0423/ChatGPT-Flutter-App) | ChatGPT like app in Flutter |
@@ -409,6 +411,7 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 | Color Mixer | [Link](https://github.com/androideen/color_mixer_flame) | Color Mixer game in Flame engine |
 | Darkness Dungeon | [Link](https://github.com/RafaelBarbosatec/darkness_dungeon) | A role playing game. |
 | dashboy                | [Link](https://github.com/mj-hd/dashboy)  | Gameboy Emulator implemented by pure Dart  |
+| Denwee: Daily Trivia | [Link](https://github.com/denweeLabs/factlyapp) | Discover short, easy-to-understand, memorable facts every day! |
 | devilf                 | [Link](https://github.com/ym6745476/devilf)   | A Flutter 2D RPG Game Example On Web & Android & IOS.  |
 | Dino Run | [Link](https://github.com/ufrshubham/dino_run) | A 2D infinite side scroller mobile game made using Flame engine. |
 | Dinosaur Game | [Link](https://github.com/HeveshL/flutter-dinosaur) | A simple chrome dinosaur game. |
