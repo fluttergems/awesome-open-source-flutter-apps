@@ -104,6 +104,7 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 | FlutterVoiceFriend | [Link](https://github.com/jbpassot/flutter_voice_friend) | Build interactive, voice-driven chatbot experiences using a combination of speech-to-text (STT) and text-to-speech (TTS) |
 | HaoChat | [Link](https://github.com/conghaonet/hao_chatgpt) | An unofficial ChatGPT application |
 | LocalMind | [Link](https://github.com/abdulmominsakib/localmind) | Application that provides a beautiful, fast, and privacy-respecting interface for on device LLM and local LLM servers and cloud providers |
+| Memex | [Link](https://github.com/memex-lab/memex) | AI-powered personal life recording app that runs entirely on your device |
 | MyOllama | [Link](https://github.com/bipark/my_ollama_app) | Ollama-based LLM mobile client |
 | Shots Studio | [Link](https://github.com/AnsahMohammad/shots-studio) | Turns screenshot folder into an intelligent, organized archive using Gemma |
 | Simple ChatGPT | [Link](https://github.com/SnowStar0423/ChatGPT-Flutter-App) | ChatGPT like app in Flutter |
