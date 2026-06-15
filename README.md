@@ -91,6 +91,7 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 | tldr | [Link](https://github.com/techno-disaster/tldr-flutter) | simplified man-pages, a tldr.sh client |
 | Vide | [Link](https://github.com/Norbert515/vide_cli) | An agentic terminal UI for Claude, built for Flutter developers |
 | WidgetHub | [Link](https://github.com/yunweneric/flutter-widgethub) | Collection of UI Widgets to help developers create beautiful, functional flutter apps |
+| MVVM-Riverpod Movies App | [Link](https://github.com/armaanjamadar/mvvm-riverpod-movies-app) | A Flutter project demonstrating the MVVM architecture and Riverpod state management in a real-world application, to help developers understand how to build scalable and maintainable Flutter applications |
 
 ### Generative AI & LLMs
 
