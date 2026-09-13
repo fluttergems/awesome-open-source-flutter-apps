@@ -763,6 +763,7 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 | Harmonoid | [Link](https://github.com/harmonoid/harmonoid) | Plays & manages your music library. Looks beautiful & juicy. Playlists, visuals, synced lyrics, pitch shift, volume boost & more. |
 | Harmony Forge | [Link](https://github.com/jztchl/Harmony-Forge) | A music generation platform merging Flask & Flutter. Flask manages backend tasks while the app offers a user-friendly interface |
 | Harmony Music | [Link](https://github.com/anandnet/harmony-music) | A cross platform App for streaming Music |
+| hAudiotagger | [Link](https://github.com/Hirdaya-Shrestha/haudiotagger) | Cross-platform audio metadata engine for reading, writing, and managing music tags, album artwork, and audio properties |
 | Hivefy | [Link](https://github.com/Harish-Srinivas-07/hivefy) | Ad-free, offline-ready music streaming app with Spotify-style interface and JioSaavn API |
 | K-19 Player | [Link](https://github.com/ulysg/k19-player) | A nice music player for OpenSubsonic server |
 | Lyrics 2 | [Link](https://github.com/f-leoni/lyrics2) | A flutter app to search songs' lyrics |
