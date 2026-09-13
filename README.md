@@ -792,6 +792,7 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 | Tsacdop (Fork) | [Link](https://github.com/lojcs/tsacdop) | Enjoy podcasts with Tsacdop!  A podcast player built with flutter |
 | Vidya Music | [Link](https://github.com/mateusrodcosta/vidya_music) | Flutter player for the Vidya Intarweb Playlist (aka VIP Aersia) |
 | WavyBeats | [Link](https://github.com/AssassinAguilar/WavyBeats) | A music player. |
+| hAudiotagger | [Link](https://github.com/Hirdaya-Shrestha/haudiotagger) | Cross-platform audio metadata engine for reading, writing, and managing music tags, album artwork, and audio properties. Supports MP3, FLAC, OGG, MP4, WAV, AIFF, and more. Powered by Rust for fast, reliable performance. |
 
 ### Entertainment
 
