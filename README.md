@@ -789,6 +789,7 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 | Spotube | [Link](https://github.com/KRTirtho/spotube) | Open source Spotify client |
 | Storify | [Link](https://github.com/gyeongmin-lee/Storify) | Flutter app to add captions to songs in your Spotify playlists. |
 | Stream Music Player with GetX | [Link](https://github.com/vellt/getx-stream-music-player-flutter) | Listen to music online with a clean GetX MVC architecture |
+| Songify | [Link](https://github.com/Alisonpinto/Songify) | An open-source music streaming application built with Flutter and Supabase. |
 | Tsacdop | [Link](https://github.com/tsacdop/tsacdop) | Enjoy podcasts with Tsacdop!  A podcast player built with flutter |
 | Tsacdop (Fork) | [Link](https://github.com/lojcs/tsacdop) | Enjoy podcasts with Tsacdop!  A podcast player built with flutter |
 | Vidya Music | [Link](https://github.com/mateusrodcosta/vidya_music) | Flutter player for the Vidya Intarweb Playlist (aka VIP Aersia) |
