@@ -786,6 +786,7 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 | Retune | [Link](https://github.com/samvabya/retune) | Listen to music all day with no ads, no signups, no paywalls, with Vibrant UI |
 | Rhythmic Realm | [Link](https://github.com/SoSerious194/rhythmic_realm_app) | A music app |
 | sap | [Link](https://github.com/31Carlton7/sap)   | A mobile music streaming app with a complex UI built with Flutter and the Deezer API |
+| Songify | [Link](https://github.com/Alisonpinto/Songify) | An open-source music streaming application built with Flutter and Supabase |
 | Spotube | [Link](https://github.com/KRTirtho/spotube) | Open source Spotify client |
 | Storify | [Link](https://github.com/gyeongmin-lee/Storify) | Flutter app to add captions to songs in your Spotify playlists. |
 | Stream Music Player with GetX | [Link](https://github.com/vellt/getx-stream-music-player-flutter) | Listen to music online with a clean GetX MVC architecture |
