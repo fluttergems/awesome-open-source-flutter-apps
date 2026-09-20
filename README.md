@@ -860,7 +860,7 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 | Goguma | [Link](https://git.sr.ht/~emersion/goguma) | An IRC client for mobile devices. |
 | GroupChatApp | [Link](https://github.com/ahmedgulabkhan/groupchatapp) | Developed a Group chat application using Flutter and Firebase, where users can register and create groups or join already existing groups and start conversing with each other. |
 | Guerrilla Mail | [Link](https://gitlab.com/theonewiththebraid/guerrilla_mail) | Quickly receive anonymous and temporary mails using Guerrilla Mail. |
-| Kabootar | [Link](https://github.com/royalpinto007/Kabootar) | Offline mesh messenger: chat with no internet, servers, or SIM; messages hop phone-to-phone over Bluetooth and Wi-Fi. |
+| Kabootar | [Link](https://github.com/royalpinto007/Kabootar) | Offline mesh messenger: chat with no internet, servers, or SIM; over Bluetooth and Wi-Fi |
 | OpenPeerChat-flutter | [Link](https://github.com/AOSSIE-Org/OpenPeerChat-flutter) | Sending/relaying messages to nearby devices until the destination is reached, instead of relying on a central server. |
 | Simple Chat UI | [Link](https://github.com/jamalianpour/simplechatui) | Simple chat UI build with flutter |
 | < polycule > | [Link](https://gitlab.com/polycule_client/polycule) | A geeky and efficient [matrix] client for power users |
