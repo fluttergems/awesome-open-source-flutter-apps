@@ -355,6 +355,7 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 | Keyoxide | [Link](https://codeberg.org/berker/keyoxide-flutter) | A modern, secure and privacy-friendly platform to establish your decentralized online identity |
 | NC Passwords | [Link](https://gitlab.com/joleaf/nc-passwords-app) | A password manager app (Android + iOS) for Nextcloud's Passwords app. |
 | nfsee | [Link](https://github.com/nfcim/nfsee) | Read your Transit/Bank/ID cards on Android/iOS phone with NFSee App |
+| NO SUS | [Link](https://github.com/https-shubhamsahu/NON_SUS) | Student privacy toolkit: open your Saved chat on a borrowed PC through a phone QR approval, send notes and files that are encrypted in the browser and burn after one view, and share watermarked documents. |
 | Passy | [Link](https://github.com/glitterware/passy) | Offline password manager with cross-platform synchronization |
 | Permission Scanner | [Link](https://github.com/AHS-Mobile-Labs/Permission_Scanner) | A lightweight Android app that reveals exactly what permissions every installed app holds and whether they actually need them |
 | Rivia | [Link](https://github.com/loooltooot/rivia) | Rivia is the unique encryption tool |
