@@ -336,6 +336,7 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 | Parti | [Link](https://gitlab.com/carsten_scholtes/parti) | A tool to help partitioning something into fractional parts |
 | RPNcalc | [Link](https://github.com/apesic/rpncalc) | A simple RPN (Reverse Polish Notation) calculator app built using Flutter |
 | SimplyTranslate Mobile | [Link](https://github.com/manerakai/simplytranslate_mobile) | Privacy friendly frontend to Google Translate |
+| Thumbico | [Link](https://github.com/aurelitec/thumbico) | See any file the way Windows sees it: shows the thumbnail or icon of any file, folder, or drive at the size you choose, pixel for pixel, and saves it as PNG, ICO, and more |
 | TiefPrompt | [Link](https://github.com/Tiefseetauchner/tiefprompt) | Cross-platform teleprompter app |
 | Torrents Digger | [Link](https://github.com/ForTheCommunity/TorrentsDigger) | Digs Torrents from multiple sources/sites |
 | Touch Torch | [Link](https://github.com/softcodingforyou/touchtorch) | Touch the screen and the light turns on |
