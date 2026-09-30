@@ -264,6 +264,7 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 | listify                    | [Link](https://github.com/momshaddinury/listify)                    | Todo App with a refreshing UI. Technology used: Flutter, Firebase, MVC, Riverpod. |
 | Local Material Notes | [Link](https://github.com/maelchiotti/localmaterialnotes) | Simple, local, material design notes |
 | log_book | [Link](https://github.com/DonnC/log_book) | An internship log book desktop app |
+| Lotti | [Link](https://github.com/matthiasn/lotti) | Private logbook for tasks, time tracking, journaling and habits, with end-to-end encrypted sync and optional AI agents |
 | markdownr | [Link](https://github.com/sanzoghenzo/markdownr) | Android app that converts an URL to markdown, and lets you share it to your favorite notes app. |
 | memo | [Link](https://github.com/olmps/memo) | Memo is an open-source, programming-oriented spaced repetition software (SRS). |
 | MindWrite | [Link](https://github.com/mohhamad-esmaili/mindwrite) | Help you create and manage your notes, this app is clone of Google Keep |
