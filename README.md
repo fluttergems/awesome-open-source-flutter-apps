@@ -1088,6 +1088,7 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 | Inni di Lode | [Link](https://github.com/theFreeman96/inni-di-lode) | A Christian Songbook for Italian Churches. |
 | Librum | [Link](https://github.com/aldrinzigmundv/librum) | A free and open-source Bible verse reference app. |
 | Muslim fortress application | [Link](https://github.com/muslimpack/hisnelmoslem_app) | The application contains the complete book Hisn al-Muslim, with a search feature in the index and other features. |
+| Muslim Launcher 2 | [Link](https://github.com/120140191-Andri/muslim_launcher2.0) | Android launcher that locks distracting apps until you read Quran, do dhikr, or reflect on hadith |
 | My Quran | [Link](https://github.com/dmouayad/my_quran) | A simple, distraction-free and high-performance Quran application |
 | noor | [Link](https://github.com/pr-Mais/noor) | Noor is a mobile app designed to help in providing a comfortable reading experience for Muslims, by referencing the book "Hisnul Muslim", and some other references. |
 | PocketDhamma | [Link](https://github.com/s4nj1th/pocket-dhamma) | For offline reading of the Dhammapada |
