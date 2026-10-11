@@ -394,6 +394,7 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 | Ruko | [Link](https://github.com/sheeroo/ruko) | Helps clean your camera roll via Swipe to delete or keep photos in a Tinder-style UI |
 | Snap Saver | [Link](https://github.com/nielslee/snapsaver) | A camera app that makes it easier to take photos for selected albums or directories |
 | Yaga | [Link](https://github.com/vauvenal5/yaga) | Nextcloud Yaga - A Nextcloud first gallery app for Android. |
+| Nexora | [Link](https://github.com/Rifan214/Nexora) | An open-source media downloader built with Flutter and FastAPI, featuring video and MP3 downloads, quality selection, live progress tracking, and download history. |
 
 ### Games & Fun
 
