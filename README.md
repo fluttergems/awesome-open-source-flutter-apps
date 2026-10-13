@@ -385,6 +385,7 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 | Immich | [Link](https://github.com/immich-app/immich) | High performance self-hosted photo and video management solution. |
 | Libre Camera | [Link](https://github.com/iakdis/librecamera) | A free and open source camera app for Android written in Flutter and Dart |
 | minimo (video) | [Link](https://github.com/minimo-pro/minimo_video) | Mobile app for shrinking videos directly on your device |
+| Nexora | [Link](https://github.com/Rifan214/Nexora) | An open-source media downloader built with Flutter and FastAPI, featuring video and MP3 downloads, quality selection, live progress tracking, and download history. |
 | OBS Blade | [Link](https://github.com/kounex/obs_blade) | Make use of the OBS WebSocket Plugin and control your stream |
 | OpenPhotoFrame | [Link](https://github.com/micw/OpenPhotoFrame) | Slideshow app to turn old Android tablet into a beautiful digital photo frame. Syncs photos from Nextcloud or local storage |
 | Panoramax | [Link](https://gitlab.com/panoramax/clients/mobile-app) | Capture photo sequences with your mobile and send these sequences to a Panoramax instance |
