@@ -278,6 +278,7 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 | ntodotxt | [Link](https://github.com/tmaegel/ntodotxt) | Flutter app for managing your todos within a todo.txt file locally or via webdav (e.g. Nextcloud) |
 | One Day List | [Link](https://github.com/asjqkkkk/flutter-todos) | A small, simple and beautiful app that can help you keep track of your daily plans. |
 | Paperless | [Link](https://github.com/bauerj/paperless_app) | An Android/iOS app for Paperless |
+| Pomodoro App | [Link](https://github.com/yjlc-pc/pomodoro-app) | A Material Design 3 Pomodoro timer for Linux desktop, with sub-task todos, session statistics and a consuming countdown ring |
 | pomodoro-session           | [Link](https://github.com/jashdubal/pomodoro-session)               | Helps users track work sessions using the Pomodoro Technique |
 | pmdr                       | [Link](https://github.com/aricodeine/pmdr)                          | A Pomodoro App |
 | Purple Task                | [Link](https://github.com/mivoligo/purple_task)                     | Simple TO-DO app to help you get stuff done. |
