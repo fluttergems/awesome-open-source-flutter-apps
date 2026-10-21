@@ -87,6 +87,7 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 | sidekick   | [Link](https://github.com/leoafarias/sidekick)      | A simple desktop interface for tools that enhance Flutter's development experience to make it even more delightful |
 | SnapInk | [Link](https://github.com/IldySilva/SnapInk) | Transform your code into beautiful, print-ready images. Easily customize, share & showcase your code with style |
 | Software architecture of interpreter in Dart | [Link](https://github.com/euler2dot7/interpreter) | Software architecture of interpreter in Dart (Flutter) |
+| Stackyard | [Link](https://github.com/AqibJavedZeepalm/stackyard) | Desktop app for Windows and macOS that lists installed SDK and toolchain versions, shows which projects use each, and cleans up unused ones |
 | The Widget-Maker | [Link](https://github.com/norbert515/flutter_ide) | A visual editor for Flutter widgets |
 | tldr | [Link](https://github.com/techno-disaster/tldr-flutter) | simplified man-pages, a tldr.sh client |
 | xell | [Link](https://github.com/IldySilva/xell) | Open-source SSH client for developers and DevOps engineers |
