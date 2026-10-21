@@ -469,6 +469,7 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 | Parlera | [Link](https://gitlab.com/enjoyingfoss/parlera) | Word guessing party game, written in Flutter |
 | Pegma | [Link](https://github.com/khlebobul/pegma) | A free and cross-platform version of the classic Peg Solitaire |
 | pinball                | [Link](https://github.com/flutter/pinball)   | Google I/O 2022 Pinball game built with Flutter and Firebase    |
+| Quadrim | [Link](https://github.com/evermeer/Quadrim) | Four in a row in a 4x4x4 cube (Qubic) with 31 computer opponents, vibe coded with Claude Code |
 | Quards | [Link](https://github.com/jeffsieu/quards) | Solitaire in Flutter. |
 | Quinb | [Link](https://gitlab.com/deepdaikon/quinb) | A multiplayer reaction game: train your mind and your reflexes while having fun! |
 | Ricochlime | [Link](https://github.com/adil192/ricochlime) | Ricochlime is a game where you attack the advancing slimes with your ricocheting projectiles. |
