@@ -573,6 +573,7 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 | kimoi | [Link](https://github.com/yon30c/kimoi) | Application to watch animes. |
 | Kinoko | [Link](https://github.com/gsioteam/kinoko) | An online manga browser. |
 | mangayomi          | [Link](https://github.com/kodjodevf/mangayomi)   | Free and open source application for reading manga and watching anime.  |
+| Manxia | [Link](https://github.com/LexianLix/manxia) | A manga reader for Android with a 3D bookshelf, offline library, and plugin "reading rooms" defined in JSON. |
 | Miru | [Link](https://github.com/miru-project/miru-app) | A versatile application that is free, open-source, and supports extension sources for videos, comics, and novels, available on Android, Windows, and Web platforms. |
 | PicaComic          | [Link](https://github.com/wgh136/PicaComic) | A comic app built with Flutter, supporting multiple comic sources. |
 | pixez-flutter      | [Link](https://github.com/Notsfsssf/pixez-flutter)     | A third-party Pixiv flutter client that supports agent-free direct connection and animation viewing. |
