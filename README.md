@@ -109,6 +109,7 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 | LocalMind | [Link](https://github.com/abdulmominsakib/localmind) | Application that provides a beautiful, fast, and privacy-respecting interface for on device LLM and local LLM servers and cloud providers |
 | Memex | [Link](https://github.com/memex-lab/memex) | AI-powered personal life recording app that runs entirely on your device |
 | MyOllama | [Link](https://github.com/bipark/my_ollama_app) | Ollama-based LLM mobile client |
+| Pomelu | [Link](https://github.com/ateymoori/pomelu) | Open-source Flutter client for Hermes Agent, the self-hosted AI agent by Nous Research: chat per bot, live Markdown answers, approvals, voice and files |
 | Shots Studio | [Link](https://github.com/AnsahMohammad/shots-studio) | Turns screenshot folder into an intelligent, organized archive using Gemma |
 | Simple ChatGPT | [Link](https://github.com/SnowStar0423/ChatGPT-Flutter-App) | ChatGPT like app in Flutter |
 | Story Generator | [Link](https://github.com/Lord-Chris/story-generator) | A mobile app that generates random stories based on user input using Google Generative AI |
