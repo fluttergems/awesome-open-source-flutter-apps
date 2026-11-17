@@ -822,6 +822,7 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 | PeerTube | [Link](https://framagit.org/framasoft/peertube/mobile-application) | Browse, watch, and interact with content from thousands of PeerTube instances |
 | pilipala                 | [Link](https://github.com/guozhigq/pilipala) | PiliPala is a third-party BiliBili client developed using Flutter. |
 | psychphinder | [Link](https://github.com/daih27/psychphinder) | An app to search for your favorite quotes from the TV show Psych |
+| simple_live_N | [Link](https://github.com/NishinoAkii/simple_live_N) | Cross-platform live stream viewer (Twitch, Kick, YouTube and more) with chat, catch-up playback and scriptable live sources. |
 | TMDB | [Link](https://github.com/marjandn/tmdb) | A movie Flutter application powered by TMDB APIs. |
 | TMDBM | [Link](https://github.com/88srzh/comics_db) | Mobile version of TMDB |
 | TurtleOTT | [Link](https://github.com/fastogt/TurtleOTT) | A crossplatform iptv/ott/streaming player |
