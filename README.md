@@ -696,6 +696,7 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 | Human Benchmark | [Link](https://github.com/printn/human-benchmark) | Mobile app designed to test and improve cognitive abilities through a series of fun and challenging tests |
 | Java OOP Quiz | [Link](https://github.com/aliakrem/oopquiz) | Test and improve Object-Oriented Programming (OOP) concepts in Java |
 | JS-Dict | [Link](https://github.com/petlyh/js-dict) | Japanese-English dictionary app powered by Jisho.org |
+| KataMemo | [Link](https://github.com/laocen69-boop/KataMemo) | Indonesian vocabulary & grammar learning app for Chinese speakers (FSRS-6 + offline SQLite). |
 | Kepler-App | [Link](https://github.com/antonioalbt/kepler_app) | The ultimate overview app for all JKG students, parents and teachers |
 | lanelexicon | [Link](https://github.com/gibreelabdullah/lanelexicon) | Lane's Lexicon - An Arabic English Dictionary |
 | LogicalDefence | [Link](https://github.com/lukestonehm/logicaldefence) | Displays a list of the logical fallacies that haunt every rationalists world |
