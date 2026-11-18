@@ -227,6 +227,7 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 | business_light | [Link](https://github.com/ABDULKARIMALBAIK/business_light) | App providing order management, product cataloguing, payments for small business owners |
 | Call Counter | [Link](https://github.com/webierta/call-counter) | Calling plan consumption management |
 | Flokk | [Link](https://github.com/gskinnerteam/flokk) | A fresh and modern Google Contacts manager that integrates with GitHub and Twitter. |
+| Festapp | [Link](https://github.com/festappnet/festapp) | Event management platform for iOS, Android and the web, with event schedules, registration, online ticket sales and seat reservations on interactive floor plans. |
 | Flow | [Link](https://github.com/linwooddev/flow) | Feature rich event, group and time managment system |
 | Fluffyboard | [Link](https://github.com/y0ngg4n/fluffy_board) | A offline and online Flutter Whiteboard with collaboration Features. Maintained in my free time. Currently demo is offline |
 | google-docs-clone-flutter  | [Link](https://github.com/funwithflutter/google-docs-clone-flutter) | A clone of Google Docs using Flutter and Appwrite |
@@ -1103,7 +1104,6 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 | Project    | Repo  | Description  |
 |:-----------|:------|:-------------|
 | Boilerplate | [Link](https://github.com/zubairehman/flutter_boilerplate_project) | A boilerplate project created using MobX and Provider. |
-| festapp | [Link](https://github.com/festappnet/festapp) | Festapp - mobile app for festivals, conferences or events. |
 | FireNoti | [link](https://github.com/iamapuneet/Fire-Noti) | Aims to provide a seamless notification experience by integrating Firebase FCM |
 | Flight search | [Link](https://github.com/MarcinusX/flutter_ui_challenge_flight_search) | Flight search UI template |
 | flutter_template         | [Link](https://github.com/wednesday-solutions/flutter_template) | A Flutter template application showcasing - Clean architecture, Responsive design, State management, testing, Navigation, etc.  |
