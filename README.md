@@ -335,6 +335,7 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 | Nyrna | [Link](https://github.com/Merrit/nyrna) | Suspend games and applications. |
 | Orgro | [Link](https://github.com/amake/orgro) | An Org Mode file viewer for iOS and Android |
 | Parti | [Link](https://gitlab.com/carsten_scholtes/parti) | A tool to help partitioning something into fractional parts |
+| pt-tools | [Link](https://github.com/sunerpy/pt-tools/tree/main/apps/mobile) | Android client for the self-hosted pt-tools private-tracker automation server: torrents, downloaders, site statistics and subscriptions over an end-to-end encrypted connection. |
 | RPNcalc | [Link](https://github.com/apesic/rpncalc) | A simple RPN (Reverse Polish Notation) calculator app built using Flutter |
 | SimplyTranslate Mobile | [Link](https://github.com/manerakai/simplytranslate_mobile) | Privacy friendly frontend to Google Translate |
 | Thumbico | [Link](https://github.com/aurelitec/thumbico) | Shows the thumbnail or icon of any file, folder, or drive at the size you choose, pixel for pixel, and saves it as PNG, ICO, and more |
