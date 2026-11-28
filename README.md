@@ -420,6 +420,7 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 | Club Penguin | [Link](https://github.com/Shadow60539/club_penguin_game) | A multiplayer game involving penguins and anonymous chat in a virtual 2D world. |
 | Color Mixer | [Link](https://github.com/androideen/color_mixer_flame) | Color Mixer game in Flame engine |
 | Darkness Dungeon | [Link](https://github.com/RafaelBarbosatec/darkness_dungeon) | A role playing game. |
+| Emberdelve | [Link](https://github.com/tapiwamakandigona/emberdelve) | Fair-dice roguelite for Android built with Flutter and pure Dart, featuring deterministic simulation and 5-language localization. |
 | dashboy                | [Link](https://github.com/mj-hd/dashboy)  | Gameboy Emulator implemented by pure Dart  |
 | Denwee: Daily Trivia | [Link](https://github.com/denweeLabs/factlyapp) | Discover short, easy-to-understand, memorable facts every day! |
 | devilf                 | [Link](https://github.com/ym6745476/devilf)   | A Flutter 2D RPG Game Example On Web & Android & IOS.  |
